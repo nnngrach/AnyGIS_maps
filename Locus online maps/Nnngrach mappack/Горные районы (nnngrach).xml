@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Набор карт для Locus`а (http://www.locusmap.eu/)
+Автор: Nnngrach (nnngrach@gmail.com)  Local Outdoor maps
+(18.11.18)
+-->
+<providers>
+
+	<!-- Разнообразные карты для горного туризма-->
+
+	<provider id="42421" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Хребтовки Завьялова</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Nakarte_SlaZav_Hrebtovki&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>13</zoomMin>
+		<zoomMax>22</zoomMax> <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://slazav.mccme.ru/">Slazav</a>, <a href="https://nakarte.me/#m=13/42.90049/42.57508&l=O/Q/Z">Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<provider id="42422" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Катунский и Чуйский хребты. Алтай</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Altay1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42423" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Саяны (Ергаки - Арадан)</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Sayany1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42424" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Хребтовка Терскей-Алатаум</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://map.g-utka.ru/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.G-Utka.ru/">G-Utka.ru</a>]]></attribution>
+	</provider>
+
+	<provider id="42425" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Киргизский хребт</mode>
+		<countries>Central Asia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kirgiz1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42426" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Тянь-Шань и Памир</mode>
+		<countries>Central Asia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Tyan_shan1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42427" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Хребет Аладаглар 2014</mode>
+		<countries>Turkey</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Turk1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42428" type="0" visible="true" background="-1">
+		<name>Горные районы</name>
+		<mode>Карпаты</mode>
+		<countries>Ukraine</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Karpaty&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+</providers>

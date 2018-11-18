@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Набор карт для Locus`а (http://www.locusmap.eu/)
+Автор: Nnngrach (nnngrach@gmail.com)
+(18.11.18)
+-->
+<providers>
+
+	<!-- Дополнение к картам Erelen'а -->
+
+	<provider id="42432" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>Winter</mode>
+		<countries>World</countries>
+		<usage>city,road,hiking</usage>
+		<url><![CDATA[https://w3.outdooractive.com/map/v1/png/osm_winter/{z}/{x}/{y}/t.png?project=api-dev-oa]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.outdooractive.com/]]></extraHeader>
+	</provider>
+
+	<provider id="42434" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Terrain</mode>
+        <url><![CDATA[http://mt{s}.google.com/vt/lyrs=t,r&hl=ru&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1;2;3</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+
+</providers>

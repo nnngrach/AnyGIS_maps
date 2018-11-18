@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Набор карт для Locus`а (http://www.locusmap.eu/)
+Автор: Nnngrach (nnngrach@gmail.com)  Local Outdoor maps
+(18.11.18)
+-->
+<providers>
+
+	<!-- Локальные карты для горного туризма -->
+
+	<provider id="42402" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Сводная карта Кавказа 500м</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Nakarte_new_gsh_050k&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>13</zoomMin>
+		<zoomMax>22</zoomMax> <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://nakarte.me/#m=12/43.34466/42.41821&l=O/NT5">Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<provider id="42403" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Сводная карта Кавказа 1000м</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Nakarte_new_gsh_100k&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>13</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://nakarte.me/#m=12/43.34466/42.41821&l=O/NT1</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<provider id="42404" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Сводная ФГУ СК АГП</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42405" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Сводная. Госгеодезия СССР 1991г</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz3&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42406" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Абишира-Ахуба (Ляпин В.Г.)</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz9&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42407" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Хребтовка Приэльбрусье (Ляпин В.Г.)</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz8&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42408" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Казбек (Geoland)</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz6&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42409" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Западный Кавказ (КОТ ОРИЕНТ)</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz5&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42410" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Схема перевалов Западного Кавказа 20.2.2014</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz4&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42411" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Схема перевалов Центрального Кавказа 30.8.2014</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz7&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42412" type="0" visible="true" background="-1">
+		<name>Кавказ</name>
+		<mode>Схема перевалов Южного Кавказа (Грузии) 30.08.14</mode>
+		<countries>Russia</countries>
+		<usage>mountains</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=Kavkaz2&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+</providers>

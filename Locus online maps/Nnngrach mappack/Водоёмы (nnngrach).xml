@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Набор карт для Locus`а (http://www.locusmap.eu/)
+Автор: Nnngrach (nnngrach@gmail.com)  Local Outdoor maps
+(18.11.18)
+-->
+<providers>
+
+	<!-- Локальные карты для водного туризма-->
+
+	<provider id="42429" type="0" visible="true" background="-1">
+		<name>Водоёмы</name>
+		<mode>Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)</mode>
+		<countries>Russia</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=River_Khusovaya&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>  <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42430" type="0" visible="true" background="-1">
+		<name>Водоёмы</name>
+		<mode>Река Кубань от Краснодрского гидроузла до устья 1985</mode>
+		<countries>Russia</countries>
+		<usage>marine</usage><url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=River_Kuban&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42431" type="0" visible="true" background="-1">
+		<name>Водоёмы</name>
+		<mode>Речная лоция Волги и Камы 1996</mode>
+		<countries>Russia</countries>
+		<usage>marine</usage>
+		<usage>marine</usage><url><![CDATA[http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&mapName=River_Volga&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+
+</providers>
