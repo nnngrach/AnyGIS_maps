@@ -3,7 +3,7 @@
 <name>Yandex: Satellite</name>
 <minZoom>0</minZoom>
 <maxZoom>19</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=convertFromWGS84&amp;mapName=Yandex_sat&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

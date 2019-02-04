@@ -3,5 +3,5 @@
 <name>SasPlanet: Турция. Хребет Аладаглар 2014</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Turk1&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_Turk1/{$x}/{$y}/{$z}</url>
 </customMapSource>

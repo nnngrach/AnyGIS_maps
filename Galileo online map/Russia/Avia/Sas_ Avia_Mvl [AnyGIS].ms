@@ -3,7 +3,7 @@
 <name>SasPlanet: Avia_Mvl</name>
 <minZoom>0</minZoom>
 <maxZoom>10</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Avia_Mvl&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_Avia_Mvl/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

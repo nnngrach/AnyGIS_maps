@@ -3,7 +3,7 @@
 <name>SasPlanet: Горный Крым</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Krim1&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_Krim1/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

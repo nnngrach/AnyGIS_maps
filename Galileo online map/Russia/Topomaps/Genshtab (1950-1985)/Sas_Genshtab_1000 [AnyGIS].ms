@@ -3,7 +3,7 @@
 <name>SasPlanet: Генштаб 1 км</name>
 <minZoom>0</minZoom>
 <maxZoom>13</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Genshtab_1000&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Locals_Genshtab_01000/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

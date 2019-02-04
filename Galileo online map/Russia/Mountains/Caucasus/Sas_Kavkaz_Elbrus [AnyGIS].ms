@@ -3,7 +3,7 @@
 <name>SasPlanet: Хребтовка Приэльбрусье (Ляпин В.Г.)</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Kavkaz8&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_Kavkaz_08/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

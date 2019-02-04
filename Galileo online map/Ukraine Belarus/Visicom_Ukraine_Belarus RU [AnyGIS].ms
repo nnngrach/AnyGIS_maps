@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <customMapSource>
-<name>Yandex: Satellite Hybrid</name>
+<name>Visicom.ua: Ukraine, Belarus RU/name>
 <minZoom>0</minZoom>
 <maxZoom>19</maxZoom>
-<url>https://anygis.herokuapp.com/Yandex_sat_hybrid/{$x}/{$y}/{$z}</url>
+<url>https://anygis.herokuapp.com/Other_Ukr_Visicom_RU/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

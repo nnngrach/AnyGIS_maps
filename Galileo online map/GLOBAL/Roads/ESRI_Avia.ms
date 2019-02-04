@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<customMapSource>
+<name>ESRI: World Navigation Charts</name>
+<minZoom>0</minZoom>
+<maxZoom>10</maxZoom>
+<url>https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}</url>
+</customMapSource>
+
+
+ 

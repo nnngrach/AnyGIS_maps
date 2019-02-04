@@ -3,7 +3,7 @@
 <name>SasPlanet: Лётные карты RNK 2016</name>
 <minZoom>0</minZoom>
 <maxZoom>9</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=Avia_Rnk&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_Avia_Rnk/{$x}/{$y}/{$z}</url>
 </customMapSource>
 
 

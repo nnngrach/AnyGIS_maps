@@ -3,5 +3,5 @@
 <name>SasPlanet: Речная лоция Волги и Камы 1996</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=River_Volga&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_River_Volga/{$x}/{$y}/{$z}</url>
 </customMapSource>

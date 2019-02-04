@@ -3,5 +3,5 @@
 <name>SasPlanet: Карта Реки Кубань от Краснодрского гидроузла до устья 1985</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
-<url>http://nnngrach.h1n.ru/AnyGIS.php?mode=redirect&amp;mapName=River_Kuban&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+<url>https://anygis.herokuapp.com/Local_River_Kuban/{$x}/{$y}/{$z}</url>
 </customMapSource>
