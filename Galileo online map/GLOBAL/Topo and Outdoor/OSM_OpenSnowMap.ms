@@ -4,8 +4,7 @@
 <layers>
 
 	<layer>
-		<url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
-	<serverParts>a b c</serverParts>
+		<url>https://w3.outdooractive.com/map/v1/png/osm_winter/{$z}/{$x}/{$y}/t.png?project=api-dev-oa</url>
 	</layer>
 
 	<layer>

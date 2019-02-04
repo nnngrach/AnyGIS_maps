@@ -10,17 +10,16 @@
     <!-- Слой 1: ERSI World Imagenary -->      
 		<layer>
          	<minZoom>0</minZoom>
-         	<maxZoom>15</maxZoom>
-         	<url>http://{$serverpart}.google.com/vt/lyrs=p@176103410&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;s=Galileo&amp;hl=ru&amp;scale=2</url>
-         	<serverParts>mt0 mt1 mt2 mt3</serverParts>
+         	<maxZoom>14</maxZoom>
+         	<url>https://services.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{$z}/{$y}/{$x}</url>
       	</layer>
 
 
     <!-- Слой 2: Яндекс Спутник --> 
       	<layer>
-         	<minZoom>15</minZoom>
+         	<minZoom>14</minZoom>
          	<maxZoom>16</maxZoom>
-         	<url>https://anygis.herokuapp.com/Yandex_map/{$x}/{$y}/{$z}</url>
+         	<url>https://anygis.herokuapp.com/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
       	</layer>
 
 
@@ -29,7 +28,7 @@
         <layer>
          	<minZoom>16</minZoom>
          	<maxZoom>20</maxZoom>
-         	<url>http://{$serverpart}.google.com/vt/lyrs=p@176103410&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;s=Galileo&amp;hl=ru&amp;scale=2</url>
+         	<url>http://{$serverpart}.google.com/vt/lyrs=s@176103410&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;s=Galileo&amp;scale=1&amp;hl=en</url>
          	<serverParts>mt0 mt1 mt2 mt3</serverParts>
         </layer>
  

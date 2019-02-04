@@ -3,7 +3,7 @@
 <!-- nnngrach@gmail.com --> 
 
 <customMapSource>
-   <name>AnyGIS: RusOutdoor GL</name>
+   <name>AnyGIS: RusOutdoor</name>
          
 
 
@@ -89,19 +89,6 @@
 
 
 
-
-
-
-   <!-- Слои 6-8: Дополняются слоем с подписями объектов на карте. -->  
-   <!-- Тут можно найти родники, заброшки, достопримечательности, -->
-   <!-- броды, мосты, места для стоянки и прочие интересные объекты. -->
-   <!-- Wikimapia -->
-
-      <layer>
-         <minZoom>16</minZoom>
-         <maxZoom>22</maxZoom>
-         <url>https://anygis.herokuapp.com/Wikimapia_layer/{$x}/{$y}/{$z}</url>
-      </layer>
    
 
 
@@ -128,13 +115,29 @@
       </layer>	
 
 
-   <!-- Слой Y: Спутниковые снимки (медленный слой) -->  
+   <!-- Слой 8: Спутниковые снимки (медленный слой) -->  
    <!-- Яндекс Спутник --> 
 
       <layer>
          <minZoom>18</minZoom>
          <maxZoom>19</maxZoom>
          <url>https://anygis.herokuapp.com/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
+      </layer>
+
+
+
+
+
+
+   <!-- Слои 6-8: Дополняются слоем с подписями объектов на карте. -->  
+   <!-- Тут можно найти родники, заброшки, достопримечательности, -->
+   <!-- броды, мосты, места для стоянки и прочие интересные объекты. -->
+   <!-- Wikimapia -->
+
+      <layer>
+         <minZoom>16</minZoom>
+         <maxZoom>22</maxZoom>
+         <url>https://anygis.herokuapp.com/Wikimapia_layer/{$x}/{$y}/{$z}</url>
       </layer>
       
    </layers>
