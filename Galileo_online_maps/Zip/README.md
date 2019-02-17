@@ -1,7 +1,7 @@
 # Скачать карты для Galileo (Guru maps)
 
 ### Для города
-[2gis](https://github.com/nnngrach/map-sources/raw/master/Galileo%20online%20maps/Beginner%20set/City/2gis.ms)
+[2gis](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/City/2gis.ms)
 
 [Google Map]()
 

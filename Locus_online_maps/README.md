@@ -10,7 +10,7 @@
 [Скачать с компьютера][3]
 
 [1]: https://shuriktravel.ru/maps/
-[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/Beginner_set_installer.xml
+[2]: ---
 [3]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Beginner_set.zip
 
 ### Полный набор
