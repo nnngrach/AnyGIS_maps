@@ -1,9 +1,9 @@
 # Скачать карты для Galileo (Guru maps)
 
 ### Для города
-[2gis](https://github.com/nnngrach/map-sources/raw/master/Galileo%20online%20maps/Beginner%20set/City/2gis.ms)
+[2gis](https://www.nsf.ie/wp-content/uploads/2016/06/header-download-e1466251363834.jpg)
 
-<a href="https://github.com/nnngrach/map-sources/raw/master/Galileo%20online%20maps/Beginner%20set/City/2gis.ms" download>Скачать файл</a>
+<a href="https://www.nsf.ie/wp-content/uploads/2016/06/header-download-e1466251363834.jpg" download>Скачать файл</a>
 
 
 
