@@ -71,9 +71,10 @@
 Normal Text
 
 <p align="center">
-<b>Some Links:</b><br>
+<b>anygis@bk.ru</b><br>
 <a href="anygis@bk.ru">anygis@bk.ru</a> |
 </p>
 
 Normal text
+
 
