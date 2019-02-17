@@ -48,8 +48,6 @@
 
 [ERSI Imagery](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/Satellite/ERSI_Imagery.ms)
 
-[Google Спутник](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/Satellite/2gis.ms)
-
 [Google Гибрид](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/Satellite/Google_Satellite_RU.ms)
 
 [Яндекс Гибрид](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/Satellite/Yandex_Hybrid%20[AnyGIS].ms)
