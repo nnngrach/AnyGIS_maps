@@ -165,7 +165,7 @@ Google Спутник
 
 [1]: https://www.marshruty.ru/Maps/Maps.aspx?x=36.96990966796878&y=56.787274943962025&z=8&t=4
 
-[2]: https://github.com/nnngrach/map-sources/tree/master/Locus%20online%20maps
+[2]: https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps
 
-[3]: https://github.com/nnngrach/map-sources/tree/master/Galileo%20online%20maps
+[3]: https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps
 
