@@ -18,18 +18,27 @@ thisSiteName = https://anygis.herokuapp.com/
 MapName = Wikimapia
 xTileNumber = 619
 yTileNumber = 320
-zoomLevel = 10`
+zoomLevel = 10
 ```
 
 Result URL to load this tile will looking like this:
-`https://anygis.herokuapp.com/Wikimapia/619/320/10`
+
+```
+https://anygis.herokuapp.com/Wikimapia/619/320/10
+```
 
 You can also find tile by coordinates:
-`thisSiteName / MapName / longitude / latitude / zoomLevel
-https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10`
+
+```
+thisSiteName / MapName / longitude / latitude / zoomLevel
+https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10
+```
 
 To get full list of maps sources follow this:
-`https://anygis.herokuapp.com/list`
+
+```
+https://anygis.herokuapp.com/list
+```
 
 
 anygis@bk.ru
