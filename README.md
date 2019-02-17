@@ -1,4 +1,9 @@
 # Online maps sources
-Здесь выложены дополнительные источники онлайн карт для мобильных приложений [Locus map](http://www.locusmap.eu/) и [Guru maps (Galileo Pro)](https://galileo-app.ru/). Инструкции по установке находятся внутри соответствующих папок.
+Здесь собраны дополнительные источники онлайн карт для мобильных навигационныз приложений 
 
-Для отображения карт в нестандартных проекциях, а так же для обраьбтки карт "на лету" используется онлайн-преобразователь [AnyGIS server](https://github.com/nnngrach/AnyGIS_server).
+[Комплект карт и инструкция для Locus](https://github.com/nnngrach/map-sources/tree/master/Locus%20online%20maps)
+
+[Комплект карт и инструкция для Guru Maps (Galileo Pro)](https://github.com/nnngrach/map-sources/tree/master/Galileo%20online%20maps)
+
+
+Для отображения карт в нестандартных проекциях, а так же для обработки карт "на лету" используется онлайн-преобразователь [AnyGIS server](https://github.com/nnngrach/AnyGIS_server).
