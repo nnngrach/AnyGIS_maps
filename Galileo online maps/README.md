@@ -69,4 +69,6 @@
 
 anygis@bk.ru
 
+<p align="center">
 <center>Centered text</center>
+</p>
