@@ -58,6 +58,7 @@
 * Перетащите файлы карт в правое окно.
 
 > Внимание! 
+
 > Приложение не увидит карты, которые будут лежать в подпапках. Нужно чтобы все файлы лежали в одной папке.
 
 ![](https://support.apple.com/library/content/dam/edam/applecare/images/ru_RU/itunes/macos-mojave-itunes-12-9-connected-device.png)
