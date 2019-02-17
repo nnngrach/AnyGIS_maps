@@ -28,7 +28,7 @@
 
 [Скачать zip архив  (с компьютера)][11]
 
-[5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal%20area
+[5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal%20area 
 [6]: https://melda.ru/locus/maps/
 [7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
