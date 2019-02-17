@@ -43,10 +43,9 @@
 * Вернитесь в браузер и повторите эти действия с остальными картами из списка. Их всего около двадцати.
 
 <p align="center">
-<img src="https://res.cloudinary.com/anygis0/image/fetch/w_300/https://gurumaps.app/manuals/ios/assets/file_import_url_1.png"/>
+<img src="https://gurumaps.app/manuals/ios/assets/file_import_url_1.png" width="189"/>
 </p>
 
-![](https://res.cloudinary.com/anygis0/image/fetch/w_300/https://gurumaps.app/manuals/ios/assets/file_import_url_1.png)
 
 ### Инструкция по установке с компьютера
 * Скачайте zip архив с [полным набором][11] или с [базовым набором][3] карт.
