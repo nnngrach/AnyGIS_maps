@@ -54,11 +54,9 @@
 <p align="center">
 <img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png" width="200"/>
 </p>
-
 <p align="center">
 <img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" width="200"/>
 </p>
-
 <p align="center">
 <img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" width="200"/>
 </p>
