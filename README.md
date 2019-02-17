@@ -1,22 +1,22 @@
-# Welcome to AnyGIS Server API
+# AnyGIS Server API
 
 This is a utility to connect different navigation applications (web, ios, android) to map sources with non-standard URLS. It allows you to convert coordinates. Also it can process tile images.
 
 ### Get tile by tile numbers
 
-You can load tile by following to URL with name:
+You can load tile by sendig GET request with this parameters:
 
 ```
-thisSiteName / MapName / xTileNumber / yTileNumber / zoomLevel
+Host / MapName / xTileNumber / yTileNumber / zoomLevel
 ```
 
 You can use standard WebMercator tile numbers. Just like numbers from OpenStreetMaps or Google maps.
 
 
-For example let's load a Wikimapia tile:
+For example let's load a tile of Wikimapia.org map:
 
 ```
-thisSiteName = https://anygis.herokuapp.com/
+Host = https://anygis.herokuapp.com/
 MapName = Wikimapia
 xTileNumber = 619
 yTileNumber = 320
@@ -31,17 +31,18 @@ Result URL to load this tile will looking like this:
 
 ### Get tile by tile coordinates
 
-You can also find tile by coordinates:
+You can also find tile by it's coordinates in decimal format:
 
 ```
-thisSiteName / MapName / longitude / latitude / zoomLevel
+Host / MapName / longitude / latitude / zoomLevel
 ```
 [https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10](https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10)
 
 
-### Get list of maps
 
-To get full list of maps sources follow this:
+### Get maps list
+
+To get MapName patameter you have to open a list of map sources:
 
 [https://anygis.herokuapp.com/list](https://anygis.herokuapp.com/list)
 
