@@ -55,19 +55,3 @@
 
 [Wikimapia](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/Satellite/Wikimapia%20Sat%20[AnyGIS].ms)
 
----
-
-зона для экспериментов
-
-<p>
-<a href="locus-actions://https/melda.ru/locus/actions/Erelen.Locus.Custom.Maps.xml"><img class="alignnone" style="vertical-align: middle;" src="https://lh6.ggpht.com/MeOijEMGcYkxvGDGZ2EMT4yE05WoV5Hs5M3YAisGVXNHZEJmRpdR4MlFfiT2eGBipg=w64" alt="" width="32" height="32" /></a> 
-
-<a href="locus-actions://https/melda.ru/locus/actions/Erelen.Locus.Custom.Maps.xml">Установить пакет</a>
-</p>
-
-
-<p align="center">
-<a href="https://anygis.herokuapp.com/maps/Galileo/Beginner_set/City/2gis.ms" download="">текст ссылки</a>
-</p>
-
-<a href="#" download="">текст ссылки</a>
