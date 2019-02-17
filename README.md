@@ -2,7 +2,7 @@
 
 This is a utility to connect different navigation applications (web, ios, android) to map sources with non-standard URLS. It allows you to convert coordinates. Also it can process tile images.
 
-### Text
+### Get tile by tile numbers
 
 You can load tile by following to URL with name:
 
@@ -29,7 +29,7 @@ Result URL to load this tile will looking like this:
 
 
 
-### Text
+### Get tile by tile coordinates
 
 You can also find tile by coordinates:
 
@@ -39,14 +39,14 @@ thisSiteName / MapName / longitude / latitude / zoomLevel
 [https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10](https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10)
 
 
-### Text
+### Get list of maps
 
 To get full list of maps sources follow this:
 
 [https://anygis.herokuapp.com/list](https://anygis.herokuapp.com/list)
 
 
-[anygis@bk.ru](anygis@bk.ru)
+
 
 
 ---
