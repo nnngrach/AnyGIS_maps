@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://anygis.herokuapp.com/locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Спутниковые карты
+-->
+
+<providers>
+
+	<provider id="9999007" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>All Satellites</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://anygis.herokuapp.com/Combo_All_Satellites/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>30</zoomMax> <!-- Max: 22+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© AnyGIS]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+	
+
+	<provider id="10021" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>Google Satellite</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=s&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 20+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://maps.google.com/]]></extraHeader>
+	</provider>
+
+	<provider id="10022" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>Google Hybrid</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=y&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 20+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://maps.google.com/]]></extraHeader>
+	</provider>
+
+
+
+	<provider id="10081" type="2" visible="true" required="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>Yandex Satellite</mode>
+		<countries>Russia</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://sat{s}.maps.yandex.net/tiles?l=sat&x={x}&y={y}&z={z}]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
+	</provider>
+
+	<provider id="10082" type="2" visible="true" required="false" background="10081">
+		<name>Global - Satellites</name>
+		<mode>Yandex Hybrid</mode>
+		<countries>Russia</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://vec{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}&lang=ru-RU]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
+	</provider>
+
+
+
+	<provider id="10600" type="5" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>Bing</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://t0.ssl.ak.tiles.virtualearth.net/tiles/a{c}.jpeg?g=0]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Microsoft | <a href="http://go.microsoft.com/fwlink/?LinkId=74170">Privacy</a> | <a href="http://g.msn.com/0TO_/enww">Legal</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.bing.com/mapspreview]]></extraHeader>
+	</provider>
+
+	<provider id="10605" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>Here</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+		<serverPart>1;2;3;4</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© HERE]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://wego.here.com/]]></extraHeader>
+	</provider>
+
+	<provider id="10610" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>ESRI World Imagenary</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© ESRI]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+	</provider>
+
+	<provider id="10615" type="0" visible="true" background="-1">
+		<name>Global - Satellites</name>
+		<mode>MapBox</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://{s}.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© MapBox]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+	</provider>
+
+</providers>

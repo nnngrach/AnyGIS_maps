@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://anygis.herokuapp.com/locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Морские карты
+-->
+
+<providers>
+
+	<provider id="8888001" type="0" visible="true" background="-1">
+		<name>Global - Water</name>
+		<mode>ESRI Ocean</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>24</zoomMax> <!-- Max: 16+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© ESRI]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+	</provider>
+
+	
+
+
+	<!-- Open Sea Map: -->
+
+
+	<!-- Фон - OSM Mapnik -->
+	<!-- Если будет плохо загружаться, то заменить его на Спутник.ру: -->
+	<!-- <url><![CDATA[http://tiles.maps.sputnik.ru/tiles/kmt2/{z}/{x}/{y}.png]]></url> -->
+
+	<provider id="9999000" type="0" visible="false" background="-1">
+		<name>OSM</name>
+		<mode>Mapnik</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<url><![CDATA[https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+	<provider id="9999014" type="0" visible="false" background="-1">
+		<name>Global - OSM</name>
+		<mode>Спутник.ру</mode>
+		<countries>Russia</countries>
+		<usage>city,road</usage>
+		<url><![CDATA[https://tilessputnik.ru/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Openstreetmap, Спутник]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://maps.sputnik.ru/]]></extraHeader>
+	</provider>
+
+
+
+	<!-- Слой - Карта глубины океанского дна -->
+
+	<provider id="9999001" type="0" visible="false" background="9999000">
+		<name>Global - Water</name>
+		<mode>Okean Depth</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{z}&TileCol={x}&TileRow={y}]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+
+	<!-- Слой - Метки с кораблями -->
+
+	<provider id="9999002" type="0" visible="false" background="9999000">
+		<name>Global - Water</name>
+		<mode>Okean Traffic</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+
+
+
+	<!-- Слой - Метки для морской навигации -->
+
+	<!-- Результирующий слой: базовый вариант -->
+
+
+	<provider id="9999004" type="0" visible="true" background="9999000">
+		<name>Global - Water</name>
+		<mode>Open Sea Map</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+	<provider id="99990015" type="0" visible="true" background="9999014">
+		<name>Global - Water</name>
+		<mode>Open Sea Map (Sputnik.ru)</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+	<!-- Результирующий слой: с рельефом океанского дна -->
+
+	<provider id="9999005" type="0" visible="true" background="9999001">
+		<name>Global - Water</name>
+		<mode>Open Sea Map + Deep Map</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+
+	<!-- Результирующий слой: с метками кораблей -->
+
+	<provider id="9999006" type="0" visible="true" background="9999002">
+		<name>Global - Water</name>
+		<mode>Open Sea Map + Traffic</mode>
+		<countries>World</countries>
+		<usage>marine</usage>
+		<url><![CDATA[http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="http://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+</providers>

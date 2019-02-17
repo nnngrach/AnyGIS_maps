@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://anygis.herokuapp.com/locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Летные карты
+-->
+
+<providers>
+
+	<provider id="42440" type="0" visible="true" background="-1">
+		<name>Eurasia - Aviation</name>
+		<mode>Лётные карты МВЛ</mode>
+		<countries>Russia</countries>
+		<usage>aero</usage>
+		<url><![CDATA[https://anygis.herokuapp.com/Local_Avia_Mvl/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+	<provider id="42441" type="0" visible="true" background="-1">
+		<name>Eurasia - Aviation</name>
+		<mode>Лётные карты RNK 2016</mode>
+		<countries>Russia</countries>
+		<usage>aero</usage>
+		<url><![CDATA[https://anygis.herokuapp.com/Local_Avia_Rnk/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>  <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://www.sasgis.org/">SAS.Planet</a>]]></attribution>
+	</provider>
+
+
+	<provider id="8888000" type="0" visible="true" background="-1">
+		<name>Eurasia - Aviation</name>
+		<mode>ERSI World Navigation Charts</mode>
+		<countries>World</countries>
+		<usage>aero</usage>
+		<url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>18</zoomMax> <!-- Max: 10+8 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+
+</providers>

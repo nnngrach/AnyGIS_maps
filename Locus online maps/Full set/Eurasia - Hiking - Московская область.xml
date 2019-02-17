@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://anygis.herokuapp.com/locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Карты для Московской области
+-->
+<providers>
+
+	<provider id="41999" type="1" visible="true" background="-1">
+		<name>Eurasia - Hiking - Московская область</name>
+		<mode>Карты Завьялова (ММБ)</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://tiles.nakarte.me/map_podm/{z}/{x}/{y}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>13</zoomMin>
+		<zoomMax>22</zoomMax> <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="http://slazav.mccme.ru/">Slazav</a>, <a href="https://nakarte.me/#m=13/42.90049/42.57508&l=O/Q/Z">Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<provider id="42418" type="1" visible="true" background="-1">
+		<name>Eurasia - Hiking - Московская область</name>
+		<mode>Атлас издательства "Арбалет"</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{y}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>21</zoomMax> <!-- Max: 13+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://nakarte.me/>Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<!-- Adraces -->
+	<!-- Народ, если кто-нибудь знает, как правильно называются эти карты,
+	то напишите на nnngrach@gmail.com - я их переименую -->
+	<provider id="42419" type="1" visible="true" background="-1">
+		<name>Eurasia - Hiking - Московская область</name>
+		<mode>Ориентирование "Adraces"</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://tiles.nakarte.me/adraces/{z}/{x}/{y}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://nakarte.me/>Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+	<!-- O-Sport -->
+	<!-- Народ, если кто-нибудь знает, как правильно называются эти карты,
+	то напишите на nnngrach@gmail.com - я их переименую -->
+	<provider id="42420" type="1" visible="true" background="-1">
+		<name>Eurasia - Hiking - Московская область</name>
+		<mode>Ориентирование "O-Sport"</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://tiles.nakarte.me/osport/{z}/{x}/{y}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://nakarte.me/>Nakarte.me</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
+	</provider>
+
+</providers>

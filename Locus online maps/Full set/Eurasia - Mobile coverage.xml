@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Erelen's Locus Maps, revision 11 (23.03.2017)
+
+Набор карт для Locus`а (http://www.locusmap.eu/)
+Автор: Erelen Laiquendi (erelen@melda.ru)
+Актуальная версия, история изменения и прочее-прочее: https://melda.ru/locus/
+-->
+
+<providers>
+
+	
+	<!-- Mobile coverage
+
+		Дорогой друг, читающий исходники!
+
+		Если ты собираешься использовать эти карты сотового покрытия в какой-либо
+		ещё программе, проекте, или каким-либо другим образом планируешь их выкачивать
+		в больших объёмах - очень тебя прошу, свяжись, пожалуйста, сначала со мной:
+
+			https://melda.ru/contacts/
+
+		Массовая генерация этих карт создаёт ощутимую нагрузку на мой сервер. И если эта
+		нагрузка будет создавать мне сложности - я очень расстроюсь. Но если сперва всё
+		обсудить - мы обязательно найдём устраивающее всех решение.
+
+		Заранее спасибо за понимание и этичность в использовании чужих ресурсов.
+	-->
+	<provider id="10700" type="2" visible="true" background="-1" required="false">
+		<name>Eurasia - Mobile coverage</name>
+		<mode>МТС</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<url><![CDATA[http://maps.melda.ru/mobile/mts/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="http://www.mts.ru/mobil_inet_and_tv/help/mts/coverage/">МТС</a>]]></attribution>
+	</provider>
+	<provider id="10710" type="2" visible="true" background="-1" required="false">
+		<name>Eurasia - Mobile coverage</name>
+		<mode>Мегафон</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<url><![CDATA[http://maps.melda.ru/mobile/megafon/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="http://moscow.megafon.ru/help/offices/#coverage">Мегафон</a>]]></attribution>
+	</provider>
+	<provider id="10720" type="2" visible="true" background="-1" required="false">
+		<name>Eurasia - Mobile coverage</name>
+		<mode>Yota</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<url><![CDATA[http://maps.melda.ru/mobile/yota/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="http://www.yota.ru/coverage/">Yota</a>]]></attribution>
+	</provider>
+	<provider id="10730" type="0" visible="true" background="-1" required="false">
+		<name>Eurasia - Mobile coverage</name>
+		<mode>Tele2</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<url><![CDATA[http://maps.melda.ru/mobile/tele2/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="http://ru.tele2.ru/regions/coverage/">Tele2</a>]]></attribution>
+	</provider>
+
+</providers>
