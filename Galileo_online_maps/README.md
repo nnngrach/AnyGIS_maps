@@ -10,8 +10,8 @@
 [Скачать zip архив  (с компьютера)][3]
 
 [1]: https://shuriktravel.ru/maps/
-[2]: https://github.com/nnngrach/map-sources/tree/master/Galileo%20online%20maps/Zip%20for%20download
-[3]: https://github.com/nnngrach/map-sources/raw/master/Galileo%20online%20maps/Zip%20for%20download/Beginner%20set.zip
+[2]: https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps/Zip
+[3]: https://github.com/nnngrach/map-sources/raw/master/Galileo_online_maps/Zip/Beginner_set.zip
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -27,13 +27,13 @@
 
 [Скачать zip архив  (с компьютера)][11]
 
-[5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal%20area 
+[5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal%20area
 [6]: https://melda.ru/locus/maps/
 [7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
-[11]: https://github.com/nnngrach/map-sources/raw/master/Galileo%20online%20maps/Zip%20for%20download/Full%20set.zip
+[11]: https://github.com/nnngrach/map-sources/raw/master/Galileo_online_maps/Zip/Full_set.zip
 
 
 ### Инструкция по установке со смартфона
