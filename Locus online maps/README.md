@@ -52,13 +52,15 @@
 При всех последующих установках карт из сторонних наборов подобную операцию больше проводить не нужно. Если же вы захотите вернуть какую либо из карт Locus'а, то снова зайдите в это меню и поставьте галочку возле нужной вам карты.
 
 <p align="center">
-<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png" width="200"/>
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png" width="300"/>
 </p>
+
 <p align="center">
-<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" width="200"/>
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" width="300"/>
 </p>
+
 <p align="center">
-<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager9.png" width="200"/>
+<img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager10.png" width="300"/>
 </p>
 
 
