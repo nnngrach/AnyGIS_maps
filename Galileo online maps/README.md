@@ -64,15 +64,20 @@
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
 
-
-Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. 
-
-anygis@bk.ru
+qqq
 
 <p align="justify">
 Lorem ipsum
 </p>
 
-|| <!-- empty table header -->
-|:--:| <!-- table header/body separator with center formatting -->
-| I'm centered! | <!-- cell gets column's alignment -->
+
+Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. 
+
+|| 
+|:--:| 
+| I'm centered! | 
+
+anygis@bk.ru
+
+
+
