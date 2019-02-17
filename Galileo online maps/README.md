@@ -64,20 +64,23 @@
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
 
-qqq
-
-<p align="justify">
-Lorem ipsum
-</p>
-
 
 Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. 
 
-|| 
-|:--:| 
-| I'm centered! | 
 
 anygis@bk.ru
 
 
+Normal Text
+
+<p align="center">
+<b>Some Links:</b><br>
+<a href="#">Link 1</a> |
+<a href="#">Link 2</a> |
+<a href="#">Link 3</a>
+<br><br>
+<img src="http://s.4cdn.org/image/title/105.gif">
+</p>
+
+Normal text
 
