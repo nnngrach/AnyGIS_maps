@@ -1,6 +1,13 @@
 # Скачать карты для Galileo (Guru maps)
 
 ### Для города
+
+<p align="center">
+<a href="https://anygis.herokuapp.com/maps/Galileo/Beginner_set/City/2gis.ms" download="">текст ссылки</a>
+</p>
+
+<a href="#" download="">текст ссылки</a>
+
 [2gis](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/City/2gis.ms)
 
 [Google Map](https://anygis.herokuapp.com/maps/Galileo/Beginner_set/City/Google_RU.ms)
