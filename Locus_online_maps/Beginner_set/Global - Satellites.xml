@@ -1,4 +1,5 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+
 <!--
 Комплект карт "AnyGIS" для навигатора Locus (https://anygis.herokuapp.com/locus)
 Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
@@ -11,7 +12,7 @@
 <providers>
 
 	<provider id="9999007" type="0" visible="true" background="-1">
-		<name>Satellites</name>
+		<name>Global - Satellites</name>
 		<mode>All Satellites</mode>
 		<countries>World</countries>
 		<usage>photo</usage>
@@ -26,9 +27,8 @@
 	</provider>
 
 
-
 	<provider id="10022" type="0" visible="true" background="-1">
-		<name>Satellites</name>
+		<name>Global - Satellites</name>
 		<mode>Google Hybrid</mode>
 		<countries>World</countries>
 		<usage>photo</usage>
@@ -44,9 +44,8 @@
 	</provider>
 
 
-
-	<provider id="10081" type="2" visible="false" required="true" background="-1">
-		<name>Satellites</name>
+	<provider id="10081" type="2" visible="true" required="true" background="-1">
+		<name>Global - Satellites</name>
 		<mode>Yandex Satellite</mode>
 		<countries>Russia</countries>
 		<usage>photo</usage>
@@ -61,8 +60,9 @@
 		<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
 	</provider>
 
+
 	<provider id="10082" type="2" visible="true" required="false" background="10081">
-		<name>Satellites</name>
+		<name>Global - Satellites</name>
 		<mode>Yandex Hybrid</mode>
 		<countries>Russia</countries>
 		<usage>photo</usage>
@@ -79,7 +79,7 @@
 
 
 	<provider id="10610" type="0" visible="true" background="-1">
-		<name>Satellites</name>
+		<name>Global - Satellites</name>
 		<mode>ESRI World Imagenary</mode>
 		<countries>World</countries>
 		<usage>photo</usage>
@@ -90,26 +90,6 @@
 		<tileSize>256</tileSize>
 		<attribution><![CDATA[© ESRI]]></attribution>
 		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-	</provider>
-
-
-
-
-
-	<provider id="9999013" type="0" visible="true" background="10022">
-		<name>Satellites</name>
-		<mode>Wikimapia</mode>
-		<countries>World</countries>
-		<usage>city,road</usage>
-		<url><![CDATA[http://i{s}.wikimapia.org/?lng=1&x={x}&y={y}&zoom={z}&r=764397&type=hybrid&lng=1]]></url>
-		<serverPart>{x}%4+({y}%4)*4</serverPart>
-		<zoomPart>{z}-8</zoomPart>
-		<zoomMin>8</zoomMin>
-		<zoomMax>30</zoomMax> <!-- Max: 22+8 -->
-		<tileSize>256</tileSize>
-		<attribution><![CDATA[<a href="http://wikimapia.org/">Wikimapia CC-BY-SA</a>]]></attribution>
-		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-		<extraHeader><![CDATA[Referer#http://wikimapia.org/]]></extraHeader>
 	</provider>
 
 </providers>

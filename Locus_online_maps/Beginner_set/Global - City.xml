@@ -11,7 +11,7 @@
 <providers>
 
 	<provider id="10020" type="0" visible="true" background="-1">
-		<name>City</name>
+		<name>Global - City</name>
 		<mode>Google Map</mode>
 		<countries>World</countries>
 		<usage>city,road</usage>
@@ -27,7 +27,7 @@
 	</provider>
 
 	<provider id="8888003" type="0" visible="true" background="-1">
-		<name>City</name>
+		<name>Global - City</name>
 		<mode>Google Terrain</mode>
 		<countries>World</countries>
 		<usage>city,road</usage>
@@ -42,11 +42,8 @@
 		<extraHeader><![CDATA[Referer#https://maps.google.com/]]></extraHeader>
 	</provider>
 
-
-
-
 	<provider id="10080" type="2" visible="true" background="-1">
-		<name>City</name>
+		<name>Global - City</name>
 		<mode>Yandex Map</mode>
 		<countries>World</countries>
 		<usage>city,road</usage>
@@ -62,7 +59,7 @@
 	</provider>
 
 	<provider id="10083" type="2" visible="true" background="-1">
-		<name>City</name>
+		<name>Global - City</name>
 		<mode>Yandex Narod</mode>
 		<countries>World</countries>
 		<usage>city,road</usage>
@@ -77,11 +74,8 @@
 		<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
 	</provider>
 
-	
-
-
 	<provider id="12060" type="0" visible="true" background="-1">
-		<name>City</name>
+		<name>Global - City</name>
 		<mode>2GIS</mode>
 		<countries>Russia</countries>
 		<usage>city,road</usage>
@@ -95,6 +89,5 @@
 		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 		<extraHeader><![CDATA[Referer#https://2gis.ru/]]></extraHeader>
 	</provider>
-
 
 </providers>

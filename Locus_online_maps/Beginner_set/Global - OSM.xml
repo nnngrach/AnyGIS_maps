@@ -11,7 +11,7 @@
 <providers>
 
 	<provider id="10202" type="0" visible="true" background="-1">
-		<name>OSM</name>
+		<name>Global - OSM</name>
 		<mode>Cycle</mode>
 		<countries>World</countries>
 		<usage>cycle</usage>
@@ -28,7 +28,7 @@
 
 
 	<provider id="10201" type="0" visible="true" background="-1">
-		<name>OSM</name>
+		<name>Global - OSM</name>
 		<mode>Mapnik</mode>
 		<countries>World</countries>
 		<usage>city,road</usage>
@@ -45,7 +45,7 @@
 
 
 	<provider id="10204" type="0" visible="true" background="-1">
-		<name>OSM</name>
+		<name>Global - OSM</name>
 		<mode>Outdoors</mode>
 		<countries>World</countries>
 		<usage>hiking,ski</usage>
@@ -62,7 +62,7 @@
 
 
 	<provider id="10207" type="0" visible="true" background="-1">
-		<name>OSM</name>
+		<name>Global - OSM</name>
 		<mode>OpenTopoMap</mode>
 		<countries>World</countries>
 		<usage>hiking,ski</usage>
@@ -77,26 +77,11 @@
 		<extraHeader><![CDATA[Referer#https://opentopomap.org/]]></extraHeader>
 	</provider>
 
-	<provider id="10015" type="0" visible="true" background="-1">
-        <name>OSM</name>
-        <mode>4umaps.eu</mode>
-        <usage>hiking</usage>
-        <url><![CDATA[http://www.4umaps.eu/{z}/{x}/{y}.png]]></url>
-        <zoomPart>{z}-8</zoomPart>
-        <zoomMin>1</zoomMin>
-        <zoomMax>28</zoomMax>
-        <tileSize>256</tileSize>
-        <countries>Свободные карты</countries>
-        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
-        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
-    </provider>
 
 
-	
-	<!-- OpenSnowMap -->
 
-    <provider id="8888008" type="0" visible="false" background="-1">
-		<name>OSM</name>
+	<provider id="8888008" type="0" visible="false" background="-1">
+		<name>Global - OSM</name>
 		<mode>OpenSnowMap base</mode>
 		<countries>World</countries>
 		<usage>ski</usage>
@@ -113,8 +98,8 @@
 
 
 	<provider id="8888009" type="0" visible="true" background="8888008">
-		<name>OSM</name>
-		<mode>OpenSnowMap </mode>
+		<name>Global - OSM</name>
+		<mode>Open Snow Map</mode>
 		<countries>World</countries>
 		<usage>ski</usage>
 		<url><![CDATA[http://www.opensnowmap.org/pistes/{z}/{x}/{y}.png]]></url>
@@ -126,6 +111,5 @@
 		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 		<extraHeader><![CDATA[Referer#http://www.opensnowmap.org//]]></extraHeader>
 	</provider>
-
 
 </providers>
