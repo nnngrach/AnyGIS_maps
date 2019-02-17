@@ -43,7 +43,7 @@
 * Вернитесь в браузер и повторите эти действия с остальными картами из списка. Их всего около двадцати.
 
 <p align="center">
-<img src="https://gurumaps.app/manuals/ios/assets/file_import_url_1.png" width="189"/>
+<img src="https://gurumaps.app/manuals/ios/assets/file_import_url_1.png" width="200"/>
 </p>
 
 
