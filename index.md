@@ -4,13 +4,13 @@
 
 [01]: ./index
 [02]: ./Description
-[03]: ./RusOutdoor.html
-[04]: https://github.com/nnngrach/map-sources/blob/master/web/git/Locus/README.md
-[05]: https://github.com/nnngrach/map-sources/blob/master/web/git/GuruMaps/README.md
-[06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
+[03]: ./RusOutdoor
+[04]: ./Locus
+[05]: ./Galileo
+[06]: ./API
 
 
-# Или как без лишних трудностей наполнить навигатор картами?
+# Больше карт для телефона! 
 
 Для современных смартфонов существует множество отличных навигационных приложений. Увы, большинство из них могут показывать только какую-либо одну карту: например, только Google-карту. Или только OpenStreetMaps. 
 
@@ -27,7 +27,7 @@
 Именно этим и занимается AnyGIS server: выполняет все эти преобразования и отсылает смартфону уже готовые и обработанные карты. 
 
 
-О том, как именно это работает, Вы можете прочитать [здесь][3].
+О том, как именно это работает, Вы можете прочитать [здесь][03].
 
 Здесь - про то, как установить карты на [Android][04], а здесь - на [iOS][05].
 
@@ -43,6 +43,6 @@
 </p>
 
 
-[1]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
-[2]: https://github.com/nnngrach/map-sources/blob/master/web/git/Description/README.md
-[3]: https://github.com/nnngrach/map-sources/blob/master/web/git/RusOutdoor/README.md
+[1]: https://www.locusmap.eu/
+[2]: https://gurumaps.app/
+
