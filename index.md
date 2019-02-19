@@ -2,19 +2,19 @@
 
 
 
-[01]: ./index
-[02]: ./Web/Html/Description
-[03]: ./Web/Html/RusOutdoor
-[04]: ./Web/Html/Locus
-[05]: ./Web/Html/Galileo
-[06]: ./Web/Html/Api
+[01]: https://nnngrach.github.io/map-sources/index
+[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
+[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
+[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
+[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
 
 
 # Больше карт для телефона! 
 
 Для современных смартфонов существует множество отличных навигационных приложений. Увы, большинство из них могут показывать только какую-либо одну карту: например, только Google-карту. Или только OpenStreetMaps. 
 
-![Picture with 4 maps compilation](./Web/Img/4maps.jpg)
+![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.jpg)
 
 К сожалению,  зачастую нельзя обойтись лишь одной картой:  существует немало ситуаций, в которых необходимо иметь доступ к картам различных типов. Например, в пеших туристических может возникнуть необходимость прямо на ходу изменить свой маршрут из-за непредвиденных обстоятельств. И, чтобы наверняка удостовериться, что новый маршрут не преподнесет сюрпризов, желательно посмотреть на него на фоне разных карт: растровых, векторных и спутниковых. 
 

@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
 
 
-[01]: ./index
-[02]: ./Web/Html/Description
-[03]: ./Web/Html/RusOutdoor
-[04]: ./Web/Html/Locus
-[05]: ./Web/Html/Galileo
-[06]: ./Web/Html/Api
+[01]: https://nnngrach.github.io/map-sources/index
+[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
+[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
+[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
+[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
 
 
 
@@ -97,15 +97,15 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Для начала, вычисляются координаты четырех ближайших к требуемому месту кусочков WGS84 карты. Все четыре кусочка загружаются и "склеиваются" в один большой квадрат.
 
-![](./Web/Img/wgs4.jpg)
+![](https://nnngrach.github.io/map-sources/Web/Img/wgs4.jpg)
 
 Вычисляется, на какое расстояние требуется "cместить" новую карту. На большом квадрате делаются соответствующие отступы и вырезается кусок стандартного размера. 
 
-![](./Web/Img/wgs_offset.jpg)
+![](https://nnngrach.github.io/map-sources/Web/Img/wgs_offset.jpg)
 
 Получаем довольно похожий кусочек карты на то, что требуется. В принципе, для большинства задач такой грубой подгонки будет вполне достаточно. Однако стоит отметить, что небольшие расхождения все-таки будут присутствовать. Особенно они будут заметны ближе к полюсам.
 
-![](./Web/Img/wgs_osm.jpg)
+![](https://nnngrach.github.io/map-sources/Web/Img/wgs_osm.jpg)
 
 Кроме того, на то, чтобы "отфотошопить" карту на лету, потребуется некоторое время. То есть, карта с подобными преобразованиями будет загружаться не столь быстро, как остальные карты без каких-либо обработок. 
 
@@ -116,7 +116,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Для этого формируется список карт, отсортированных в порядке их приоритета. Сначала AnyGIS проверяет первую карту: есть ли на сервере с ней файл с интересующим нас кусочком местности. Если нет, то проверяется вторая карта и так далее по списку. 
 
-![](./Web/Img/slazav.png)
+![](https://nnngrach.github.io/map-sources/Web/Img/slazav.png)
 
 Подобный режим позволяет склеить мелкие разрозненные кусочки с разных серверов в цельную неразрывную карту, которой сравнительно удобно пользоваться. Не требуется вручную переключаться между десятком различных карт, пока не отыщется хотя бы одна, которая будет пригодна для этой местности.
 

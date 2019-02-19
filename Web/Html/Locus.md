@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
 
 
-[01]: ./index
-[02]: ./Web/Html/Description
-[03]: ./Web/Html/RusOutdoor
-[04]: ./Web/Html/Locus
-[05]: ./Web/Html/Galileo
-[06]: ./Web/Html/Api
+[01]: https://nnngrach.github.io/map-sources/index
+[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
+[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
+[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
+[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
 
 
 
