@@ -142,6 +142,22 @@
 	</provider>
 
 
+	<provider id="8888015" type="2" visible="true" background="-1">
+		<name>Global - City</name>
+		<mode>Yandex Traffic (Overlay)</mode>
+		<countries>World</countries>
+		<usage>city</usage>
+		<url><![CDATA[https://anygis.herokuapp.com/Yandex_traffic_layer_WGS84/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
+	</provider>
+
+
 
 
 	<provider id="12060" type="0" visible="true" background="-1">
