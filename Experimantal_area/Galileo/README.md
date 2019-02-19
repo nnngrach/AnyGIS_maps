@@ -5,7 +5,7 @@
 [Скачать (markdown)][1]
 
 
-[1]: https://shuriktravel.ru/maps/
+[1]: locus-actions://https/anygis.herokuapp.com/download/locus/ya_traff_installer.xml
 
 
 <p align="left">
