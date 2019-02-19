@@ -1,4 +1,4 @@
-| AnyGIS | Как это работает | RusOutdoor Maps | Скачать карты для Locus | Скачать карты для Galileo| Api |
+| AnyGIS | Как это работает? | RusOutdoor Maps | Карты для Locus | Скачать карты для Galileo| Api |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 #
