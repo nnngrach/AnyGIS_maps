@@ -9,19 +9,60 @@
 [05]: https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps
 [06]: ---
 
-#
+# Скачать карты для Galileo (Guru maps)
 
-# Download
+### Для города
 
-Это страничка для тестирования скачивания карт Locus c телефона
+[2gis](https://anygis.herokuapp.com/download/galileo/2gis.ms)
 
-[Скачать (markdown)][1]
+[Google Map](https://anygis.herokuapp.com/download/galileo/Google_RU.ms)
+
+[Google Terrain](https://anygis.herokuapp.com/download/galileo/Google_Terrain_RU.ms)
+
+[Yandex Карта](https://anygis.herokuapp.com/download/galileo/Yandex_Map%20[AnyGIS].ms)
+
+[Yandex Народная](https://anygis.herokuapp.com/download/galileo/Yandex_Narod%20[AnyGIS].ms)
 
 
-[000]: locus-actions://https/anygis.herokuapp.com/download/locus/ya_traff_installer.xml
+
+### Для загородного отдыха
+
+[Топокарты Генштаб (все масштабы)](https://anygis.herokuapp.com/download/galileo/All_Genshtab%20[AnyGis].ms)
+
+[Топокарты ГГЦ (все масштабы)](https://anygis.herokuapp.com/download/galileo/All_GGZ%20[AnyGis].ms)
+
+[RusOutdoor Maps](https://anygis.herokuapp.com/download/galileo/Russian%20Outdoor%20Set%20[AnyGis].ms)
 
 
-<p align="left">
-<a href="locus-actions://https/anygis.herokuapp.com/download/locus/ya_traff_installer.xml">Скачать (html href)</a> 
-</p>
+
+### Карты на основе OSM
+
+[OpenStreetMaps - Mapnik](https://anygis.herokuapp.com/download/galileo/OSM_Mapnik.ms)
+
+[OpenStreetMaps - Mapnik  + рельеф](https://anygis.herokuapp.com/download/galileo/OSM_Mapnik_Hillshade%20[AnyGis].ms)
+
+[Thunderforest - Cycle maps](https://anygis.herokuapp.com/download/galileo/OSM_Cycle_Map.ms)
+
+[Thunderforest - Outdoors maps](https://anygis.herokuapp.com/download/galileo/OSM_Outdoors.ms)
+
+[OpenSnowMap](https://anygis.herokuapp.com/download/galileo/OSM_OpenSnowMap.ms)
+
+[OpenTopoMap](https://anygis.herokuapp.com/download/galileo/OSM_OpenTopoMap.ms)
+
+[4Umaps](https://anygis.herokuapp.com/download/galileo/OSM_4Umaps.ms)
+
+
+
+
+### Спутниковые снимки
+
+[Все спутники](https://anygis.herokuapp.com/download/galileo/All_Satellites_[AnyGIS].ms)
+
+[ERSI Imagery](https://anygis.herokuapp.com/download/galileo/ERSI_Imagery.ms)
+
+[Google Гибрид](https://anygis.herokuapp.com/download/galileo/Google_Satellite_RU.ms)
+
+[Яндекс Гибрид](https://anygis.herokuapp.com/download/galileo/Yandex_Hybrid%20[AnyGIS].ms)
+
+[Wikimapia](https://anygis.herokuapp.com/download/galileo/Wikimapia%20Sat%20[AnyGIS].ms)
 
