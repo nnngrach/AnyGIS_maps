@@ -1,5 +1,5 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
+
 
 
 [01]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
