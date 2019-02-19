@@ -1,3 +1,16 @@
+| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+
+
+[01]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
+[02]: https://github.com/nnngrach/map-sources/blob/master/web/git/Description/README.md
+[03]: https://github.com/nnngrach/map-sources/blob/master/web/git/RusOutdoor/README.md
+[04]: https://github.com/nnngrach/map-sources/blob/master/web/git/Locus/README.md
+[05]: https://github.com/nnngrach/map-sources/blob/master/web/git/GuruMaps/README.md
+[06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
+
+
+
 # Карты для Guru Maps (Galileo Pro)
 
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора карт:
