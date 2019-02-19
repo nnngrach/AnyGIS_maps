@@ -1,13 +1,15 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
-|:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-[01]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
-[02]: https://github.com/nnngrach/map-sources/blob/master/web/git/Description/README.md
-[03]: https://github.com/nnngrach/map-sources/blob/master/web/git/RusOutdoor/README.md
-[04]: https://github.com/nnngrach/map-sources/blob/master/web/git/Locus/README.md
-[05]: https://github.com/nnngrach/map-sources/blob/master/web/git/GuruMaps/README.md
-[06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
+[01]: ./index
+[02]: ./Web/Html/Description
+[03]: ./Web/Html/RusOutdoor
+[04]: ./Web/Html/Locus
+[05]: ./Web/Html/Galileo
+[06]: ./Web/Html/Api
+
+
+
 
 # Скачать карты для Galileo (Guru maps)
 
