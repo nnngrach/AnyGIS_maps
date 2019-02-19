@@ -1,4 +1,4 @@
-| [AnyGIS][01] | Как это работает? | RusOutdoor Maps | Карты для Locus | Карты для Guru Maps| API |
+| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для Guru Maps][05] | [API][06] |
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 
