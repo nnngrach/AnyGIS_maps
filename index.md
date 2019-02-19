@@ -10,6 +10,9 @@
 [06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
 
 
+[download][07 ]
+
+[07]: locus-actions://https/anygis.herokuapp.com/download/locus/ya_traff_installer.xml
 
 # Index
 
