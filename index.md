@@ -2,19 +2,15 @@
 
 
 
-[01]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
-[02]: https://github.com/nnngrach/map-sources/blob/master/web/git/Description/README.md
-[03]: https://github.com/nnngrach/map-sources/blob/master/web/git/RusOutdoor/README.md
+[01]: ./index
+[02]: ./Description
+[03]: ./RusOutdoor.html
 [04]: https://github.com/nnngrach/map-sources/blob/master/web/git/Locus/README.md
 [05]: https://github.com/nnngrach/map-sources/blob/master/web/git/GuruMaps/README.md
 [06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
 
-Скачать
-[download][07]
 
-[07]: locus-actions://https/anygis.herokuapp.com/download/locus/ya_traff_installer.xml
-
-# Index
+# Или как без лишних трудностей наполнить навигатор картами?
 
 Для современных смартфонов существует множество отличных навигационных приложений. Увы, большинство из них могут показывать только какую-либо одну карту: например, только Google-карту. Или только OpenStreetMaps. 
 
