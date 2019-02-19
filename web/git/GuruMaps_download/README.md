@@ -2,12 +2,12 @@
 |:-:|:-:|:-:|:-:|:-:|:-:|
 
 
-[01]: ---
-[02]: ---
-[03]: ---
-[04]: https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps
-[05]: https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps
-[06]: ---
+[01]: https://github.com/nnngrach/map-sources/blob/master/web/git/AnyGIS/README.md
+[02]: https://github.com/nnngrach/map-sources/blob/master/web/git/Description/README.md
+[03]: https://github.com/nnngrach/map-sources/blob/master/web/git/RusOutdoor/README.md
+[04]: https://github.com/nnngrach/map-sources/blob/master/web/git/Locus/README.md
+[05]: https://github.com/nnngrach/map-sources/blob/master/web/git/GuruMaps/README.md
+[06]: https://github.com/nnngrach/map-sources/blob/master/web/git/Api/README.md
 
 # Скачать карты для Galileo (Guru maps)
 
