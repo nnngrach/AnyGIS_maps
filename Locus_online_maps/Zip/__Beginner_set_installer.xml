@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locusActions>
     <download>
-        <source size="61553">
+        <source size="69486">
             <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Beginner_set.zip]]>
         </source>
         <dest>
