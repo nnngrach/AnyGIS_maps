@@ -188,7 +188,7 @@ Google Спутник
 
 Слой Wikimapia
 
-![](https://nnngrach.github.io/map-sources/Web/Img/ya_map.png)
+![](https://nnngrach.github.io/map-sources/Web/Img/wiki_ya.png)
 
 
 
