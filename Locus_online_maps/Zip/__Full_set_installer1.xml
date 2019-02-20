@@ -2,10 +2,10 @@
 <locusActions>
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/__Full_set.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wiki.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/__Full_set.zip]]>
+            <![CDATA[/mapsOnline/custom/Wiki.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
