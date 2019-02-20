@@ -58,7 +58,7 @@
 
 [11]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/__Full_set.zip
 
-[12]: locus-actions://https/anygis.herokuapp.com/download/locus/__Full_set_installer.xml
+[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/__Full_set_installer1.xml
 
 [13]: https://nnngrach.github.io/map-sources/Web/Html/Locus_download_full
 
