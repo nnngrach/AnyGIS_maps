@@ -12,15 +12,7 @@
     </download>
 
 
-    <download>
-        <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Europe_East.zip]]>
-        </source>
-        <dest>
-            <![CDATA[/mapsOnline/custom/Europe_East.zip]]>
-        </dest>
-        <after>extract|deleteSource|refreshMap</after>
-    </download>
+    
 
 
     <download>
@@ -29,6 +21,17 @@
         </source>
         <dest>
             <![CDATA[/mapsOnline/custom/OSM.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Europe_East.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Europe_East.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
