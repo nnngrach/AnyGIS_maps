@@ -3,10 +3,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/City.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Aviation.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/City.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Aviation.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -17,10 +17,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/OSM.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-Moscow.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/OSM.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Moscow.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -28,10 +28,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Europe_East.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-RusOutdoorMaps.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Europe_East.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-RusOutdoorMaps.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -39,10 +39,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Overlay.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-Topo-Genshtab.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Overlay.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Topo-Genshtab.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -50,10 +50,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Satellite.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-Topo-GGC.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Satellite.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Topo-GGC.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -61,10 +61,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Water.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Mobile.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Water.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Mobile.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -72,10 +72,131 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wikimapia.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Mountains-Caucasus.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Wikimapia.zip]]>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Mountains-Caucasus.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Mountains-Chininy.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Mountains-Chininy.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Mountains-Crymea.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Mountains-Crymea.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Mountains-Other.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Mountains-Other.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Rivers.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Rivers.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Europe-Eastern.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Europe-Eastern.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Global-City.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Global-City.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Global-OSM.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Global-OSM.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Global-Satellites.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Global-Satellites.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Global-Water.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Global-Water.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Global-Wikimapia.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Global-Wikimapia.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Overlay.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Overlay.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
