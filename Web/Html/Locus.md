@@ -39,10 +39,12 @@
 - Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
 - Карты со справочной информацией (Wikimapia)
 
+[Скачать с компьютера][11]
 
-[Скачать со смартфона (скоро заработает)][11]
+[Скачать со смартфона целиком (скоро заработает)][12]
 
-[Скачать с компьютера][12]
+[Скачать со смартфона выборочно (скоро заработает)][13]
+
 
 [5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
@@ -50,8 +52,9 @@
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
-[11]: ---
-[12]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Full_set.zip
+[11]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Full_set.zip
+[12]: ---
+[13]: https://nnngrach.github.io/map-sources/Web/Html/Locus_download_full
 
 
 ### Подготовка к установке
@@ -124,7 +127,7 @@
 
 [14]: http://4pda.ru/forum/index.php?showtopic=210573
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. 
+На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
 
 
 <p align="center">
