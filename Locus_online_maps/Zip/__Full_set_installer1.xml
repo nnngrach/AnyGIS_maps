@@ -3,10 +3,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Sat.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/City.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Sat.zip]]>
+            <![CDATA[/mapsOnline/custom/City.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -14,10 +14,65 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wiki.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Europe_East.zip.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Wiki.zip]]>
+            <![CDATA[/mapsOnline/custom/Europe_East.zip.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/OSM.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/OSM.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Overlay.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Overlay.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Satellite.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Satellite.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Water.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Water.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wikimapia.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Wikimapia.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
