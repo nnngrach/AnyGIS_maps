@@ -1,6 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <locusActions>
 
+
+
+	<download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-Moscow.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Moscow.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+	
+
     <download>
         <source>
             <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Aviation.zip]]>
@@ -15,15 +28,7 @@
     
 
 
-    <download>
-        <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Hiking-Moscow.zip]]>
-        </source>
-        <dest>
-            <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Moscow.zip]]>
-        </dest>
-        <after>extract|deleteSource|refreshMap</after>
-    </download>
+    
 
 
     <download>
@@ -200,5 +205,11 @@
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
+
+
+
+
+
+
 
 </locusActions>
