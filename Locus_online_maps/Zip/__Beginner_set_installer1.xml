@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<locusActions>
+    <download>
+        <source size="69486">
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/__Beginner_set.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/__Beginner_set.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+</locusActions>

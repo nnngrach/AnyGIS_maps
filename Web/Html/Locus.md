@@ -26,7 +26,9 @@
 
 
 [1]: https://shuriktravel.ru/maps/
-[2]: ---
+
+[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/__Beginner_set_installer1.xml
+
 [3]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Beginner_set.zip
 
 ### Полный набор
@@ -53,8 +55,11 @@
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
+
 [11]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Full_set.zip
-[12]: ---
+
+[12]: locus-actions://https/anygis.herokuapp.com/download/locus/__Full_set_installer.xml
+
 [13]: https://nnngrach.github.io/map-sources/Web/Html/Locus_download_full
 
 
