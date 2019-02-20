@@ -3,10 +3,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wiki.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Sat.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Wiki.zip]]>
+            <![CDATA[/mapsOnline/custom/Sat.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
@@ -14,10 +14,10 @@
 
     <download>
         <source>
-            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Sat.zip]]>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Wiki.zip]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Sat.zip]]>
+            <![CDATA[/mapsOnline/custom/Wiki.zip]]>
         </dest>
         <after>extract|deleteSource|refreshMap</after>
     </download>
