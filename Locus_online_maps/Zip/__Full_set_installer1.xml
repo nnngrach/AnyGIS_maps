@@ -2,17 +2,47 @@
 <locusActions>
 
 
+	
 
-	<download>
+
+    <download>
         <source>
-            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Global-City-2gis.xml]]>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Global-City-2gis.xml]]>
+            <![CDATA[/mapsOnline/custom/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
         </dest>
-
     </download>
 
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Aviation-MVL.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Aviation-MVL.xml]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Aviation-RNK.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK.xml]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia - Aviation.png]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia - Aviation.png]]>
+        </dest>
+    </download>
 
 
 </locusActions>
