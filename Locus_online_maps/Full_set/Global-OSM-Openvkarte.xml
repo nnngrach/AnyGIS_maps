@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://nnngrach.github.io/map-sources/Web/Html/Locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Цифровые карты на основе OpenStreenMaps
+-->
+
+<providers>
+
+    <provider id="10016" type="0" visible="true" background="-1">
+        <name>Global - OSM</name>
+        <mode>Opnvkarte.de</mode>
+        <usage>city</usage>
+        <url><![CDATA[http://tile.memomaps.de/tilegen/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+
+
+
+</providers>

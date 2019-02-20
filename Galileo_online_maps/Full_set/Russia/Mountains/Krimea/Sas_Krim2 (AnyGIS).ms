@@ -10,7 +10,7 @@
 -->
 
 <customMapSource>
-<name>SasPlanet: Горный Крым (2008)</name>
+<name>SasPlanet: Горный Крым (Картография - 2010)</name>
 <minZoom>0</minZoom>
 <maxZoom>15</maxZoom>
 <url>https://anygis.herokuapp.com/Local_Krim2/{$x}/{$y}/{$z}</url>

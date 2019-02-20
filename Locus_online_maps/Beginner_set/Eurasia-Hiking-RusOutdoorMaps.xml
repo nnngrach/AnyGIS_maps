@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+Комплект карт "AnyGIS" для навигатора Locus (https://nnngrach.github.io/map-sources/Web/Html/Locus)
+Сделан на основе SAS.planet и набора карт от Erelen'a (https://melda.ru/locus/)
+Составитель: AnyGIS (anygis@bk.ru)
+(02.02.19)
+
+Многослойная карта для пешего и горного туризма по России и ближнему зарубежью. Подробнее:
+https://anygis.herokuapp.com/rusoutdoor
+-->
+
+<providers>
+
+	<provider id="9999010" type="0" visible="true" background="-1">
+		<name>Eurasia - Hiking</name>
+		<mode>RusOutdoor maps</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://anygis.herokuapp.com/Combo_RusOutdoor/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>30</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© AnyGIS]]></attribution>
+	</provider>
+
+</providers>
