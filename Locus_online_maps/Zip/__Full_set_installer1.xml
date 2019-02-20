@@ -3,6 +3,17 @@
 
 
 
+	<download>
+        <source>
+            <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/_Eurasia-Aviation.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/_Eurasia-Aviation.zip]]>
+        </dest>
+        <after>extract|deleteSource</after>
+    </download>
+
+
 
 
 
@@ -13,7 +24,7 @@
         <dest>
             <![CDATA[/mapsOnline/custom/_Eurasia-Aviation.zip]]>
         </dest>
-        <after>extract|deleteSource|refreshMap</after>
+        <after>extract|deleteSource</after>
     </download>
 
 
@@ -30,7 +41,7 @@
         <dest>
             <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-RusOutdoorMaps.zip]]>
         </dest>
-        <after>extract|deleteSource|refreshMap</after>
+        <after>extract|deleteSource</after>
     </download>
 
 
@@ -41,7 +52,7 @@
         <dest>
             <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Topo-Genshtab.zip]]>
         </dest>
-        <after>extract|deleteSource|refreshMap</after>
+        <after>extract|deleteSource</after>
     </download>
 
 
@@ -52,7 +63,7 @@
         <dest>
             <![CDATA[/mapsOnline/custom/_Eurasia-Hiking-Topo-GGC.zip]]>
         </dest>
-        <after>extract|deleteSource|refreshMap</after>
+        <after>extract|deleteSource</after>
     </download>
 
 
