@@ -2,7 +2,16 @@
 <locusActions>
 
 
+	<!-- Летные карты -->
 	
+	<download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia - Aviation.png]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia - Aviation.png]]>
+        </dest>
+    </download>
 
 
     <download>
@@ -35,14 +44,85 @@
     </download>
 
 
+
+
+
+    <!-- Hiking AnyGIS -->
+
     <download>
         <source>
-            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia - Aviation.png]]>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia - Hiking - AnyGIS.png]]>
         </source>
         <dest>
-            <![CDATA[/mapsOnline/custom/Eurasia - Aviation.png]]>
+            <![CDATA[/mapsOnline/custom/Eurasia - Hiking - AnyGIS.png]]>
         </dest>
     </download>
+    
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Hiking-RusOutdoorMaps.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Hiking-RusOutdoorMaps.xml]]>
+        </dest>
+    </download>
+
+
+
+
+    <!-- Hiking Московская область -->
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia - Hiking - Московская область.png]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia - Hiking - Московская область.png]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Hiking-Moscow-Adraces.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Adraces.xml]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Hiking-Moscow-OSport.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-OSport.xml]]>
+        </dest>
+    </download>
+
+
+    <download>
+        <source>
+            <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Full_set/Eurasia-Hiking-Moscow-Slazav.xml]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Slazav.xml]]>
+        </dest>
+    </download>
+
+
 
 
 </locusActions>
