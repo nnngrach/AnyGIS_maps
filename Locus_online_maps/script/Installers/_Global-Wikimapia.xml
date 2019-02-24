@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus.
+https://nnngrach.github.io/map-sources/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 24-02-2019 18:18
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+<locusActions>
+
+    <download>
+        <source>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Icons/Global%20-%20Wikimapia.png]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/Wikimapia.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Wikimapia.xml]]>
+        </dest>
+    </download>
+
+</locusActions>
