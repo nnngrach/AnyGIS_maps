@@ -24,12 +24,16 @@
 
 [Скачать со смартфона целиком (скоро заработает)][2]
 
+[Скачать со смартфона выборочно (скоро заработает)][0]
+
 
 [1]: https://shuriktravel.ru/maps/
 
 [2]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/Beginner_set_installer.xml
 
 [3]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Beginner_set.zip
+
+[0]: https://nnngrach.github.io/map-sources/Locus_online_maps/script/Pages/LocusShort
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -60,7 +64,7 @@
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/Full_set_installer.xml
 
-[13]: https://nnngrach.github.io/map-sources/Locus_online_maps/script/Pages/Full
+[13]: https://nnngrach.github.io/map-sources/Locus_online_maps/script/Pages/LocusFull
 
 
 ### Подготовка к установке
