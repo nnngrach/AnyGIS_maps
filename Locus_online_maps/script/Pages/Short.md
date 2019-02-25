@@ -8,8 +8,12 @@
 [05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
 [06]: https://nnngrach.github.io/map-sources/Web/Html/Api
 # Скачать карты для Locus
+
+
 ### [Eurasia - Aviation](https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
 [SasPlanet: Лётные карты МВЛ](https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/__Eurasia-Aviation-MVL.xml "Скачать эту карту")
+
+
 
 ### [Global - Wikimapia](https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/_Global-Wikimapia.xml "Скачать всю группу")
 [Wikimapia.org and Google Sattelite](https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
