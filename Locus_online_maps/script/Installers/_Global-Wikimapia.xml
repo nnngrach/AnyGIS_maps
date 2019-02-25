@@ -19,6 +19,15 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Icons/Global%20-%20Wikimapia.png]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
         <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/Wikimapia.xml]]>
         </source>
         <dest>
@@ -28,11 +37,9 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Icons/Global%20-%20Wikimapia.png]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/script/Installers/Wikimapia_satellite.xml]]>
         </source>
         <dest>
-        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
+        <![CDATA[/mapsOnline/custom/Wikimapia_satellite.xml]]>
         </dest>
     </download>
-
-</locusActions>
