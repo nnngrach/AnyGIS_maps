@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 25-02-2019 23:10
+Файл обновлен: 25-02-2019 23:18
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Backup/Full_set/Global-Wikimapia_satellite.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Wikimapia_satellite.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
