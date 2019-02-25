@@ -10,6 +10,11 @@
 # Скачать карты для Locus
 
 
+### [Background](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Background.xml "Скачать всю группу")
+[Google: Satellite SD](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Background-Google_Satellite.xml "Скачать эту карту")
+
+
+
 ### [Eurasia - Aviation](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
 [ESRI: World Navigation Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Aviation-ERSI_Navigation_Charts.xml "Скачать эту карту")
 
@@ -22,5 +27,5 @@
 ### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Wikimapia.xml "Скачать всю группу")
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
 
-[Wikimapia.org and Google Sattelite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
+[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 

@@ -19,19 +19,19 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Backup/Full_set/Global-Wikimapia_satellite.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Backup/Full_set/Background-Google_Satellite.xml]]>
         </source>
         <dest>
-        <![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
+        <![CDATA[/mapsOnline/custom/Background-Google_Satellite.xml]]>
         </dest>
     </download>
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Global%20-%20Wikimapia.png]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Background.png]]>
         </source>
         <dest>
-        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
+        <![CDATA[/mapsOnline/custom/Background.png]]>
         </dest>
     </download>
 

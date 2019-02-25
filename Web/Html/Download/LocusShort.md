@@ -16,5 +16,5 @@
 
 
 ### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Wikimapia.xml "Скачать всю группу")
-[Wikimapia.org and Google Sattelite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
+[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 
