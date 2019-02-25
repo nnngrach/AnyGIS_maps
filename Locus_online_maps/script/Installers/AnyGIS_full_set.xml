@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 25-02-2019 11:54
+Файл обновлен: 25-02-2019 12:23
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -28,7 +28,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/PreparingForFilegeneraor/Locus_online_maps/script/Installers/ERSI_Navigation_Charts.xml]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/ERSI_Navigation_Charts.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/ERSI_Navigation_Charts.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/PreparingForFilegeneraor/Locus_online_maps/script/Installers/MVL.xml]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/MVL.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/MVL.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/PreparingForFilegeneraor/Locus_online_maps/script/Installers/RNK.xml]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/RNK.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/RNK.xml]]>
@@ -64,7 +64,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/PreparingForFilegeneraor/Locus_online_maps/script/Installers/Wikimapia.xml]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/Wikimapia.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Wikimapia.xml]]>
@@ -73,7 +73,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/PreparingForFilegeneraor/Locus_online_maps/script/Installers/Wikimapia_satellite.xml]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/script/Installers/Wikimapia_satellite.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Wikimapia_satellite.xml]]>
