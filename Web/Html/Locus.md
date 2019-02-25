@@ -60,7 +60,7 @@
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Zip/Full_set_installer.xml
 
-[13]: https://nnngrach.github.io/map-sources/Web/Html/Short
+[13]: https://nnngrach.github.io/map-sources/Locus_online_maps/script/Pages/Full
 
 
 ### Подготовка к установке
