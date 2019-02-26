@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 25-02-2019 23:36
+Файл обновлен: 26-02-2019 23:35
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -15,11 +15,12 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 -->
 
 
+
 <providers>
 
-<provider id="42441" type="0" visible="true" background="-1">
+<provider id="428000" type="0" visible="true" background="-1">
     <name>Eurasia - Aviation</name>
-    <mode>SasPlanet: Лётные карты RNK 2016</mode>
+    <mode>Лётные карты RNK</mode>
     <countries>World</countries>
     <usage>aero</usage>
     <url><![CDATA[https://anygis.herokuapp.com/Local_Avia_Rnk/{x}/{y}/{z}]]></url>
@@ -28,6 +29,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
     <zoomMin>8</zoomMin>    <!-- 0 -->
     <zoomMax>17</zoomMax>   <!-- 9 -->
     <tileSize>256</tileSize>
+    <extraHeader><![CDATA[Referer#https://anygis.herokuapp.com/]]></extraHeader>
     <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
     <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/map-sources/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>

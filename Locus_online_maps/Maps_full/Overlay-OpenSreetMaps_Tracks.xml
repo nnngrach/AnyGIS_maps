@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus.
+https://nnngrach.github.io/map-sources/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 26-02-2019 23:35
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+
+<providers>
+
+<provider id="10650" type="0" visible="true" background="-1">
+    <name>Overlay</name>
+    <mode>OpenStreetMap GPS Tracks</mode>
+    <countries>World</countries>
+    <usage>overlay</usage>
+    <url><![CDATA[https://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
+    <serverPart>a;b;c</serverPart>
+    <zoomPart>{z}-8</zoomPart>
+    <zoomMin>8</zoomMin>    <!-- 0 -->
+    <zoomMax>27</zoomMax>   <!-- 19 -->
+    <tileSize>256</tileSize>
+    <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+    <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/map-sources/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+</provider>
+
+</providers>

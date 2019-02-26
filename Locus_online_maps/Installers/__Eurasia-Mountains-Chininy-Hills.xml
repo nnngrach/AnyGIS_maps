@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus.
+https://nnngrach.github.io/map-sources/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 26-02-2019 23:35
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+<locusActions>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mountains-Chininy-Hills.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Mountains-Chininy-Hills.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Eurasia%20-%20Mountains%20-%20Хибины.png]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia - Mountains - Хибины.png]]>
+        </dest>
+    </download>
+
+</locusActions>
