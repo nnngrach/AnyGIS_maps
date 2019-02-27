@@ -10,7 +10,7 @@
 # Скачать карты для Locus
 
 
-### [Eurasia-Aviation](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
+### [Eurasia - Aviation](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
 [ESRI: World Navigation Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Aviation-ERSI_Navigation_Charts.xml "Скачать эту карту")
 
 [SasPlanet: Лётные карты МВЛ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Aviation-MVL.xml "Скачать эту карту")
@@ -19,12 +19,12 @@
 
 
 
-### [Eurasia-Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
+### [Eurasia - Hiking - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
 [AnyGIS: Russian Outdoor maps (full)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
 
 
 
-### [Eurasia-Hiking-Moscow](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Moscow.xml "Скачать всю группу")
+### [Eurasia - Hiking - Московская область](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Moscow.xml "Скачать всю группу")
 [Nakarte.me: Adraces (с соревнований по спортивному ориентированию)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Moscow-Adraces.xml "Скачать эту карту")
 
 [Nakarte.me: Атлас Арбалет (Московская область)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Moscow-Arbalet.xml "Скачать эту карту")
@@ -35,7 +35,7 @@
 
 
 
-### [Eurasia-Hiking-Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Eurasia - Hiking - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [Nakarte.me: ГГЦ 250м (Россия частично)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0250.xml "Скачать эту карту")
 
 [Nakarte.me: ГГЦ 500м (Россия частично)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0500.xml "Скачать эту карту")
@@ -48,7 +48,7 @@
 
 
 
-### [Eurasia-Hiking-Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Eurasia - Hiking - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [SasPlanet: Генштаб 250 м (Польша)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00250.xml "Скачать эту карту")
 
 [SasPlanet: Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00500.xml "Скачать эту карту")
@@ -73,7 +73,7 @@
 
 
 
-### [Eurasia-Mobile_coverage](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mobile_coverage.xml "Скачать всю группу")
+### [Eurasia - Mobile coverage](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mobile_coverage.xml "Скачать всю группу")
 [Зона покрытия сети МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-MTS.xml "Скачать эту карту")
 
 [Зона покрытия сети Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Megafon.xml "Скачать эту карту")
@@ -84,7 +84,7 @@
 
 
 
-### [Eurasia-Mountains-Caucasus](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Caucasus.xml "Скачать всю группу")
+### [Eurasia - Mountains - Кавказ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Caucasus.xml "Скачать всю группу")
 [SasPlanet: Абишира-Ахуба (Ляпин В.Г.) ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Abshira_Ahuba.xml "Скачать эту карту")
 
 [SasPlanet: Сводная ФГУ СК АГП (Кавказ)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-FGU.xml "Скачать эту карту")
@@ -109,14 +109,14 @@
 
 
 
-### [Eurasia-Mountains-Crymea](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Crymea.xml "Скачать всю группу")
+### [Eurasia - Mountains - Крым](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Crymea.xml "Скачать всю группу")
 [SasPlanet: Горный Крым (Картография - 2010)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Crymea-Kartografiya.xml "Скачать эту карту")
 
 [SasPlanet: Горный Крым (Союзкарта - 2011)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Crymea-SoyusKarta.xml "Скачать эту карту")
 
 
 
-### [Eurasia-Mountains-Other](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Other.xml "Скачать всю группу")
+### [Eurasia - Mountains - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Other.xml "Скачать всю группу")
 [SasPlanet: Турция. Хребет Аладаглар 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Alagadar.xml "Скачать эту карту")
 
 [SasPlanet: Алтай. Хребтовка Катунского и Чуйских хребтов](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Altay.xml "Скачать эту карту")
@@ -135,7 +135,7 @@
 
 
 
-### [Eurasia-Mountains-Chininy](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Chininy.xml "Скачать всю группу")
+### [Eurasia - Mountains - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Chininy.xml "Скачать всю группу")
 [SasPlanet: Горы и Хибинские тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Hills.xml "Скачать эту карту")
 
 [Melda.ru: Хибинские и ловоозерские Тундры (Ааэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
@@ -144,7 +144,7 @@
 
 
 
-### [Eurasia-Rivers](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Rivers.xml "Скачать всю группу")
+### [Eurasia - Rivers](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Rivers.xml "Скачать всю группу")
 [SasPlanet: Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Rivers-Chusovaya_Novoutkinsk.xml "Скачать эту карту")
 
 [SasPlanet: Карта Реки Кубань от Краснодрского гидроузла до устья 1985](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Rivers-Kuban.xml "Скачать эту карту")
@@ -153,7 +153,7 @@
 
 
 
-### [Europe-Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Europe-Eastern.xml "Скачать всю группу")
+### [Europe - Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Europe-Eastern.xml "Скачать всю группу")
 [Ukraine - Кадастровая карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Europe-Eastern-CadastrUA.xml "Скачать эту карту")
 
 [Ukraine - Meta.ua](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Europe-Eastern-MetaUA.xml "Скачать эту карту")
@@ -164,7 +164,7 @@
 
 
 
-### [Global-City](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
+### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
 [2gis.ru (Города России)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-2gis.xml "Скачать эту карту")
 
 [Google: Map RU SD](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
@@ -187,7 +187,7 @@
 
 
 
-### [Global-OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-OSM.xml "Скачать всю группу")
+### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-OSM.xml "Скачать всю группу")
 [4umaps.eu - Туристические карты. Точки POI появляются уже на 15 зуме.](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-4umaps.xml "Скачать эту карту")
 
 [ESRI: World Topo Map](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Ersi_topo.xml "Скачать эту карту")
@@ -216,7 +216,7 @@
 
 
 
-### [Global-Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
 [AnyGIS: сборник спутниковых карт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
 
 [ESRI: Satellite - World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-ESRI_Imagenary.xml "Скачать эту карту")
@@ -235,7 +235,7 @@
 
 
 
-### [Global-Water](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Water.xml "Скачать всю группу")
+### [Global - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Water.xml "Скачать всю группу")
 [ESRI: Ocean](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-ERSI_ocean.xml "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
@@ -246,7 +246,7 @@
 
 
 
-### [Global](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
+### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
 
 [Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
