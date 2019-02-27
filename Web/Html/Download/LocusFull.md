@@ -109,6 +109,15 @@
 
 
 
+### [Eurasia - Mountains - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Chininy.xml "Скачать всю группу")
+[SasPlanet: Горы и Хибинские тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Hills.xml "Скачать эту карту")
+
+[Melda.ru: Хибинские и ловоозерские Тундры (Ааэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
+
+[SasPlanet: Хибинские и ловоозерские Тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Old.xml "Скачать эту карту")
+
+
+
 ### [Eurasia - Mountains - Крым](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Crymea.xml "Скачать всю группу")
 [SasPlanet: Горный Крым (Картография - 2010)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Crymea-Kartografiya.xml "Скачать эту карту")
 
@@ -135,15 +144,6 @@
 
 
 
-### [Eurasia - Mountains - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Chininy.xml "Скачать всю группу")
-[SasPlanet: Горы и Хибинские тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Hills.xml "Скачать эту карту")
-
-[Melda.ru: Хибинские и ловоозерские Тундры (Ааэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
-
-[SasPlanet: Хибинские и ловоозерские Тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Old.xml "Скачать эту карту")
-
-
-
 ### [Eurasia - Rivers](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Rivers.xml "Скачать всю группу")
 [SasPlanet: Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Rivers-Chusovaya_Novoutkinsk.xml "Скачать эту карту")
 
@@ -161,6 +161,13 @@
 [Ukraine - Navlux](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Europe-Eastern-Navlux.xml "Скачать эту карту")
 
 [Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Europe-Eastern-Vicicom.xml "Скачать эту карту")
+
+
+
+### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
+[Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
+
+[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 
 
 
@@ -243,13 +250,6 @@
 [OSM OpenSeaMap.org (layer Seamark)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_deep.xml "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_traffic.xml "Скачать эту карту")
-
-
-
-### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
-[Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
-
-[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 
 
 

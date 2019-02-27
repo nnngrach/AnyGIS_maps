@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 27-02-2019 21:53
+Файл обновлен: 27-02-2019 22:06
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,6 +23,69 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global - Satellites.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-All.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-ESRI_Imagenary.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Google.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Google_with_labels.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Here.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-Here.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Mapbox.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
         </dest>
     </download>
 

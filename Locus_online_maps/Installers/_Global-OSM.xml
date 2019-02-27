@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 27-02-2019 21:53
+Файл обновлен: 27-02-2019 22:06
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,6 +23,114 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-4umaps.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Ersi_topo.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Ersi_topo.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-HikeBike.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-HikeBike.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_GPS_Tracks.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_GPS_Tracks.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_Proxy.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-OpenSnowMap.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-OpenSnowMap.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-OpenTopoMap.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Opnvkarte.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Sputnik.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Sputnik.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Cycle.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Cycle.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Outdoor.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Outdoor.xml]]>
         </dest>
     </download>
 

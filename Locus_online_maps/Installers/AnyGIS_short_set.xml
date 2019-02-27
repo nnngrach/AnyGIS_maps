@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 27-02-2019 21:53
+Файл обновлен: 27-02-2019 22:06
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -73,6 +73,24 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Global%20-%20Wikimapia.png]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Wikimapia_satellite.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
         <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Global%20-%20City.png]]>
         </source>
         <dest>
@@ -113,24 +131,6 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Yandex_map.xml]]>
-        </dest>
-    </download>
-
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Yandex_map.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Global-City-Yandex_map.xml]]>
-        </dest>
-    </download>
-
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Yandex_traffic.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Global-City-Yandex_traffic.xml]]>
         </dest>
     </download>
 
@@ -244,15 +244,6 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex_with_labels.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
-        </dest>
-    </download>
-
-    <download>
-        <source>
         <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Global%20-%20Water.png]]>
         </source>
         <dest>
@@ -275,24 +266,6 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_traffic.xml]]>
-        </dest>
-    </download>
-
-    <download>
-        <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Global%20-%20Wikimapia.png]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Global - Wikimapia.png]]>
-        </dest>
-    </download>
-
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Wikimapia_satellite.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
         </dest>
     </download>
 

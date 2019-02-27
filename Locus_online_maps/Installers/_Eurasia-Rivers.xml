@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 27-02-2019 21:53
+Файл обновлен: 27-02-2019 22:06
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,6 +23,24 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia - Rivers.png]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Kuban.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Rivers-Kuban.xml]]>
         </dest>
     </download>
 
