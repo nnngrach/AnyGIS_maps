@@ -10,26 +10,6 @@
 # Скачать карты для Locus
 
 
-### [Eurasia - Hiking - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
-[AnyGIS: Russian Outdoor maps (full)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
-
-
-
-### [Eurasia - Hiking - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
-[AnyGIS: поиск карты ГГЦ в лучшем масштабе](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
-
-
-
-### [Eurasia - Hiking - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
-[AnyGIS: поиск карты Генштаб в лучшем масштабе](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_All.xml "Скачать эту карту")
-
-
-
-### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
-[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
-
-
-
 ### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
 [2gis.ru (Города России)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-2gis.xml "Скачать эту карту")
 
@@ -40,6 +20,15 @@
 [Yandex: Карты](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Yandex_map.xml "Скачать эту карту")
 
 [Yandex: Пробки (слой) (без преобразований - для Locus)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Yandex_traffic.xml "Скачать эту карту")
+
+
+
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
+[AnyGIS: сборник спутниковых карт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
+
+[Google: Satellite RU SD](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
+
+[Yandex: Спутник (слой с надписями)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
 
 
@@ -58,19 +47,30 @@
 
 
 
-### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
-[AnyGIS: сборник спутниковых карт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
-
-[Google: Satellite RU SD](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
-
-[Yandex: Спутник (слой с надписями)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
-
-
-
 ### [Global - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Water.xml "Скачать всю группу")
 [OSM OpenSeaMap.org (layer Seamark)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_traffic.xml "Скачать эту карту")
+
+
+
+### [Global - Wikimapia](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
+[Wikimapia.org (layer)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
+
+
+
+### [Eurasia - Hiking - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
+[AnyGIS: Russian Outdoor maps (full)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
+
+
+
+### [Eurasia - Hiking - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+[AnyGIS: поиск карты ГГЦ в лучшем масштабе](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
+
+
+
+### [Eurasia - Hiking - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+[AnyGIS: поиск карты Генштаб в лучшем масштабе](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_All.xml "Скачать эту карту")
 
 
 

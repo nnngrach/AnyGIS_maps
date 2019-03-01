@@ -10,26 +10,6 @@
 # Скачать карты для Guru Maps
 
 
-### Eurasia - Hiking - AnyGIS
-[RusOutdoor layer: Wikimapia overlay](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
-
-
-
-### Eurasia - Hiking - Топокарты ГГЦ
-[AnyGIS: поиск карты ГГЦ в лучшем масштабе](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
-
-
-
-### Eurasia - Hiking - Топокарты Генштаб
-[AnyGIS: поиск карты Генштаб в лучшем масштабе](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_All.ms "Скачать эту карту")
-
-
-
-### Global - Wikimapia
-[Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
-
-
-
 ### Global - City
 [2gis.ru (Города России)](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
@@ -40,6 +20,15 @@
 [Yandex: Карты](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_map.ms "Скачать эту карту")
 
 [Yandex: Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_traffic.ms "Скачать эту карту")
+
+
+
+### Global - Satellites
+[AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
+
+[Google: Satellite RU SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
+
+[Yandex: Спутник (слой с надписями)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
 
 
@@ -58,17 +47,28 @@
 
 
 
-### Global - Satellites
-[AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
-
-[Google: Satellite RU SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
-
-[Yandex: Спутник (слой с надписями)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
-
-
-
 ### Global - Water
 [OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+
+
+
+### Global - Wikimapia
+[Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
+
+
+
+### Eurasia - Hiking - Топокарты ГГЦ
+[AnyGIS: поиск карты ГГЦ в лучшем масштабе](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
+
+
+
+### Eurasia - Hiking - Топокарты Генштаб
+[AnyGIS: поиск карты Генштаб в лучшем масштабе](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_All.ms "Скачать эту карту")
+
+
+
+### Eurasia - Hiking - AnyGIS
+[RusOutdoor layer: Wikimapia overlay](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
 

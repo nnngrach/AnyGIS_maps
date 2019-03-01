@@ -10,28 +10,92 @@
 # Скачать карты для Guru Maps
 
 
-### Eurasia - Aviation
-[ESRI: World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-ERSI_Navigation_Charts.ms "Скачать эту карту")
+### Global - City
+[2gis.ru (Города России)](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
-[SasPlanet: Лётные карты МВЛ](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-MVL.ms "Скачать эту карту")
+[Google: Map RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
 
-[SasPlanet: Лётные карты RNK 2016](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-RNK.ms "Скачать эту карту")
+[Google: Terrain RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
+
+[Google: Traffic Layer](https://anygis.herokuapp.com/download/galileo/Global-City-Google_traffic.ms "Скачать эту карту")
+
+[Here.com: Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Here_map.ms "Скачать эту карту")
+
+[Here.com: Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
+
+[Here.com: Traffic (layer)](https://anygis.herokuapp.com/download/galileo/Global-City-Here_traffic.ms "Скачать эту карту")
+
+[Yandex: Карты](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_map.ms "Скачать эту карту")
+
+[Yandex: Народная](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
+
+[Yandex: Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_traffic.ms "Скачать эту карту")
 
 
 
-### Eurasia - Hiking - AnyGIS
-[RusOutdoor layer: Wikimapia overlay](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
+### Global - Satellites
+[AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
+
+[ESRI: Satellite - World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
+
+[Google: Satellite SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google.ms "Скачать эту карту")
+
+[Google: Satellite RU SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
+
+[Here.com: Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Here.ms "Скачать эту карту")
+
+[Mapbox: Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Mapbox.ms "Скачать эту карту")
+
+[Yandex: Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex.ms "Скачать эту карту")
+
+[Yandex: Спутник (слой с надписями)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
 
 
-### Eurasia - Hiking - Московская область
-[Nakarte.me: Adraces (с соревнований по спортивному ориентированию)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Adraces.ms "Скачать эту карту")
+### Global - OSM
+[4umaps.eu - Туристические карты. Точки POI появляются уже на 15 зуме.](https://anygis.herokuapp.com/download/galileo/Global-OSM-4umaps.ms "Скачать эту карту")
 
-[Nakarte.me: Атлас Арбалет (Московская область)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Arbalet.ms "Скачать эту карту")
+[ESRI: World Topo Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Ersi_topo.ms "Скачать эту карту")
 
-[Nakarte.me: O-sport (с соревнований по спортивному ориентированию)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-OSport.ms "Скачать эту карту")
+[OSM Hike & Bike](https://anygis.herokuapp.com/download/galileo/Global-OSM-HikeBike.ms "Скачать эту карту")
 
-[Nakarte.me: Карты Владислава Завьялова (Карты ММБ - Подмосковье. Новые!)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Slazav.ms "Скачать эту карту")
+[OSM OpenStreetMap.org: Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik.ms "Скачать эту карту")
+
+[OSM GPS tracks layer](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
+
+[OSM OpenStreetMap.org: Mapnik (with proxy)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+
+[OSM OpenSnowMap.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
+
+[OSM Opentopomap.org](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
+
+[Opnvkarte.de - Общественный транспорт](https://anygis.herokuapp.com/download/galileo/Global-OSM-Opnvkarte.ms "Скачать эту карту")
+
+[OSM Sputnik.ru](https://anygis.herokuapp.com/download/galileo/Global-OSM-Sputnik.ms "Скачать эту карту")
+
+[OSM Thunderforest.com: Cycle Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Cycle.ms "Скачать эту карту")
+
+[OSM Thunderforest.com: Outdoors Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
+
+[OSM Thunderforest.com: Transport Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+
+
+
+### Global - Water
+[ESRI: Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water-ERSI_ocean.ms "Скачать эту карту")
+
+[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
+
+[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
+
+[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+
+
+
+### Global - Wikimapia
+[Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
+
+[Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
 
 
 
@@ -73,14 +137,14 @@
 
 
 
-### Eurasia - Mobile coverage
-[Зона покрытия сети МТС (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-MTS.ms "Скачать эту карту")
+### Eurasia - Hiking - Московская область
+[Nakarte.me: Adraces (с соревнований по спортивному ориентированию)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Adraces.ms "Скачать эту карту")
 
-[Зона покрытия сети Мегафон (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Megafon.ms "Скачать эту карту")
+[Nakarte.me: Атлас Арбалет (Московская область)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Arbalet.ms "Скачать эту карту")
 
-[Зона покрытия сети Tele2 (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Tele2.ms "Скачать эту карту")
+[Nakarte.me: O-sport (с соревнований по спортивному ориентированию)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-OSport.ms "Скачать эту карту")
 
-[Зона покрытия сети Yota (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Yota.ms "Скачать эту карту")
+[Nakarte.me: Карты Владислава Завьялова (Карты ММБ - Подмосковье. Новые!)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Slazav.ms "Скачать эту карту")
 
 
 
@@ -109,19 +173,19 @@
 
 
 
+### Eurasia - Mountains - Крым
+[SasPlanet: Горный Крым (Картография - 2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-Kartografiya.ms "Скачать эту карту")
+
+[SasPlanet: Горный Крым (Союзкарта - 2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-SoyusKarta.ms "Скачать эту карту")
+
+
+
 ### Eurasia - Mountains - Хибины
 [SasPlanet: Горы и Хибинские тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Hills.ms "Скачать эту карту")
 
 [Melda.ru: Хибинские и ловоозерские Тундры (Ааэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.ms "Скачать эту карту")
 
 [SasPlanet: Хибинские и ловоозерские Тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Tundra_Old.ms "Скачать эту карту")
-
-
-
-### Eurasia - Mountains - Крым
-[SasPlanet: Горный Крым (Картография - 2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-Kartografiya.ms "Скачать эту карту")
-
-[SasPlanet: Горный Крым (Союзкарта - 2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-SoyusKarta.ms "Скачать эту карту")
 
 
 
@@ -153,6 +217,26 @@
 
 
 
+### Eurasia - Aviation
+[ESRI: World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-ERSI_Navigation_Charts.ms "Скачать эту карту")
+
+[SasPlanet: Лётные карты МВЛ](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-MVL.ms "Скачать эту карту")
+
+[SasPlanet: Лётные карты RNK 2016](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-RNK.ms "Скачать эту карту")
+
+
+
+### Eurasia - Mobile coverage
+[Зона покрытия сети МТС (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-MTS.ms "Скачать эту карту")
+
+[Зона покрытия сети Мегафон (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Megafon.ms "Скачать эту карту")
+
+[Зона покрытия сети Tele2 (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Tele2.ms "Скачать эту карту")
+
+[Зона покрытия сети Yota (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Yota.ms "Скачать эту карту")
+
+
+
 ### Europe - Eastern
 [Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-CadastrUA.ms "Скачать эту карту")
 
@@ -164,90 +248,6 @@
 
 
 
-### Global - Wikimapia
-[Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
-
-[Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
-
-
-
-### Global - City
-[2gis.ru (Города России)](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
-
-[Google: Map RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
-
-[Google: Terrain RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
-
-[Google: Traffic Layer](https://anygis.herokuapp.com/download/galileo/Global-City-Google_traffic.ms "Скачать эту карту")
-
-[Here.com: Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Here_map.ms "Скачать эту карту")
-
-[Here.com: Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
-
-[Here.com: Traffic (layer)](https://anygis.herokuapp.com/download/galileo/Global-City-Here_traffic.ms "Скачать эту карту")
-
-[Yandex: Карты](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_map.ms "Скачать эту карту")
-
-[Yandex: Народная](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
-
-[Yandex: Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_traffic.ms "Скачать эту карту")
-
-
-
-### Global - OSM
-[4umaps.eu - Туристические карты. Точки POI появляются уже на 15 зуме.](https://anygis.herokuapp.com/download/galileo/Global-OSM-4umaps.ms "Скачать эту карту")
-
-[ESRI: World Topo Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Ersi_topo.ms "Скачать эту карту")
-
-[OSM Hike & Bike](https://anygis.herokuapp.com/download/galileo/Global-OSM-HikeBike.ms "Скачать эту карту")
-
-[OSM OpenStreetMap.org: Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik.ms "Скачать эту карту")
-
-[OSM GPS tracks layer](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
-
-[OSM OpenStreetMap.org: Mapnik (with proxy)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
-
-[OSM OpenSnowMap.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
-
-[OSM Opentopomap.org](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
-
-[Opnvkarte.de - Общественный транспорт](https://anygis.herokuapp.com/download/galileo/Global-OSM-Opnvkarte.ms "Скачать эту карту")
-
-[OSM Sputnik.ru](https://anygis.herokuapp.com/download/galileo/Global-OSM-Sputnik.ms "Скачать эту карту")
-
-[OSM Thunderforest.com: Cycle Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Cycle.ms "Скачать эту карту")
-
-[OSM Thunderforest.com: Outdoors Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
-
-[OSM Thunderforest.com: Transport Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
-
-
-
-### Global - Satellites
-[AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
-
-[ESRI: Satellite - World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
-
-[Google: Satellite SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google.ms "Скачать эту карту")
-
-[Google: Satellite RU SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
-
-[Here.com: Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Here.ms "Скачать эту карту")
-
-[Mapbox: Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Mapbox.ms "Скачать эту карту")
-
-[Yandex: Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex.ms "Скачать эту карту")
-
-[Yandex: Спутник (слой с надписями)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
-
-
-
-### Global - Water
-[ESRI: Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water-ERSI_ocean.ms "Скачать эту карту")
-
-[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
-
-[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
-
-[OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+### Eurasia - Hiking - AnyGIS
+[RusOutdoor layer: Wikimapia overlay](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
 
