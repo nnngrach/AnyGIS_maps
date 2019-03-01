@@ -26,7 +26,7 @@
 
 [1]: https://shuriktravel.ru/maps/
 [2]: https://nnngrach.github.io/map-sources/Web/Html/Galileo_download_short
-[3]: https://github.com/nnngrach/map-sources/raw/master/Galileo_online_maps/Zip/Beginner_set.zip
+[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps/Maps_short
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -50,7 +50,7 @@
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
-[11]: https://github.com/nnngrach/map-sources/raw/master/Galileo_online_maps/Zip/Full_set.zip
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps/Maps_full
 [12]: https://nnngrach.github.io/map-sources/Web/Html/Galileo_download_full
 
 
