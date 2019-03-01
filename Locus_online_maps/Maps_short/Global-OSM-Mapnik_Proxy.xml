@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-03-2019 20:24
+Файл обновлен: 01-03-2019 20:33
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -27,7 +27,7 @@ anygis@bk.ru
 
 <provider id="77777003" type="0" visible="true" background="-1">
     <name>Глобальные - OSM</name>
-    <mode>Mapnik with PROXY</mode>
+    <mode>Mapnik (PROXY)</mode>
     <countries>World</countries>
     <usage>city,hiking</usage>
     <url><![CDATA[https://anygis.herokuapp.com/Osm_Mapnik_proxy/{x}/{y}/{z}]]></url>

@@ -13,17 +13,17 @@
 ### Глобальные - Городские
 [2Gis](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
-[Google Map](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
+[Google Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
 
-[Google Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
+[Google Ландшавт](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
 
-[Google Traffic](https://anygis.herokuapp.com/download/galileo/Global-City-Google_traffic.ms "Скачать эту карту")
+[Google Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Google_traffic.ms "Скачать эту карту")
 
-[Here Map](https://anygis.herokuapp.com/download/galileo/Global-City-Here_map.ms "Скачать эту карту")
+[Here Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Here_map.ms "Скачать эту карту")
 
-[Here Terrain](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
+[Here Ландшавт](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
 
-[Here Traffic](https://anygis.herokuapp.com/download/galileo/Global-City-Here_traffic.ms "Скачать эту карту")
+[Here Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Here_traffic.ms "Скачать эту карту")
 
 [Yandex Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Yandex_map.ms "Скачать эту карту")
 
@@ -34,21 +34,21 @@
 
 
 ### Глобальные - Спутниковые
-[All Satellites](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
+[AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
 
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
 
-[Google Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google.ms "Скачать эту карту")
+[Google Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google.ms "Скачать эту карту")
 
-[Google Satellite RU](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
+[Google Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
 
-[Here Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Here.ms "Скачать эту карту")
+[Here Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Here.ms "Скачать эту карту")
 
-[Mapbox](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Mapbox.ms "Скачать эту карту")
+[Mapbox Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
-[Yandex Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex.ms "Скачать эту карту")
+[Yandex Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex.ms "Скачать эту карту")
 
-[Yandex Satellite RU](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
+[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
 
 
@@ -63,7 +63,7 @@
 
 [Mapnik + GPS Tracks](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
-[Mapnik with PROXY](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+[Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
@@ -86,16 +86,16 @@
 
 [Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
-[Open Sea Map + deep](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
+[Open Sea Map + Карта глубин](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_deep.ms "Скачать эту карту")
 
-[Open Sea Map + traffic](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+[Open Sea Map + Морской траффик](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
 
 
 
 ### Глобальные - Справочные
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
 
-[Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
+[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
 
 
 
@@ -108,7 +108,7 @@
 
 [ГосГисЦентр 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_2000.ms "Скачать эту карту")
 
-[ГГЦ (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
 
 
 

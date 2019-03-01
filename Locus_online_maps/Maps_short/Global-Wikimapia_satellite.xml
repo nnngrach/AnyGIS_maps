@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-03-2019 20:24
+Файл обновлен: 01-03-2019 20:33
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -36,7 +36,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 <provider id="12041" type="0" visible="true" background="9999012">
     <name>Глобальные - Справочные</name>
-    <mode>Wikimapia.org + Satellite</mode>
+    <mode>Wikimapia.org + Спутник</mode>
     <countries>World</countries>
     <usage>photo</usage>
     <url><![CDATA[https://anygis.herokuapp.com/Wikimapia_layer/{x}/{y}/{z}]]></url>

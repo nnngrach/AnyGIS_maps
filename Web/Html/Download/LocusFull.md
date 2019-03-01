@@ -13,17 +13,17 @@
 ### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
 [2Gis](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-2gis.xml "Скачать эту карту")
 
-[Google Map](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
+[Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
 
-[Google Terrain](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
+[Google Ландшавт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
 
-[Google Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_traffic.xml "Скачать эту карту")
+[Google Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_traffic.xml "Скачать эту карту")
 
-[Here Map](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_map.xml "Скачать эту карту")
+[Here Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_map.xml "Скачать эту карту")
 
-[Here Terrain](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_terrain.xml "Скачать эту карту")
+[Here Ландшавт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_terrain.xml "Скачать эту карту")
 
-[Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_traffic.xml "Скачать эту карту")
+[Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_traffic.xml "Скачать эту карту")
 
 [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Yandex_map.xml "Скачать эту карту")
 
@@ -34,21 +34,21 @@
 
 
 ### [Глобальные - Спутниковые](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
-[All Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
+[AnyGIS Спутниковый сборник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
 
 [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-ESRI_Imagenary.xml "Скачать эту карту")
 
-[Google Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google.xml "Скачать эту карту")
+[Google Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google.xml "Скачать эту карту")
 
-[Google Satellite RU](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
+[Google Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
 
-[Here Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Here.xml "Скачать эту карту")
+[Here Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Here.xml "Скачать эту карту")
 
-[Mapbox](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Mapbox.xml "Скачать эту карту")
+[Mapbox Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Mapbox.xml "Скачать эту карту")
 
-[Yandex Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex.xml "Скачать эту карту")
+[Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
-[Yandex Satellite RU](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
+[Yandex Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
 
 
@@ -63,7 +63,7 @@
 
 [Mapnik + GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_GPS_Tracks.xml "Скачать эту карту")
 
-[Mapnik with PROXY](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
+[Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
 
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")
 
@@ -86,16 +86,16 @@
 
 [Open Sea Map](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
 
-[Open Sea Map + deep](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_deep.xml "Скачать эту карту")
+[Open Sea Map + Карта глубин](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_deep.xml "Скачать эту карту")
 
-[Open Sea Map + traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_traffic.xml "Скачать эту карту")
+[Open Sea Map + Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_traffic.xml "Скачать эту карту")
 
 
 
 ### [Глобальные - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
 
-[Wikimapia.org + Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
+[Wikimapia.org + Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 
 
 
@@ -113,7 +113,7 @@
 
 [ГосГисЦентр 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_2000.xml "Скачать эту карту")
 
-[ГГЦ (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
 
 
 
