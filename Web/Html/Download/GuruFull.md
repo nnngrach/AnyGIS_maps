@@ -99,7 +99,7 @@
 
 
 
-### Eurasia - Hiking - Топокарты ГГЦ
+### Eurasia - Туристические - Топокарты ГГЦ
 [ГосГисЦентр 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_0250.ms "Скачать эту карту")
 
 [ГосГисЦентр 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_0500.ms "Скачать эту карту")
@@ -112,7 +112,7 @@
 
 
 
-### Eurasia - Hiking - Топокарты Генштаб
+### Eurasia - Туристические - Топокарты Генштаб
 [Генштаб 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_00250.ms "Скачать эту карту")
 
 [Генштаб 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_00500.ms "Скачать эту карту")
@@ -137,7 +137,7 @@
 
 
 
-### Eurasia - Hiking - Московская область
+### Eurasia - Туристические - Московская область
 [Ориентирование "Adraces"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Adraces.ms "Скачать эту карту")
 
 [Атлас издательства "Арбалет"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow-Arbalet.ms "Скачать эту карту")

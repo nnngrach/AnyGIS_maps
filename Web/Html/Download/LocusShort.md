@@ -59,17 +59,17 @@
 
 
 
-### [Eurasia - Hiking - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
+### [Eurasia - Туристические  - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
 [RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
 
 
 
-### [Eurasia - Hiking - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Eurasia - Туристические - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
 
 
 
-### [Eurasia - Hiking - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Eurasia - Туристические - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_All.xml "Скачать эту карту")
 
 
