@@ -20,12 +20,12 @@
 ### Базовый набор
 Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
 
-[Скачать zip архив  (с компьютера)][3]
+[Скачать с компьютера (целиком)][3]
 
-[Скачать пофайлово  (со смартфона)][2]
+[Скачать со смартфона (выборочно)][2]
 
 [1]: https://shuriktravel.ru/maps/
-[2]: https://nnngrach.github.io/map-sources/Web/Html/Galileo_download_short
+[2]: https://nnngrach.github.io/map-sources/Web/Html/Download/GuruShort
 [3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps/Maps_short
 
 ### Полный набор
@@ -40,9 +40,9 @@
 - Карты со справочной информацией (Wikimapia)
 
 
-[Скачать zip архив  (с компьютера)][11]
+[Скачать с компьютера (целиком)][11]
 
-[Скачать пофайлово  (со смартфона)][12]
+[Скачать со смартфона (выборочно)][12]
 
 [5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
@@ -51,7 +51,7 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 [11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps/Maps_full
-[12]: https://nnngrach.github.io/map-sources/Web/Html/Galileo_download_full
+[12]: https://nnngrach.github.io/map-sources/Web/Html/Download/GuruFull
 
 
 ### Инструкция по установке со смартфона
