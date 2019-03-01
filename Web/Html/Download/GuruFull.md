@@ -10,7 +10,7 @@
 # Скачать карты для Guru Maps
 
 
-### Global - City
+### Глобальные - Городские
 [2gis.ru (Города России)](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
 [Google: Map RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
@@ -33,7 +33,7 @@
 
 
 
-### Global - Satellites
+### Глобальные - Спутниковые
 [AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
 
 [ESRI: Satellite - World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
@@ -52,7 +52,7 @@
 
 
 
-### Global - OSM
+### Глобальные - OSM
 [4umaps.eu - Туристические карты. Точки POI появляются уже на 15 зуме.](https://anygis.herokuapp.com/download/galileo/Global-OSM-4umaps.ms "Скачать эту карту")
 
 [ESRI: World Topo Map](https://anygis.herokuapp.com/download/galileo/Global-OSM-Ersi_topo.ms "Скачать эту карту")
@@ -81,7 +81,7 @@
 
 
 
-### Global - Water
+### Глобальные - Водные
 [ESRI: Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water-ERSI_ocean.ms "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
@@ -92,7 +92,7 @@
 
 
 
-### Global - Wikimapia
+### Глобальные - Справочные
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
 
 [Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
@@ -148,7 +148,7 @@
 
 
 
-### Eurasia - Mountains - Кавказ
+### Евразия - Горные - Кавказ
 [SasPlanet: Абишира-Ахуба (Ляпин В.Г.) ](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Abshira_Ahuba.ms "Скачать эту карту")
 
 [SasPlanet: Сводная ФГУ СК АГП (Кавказ)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-FGU.ms "Скачать эту карту")
@@ -173,14 +173,14 @@
 
 
 
-### Eurasia - Mountains - Крым
+### Евразия - Горные - Крым
 [SasPlanet: Горный Крым (Картография - 2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-Kartografiya.ms "Скачать эту карту")
 
 [SasPlanet: Горный Крым (Союзкарта - 2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-SoyusKarta.ms "Скачать эту карту")
 
 
 
-### Eurasia - Mountains - Хибины
+### Евразия - Горные - Хибины
 [SasPlanet: Горы и Хибинские тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Hills.ms "Скачать эту карту")
 
 [Melda.ru: Хибинские и ловоозерские Тундры (Ааэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.ms "Скачать эту карту")
@@ -189,7 +189,7 @@
 
 
 
-### Eurasia - Mountains - Разное
+### Евразия - Горные - Разное
 [SasPlanet: Турция. Хребет Аладаглар 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Alagadar.ms "Скачать эту карту")
 
 [SasPlanet: Алтай. Хребтовка Катунского и Чуйских хребтов](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Altay.ms "Скачать эту карту")
@@ -208,7 +208,7 @@
 
 
 
-### Eurasia - Rivers
+### Евразия - Водные
 [SasPlanet: Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers-Chusovaya_Novoutkinsk.ms "Скачать эту карту")
 
 [SasPlanet: Карта Реки Кубань от Краснодрского гидроузла до устья 1985](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers-Kuban.ms "Скачать эту карту")
@@ -217,7 +217,7 @@
 
 
 
-### Eurasia - Aviation
+### Евразия - Лётные
 [ESRI: World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-ERSI_Navigation_Charts.ms "Скачать эту карту")
 
 [SasPlanet: Лётные карты МВЛ](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-MVL.ms "Скачать эту карту")
@@ -226,7 +226,7 @@
 
 
 
-### Eurasia - Mobile coverage
+### Евразия - Сотовые сети
 [Зона покрытия сети МТС (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-MTS.ms "Скачать эту карту")
 
 [Зона покрытия сети Мегафон (с конвертацией)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Megafon.ms "Скачать эту карту")
@@ -237,7 +237,7 @@
 
 
 
-### Europe - Eastern
+### Европа - Восточная
 [Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-CadastrUA.ms "Скачать эту карту")
 
 [Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-MetaUA.ms "Скачать эту карту")

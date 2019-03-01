@@ -10,7 +10,7 @@
 # Скачать карты для Guru Maps
 
 
-### Global - City
+### Глобальные - Городские
 [2gis.ru (Города России)](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
 [Google: Map RU SD](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
@@ -23,7 +23,7 @@
 
 
 
-### Global - Satellites
+### Глобальные - Спутниковые
 [AnyGIS: сборник спутниковых карт](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
 
 [Google: Satellite RU SD](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
@@ -32,7 +32,7 @@
 
 
 
-### Global - OSM
+### Глобальные - OSM
 [OSM OpenStreetMap.org: Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik.ms "Скачать эту карту")
 
 [OSM OpenStreetMap.org: Mapnik (with proxy)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
@@ -47,14 +47,14 @@
 
 
 
-### Global - Water
+### Глобальные - Водные
 [OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
 [OSM OpenSeaMap.org (layer Seamark)](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
 
 
 
-### Global - Wikimapia
+### Глобальные - Справочные
 [Wikimapia.org (layer)](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
 
 
