@@ -15,7 +15,7 @@
 
 [Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
 
-[Google Ландшавт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
+[Google Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
 
 [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Yandex_map.xml "Скачать эту карту")
 

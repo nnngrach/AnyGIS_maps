@@ -15,13 +15,13 @@
 
 [Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
 
-[Google Ландшавт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
+[Google Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
 
 [Google Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Google_traffic.xml "Скачать эту карту")
 
 [Here Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_map.xml "Скачать эту карту")
 
-[Here Ландшавт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_terrain.xml "Скачать эту карту")
+[Here Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_terrain.xml "Скачать эту карту")
 
 [Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-City-Here_traffic.xml "Скачать эту карту")
 

@@ -15,13 +15,13 @@
 
 [Google Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
 
-[Google Ландшавт](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
+[Google Ландшафт](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
 
 [Google Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Google_traffic.ms "Скачать эту карту")
 
 [Here Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Here_map.ms "Скачать эту карту")
 
-[Here Ландшавт](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
+[Here Ландшафт](https://anygis.herokuapp.com/download/galileo/Global-City-Here_terrain.ms "Скачать эту карту")
 
 [Here Пробки](https://anygis.herokuapp.com/download/galileo/Global-City-Here_traffic.ms "Скачать эту карту")
 
@@ -96,6 +96,11 @@
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
 
 [Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
+
+
+
+### Евразия - Туристические  - AnyGIS
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
 
 
 
@@ -245,9 +250,4 @@
 [Ukraine - Navlux](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-Navlux.ms "Скачать эту карту")
 
 [Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-Vicicom.ms "Скачать эту карту")
-
-
-
-### Eurasia - Hiking - AnyGIS
-[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
 
