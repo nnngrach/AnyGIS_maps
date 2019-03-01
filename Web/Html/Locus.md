@@ -31,7 +31,7 @@
 
 [2]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/AnyGIS_short_set.xml
 
-[3]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Beginner_set.zip
+[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps/Maps_short
 
 [0]: https://nnngrach.github.io/map-sources/Web/Html/Download/LocusShort
 
@@ -60,7 +60,7 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Zip/Full_set.zip
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps/Maps_full
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/AnyGIS_full_set.xml
 
