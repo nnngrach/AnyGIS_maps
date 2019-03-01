@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-03-2019 20:36
+Файл обновлен: 01-03-2019 20:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 <providers>
 
 <provider id="101002" type="1" visible="true" background="-1">
-    <name>Eurasia - Туристические - Московская область</name>
+    <name>Евразия - Туристические - Московская область</name>
     <mode>Ориентирование "Adraces"</mode>
     <countries>Russia</countries>
     <usage>hiking</usage>

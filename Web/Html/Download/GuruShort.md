@@ -59,12 +59,12 @@
 
 
 
-### Eurasia - Туристические - Топокарты ГГЦ
+### Евразия - Туристические - Топокарты ГГЦ
 [ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
 
 
 
-### Eurasia - Туристические - Топокарты Генштаб
+### Евразия - Туристические - Топокарты Генштаб
 [Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_All.ms "Скачать эту карту")
 
 

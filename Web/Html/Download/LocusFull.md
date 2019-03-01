@@ -99,12 +99,12 @@
 
 
 
-### [Eurasia - Туристические  - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
+### [Евразия - Туристические  - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
 [RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
 
 
 
-### [Eurasia - Туристические - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Евразия - Туристические - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [ГосГисЦентр 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0250.xml "Скачать эту карту")
 
 [ГосГисЦентр 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0500.xml "Скачать эту карту")
@@ -117,7 +117,7 @@
 
 
 
-### [Eurasia - Туристические - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
+### [Евразия - Туристические - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
 [Генштаб 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00250.xml "Скачать эту карту")
 
 [Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00500.xml "Скачать эту карту")
@@ -142,7 +142,7 @@
 
 
 
-### [Eurasia - Туристические - Московская область](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Moscow.xml "Скачать всю группу")
+### [Евразия - Туристические - Московская область](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Moscow.xml "Скачать всю группу")
 [Ориентирование "Adraces"](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Moscow-Adraces.xml "Скачать эту карту")
 
 [Атлас издательства "Арбалет"](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Moscow-Arbalet.xml "Скачать эту карту")

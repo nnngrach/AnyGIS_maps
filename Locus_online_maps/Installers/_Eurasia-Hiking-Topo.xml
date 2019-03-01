@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-03-2019 20:36
+Файл обновлен: 01-03-2019 20:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,10 +19,10 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Eurasia%20-%20Туристические%20-%20Топокарты%20ГГЦ.png]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Топокарты%20ГГЦ.png]]>
         </source>
         <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia - Туристические - Топокарты ГГЦ.png]]>
+        <![CDATA[/mapsOnline/custom/Евразия - Туристические - Топокарты ГГЦ.png]]>
         </dest>
     </download>
 
