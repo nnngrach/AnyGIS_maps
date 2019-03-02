@@ -12,7 +12,7 @@
 
 # Как это работает?
 
-![](https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Tiled_web_map_Stevage.png/800px-Tiled_web_map_Stevage.png)
+![](https://nnngrach.github.io/map-sources/Web/Img/Tiles.png)
 
 ### Поговорим о мобильных навигаторах
 
