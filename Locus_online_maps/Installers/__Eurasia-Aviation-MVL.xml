@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 11:28
+Файл обновлен: 02-03-2019 11:30
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -28,10 +28,10 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Летные.png]]>
+        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Лётные.png]]>
         </source>
         <dest>
-        <![CDATA[/mapsOnline/custom/Евразия - Летные.png]]>
+        <![CDATA[/mapsOnline/custom/Евразия - Лётные.png]]>
         </dest>
     </download>
 

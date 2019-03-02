@@ -222,7 +222,7 @@
 
 
 
-### Евразия - Летные
+### Евразия - Лётные
 [ERSI World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-ERSI_Navigation_Charts.ms "Скачать эту карту")
 
 [Лётные карты МВЛ](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation-MVL.ms "Скачать эту карту")
