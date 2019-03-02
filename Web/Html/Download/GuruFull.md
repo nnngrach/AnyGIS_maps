@@ -155,63 +155,69 @@
 
 
 
-### Евразия - Горные - Кавказ
-[Абишира-Ахуба (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Abshira_Ahuba.ms "Скачать эту карту")
+### Евразия - Туристические - Кавказ
+[Абишира-Ахуба (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Abshira_Ahuba.ms "Скачать эту карту")
 
-[Сводная ФГУ СК АГП](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-FGU.ms "Скачать эту карту")
+[Сводная ФГУ СК АГП](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-FGU.ms "Скачать эту карту")
 
-[Сводная Госгеодезия 1991г](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Gosgeodesiya.ms "Скачать эту карту")
+[Сводная Госгеодезия 1991г](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Gosgeodesiya.ms "Скачать эту карту")
 
-[Казбек (Geoland)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Kazbek.ms "Скачать эту карту")
+[Казбек (Geoland)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Kazbek.ms "Скачать эту карту")
 
-[Перевалы Центрального Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Perevaly_Center.ms "Скачать эту карту")
+[Перевалы Центрального Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Perevaly_Center.ms "Скачать эту карту")
 
-[Перевалы Южного Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Perevaly_South.ms "Скачать эту карту")
+[Перевалы Южного Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Perevaly_South.ms "Скачать эту карту")
 
-[Перевалы Западного Кавказа   2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Perevaly_West.ms "Скачать эту карту")
+[Перевалы Западного Кавказа   2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Perevaly_West.ms "Скачать эту карту")
 
-[Хребтовка Приэльбрусья (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Prielbusye.ms "Скачать эту карту")
+[Хребтовка Приэльбрусья (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Prielbusye.ms "Скачать эту карту")
 
-[Сводная карта Кавказа 500м](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Svodnaya_0500.ms "Скачать эту карту")
+[Сводная карта Кавказа 500м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Svodnaya_0500.ms "Скачать эту карту")
 
-[Сводная карта Кавказа 1 000м](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-Svodnaya_1000.ms "Скачать эту карту")
+[Сводная карта Кавказа 1 000м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-Svodnaya_1000.ms "Скачать эту карту")
 
-[Западный Кавказ (КОТ ОРИЕНТ)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Caucasus-West_Kot.ms "Скачать эту карту")
-
-
-
-### Евразия - Горные - Крым
-[Горный Крым (Картография2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-Kartografiya.ms "Скачать эту карту")
-
-[Горный Крым (Союзкарта2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Crymea-SoyusKarta.ms "Скачать эту карту")
+[Западный Кавказ (КОТ ОРИЕНТ)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus-West_Kot.ms "Скачать эту карту")
 
 
 
-### Евразия - Горные - Хибины
-[Горы Хибинской тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Hills.ms "Скачать эту карту")
+### Евразия - Туристические - Крым
+[Горный Крым (Картография2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea-Kartografiya.ms "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.ms "Скачать эту карту")
-
-[Хибинские и ловоозерские тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Chininy-Tundra_Old.ms "Скачать эту карту")
+[Горный Крым (Союзкарта2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea-SoyusKarta.ms "Скачать эту карту")
 
 
 
-### Евразия - Горные - Разное
-[Хребет Аладаглар 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Alagadar.ms "Скачать эту карту")
+### Евразия - Туристические - Хибины
+[Горы Хибинской тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Hills.ms "Скачать эту карту")
 
-[Катунский Чуйский хребты.  Алтай](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Altay.ms "Скачать эту карту")
+[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.ms "Скачать эту карту")
 
-[Карпаты](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Karpaty.ms "Скачать эту карту")
+[Хибинские и ловоозерские тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Tundra_Old.ms "Скачать эту карту")
 
-[Киргизский хребет](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Kyrgizskiy_hrebet.ms "Скачать эту карту")
 
-[Саяны. Ергаки - Арадан](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Sayani.ms "Скачать эту карту")
 
-[Хребтовки Завьялова](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Slazav_hrebtovki.ms "Скачать эту карту")
+### Евразия - Туристические - Разное
+[Хребет Аладаглар 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Alagadar.ms "Скачать эту карту")
 
-[Хребтовка Терскей-Алатау](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-Terskey_Alatau.ms "Скачать эту карту")
 
-[Тянь-Шань и Памир](https://anygis.herokuapp.com/download/galileo/Eurasia-Mountains-Other-TianShan_and_Pamir.ms "Скачать эту карту")
+
+### Евразия - Туристические- Разное
+[Катунский Чуйский хребты.  Алтай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Altay.ms "Скачать эту карту")
+
+
+
+### Евразия - Туристические - Разное
+[Карпаты](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Karpaty.ms "Скачать эту карту")
+
+[Киргизский хребет](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.ms "Скачать эту карту")
+
+[Саяны. Ергаки - Арадан](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Sayani.ms "Скачать эту карту")
+
+[Хребтовки Завьялова](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Slazav_hrebtovki.ms "Скачать эту карту")
+
+[Хребтовка Терскей-Алатау](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Terskey_Alatau.ms "Скачать эту карту")
+
+[Тянь-Шань и Памир](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-TianShan_and_Pamir.ms "Скачать эту карту")
 
 
 

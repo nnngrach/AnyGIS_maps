@@ -155,63 +155,69 @@
 
 
 
-### [Евразия - Горные - Кавказ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Caucasus.xml "Скачать всю группу")
-[Абишира-Ахуба (Ляпин В.Г.)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Abshira_Ahuba.xml "Скачать эту карту")
+### [Евразия - Туристические - Кавказ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Caucasus.xml "Скачать всю группу")
+[Абишира-Ахуба (Ляпин В.Г.)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml "Скачать эту карту")
 
-[Сводная ФГУ СК АГП](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-FGU.xml "Скачать эту карту")
+[Сводная ФГУ СК АГП](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-FGU.xml "Скачать эту карту")
 
-[Сводная Госгеодезия 1991г](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Gosgeodesiya.xml "Скачать эту карту")
+[Сводная Госгеодезия 1991г](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Gosgeodesiya.xml "Скачать эту карту")
 
-[Казбек (Geoland)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Kazbek.xml "Скачать эту карту")
+[Казбек (Geoland)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Kazbek.xml "Скачать эту карту")
 
-[Перевалы Центрального Кавказа 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Perevaly_Center.xml "Скачать эту карту")
+[Перевалы Центрального Кавказа 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Perevaly_Center.xml "Скачать эту карту")
 
-[Перевалы Южного Кавказа 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Perevaly_South.xml "Скачать эту карту")
+[Перевалы Южного Кавказа 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Perevaly_South.xml "Скачать эту карту")
 
-[Перевалы Западного Кавказа   2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Perevaly_West.xml "Скачать эту карту")
+[Перевалы Западного Кавказа   2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Perevaly_West.xml "Скачать эту карту")
 
-[Хребтовка Приэльбрусья (Ляпин В.Г.)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Prielbusye.xml "Скачать эту карту")
+[Хребтовка Приэльбрусья (Ляпин В.Г.)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Prielbusye.xml "Скачать эту карту")
 
-[Сводная карта Кавказа 500м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Svodnaya_0500.xml "Скачать эту карту")
+[Сводная карта Кавказа 500м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Svodnaya_0500.xml "Скачать эту карту")
 
-[Сводная карта Кавказа 1 000м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-Svodnaya_1000.xml "Скачать эту карту")
+[Сводная карта Кавказа 1 000м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-Svodnaya_1000.xml "Скачать эту карту")
 
-[Западный Кавказ (КОТ ОРИЕНТ)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Caucasus-West_Kot.xml "Скачать эту карту")
-
-
-
-### [Евразия - Горные - Крым](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Crymea.xml "Скачать всю группу")
-[Горный Крым (Картография2010)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Crymea-Kartografiya.xml "Скачать эту карту")
-
-[Горный Крым (Союзкарта2011)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Crymea-SoyusKarta.xml "Скачать эту карту")
+[Западный Кавказ (КОТ ОРИЕНТ)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Caucasus-West_Kot.xml "Скачать эту карту")
 
 
 
-### [Евразия - Горные - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Chininy.xml "Скачать всю группу")
-[Горы Хибинской тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Hills.xml "Скачать эту карту")
+### [Евразия - Туристические - Крым](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Crimea.xml "Скачать всю группу")
+[Горный Крым (Картография2010)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Crimea-Kartografiya.xml "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
-
-[Хибинские и ловоозерские тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Chininy-Tundra_Old.xml "Скачать эту карту")
+[Горный Крым (Союзкарта2011)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Crimea-SoyusKarta.xml "Скачать эту карту")
 
 
 
-### [Евразия - Горные - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Mountains-Other.xml "Скачать всю группу")
-[Хребет Аладаглар 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Alagadar.xml "Скачать эту карту")
+### [Евразия - Туристические - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Chininy.xml "Скачать всю группу")
+[Горы Хибинской тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Hills.xml "Скачать эту карту")
 
-[Катунский Чуйский хребты.  Алтай](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Altay.xml "Скачать эту карту")
+[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
 
-[Карпаты](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Karpaty.xml "Скачать эту карту")
+[Хибинские и ловоозерские тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Tundra_Old.xml "Скачать эту карту")
 
-[Киргизский хребет](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Kyrgizskiy_hrebet.xml "Скачать эту карту")
 
-[Саяны. Ергаки - Арадан](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Sayani.xml "Скачать эту карту")
 
-[Хребтовки Завьялова](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Slazav_hrebtovki.xml "Скачать эту карту")
+### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
+[Хребет Аладаглар 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Alagadar.xml "Скачать эту карту")
 
-[Хребтовка Терскей-Алатау](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-Terskey_Alatau.xml "Скачать эту карту")
 
-[Тянь-Шань и Памир](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Mountains-Other-TianShan_and_Pamir.xml "Скачать эту карту")
+
+### [Евразия - Туристические- Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
+[Катунский Чуйский хребты.  Алтай](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Altay.xml "Скачать эту карту")
+
+
+
+### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
+[Карпаты](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Karpaty.xml "Скачать эту карту")
+
+[Киргизский хребет](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml "Скачать эту карту")
+
+[Саяны. Ергаки - Арадан](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Sayani.xml "Скачать эту карту")
+
+[Хребтовки Завьялова](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Slazav_hrebtovki.xml "Скачать эту карту")
+
+[Хребтовка Терскей-Алатау](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Terskey_Alatau.xml "Скачать эту карту")
+
+[Тянь-Шань и Памир](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-TianShan_and_Pamir.xml "Скачать эту карту")
 
 
 
