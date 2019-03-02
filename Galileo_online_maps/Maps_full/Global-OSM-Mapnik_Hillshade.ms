@@ -5,7 +5,7 @@
 https://nnngrach.github.io/map-sources/Web/Html/Galileo
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 14:09
+Файл обновлен: 02-03-2019 14:52
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,8 +23,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Galileo
     <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
-    <serverParts>a b c </serverParts>
+    <url>https://anygis.herokuapp.com/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
     </layer>
 
     <layer>
