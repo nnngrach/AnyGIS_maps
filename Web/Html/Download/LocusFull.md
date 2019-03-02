@@ -222,7 +222,7 @@
 
 
 
-### [Евразия - Лётные](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
+### [Евразия - Летные](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Aviation.xml "Скачать всю группу")
 [ERSI World Navigation Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Aviation-ERSI_Navigation_Charts.xml "Скачать эту карту")
 
 [Лётные карты МВЛ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Aviation-MVL.xml "Скачать эту карту")
