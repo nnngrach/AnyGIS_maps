@@ -16,7 +16,7 @@
 
 # Туристические карты для смартфонов
 
-В наши дни практически у каждого при себе есть смартфон. И раз уж мы его все равно носим, хочется, чтобы он приносил нам как можно больше пользы. Например, сделать навигатор в телефоне по-настоящему полезным.
+В наши дни практически у каждого при себе есть смартфон. И раз уж мы его все равно носим, хочется, чтобы он приносил нам как можно больше пользы. Например, чтобы навигатор в телефоне стал по-настоящему полезным.
 
 ![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.jpg)
 
@@ -43,3 +43,9 @@
 
 
 ![Outdoor oicture](http://wildernessmastery.com/wp-content/uploads/2016/09/BackCountry-Navigator.png)
+
+[1]: https://www.locusmap.eu/
+[2]: https://gurumaps.app/
+[3]: http://www.sasgis.org/
+[4]: https://nakarte.me
+[5]: https://melda.ru/2017/07/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%B5-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-vs-garmin/
