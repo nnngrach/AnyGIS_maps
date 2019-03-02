@@ -1,3 +1,7 @@
+<head>
+ <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
+</head>
+
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для GuruMaps][05] | [API][06] |
 
 
