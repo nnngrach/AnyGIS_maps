@@ -92,14 +92,12 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 <center>
 
-text 1
-
 ![](https://nnngrach.github.io/map-sources/Web/Img/osm.jpg)
 
 </center>
 
 <p align="center">
-<img src="./Web/Img/osm.png"/>
+<img src="https://github.com/nnngrach/map-sources/raw/master/Web/Img/osm.jpg"/>
 </p>
 
 
