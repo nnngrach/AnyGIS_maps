@@ -46,11 +46,6 @@
 
 
 
-![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.jpg)
-
-
-
-
 
 [1]: https://www.locusmap.eu/
 [2]: https://gurumaps.app/
