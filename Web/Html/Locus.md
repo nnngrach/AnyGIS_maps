@@ -13,7 +13,7 @@
 
 # Карты для Locus
 
-[*Список изменений*][16]
+[Список изменений][16]
 
 [16]: https://nnngrach.github.io/map-sources/Web/Html/Changelog
 
