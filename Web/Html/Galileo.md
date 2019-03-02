@@ -13,7 +13,7 @@
 
 # Карты для Guru Maps (Galileo Pro)
 
-[*Список изменений*][0]
+[Список изменений][0]
 
 [0]: https://nnngrach.github.io/map-sources/Web/Html/Changelog
 
