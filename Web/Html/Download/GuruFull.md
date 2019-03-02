@@ -101,46 +101,46 @@
 
 
 
-### Евразия - Туристические  - AnyGIS
-[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
+### Евразия - Топокарты - ГГЦ
+[ГосГисЦентр 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_0250.ms "Скачать эту карту")
+
+[ГосГисЦентр 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_0500.ms "Скачать эту карту")
+
+[ГосГисЦентр 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_1000.ms "Скачать эту карту")
+
+[ГосГисЦентр 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_2000.ms "Скачать эту карту")
+
+[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_All.ms "Скачать эту карту")
 
 
 
-### Евразия - Туристические - Топокарты ГГЦ
-[ГосГисЦентр 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_0250.ms "Скачать эту карту")
+### Евразия - Топокарты - Генштаб
+[Генштаб 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00250.ms "Скачать эту карту")
 
-[ГосГисЦентр 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_0500.ms "Скачать эту карту")
+[Генштаб 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00500.ms "Скачать эту карту")
 
-[ГосГисЦентр 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_1000.ms "Скачать эту карту")
+[Генштаб 500 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00500_new.ms "Скачать эту карту")
 
-[ГосГисЦентр 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_2000.ms "Скачать эту карту")
+[Генштаб 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_01000.ms "Скачать эту карту")
 
-[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
+[Генштаб 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_02000.ms "Скачать эту карту")
+
+[Генштаб 2 000 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_02000_new.ms "Скачать эту карту")
+
+[Генштаб 5 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_05000.ms "Скачать эту карту")
+
+[Генштаб 10 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_10000.ms "Скачать эту карту")
+
+[Генштаб 20 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_20000.ms "Скачать эту карту")
+
+[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
 
 
 
-### Евразия - Туристические - Топокарты Генштаб
-[Генштаб 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_00250.ms "Скачать эту карту")
+### Евразия - Туристические - Многослойные
+[Маршруты.ru](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer-MarshrutiRU.ms "Скачать эту карту")
 
-[Генштаб 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_00500.ms "Скачать эту карту")
-
-[Генштаб 500 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_00500_new.ms "Скачать эту карту")
-
-[Генштаб 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_01000.ms "Скачать эту карту")
-
-[Генштаб 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_02000.ms "Скачать эту карту")
-
-[Генштаб 2 000 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_02000_new.ms "Скачать эту карту")
-
-[Генштаб 5 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_05000.ms "Скачать эту карту")
-
-[Генштаб 10 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_10000.ms "Скачать эту карту")
-
-[Генштаб 20 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_20000.ms "Скачать эту карту")
-
-[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_All.ms "Скачать эту карту")
-
-[Маршруты.ru](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-MarshrutiRU.ms "Скачать эту карту")
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Скачать эту карту")
 
 
 

@@ -59,16 +59,16 @@
 
 
 
-### Евразия - Туристические  - AnyGIS
-[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-RusOutdoorMaps.ms "Скачать эту карту")
+### Евразия - Топокарты - ГГЦ
+[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-GGC_All.ms "Скачать эту карту")
 
 
 
-### Евразия - Туристические - Топокарты ГГЦ
-[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-GGC_All.ms "Скачать эту карту")
+### Евразия - Топокарты - Генштаб
+[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
 
 
 
-### Евразия - Туристические - Топокарты Генштаб
-[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Topo-Genshtab_All.ms "Скачать эту карту")
+### Евразия - Туристические - Многослойные
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Скачать эту карту")
 

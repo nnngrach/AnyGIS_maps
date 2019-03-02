@@ -101,46 +101,46 @@
 
 
 
-### [Евразия - Туристические - AnyGIS](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking.xml "Скачать всю группу")
-[RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-RusOutdoorMaps.xml "Скачать эту карту")
+### [Евразия - Топокарты - ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Topo.xml "Скачать всю группу")
+[ГосГисЦентр 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-GGC_0250.xml "Скачать эту карту")
+
+[ГосГисЦентр 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-GGC_0500.xml "Скачать эту карту")
+
+[ГосГисЦентр 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-GGC_1000.xml "Скачать эту карту")
+
+[ГосГисЦентр 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-GGC_2000.xml "Скачать эту карту")
+
+[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-GGC_All.xml "Скачать эту карту")
 
 
 
-### [Евразия - Туристические - Топокарты ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
-[ГосГисЦентр 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0250.xml "Скачать эту карту")
+### [Евразия - Топокарты - Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Topo.xml "Скачать всю группу")
+[Генштаб 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00250.xml "Скачать эту карту")
 
-[ГосГисЦентр 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_0500.xml "Скачать эту карту")
+[Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00500.xml "Скачать эту карту")
 
-[ГосГисЦентр 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_1000.xml "Скачать эту карту")
+[Генштаб 500 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00500_new.xml "Скачать эту карту")
 
-[ГосГисЦентр 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_2000.xml "Скачать эту карту")
+[Генштаб 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_01000.xml "Скачать эту карту")
 
-[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-GGC_All.xml "Скачать эту карту")
+[Генштаб 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_02000.xml "Скачать эту карту")
+
+[Генштаб 2 000 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_02000_new.xml "Скачать эту карту")
+
+[Генштаб 5 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_05000.xml "Скачать эту карту")
+
+[Генштаб 10 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_10000.xml "Скачать эту карту")
+
+[Генштаб 20 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_20000.xml "Скачать эту карту")
+
+[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_All.xml "Скачать эту карту")
 
 
 
-### [Евразия - Туристические - Топокарты Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Topo.xml "Скачать всю группу")
-[Генштаб 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00250.xml "Скачать эту карту")
+### [Евразия - Туристические - Многослойные](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Multylayer.xml "Скачать всю группу")
+[Маршруты.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Multylayer-MarshrutiRU.xml "Скачать эту карту")
 
-[Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00500.xml "Скачать эту карту")
-
-[Генштаб 500 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_00500_new.xml "Скачать эту карту")
-
-[Генштаб 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_01000.xml "Скачать эту карту")
-
-[Генштаб 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_02000.xml "Скачать эту карту")
-
-[Генштаб 2 000 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_02000_new.xml "Скачать эту карту")
-
-[Генштаб 5 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_05000.xml "Скачать эту карту")
-
-[Генштаб 10 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_10000.xml "Скачать эту карту")
-
-[Генштаб 20 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_20000.xml "Скачать эту карту")
-
-[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-Genshtab_All.xml "Скачать эту карту")
-
-[Маршруты.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Topo-MarshrutiRU.xml "Скачать эту карту")
+[RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml "Скачать эту карту")
 
 
 
