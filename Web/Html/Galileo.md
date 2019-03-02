@@ -17,6 +17,9 @@
 
 [0]: https://nnngrach.github.io/map-sources/Web/Html/Changelog
 
+![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.png)
+
+
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора карт:
 
 ### Базовый набор
