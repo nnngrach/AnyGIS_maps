@@ -63,6 +63,8 @@
 
 [Mapnik + GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_GPS_Tracks.xml "Скачать эту карту")
 
+[Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
+
 [Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
 
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")

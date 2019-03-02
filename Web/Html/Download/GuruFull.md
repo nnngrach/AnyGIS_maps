@@ -63,6 +63,8 @@
 
 [Mapnik + GPS Tracks](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
+[Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
+
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
