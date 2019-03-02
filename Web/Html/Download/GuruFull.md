@@ -199,14 +199,8 @@
 ### Евразия - Туристические - Разное
 [Хребет Аладаглар 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Alagadar.ms "Скачать эту карту")
 
-
-
-### Евразия - Туристические- Разное
 [Катунский Чуйский хребты.  Алтай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Altay.ms "Скачать эту карту")
 
-
-
-### Евразия - Туристические - Разное
 [Карпаты](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Karpaty.ms "Скачать эту карту")
 
 [Киргизский хребет](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.ms "Скачать эту карту")

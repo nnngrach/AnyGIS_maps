@@ -199,14 +199,8 @@
 ### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
 [Хребет Аладаглар 2014](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Alagadar.xml "Скачать эту карту")
 
-
-
-### [Евразия - Туристические- Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
 [Катунский Чуйский хребты.  Алтай](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Altay.xml "Скачать эту карту")
 
-
-
-### [Евразия - Туристические - Разное](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/_Eurasia-Hiking-Other.xml "Скачать всю группу")
 [Карпаты](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Karpaty.xml "Скачать эту карту")
 
 [Киргизский хребет](locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml "Скачать эту карту")
