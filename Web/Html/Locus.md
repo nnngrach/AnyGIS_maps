@@ -13,6 +13,8 @@
 
 # Карты для Locus
 
+![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.jpg)
+
 [*Список изменений*][16]
 
 [16]: https://nnngrach.github.io/map-sources/Web/Html/Changelog
