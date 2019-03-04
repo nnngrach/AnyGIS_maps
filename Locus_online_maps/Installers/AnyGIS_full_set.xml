@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора Locus.
-https://nnngrach.github.io/map-sources/Web/Html/Locus
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 22:49
+Файл обновлен: 04-03-2019 21:41
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Городские.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Городские.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Глобальные - Городские.png]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-2gis.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-2gis.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-2gis.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Google_map.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Google_map.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Google_map.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Google_terrain.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Google_terrain.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Google_terrain.xml]]>
@@ -55,7 +55,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Google_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Google_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Google_traffic.xml]]>
@@ -64,7 +64,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Here_map.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Here_map.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Here_map.xml]]>
@@ -73,7 +73,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Here_terrain.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Here_terrain.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Here_terrain.xml]]>
@@ -82,7 +82,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Here_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Here_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Here_traffic.xml]]>
@@ -91,7 +91,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Yandex_map.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Yandex_map.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Yandex_map.xml]]>
@@ -100,7 +100,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Yandex_narodnaya.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Yandex_narodnaya.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Yandex_narodnaya.xml]]>
@@ -109,7 +109,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-City-Yandex_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-City-Yandex_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-City-Yandex_traffic.xml]]>
@@ -118,7 +118,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Спутниковые.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Спутниковые.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
@@ -127,7 +127,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-All.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-All.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
@@ -136,7 +136,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-ESRI_Imagenary.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-ESRI_Imagenary.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
@@ -145,7 +145,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Google.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Google.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
@@ -154,7 +154,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Google_with_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Google_with_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels.xml]]>
@@ -163,7 +163,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Here.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Here.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Here.xml]]>
@@ -172,7 +172,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Mapbox.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Mapbox.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
@@ -181,7 +181,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
@@ -190,7 +190,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex_with_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Satellites-Yandex_with_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
@@ -199,7 +199,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Глобальные%20-%20OSM.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Глобальные%20-%20OSM.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Глобальные - OSM.png]]>
@@ -208,7 +208,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-4umaps.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-4umaps.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
@@ -217,7 +217,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Ersi_topo.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Ersi_topo.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Ersi_topo.xml]]>
@@ -226,7 +226,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-HikeBike.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-HikeBike.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-HikeBike.xml]]>
@@ -235,7 +235,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik.xml]]>
@@ -244,7 +244,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_GPS_Tracks.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_GPS_Tracks.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_GPS_Tracks.xml]]>
@@ -253,7 +253,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_Hillshade.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_Hillshade.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Hillshade.xml]]>
@@ -262,7 +262,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_Proxy.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Mapnik_Proxy.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
@@ -271,7 +271,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-OpenSnowMap.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-OpenSnowMap.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-OpenSnowMap.xml]]>
@@ -280,7 +280,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-OpenTopoMap.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-OpenTopoMap.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
@@ -289,7 +289,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Opnvkarte.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Opnvkarte.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
@@ -298,7 +298,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Sputnik.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Sputnik.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Sputnik.xml]]>
@@ -307,7 +307,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Cycle.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Cycle.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Cycle.xml]]>
@@ -316,7 +316,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Outdoor.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Outdoor.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Outdoor.xml]]>
@@ -325,7 +325,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Transport.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-OSM-Thunderforest_Transport.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport.xml]]>
@@ -334,7 +334,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Водные.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Водные.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Глобальные - Водные.png]]>
@@ -343,7 +343,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Water-ERSI_ocean.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Water-ERSI_ocean.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Water-ERSI_ocean.xml]]>
@@ -352,7 +352,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap.xml]]>
@@ -361,7 +361,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap_deep.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap_deep.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_deep.xml]]>
@@ -370,7 +370,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Water-OpenSeaMap_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_traffic.xml]]>
@@ -379,7 +379,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Справочные.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Глобальные%20-%20Справочные.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Глобальные - Справочные.png]]>
@@ -388,7 +388,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Wikimapia.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Wikimapia.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Wikimapia.xml]]>
@@ -397,7 +397,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Global-Wikimapia_satellite.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Global-Wikimapia_satellite.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
@@ -406,7 +406,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Топокарты - ГГЦ.png]]>
@@ -415,7 +415,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_0250.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_0250.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_0250.xml]]>
@@ -424,7 +424,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_0500.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_0500.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_0500.xml]]>
@@ -433,7 +433,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_1000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_1000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_1000.xml]]>
@@ -442,7 +442,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_2000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_2000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_2000.xml]]>
@@ -451,7 +451,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_All.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_All.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_All.xml]]>
@@ -460,7 +460,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20Генштаб.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20Генштаб.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Топокарты - Генштаб.png]]>
@@ -469,7 +469,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00250.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00250.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_00250.xml]]>
@@ -478,7 +478,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00500.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00500.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_00500.xml]]>
@@ -487,7 +487,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00500_new.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_00500_new.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_00500_new.xml]]>
@@ -496,7 +496,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_01000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_01000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_01000.xml]]>
@@ -505,7 +505,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_02000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_02000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_02000.xml]]>
@@ -514,7 +514,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_02000_new.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_02000_new.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_02000_new.xml]]>
@@ -523,7 +523,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_05000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_05000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_05000.xml]]>
@@ -532,7 +532,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_10000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_10000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_10000.xml]]>
@@ -541,7 +541,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_20000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_20000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_20000.xml]]>
@@ -550,7 +550,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_All.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Genshtab_All.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_All.xml]]>
@@ -559,7 +559,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Многослойные.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Многослойные.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Многослойные.png]]>
@@ -568,7 +568,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
@@ -577,7 +577,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
@@ -586,7 +586,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Московская%20область.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Московская%20область.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Московская область.png]]>
@@ -595,7 +595,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Adraces.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Adraces.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Adraces.xml]]>
@@ -604,7 +604,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Arbalet.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Arbalet.xml]]>
@@ -613,7 +613,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-OSport.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-OSport.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-OSport.xml]]>
@@ -622,7 +622,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Slazav.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Moscow-Slazav.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Slazav.xml]]>
@@ -631,7 +631,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Кавказ.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Кавказ.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Кавказ.png]]>
@@ -640,7 +640,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
@@ -649,7 +649,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-FGU.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-FGU.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-FGU.xml]]>
@@ -658,7 +658,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
@@ -667,7 +667,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
@@ -676,7 +676,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
@@ -685,7 +685,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
@@ -694,7 +694,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
@@ -703,7 +703,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
@@ -712,7 +712,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
@@ -721,7 +721,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
@@ -730,7 +730,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
@@ -739,7 +739,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Крым.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Крым.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Крым.png]]>
@@ -748,7 +748,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
@@ -757,7 +757,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
@@ -766,7 +766,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Хибины.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Хибины.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Хибины.png]]>
@@ -775,7 +775,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Hills.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Hills.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Chininy-Hills.xml]]>
@@ -784,7 +784,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.xml]]>
@@ -793,7 +793,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Tundra_Old.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Chininy-Tundra_Old.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Chininy-Tundra_Old.xml]]>
@@ -802,7 +802,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Разное.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Разное.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Туристические - Разное.png]]>
@@ -811,7 +811,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Alagadar.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Alagadar.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Alagadar.xml]]>
@@ -820,7 +820,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Altay.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Altay.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Altay.xml]]>
@@ -829,7 +829,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Karpaty.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Karpaty.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Karpaty.xml]]>
@@ -838,7 +838,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
@@ -847,7 +847,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Sayani.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Sayani.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Sayani.xml]]>
@@ -856,7 +856,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
@@ -865,7 +865,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
@@ -874,7 +874,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
@@ -883,7 +883,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Водные.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Водные.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Водные.png]]>
@@ -892,7 +892,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
@@ -901,7 +901,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Kuban.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Kuban.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Rivers-Kuban.xml]]>
@@ -910,7 +910,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Volga_kama.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Rivers-Volga_kama.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Rivers-Volga_kama.xml]]>
@@ -919,7 +919,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Лётные.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Лётные.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Лётные.png]]>
@@ -928,7 +928,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
@@ -937,7 +937,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Aviation-MVL.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Aviation-MVL.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Aviation-MVL.xml]]>
@@ -946,7 +946,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Aviation-RNK.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Aviation-RNK.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK.xml]]>
@@ -955,7 +955,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Сотовые%20сети.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Сотовые%20сети.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Сотовые сети.png]]>
@@ -964,7 +964,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-MTS.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-MTS.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-MTS.xml]]>
@@ -973,7 +973,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Megafon.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Megafon.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Megafon.xml]]>
@@ -982,7 +982,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Tele2.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Tele2.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Tele2.xml]]>
@@ -991,7 +991,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Yota.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Yota.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Yota.xml]]>
@@ -1000,7 +1000,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Европа%20-%20Восточная.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Европа%20-%20Восточная.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Европа - Восточная.png]]>
@@ -1009,7 +1009,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Europe-Eastern-CadastrUA.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Eastern-CadastrUA.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA.xml]]>
@@ -1018,7 +1018,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Europe-Eastern-MetaUA.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Eastern-MetaUA.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Europe-Eastern-MetaUA.xml]]>
@@ -1027,7 +1027,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Europe-Eastern-Navlux.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Eastern-Navlux.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Europe-Eastern-Navlux.xml]]>
@@ -1036,7 +1036,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Europe-Eastern-Vicicom.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Eastern-Vicicom.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Europe-Eastern-Vicicom.xml]]>
@@ -1045,7 +1045,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Overlay.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Overlay.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay.png]]>
@@ -1054,7 +1054,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Google_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Google_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Google_labels.xml]]>
@@ -1063,7 +1063,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Google_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Google_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Google_traffic.xml]]>
@@ -1072,7 +1072,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Here_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Here_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Here_traffic.xml]]>
@@ -1081,7 +1081,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSeaMap_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSeaMap_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSeaMap_traffic.xml]]>
@@ -1090,7 +1090,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSnowMap_pistes.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSnowMap_pistes.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSnowMap_pistes.xml]]>
@@ -1099,7 +1099,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSreetMaps_Tracks.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSreetMaps_Tracks.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSreetMaps_Tracks.xml]]>
@@ -1108,7 +1108,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Yandex_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Yandex_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Yandex_labels.xml]]>
@@ -1117,7 +1117,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Yandex_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Yandex_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Yandex_traffic.xml]]>

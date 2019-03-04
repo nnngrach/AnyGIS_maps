@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора GuruMaps (ex Galileo)
-https://nnngrach.github.io/map-sources/Web/Html/Galileo
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 22:49
+Файл обновлен: 04-03-2019 21:41
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)

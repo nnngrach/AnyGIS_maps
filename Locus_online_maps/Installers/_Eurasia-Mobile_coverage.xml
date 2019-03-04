@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора Locus.
-https://nnngrach.github.io/map-sources/Web/Html/Locus
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 22:49
+Файл обновлен: 04-03-2019 21:41
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Сотовые%20сети.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Сотовые%20сети.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Сотовые сети.png]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-MTS.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-MTS.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-MTS.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Megafon.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Megafon.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Megafon.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Tele2.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Tele2.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Tele2.xml]]>
@@ -55,7 +55,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Yota.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Mobile_coverage-Yota.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Mobile_coverage-Yota.xml]]>

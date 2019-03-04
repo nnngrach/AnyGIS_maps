@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для GuruMaps][05] | [API][06] |
 
 
-[01]: https://nnngrach.github.io/map-sources/index
-[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
-[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
-[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
-[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
+[01]: https://nnngrach.github.io/AnyGIS_maps/index
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
+[06]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
 
 
 
@@ -15,9 +15,9 @@
 
 [Список изменений][16]
 
-[16]: https://nnngrach.github.io/map-sources/Web/Html/Changelog
+[16]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog
 
-![Picture with 4 maps compilation](https://nnngrach.github.io/map-sources/Web/Img/4maps.png)
+![Picture with 4 maps compilation](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4maps.png)
 
 
 
@@ -35,11 +35,11 @@
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/AnyGIS_short_set.xml
+[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/AnyGIS_short_set.xml
 
-[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps/Maps_short
+[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_short
 
-[0]: https://nnngrach.github.io/map-sources/Web/Html/Download/LocusShort
+[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/LocusShort
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -59,18 +59,18 @@
 [Скачать со смартфона (выборочно)][13]
 
 
-[5]: https://github.com/nnngrach/map-sources/tree/master/Experimantal_area
+[5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
 [6]: https://melda.ru/locus/maps/
 [7]: http://4pda.ru/forum/index.php?showtopic=210573&st=3060#entry52768866
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps/Maps_full
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_full
 
-[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Installers/AnyGIS_full_set.xml
+[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/AnyGIS_full_set.xml
 
-[13]: https://nnngrach.github.io/map-sources/Web/Html/Download/LocusFull
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/LocusFull
 
 
 ### Подготовка к установке

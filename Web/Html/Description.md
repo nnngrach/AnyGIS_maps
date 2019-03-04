@@ -1,18 +1,18 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для GuruMaps][05] | [API][06] |
 
 
-[01]: https://nnngrach.github.io/map-sources/index
-[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
-[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
-[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
-[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
+[01]: https://nnngrach.github.io/AnyGIS_maps/index
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
+[06]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
 
 
 
 # Как это работает?
 
-![](https://nnngrach.github.io/map-sources/Web/Img/Tiles.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Tiles.png)
 
 ### Поговорим о мобильных навигаторах
 
@@ -91,21 +91,21 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 Стоит заметить, что в целях ускорения быстродействия эта подгонка происходит по упрощенной схеме. А именно, с помощью обычного смещения карты. Технически, это происходит следующим образом. Допустим, требуется получить кусок карты для этого места. (На изображении - эталон - кусок карты в стандартной проекции).
 
 <p align="center">
-<img src="https://github.com/nnngrach/map-sources/raw/master/Web/Img/osm.jpg"/>
+<img src="https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/osm.jpg"/>
 </p>
 
 
 Для начала, вычисляются координаты четырех ближайших к требуемому месту кусочков WGS84 карты. Все четыре кусочка загружаются и "склеиваются" в один большой квадрат.
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wgs4.jpg)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs4.jpg)
 
 Вычисляется, на какое расстояние требуется "cместить" новую карту. На большом квадрате делаются соответствующие отступы и вырезается кусок стандартного размера. 
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wgs_offset.jpg)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_offset.jpg)
 
 Получаем довольно похожий кусочек карты на то, что требуется. В принципе, для большинства задач такой грубой подгонки будет вполне достаточно. Однако стоит отметить, что небольшие расхождения все-таки будут присутствовать. Особенно они будут заметны ближе к полюсам.
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wgs_osm.jpg)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_osm.jpg)
 
 Кроме того, на то, чтобы "отфотошопить" карту на лету, потребуется некоторое время. То есть, карта с подобными преобразованиями будет загружаться не столь быстро, как остальные карты без каких-либо обработок. 
 
@@ -116,7 +116,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Для этого формируется список карт, отсортированных в порядке их приоритета. Сначала AnyGIS проверяет первую карту: есть ли на сервере с ней файл с интересующим нас кусочком местности. Если нет, то проверяется вторая карта и так далее по списку. 
 
-![](https://nnngrach.github.io/map-sources/Web/Img/slazav.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/slazav.png)
 
 Подобный режим позволяет склеить мелкие разрозненные кусочки с разных серверов в цельную неразрывную карту, которой сравнительно удобно пользоваться. Не требуется вручную переключаться между десятком различных карт, пока не отыщется хотя бы одна, которая будет пригодна для этой местности.
 

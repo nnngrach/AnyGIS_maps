@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора Locus.
-https://nnngrach.github.io/map-sources/Web/Html/Locus
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 22:49
+Файл обновлен: 04-03-2019 21:41
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_2000.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-GGC_2000.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC_2000.xml]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Евразия - Топокарты - ГГЦ.png]]>

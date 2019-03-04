@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для GuruMaps][05] | [API][06] |
 
 
-[01]: https://nnngrach.github.io/map-sources/index
-[02]: https://nnngrach.github.io/map-sources/Web/Html/Description
-[03]: https://nnngrach.github.io/map-sources/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/map-sources/Web/Html/Locus
-[05]: https://nnngrach.github.io/map-sources/Web/Html/Galileo
-[06]: https://nnngrach.github.io/map-sources/Web/Html/Api
+[01]: https://nnngrach.github.io/AnyGIS_maps/index
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
+[06]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
 
 
 
@@ -17,7 +17,7 @@
 
 *последнее обновление: 19.02.19*
 
-![](https://nnngrach.github.io/map-sources/Web/Img/nnngrach_zagedan.jpg)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/nnngrach_zagedan.jpg)
 
 
 Несмотря на то, что я уже сам писал, что идеальной и универсальной карты нет и быть не может, я все же попробовал таковую сделать. В качестве образца для подражания я выбрал карту с сайта [Маршруты.ру][1] - на ней при смене масштаба меняется отображаемая карта. 
@@ -37,7 +37,7 @@ Google Ландшафт
 
 Эту группу слоев стоит использовать, чтобы выбрать нужный материк, страну, и интересующий регион в этой стране. Для удобства, на карте обозначен рельеф, так что найти горные районы будет сравнительно просто. 
 
-![](https://nnngrach.github.io/map-sources/Web/Img/google_terrain.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/google_terrain.png)
 
 
 ***
@@ -51,7 +51,7 @@ OSM Спутник.ру
 
 Этот и следующий слой следует использовать, чтобы найти интересующий регион, ориентируясь по названиям городов и линиям автомагистралей. Плюс карты с сайта Спутник в том, что она быстро загружается и что на ней отображается рельеф. Минус - не самая наглядная отрисовка дорог. 
 
-![](https://nnngrach.github.io/map-sources/Web/Img/sputnik_ru.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/sputnik_ru.png)
 
 
 ### Слой 3 - Города и трассы
@@ -62,7 +62,7 @@ OSM Спутник.ру
 
 Этот и предыдущий слой следует использовать, чтобы найти интересующий регион, ориентируясь по названиям городов и линиям автомагистралей. Плюс карты с сайта Яндекс в более детальной и наглядной отрисовке дорог. Есть отображение заболоченных участков. Минусы - это карта в нестандартной проекции. Чтобы ее преобразовать затрачивается дополнительное время и карта загружается не так быстро. Очень часто я просто проскакиваю этот слой.
 
-![](https://nnngrach.github.io/map-sources/Web/Img/ya_map.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ya_map.png)
 
 ***
 
@@ -89,7 +89,7 @@ OSM Спутник.ру
 
 Локальные карты, Генштаб 1км, Генштаб 2 км, OSM Outdoors
 
-![](https://nnngrach.github.io/map-sources/Web/Img/genshtab.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/genshtab.png)
 
 
 
@@ -99,7 +99,7 @@ OSM Спутник.ру
 
 Локальные карты, ГГЦ 1км, Генштаб 500м
 
-![](https://nnngrach.github.io/map-sources/Web/Img/kavkaz_1000.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/kavkaz_1000.png)
 
 
 
@@ -109,7 +109,7 @@ OSM Спутник.ру
 
 Локальные карты, ГГЦ 500м, OSM Outdoors
 
-![](https://nnngrach.github.io/map-sources/Web/Img/ggc.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ggc.png)
 
 
 
@@ -130,7 +130,7 @@ Thunderforest Outdoors + слой с пиктограммами POI
 
 В дополнение к этой карте я добавил слой с пиктограммами: родники, места под стоянки и прочее. По стандарту OSM многие из этих иконок отображаются лишь с 16-го или даже 17-го масштаба. Но, на мой взгляд, при планировании маршрута, удобно видеть такие важные объекты "из дали".  К сожалению, эта дополнительная операция немного снизила скорость загрузки карты. 
 
-![](https://nnngrach.github.io/map-sources/Web/Img/osm_outdoors.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/osm_outdoors.png)
 
 
 
@@ -144,7 +144,7 @@ OpenStreetMaps Mapnik + слой с рельефом
 
 Чтобы это компенсировать, я добавил к этой карте дополнительный полупрозрачный слой с рельефом. Не слишком яркий, чтобы не отвлекать внимание и не закрасить мелкие объекты на карте. Но при этом, чтобы участки с сильным перепадом высот сразу бросались в глаза. Как и в предыдущем случае, за загрузку дополнительного слоя приходится платить увеличившимся временем загрузки.
 
-![](https://nnngrach.github.io/map-sources/Web/Img/mapnik.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/mapnik.png)
 
 ***
 
@@ -164,7 +164,7 @@ OpenStreetMaps Mapnik
 
 Слой Wikimapia
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wiki_mapnik.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_mapnik.png)
 
 
 
@@ -177,7 +177,7 @@ Google Спутник
 
 Слой Wikimapia
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wiki_google.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_google.png)
 
 
 
@@ -190,7 +190,7 @@ Google Спутник
 
 Слой Wikimapia
 
-![](https://nnngrach.github.io/map-sources/Web/Img/wiki_ya.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_ya.png)
 
 
 
@@ -202,9 +202,9 @@ Google Спутник
 
 [1]: https://www.marshruty.ru/Maps/Maps.aspx?x=36.96990966796878&y=56.787274943962025&z=8&t=4
 
-[2]: https://github.com/nnngrach/map-sources/tree/master/Locus_online_maps
+[2]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps
 
-[3]: https://github.com/nnngrach/map-sources/tree/master/Galileo_online_maps
+[3]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps
 
 [4]: https://shuriktravel.ru/maps/
 

@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора Locus.
-https://nnngrach.github.io/map-sources/Web/Html/Locus
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-03-2019 22:49
+Файл обновлен: 04-03-2019 21:41
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://github.com/nnngrach/map-sources/raw/master/Locus_online_maps/Icons/Overlay.png]]>
+        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Overlay.png]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay.png]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Google_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Google_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Google_labels.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Google_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Google_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Google_traffic.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Here_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Here_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Here_traffic.xml]]>
@@ -55,7 +55,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSeaMap_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSeaMap_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSeaMap_traffic.xml]]>
@@ -64,7 +64,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSnowMap_pistes.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSnowMap_pistes.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSnowMap_pistes.xml]]>
@@ -73,7 +73,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-OpenSreetMaps_Tracks.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-OpenSreetMaps_Tracks.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSreetMaps_Tracks.xml]]>
@@ -82,7 +82,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Yandex_labels.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Yandex_labels.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Yandex_labels.xml]]>
@@ -91,7 +91,7 @@ https://nnngrach.github.io/map-sources/Web/Html/Locus
 
     <download>
         <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/map-sources/master/Locus_online_maps/Maps_full/Overlay-Yandex_traffic.xml]]>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Yandex_traffic.xml]]>
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-Yandex_traffic.xml]]>
