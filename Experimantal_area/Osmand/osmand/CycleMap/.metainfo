@@ -1,0 +1,14 @@
+[url_template]
+http://b.tile.opencyclemap.org/cycle/{0}/{1}/{2}.png
+[ext]
+.png
+[min_zoom]
+0
+[max_zoom]
+20
+[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000

@@ -1,0 +1,16 @@
+[url_template]
+http://3.maptile.lbs.ovi.com/maptiler/v2/maptile/newest/hybrid.day/{0}/{1}/{2}/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps/{0}/{2}/{1}.png
+[ext]
+png
+[min_zoom]
+0
+[max_zoom]
+20
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ellipsoid]
+false

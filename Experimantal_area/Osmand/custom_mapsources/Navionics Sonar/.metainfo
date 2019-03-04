@@ -1,0 +1,9 @@
+[url_template]
+http://d2hcl9zx8watk4.cloudfront.net/tile/{0}/{1}/{2}.jpg?LAYERS=config_1_1_1&TRANSPARENT=FALSE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t
+[min_zoom]5
+[max_zoom]14[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000

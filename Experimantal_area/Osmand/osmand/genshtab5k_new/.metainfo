@@ -1,0 +1,16 @@
+[url_template]
+http://91.237.82.95:8082/genshtab5k_new/{0}/{1}/{2}.jpg
+[ext]
+.png
+[min_zoom]
+1
+[max_zoom]
+18
+[tile_size]
+256
+[img_density]
+24
+[avg_img_size]
+25000
+[ellipsoid]
+false

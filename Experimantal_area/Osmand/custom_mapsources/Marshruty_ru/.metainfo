@@ -1,0 +1,11 @@
+[url_template]
+http://maps.marshruty.ru/ml.ashx?al=1&x={1}&y={2}&z={0}&i=1
+[ext]
+.png
+[min_zoom]8
+[max_zoom]15[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000

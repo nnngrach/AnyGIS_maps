@@ -1,0 +1,16 @@
+[url_template]
+http://2.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{0}/{1}/{2}/256/jpg?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72/{0}/{2}/{1}.jpg
+[ext]
+jpg
+[min_zoom]
+0
+[max_zoom]
+20
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ellipsoid]
+false

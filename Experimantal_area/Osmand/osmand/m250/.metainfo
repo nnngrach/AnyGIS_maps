@@ -1,0 +1,16 @@
+[url_template]
+http://91.237.82.95:8084/genshtab250m/{0}/{1}/{2}.jpg
+[ext]
+.jpg
+[min_zoom]
+1
+[max_zoom]
+16
+[tile_size]
+256
+[img_density]
+24
+[avg_img_size]
+25000
+[ellipsoid]
+false

@@ -1,0 +1,12 @@
+[url_template]
+http://tile.thunderforest.com/transport/{0}/{1}/{2}.png
+[ext]
+.png
+[min_zoom]
+5
+[max_zoom]20[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000

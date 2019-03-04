@@ -1,0 +1,8 @@
+[url_template]
+http://maps.marshruty.ru/ml.ashx?al=1&i=1&x={1}&y={2}&z={0}
+[ext]
+.jpg
+[min_zoom]
+0
+[max_zoom]
+20

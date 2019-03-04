@@ -1,0 +1,14 @@
+[rule]
+yandex_traffic
+[ext]
+.jpg
+[min_zoom]
+5
+[max_zoom]
+18
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+18000

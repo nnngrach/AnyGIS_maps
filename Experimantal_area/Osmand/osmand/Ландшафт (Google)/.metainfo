@@ -1,0 +1,16 @@
+[rule]
+beanshell
+[url_template]
+String getTileUrl(int z, int x, int y){return"http://mt.google.com/vt/lyrs=t@130,r@206000000&hl=ru=app&x="+x+"&y="+y+"&z="+z+"&s="+"Galileo";}
+[ext]
+.png
+[min_zoom]
+0
+[max_zoom]
+20
+[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000
