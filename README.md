@@ -1,4 +1,4 @@
-![AnyGIS - Onlime maps pack](https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/AnyGIS_logo_and_text_300.png)
+![AnyGIS - Onlime maps pack](https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/AnyGIS_logo_and_text.png)
 
 Сервис для удобной загрузки дополнительных онлайн-карт для мобильных навигационных приложений. Вот некоторые карты, которые имеются в данной подборке:
 
