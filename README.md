@@ -1,6 +1,6 @@
 # AnyGIS - Online maps sources
 
-![logo](https://nnngrach.github.io/AnyGIS_maps/Web/Img/AnyGIS_logo_and_text.png)
+![logo](https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/AnyGIS_logo_and_text.png)
 
 Сайт для удобной загрузки карт для мобильных навигационных приложений. А точнее - источников онлайн карт. Вот некоторые карты, которые имеются в данной подборке:
 
