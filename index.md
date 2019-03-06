@@ -1,12 +1,3 @@
-window.onload = function() {
-  var link = top.document.createElement("link");
-  link.type = "image/x-icon";
-  link.rel = "shortcut icon";
-  link.href = "/wiki.ico";
-  top.document.getElementsByTagName("head")[0].appendChild(link);
-}
-
-
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Карты для Locus][04] | [Карты для GuruMaps][05] | [API][06] |
 
 
