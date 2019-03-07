@@ -259,12 +259,52 @@
 
 
 
+### [Европа - Северная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
+[Eniro](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro.xml "Скачать эту карту")
+
+[Eniro Sjökort (Nautical)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_Nautical.xml "Скачать эту карту")
+
+
+
+### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
+[Eniro labels layer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_labels.xml "Скачать эту карту")
+
+
+
+### [Европа - Северная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
+[Eniro Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_satellite.xml "Скачать эту карту")
+
+[FINN Kart Norge](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-FINN_Kart_Norge.xml "Скачать эту карту")
+
+[Hitta](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta.xml "Скачать эту карту")
+
+[Hitta Frilufts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta_Frilufts.xml "Скачать эту карту")
+
+[Hitta Frilufts + Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta_Frilufts_Skoterleder.xml "Скачать эту карту")
+
+[Hitta Satellit](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta_Satellit.xml "Скачать эту карту")
+
+[Lantmäteriets Fjällkarta](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Lantmateriet_Fjallkarta.xml "Скачать эту карту")
+
+[Lantmäteriets Topografisk](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Lantmateriet_Topowebb.xml "Скачать эту карту")
+
+[Topografisk Norgeskart 4](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Norgeskart.xml "Скачать эту карту")
+
+[Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Skoterleder.xml "Скачать эту карту")
+
+
+
 ### [США](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_USA.xml "Скачать всю группу")
 [USGS National Map - Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat.xml "Скачать эту карту")
 
-[USGS National Map - Satellite+](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat_plus.xml "Скачать эту карту")
+[USGS National Map - Satellite Plus](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat_plus.xml "Скачать эту карту")
 
 [USGS National Map - Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Topo.xml "Скачать эту карту")
+
+
+
+### [Прочее](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Other.xml "Скачать всю группу")
+[New-Zealand Topomaps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Other-NewZeland_Topo.xml "Скачать эту карту")
 
 
 

@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 07-03-2019 18:12
+Файл обновлен: 07-03-2019 21:35
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -17,7 +17,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
 
 
 <customMapSource>
-<name>USGS National Map - Satellite+</name>
+<name>USGS National Map - Satellite Plus</name>
 <layers>
 
     <layer>

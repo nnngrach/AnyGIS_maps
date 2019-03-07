@@ -259,10 +259,47 @@
 
 
 
+### Европа - Северная
+[Eniro](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro.ms "Скачать эту карту")
+
+[Eniro Sjökort (Nautical)](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro_Nautical.ms "Скачать эту карту")
+
+[Eniro Hybrid](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro_hybrid.ms "Скачать эту карту")
+
+[FINN Kart Norge](https://anygis.herokuapp.com/download/galileo/Europe-Northern-FINN_Kart_Norge.ms "Скачать эту карту")
+
+[Hitta](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta.ms "Скачать эту карту")
+
+[Hitta Frilufts](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta_Frilufts.ms "Скачать эту карту")
+
+[Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta_Frilufts_Skoterleder.ms "Скачать эту карту")
+
+[Hitta Satellit](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta_Satellit.ms "Скачать эту карту")
+
+[Lantmäteriets Fjällkarta](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Lantmateriet_Fjallkarta.ms "Скачать эту карту")
+
+[Lantmäteriets Topografisk](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Lantmateriet_Topowebb.ms "Скачать эту карту")
+
+[Topografisk Norgeskart 4](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Norgeskart.ms "Скачать эту карту")
+
+[Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Skoterleder.ms "Скачать эту карту")
+
+
+
 ### США
 [USGS National Map - Satellite](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat.ms "Скачать эту карту")
 
-[USGS National Map - Satellite+](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat_plus.ms "Скачать эту карту")
+[USGS National Map - Satellite Plus](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat_plus.ms "Скачать эту карту")
 
 [USGS National Map - Topo](https://anygis.herokuapp.com/download/galileo/USA-USGS_Topo.ms "Скачать эту карту")
+
+
+
+### Прочее
+[New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
+
+
+
+### Background
+[Eniro Sat layer](https://anygis.herokuapp.com/download/galileo/Background-Eniro_sat_clean.ms "Скачать эту карту")
 
