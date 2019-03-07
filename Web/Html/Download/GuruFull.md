@@ -13,6 +13,8 @@
 ### Глобальные - Городские
 [2Gis](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
+[Bing Maps](https://anygis.herokuapp.com/download/galileo/Global-City-Bing_map.ms "Скачать эту карту")
+
 [Google Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
 
 [Google Ландшафт](https://anygis.herokuapp.com/download/galileo/Global-City-Google_terrain.ms "Скачать эту карту")
@@ -35,6 +37,8 @@
 
 ### Глобальные - Спутниковые
 [AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-All.ms "Скачать эту карту")
+
+[Bing Bird's Eye](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Bing_birds_eye.ms "Скачать эту карту")
 
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites-ESRI_Imagenary.ms "Скачать эту карту")
 

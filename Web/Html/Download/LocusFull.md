@@ -13,6 +13,8 @@
 ### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
 [2Gis](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-2gis.xml "Скачать эту карту")
 
+[Bing Maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Bing_map.xml "Скачать эту карту")
+
 [Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
 
 [Google Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Google_terrain.xml "Скачать эту карту")
@@ -35,6 +37,8 @@
 
 ### [Глобальные - Спутниковые](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-Satellites.xml "Скачать всю группу")
 [AnyGIS Спутниковый сборник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-All.xml "Скачать эту карту")
+
+[Bing Bird's Eye](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Bing_birds_eye.xml "Скачать эту карту")
 
 [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-ESRI_Imagenary.xml "Скачать эту карту")
 
