@@ -259,6 +259,15 @@
 
 
 
+### [США](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_USA.xml "Скачать всю группу")
+[USGS National Map - Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat.xml "Скачать эту карту")
+
+[USGS National Map - Satellite+](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat_plus.xml "Скачать эту карту")
+
+[USGS National Map - Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Topo.xml "Скачать эту карту")
+
+
+
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Overlay.xml "Скачать всю группу")
 [Google Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Google_labels.xml "Скачать эту карту")
 

@@ -257,3 +257,12 @@
 
 [Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo/Europe-Eastern-Vicicom.ms "Скачать эту карту")
 
+
+
+### США
+[USGS National Map - Satellite](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat.ms "Скачать эту карту")
+
+[USGS National Map - Satellite+](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat_plus.ms "Скачать эту карту")
+
+[USGS National Map - Topo](https://anygis.herokuapp.com/download/galileo/USA-USGS_Topo.ms "Скачать эту карту")
+
