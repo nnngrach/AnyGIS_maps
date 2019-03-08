@@ -298,8 +298,3 @@
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
 
-
-
-### Background
-[Eniro Sat layer](https://anygis.herokuapp.com/download/galileo/Background-Eniro_sat_clean.ms "Скачать эту карту")
-
