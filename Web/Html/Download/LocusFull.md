@@ -264,14 +264,8 @@
 
 [Eniro Sjökort (Nautical)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_Nautical.xml "Скачать эту карту")
 
-
-
-### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
 [Eniro labels layer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_labels.xml "Скачать эту карту")
 
-
-
-### [Европа - Северная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
 [Eniro Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_satellite.xml "Скачать эту карту")
 
 [FINN Kart Norge](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-FINN_Kart_Norge.xml "Скачать эту карту")
