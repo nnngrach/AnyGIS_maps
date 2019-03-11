@@ -7,7 +7,7 @@
     <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>https://services.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer/tile/{$z}/{$y}/{$x}</url>
+    <url>https://anygis.herokuapp.com/Ersi_Topomap/{$x}/{$y}/{$z}</url>
     </layer>
 
 

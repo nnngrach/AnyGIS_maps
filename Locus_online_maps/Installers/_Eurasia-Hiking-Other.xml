@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 08-03-2019 21:55
+Файл обновлен: 11-03-2019 21:06
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -77,6 +77,15 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Other-Taganay.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Taganay.xml]]>
         </dest>
     </download>
 

@@ -213,6 +213,8 @@
 
 [Хребтовки Завьялова](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Slazav_hrebtovki.xml "Скачать эту карту")
 
+[Национальный парк Таганай](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Taganay.xml "Скачать эту карту")
+
 [Хребтовка Терскей-Алатау](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Terskey_Alatau.xml "Скачать эту карту")
 
 [Тянь-Шань и Памир](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-TianShan_and_Pamir.xml "Скачать эту карту")
@@ -245,6 +247,41 @@
 [Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Tele2.xml "Скачать эту карту")
 
 [Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Yota.xml "Скачать эту карту")
+
+
+
+### [Исторические](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Hystoric.xml "Скачать всю группу")
+[Немецкая Аэро-Фото съёмка (Краснодар)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Aero_Krasnodar.xml "Скачать эту карту")
+
+[Немецкий Генштаб 1942 3км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
+
+[Немецкий Генштаб 1941 2км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
+
+[Кавказ 1877 5-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kavkaz_1877.xml "Скачать эту карту")
+
+[Кавказ 1926 5-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kavkaz_1926.xml "Скачать эту карту")
+
+[Кавказ 1941-48 5-верстовая (ENG)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kavkaz_1948_eng.xml "Скачать эту карту")
+
+[Крым 1880 1-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Krim_1v.xml "Скачать эту карту")
+
+[Кубанская область 1902](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kuban_1902.xml "Скачать эту карту")
+
+[Кубанский р-н геологическая 1908-16 1 верста](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kuban_1916.xml "Скачать эту карту")
+
+[Кубань Стрельбицкого 1918 10 верст](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kuban_1918.xml "Скачать эту карту")
+
+[Кубанский округ 1930](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Kuban_1930.xml "Скачать эту карту")
+
+[Майкопский округ 1925](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Maykop_1925.xml "Скачать эту карту")
+
+[РККА 1940 1км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-RKKA_1km.xml "Скачать эту карту")
+
+[РККА 1932-1942 2км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-RKKA_2km.xml "Скачать эту карту")
+
+[Стрельбицкого 1882 10-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1882.xml "Скачать эту карту")
+
+[Исторические: Стрельбицкого 1919 10 верст](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1919.xml "Скачать эту карту")
 
 
 

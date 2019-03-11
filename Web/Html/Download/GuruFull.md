@@ -213,6 +213,8 @@
 
 [Хребтовки Завьялова](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Slazav_hrebtovki.ms "Скачать эту карту")
 
+[Национальный парк Таганай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Taganay.ms "Скачать эту карту")
+
 [Хребтовка Терскей-Алатау](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Terskey_Alatau.ms "Скачать эту карту")
 
 [Тянь-Шань и Памир](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-TianShan_and_Pamir.ms "Скачать эту карту")
@@ -245,6 +247,41 @@
 [Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Tele2.ms "Скачать эту карту")
 
 [Yota](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Yota.ms "Скачать эту карту")
+
+
+
+### Исторические
+[Немецкая Аэро-Фото съёмка (Краснодар)](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Aero_Krasnodar.ms "Скачать эту карту")
+
+[Немецкий Генштаб 1942 3км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
+
+[Немецкий Генштаб 1941 2км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
+
+[Кавказ 1877 5-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Kavkaz_1877.ms "Скачать эту карту")
+
+[Кавказ 1926 5-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Kavkaz_1926.ms "Скачать эту карту")
+
+[Кавказ 1941-48 5-верстовая (ENG)](https://anygis.herokuapp.com/download/galileo/Hystoric-Kavkaz_1948_eng.ms "Скачать эту карту")
+
+[Крым 1880 1-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Krim_1v.ms "Скачать эту карту")
+
+[Кубанская область 1902](https://anygis.herokuapp.com/download/galileo/Hystoric-Kuban_1902.ms "Скачать эту карту")
+
+[Кубанский р-н геологическая 1908-16 1 верста](https://anygis.herokuapp.com/download/galileo/Hystoric-Kuban_1916.ms "Скачать эту карту")
+
+[Кубань Стрельбицкого 1918 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric-Kuban_1918.ms "Скачать эту карту")
+
+[Кубанский округ 1930](https://anygis.herokuapp.com/download/galileo/Hystoric-Kuban_1930.ms "Скачать эту карту")
+
+[Майкопский округ 1925](https://anygis.herokuapp.com/download/galileo/Hystoric-Maykop_1925.ms "Скачать эту карту")
+
+[РККА 1940 1км](https://anygis.herokuapp.com/download/galileo/Hystoric-RKKA_1km.ms "Скачать эту карту")
+
+[РККА 1932-1942 2км](https://anygis.herokuapp.com/download/galileo/Hystoric-RKKA_2km.ms "Скачать эту карту")
+
+[Стрельбицкого 1882 10-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1882.ms "Скачать эту карту")
+
+[Исторические: Стрельбицкого 1919 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1919.ms "Скачать эту карту")
 
 
 
