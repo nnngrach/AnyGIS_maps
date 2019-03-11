@@ -281,7 +281,7 @@
 
 [Стрельбицкого 1882 10-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1882.ms "Скачать эту карту")
 
-[Исторические: Стрельбицкого 1919 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1919.ms "Скачать эту карту")
+[Стрельбицкого 1919 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1919.ms "Скачать эту карту")
 
 
 

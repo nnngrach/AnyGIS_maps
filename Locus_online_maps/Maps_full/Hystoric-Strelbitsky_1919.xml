@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 11-03-2019 21:06
+Файл обновлен: 11-03-2019 21:20
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -20,7 +20,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <provider id="5555005" type="0" visible="true" background="-1">
     <name>Исторические</name>
-    <mode>Исторические: Стрельбицкого 1919 10 верст</mode>
+    <mode>Стрельбицкого 1919 10 верст</mode>
     <countries>Russia</countries>
     <usage>hiking</usage>
     <url><![CDATA[https://anygis.herokuapp.com/Historic_Strelbitsky_1919/{x}/{y}/{z}]]></url>

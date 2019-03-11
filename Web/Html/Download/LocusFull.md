@@ -281,7 +281,7 @@
 
 [Стрельбицкого 1882 10-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1882.xml "Скачать эту карту")
 
-[Исторические: Стрельбицкого 1919 10 верст](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1919.xml "Скачать эту карту")
+[Стрельбицкого 1919 10 верст](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1919.xml "Скачать эту карту")
 
 
 

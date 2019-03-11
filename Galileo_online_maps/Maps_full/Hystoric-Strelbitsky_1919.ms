@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
         
 <customMapSource>
-<name>Исторические: Стрельбицкого 1919 10 верст</name>
+<name>Стрельбицкого 1919 10 верст</name>
 <layers>
 
     <layer>
