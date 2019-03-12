@@ -1,5 +1,5 @@
 # Векторные и растровые карты
-![Raster vs Vector](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4maps.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_img.png)
 
 ### Немного теории
 
@@ -22,6 +22,8 @@
 
 
 Однако, некоторым не нравится отрисовка стандартных векторных карт. Что ж, существуют сайты, которые уже сделали более сложную и приятную глазу отрисовку тех же векторных карт, сохранили их в растровый формат и выложили для скачивания. На таких картах часто бывает рельеф местности, изолинии и прочие приятные детализированные текстуры. Просто сравните: 
+
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_map.png)
 
 <p align="center">
 <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_map.png" width="400"/>
