@@ -141,6 +141,21 @@
 
 
 
+### Евразия - Топокарты - Советские
+[Топокарты 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_00250.ms "Скачать эту карту")
+
+[Топокарты 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_00500.ms "Скачать эту карту")
+
+[Топокарты 1000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_01000.ms "Скачать эту карту")
+
+[Топокарты 10000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_10000.ms "Скачать эту карту")
+
+[Топокарты 25000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_25000.ms "Скачать эту карту")
+
+[Топокарты (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_All.ms "Скачать эту карту")
+
+
+
 ### Евразия - Туристические - Многослойные
 [Маршруты.ru](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer-MarshrutiRU.ms "Скачать эту карту")
 
@@ -251,8 +266,6 @@
 
 
 ### Исторические
-[Немецкая Аэро-Фото съёмка (Краснодар)](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Aero_Krasnodar.ms "Скачать эту карту")
-
 [Немецкий Генштаб 1942 3км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
 [Немецкий Генштаб 1941 2км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")

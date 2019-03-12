@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 11-03-2019 21:20
+Файл обновлен: 12-03-2019 21:25
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -158,5 +158,59 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab_All.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_00250.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_00250.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_00500.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_00500.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_01000.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_01000.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_10000.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_10000.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_25000.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_25000.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Topo-Topo_All.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_All.xml]]>
         </dest>
     </download>

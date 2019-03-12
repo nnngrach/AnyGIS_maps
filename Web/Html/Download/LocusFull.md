@@ -141,6 +141,21 @@
 
 
 
+### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Topo.xml "Скачать всю группу")
+[Топокарты 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_00250.xml "Скачать эту карту")
+
+[Топокарты 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_00500.xml "Скачать эту карту")
+
+[Топокарты 1000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_01000.xml "Скачать эту карту")
+
+[Топокарты 10000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_10000.xml "Скачать эту карту")
+
+[Топокарты 25000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_25000.xml "Скачать эту карту")
+
+[Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_All.xml "Скачать эту карту")
+
+
+
 ### [Евразия - Туристические - Многослойные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Hiking-Multylayer.xml "Скачать всю группу")
 [Маршруты.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Multylayer-MarshrutiRU.xml "Скачать эту карту")
 
@@ -251,8 +266,6 @@
 
 
 ### [Исторические](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Hystoric.xml "Скачать всю группу")
-[Немецкая Аэро-Фото съёмка (Краснодар)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Aero_Krasnodar.xml "Скачать эту карту")
-
 [Немецкий Генштаб 1942 3км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
 
 [Немецкий Генштаб 1941 2км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
