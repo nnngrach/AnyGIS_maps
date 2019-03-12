@@ -63,6 +63,8 @@
 
 [Hike and bike](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-HikeBike.xml "Скачать эту карту")
 
+[Kosmosnimki](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Kosmosnimli.xml "Скачать эту карту")
+
 [Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik.xml "Скачать эту карту")
 
 [Mapnik + GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_GPS_Tracks.xml "Скачать эту карту")
@@ -70,6 +72,8 @@
 [Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
 
 [Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
+
+[Mapsurfer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapsurfer.xml "Скачать эту карту")
 
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")
 
@@ -84,6 +88,8 @@
 [Thunderforest Outdoor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Outdoor.xml "Скачать эту карту")
 
 [Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
+
+[Thunderforest Transport Dark](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Transport_Dark.xml "Скачать эту карту")
 
 
 

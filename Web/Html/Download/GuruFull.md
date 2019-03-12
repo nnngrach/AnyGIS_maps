@@ -63,6 +63,8 @@
 
 [Hike and bike](https://anygis.herokuapp.com/download/galileo/Global-OSM-HikeBike.ms "Скачать эту карту")
 
+[Kosmosnimki](https://anygis.herokuapp.com/download/galileo/Global-OSM-Kosmosnimli.ms "Скачать эту карту")
+
 [Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik.ms "Скачать эту карту")
 
 [Mapnik + GPS Tracks](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
@@ -70,6 +72,8 @@
 [Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
+
+[Mapsurfer](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapsurfer.ms "Скачать эту карту")
 
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
@@ -84,6 +88,8 @@
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
 
 [Thunderforest Transport](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+
+[Thunderforest Transport Dark](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Transport_Dark.ms "Скачать эту карту")
 
 
 
