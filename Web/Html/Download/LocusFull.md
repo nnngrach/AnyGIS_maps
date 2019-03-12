@@ -81,7 +81,7 @@
 
 [Opnvkarte.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Opnvkarte.xml "Скачать эту карту")
 
-[Спутник.ру](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Sputnik.xml "Скачать эту карту")
+[Sputnik.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Sputnik.xml "Скачать эту карту")
 
 [Thunderforest Cycle](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Cycle.xml "Скачать эту карту")
 

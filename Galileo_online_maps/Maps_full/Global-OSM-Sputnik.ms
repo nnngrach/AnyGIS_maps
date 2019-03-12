@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
         
 <customMapSource>
-<name>Спутник.ру</name>
+<name>Sputnik.ru</name>
 <layers>
 
     <layer>

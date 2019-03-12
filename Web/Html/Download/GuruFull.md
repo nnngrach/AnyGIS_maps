@@ -81,7 +81,7 @@
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/galileo/Global-OSM-Opnvkarte.ms "Скачать эту карту")
 
-[Спутник.ру](https://anygis.herokuapp.com/download/galileo/Global-OSM-Sputnik.ms "Скачать эту карту")
+[Sputnik.ru](https://anygis.herokuapp.com/download/galileo/Global-OSM-Sputnik.ms "Скачать эту карту")
 
 [Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Cycle.ms "Скачать эту карту")
 
