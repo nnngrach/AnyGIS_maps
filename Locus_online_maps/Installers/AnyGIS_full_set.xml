@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 13-03-2019 00:07
+Файл обновлен: 14-03-2019 01:46
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -1544,6 +1544,15 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
         </source>
         <dest>
         <![CDATA[/mapsOnline/custom/Overlay-OpenSreetMaps_Tracks.xml]]>
+        </dest>
+    </download>
+
+    <download>
+        <source>
+        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Overlay-Tile_grid.xml]]>
+        </source>
+        <dest>
+        <![CDATA[/mapsOnline/custom/Overlay-Tile_grid.xml]]>
         </dest>
     </download>
 

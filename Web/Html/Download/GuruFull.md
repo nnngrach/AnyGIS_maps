@@ -354,3 +354,8 @@
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
 
+
+
+### Overlay
+[OSM Tile Grid](https://anygis.herokuapp.com/download/galileo/Overlay-Tile_grid.ms "Скачать эту карту")
+
