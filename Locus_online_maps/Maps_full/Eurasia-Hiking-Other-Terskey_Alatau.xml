@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 14-03-2019 17:54
+Файл обновлен: 15-03-2019 00:23
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -20,7 +20,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <provider id="720003" type="0" visible="true" background="-1">
     <name>Евразия - Туристические - Разное</name>
-    <mode>Хребтовка Терскей-Алатау</mode>
+    <mode>Хребтовка Терскей-Алатау (А.Цветков)</mode>
     <countries>Kyrgyzstan</countries>
     <usage>hiking</usage>
     <url><![CDATA[http://map.g-utka.ru/{z}/{x}/{y}.png]]></url>

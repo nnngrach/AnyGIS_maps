@@ -236,7 +236,7 @@
 
 [Национальный парк Таганай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Taganay.ms "Скачать эту карту")
 
-[Хребтовка Терскей-Алатау](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Terskey_Alatau.ms "Скачать эту карту")
+[Хребтовка Терскей-Алатау (А.Цветков)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-Terskey_Alatau.ms "Скачать эту карту")
 
 [Тянь-Шань и Памир](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other-TianShan_and_Pamir.ms "Скачать эту карту")
 
@@ -340,6 +340,8 @@
 
 [Topografisk Norgeskart 4](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Norgeskart.ms "Скачать эту карту")
 
+[Norway topomap UT.no](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Norway_topo_UT.ms "Скачать эту карту")
+
 [Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Skoterleder.ms "Скачать эту карту")
 
 
@@ -348,6 +350,17 @@
 [France Topo IGN.fr](https://anygis.herokuapp.com/download/galileo/Europe-Western-France_topo.ms "Скачать эту карту")
 
 [Great Britain Topo](https://anygis.herokuapp.com/download/galileo/Europe-Western-GB_topo.ms "Скачать эту карту")
+
+
+
+### Европа - Центральная
+[Чехия ](https://anygis.herokuapp.com/download/galileo/Europe-Central-Czech_base.ms "Скачать эту карту")
+
+[Чехия - Географическая](https://anygis.herokuapp.com/download/galileo/Europe-Central-Czech_geo.ms "Скачать эту карту")
+
+[Чехия - Тропы](https://anygis.herokuapp.com/download/galileo/Europe-Central-Czech_tourist.ms "Скачать эту карту")
+
+[Чехия - Зимниие тропы](https://anygis.herokuapp.com/download/galileo/Europe-Central-Czech_winter.ms "Скачать эту карту")
 
 
 

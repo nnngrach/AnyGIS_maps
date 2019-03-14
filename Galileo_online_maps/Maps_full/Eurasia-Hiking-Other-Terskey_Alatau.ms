@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
         
 <customMapSource>
-<name>Хребтовка Терскей-Алатау</name>
+<name>Хребтовка Терскей-Алатау (А.Цветков)</name>
 <layers>
 
     <layer>

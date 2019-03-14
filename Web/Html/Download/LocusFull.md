@@ -236,7 +236,7 @@
 
 [Национальный парк Таганай](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Taganay.xml "Скачать эту карту")
 
-[Хребтовка Терскей-Алатау](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Terskey_Alatau.xml "Скачать эту карту")
+[Хребтовка Терскей-Алатау (А.Цветков)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-Terskey_Alatau.xml "Скачать эту карту")
 
 [Тянь-Шань и Памир](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Other-TianShan_and_Pamir.xml "Скачать эту карту")
 
@@ -342,6 +342,12 @@
 
 [Topografisk Norgeskart 4](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Norgeskart.xml "Скачать эту карту")
 
+[Norway topomap UT.no](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Norway_topo_UT.xml "Скачать эту карту")
+
+[Norway topomap UT.no Summer trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Norway_topo_UT_summertrails.xml "Скачать эту карту")
+
+[Norway topomap UT.no Winter trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Norway_topo_UT_wintertrails.xml "Скачать эту карту")
+
 [Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Skoterleder.xml "Скачать эту карту")
 
 
@@ -350,6 +356,17 @@
 [France Topo IGN.fr](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Western-France_topo.xml "Скачать эту карту")
 
 [Great Britain Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Western-GB_topo.xml "Скачать эту карту")
+
+
+
+### [Европа - Центральная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Central.xml "Скачать всю группу")
+[Чехия ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Central-Czech_base.xml "Скачать эту карту")
+
+[Чехия - Географическая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Central-Czech_geo.xml "Скачать эту карту")
+
+[Чехия - Тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Central-Czech_tourist.xml "Скачать эту карту")
+
+[Чехия - Зимниие тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Central-Czech_winter.xml "Скачать эту карту")
 
 
 
@@ -386,6 +403,10 @@
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
 [OSM Tile Grid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Tile_grid.xml "Скачать эту карту")
+
+[Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
+
+[Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
 
 [Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
