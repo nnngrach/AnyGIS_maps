@@ -13,7 +13,7 @@
 ### Глобальные - Городские
 [2Gis](https://anygis.herokuapp.com/download/galileo/Global-City-2gis.ms "Скачать эту карту")
 
-[Bing Maps](https://anygis.herokuapp.com/download/galileo/Global-City-Bing_map.ms "Скачать эту карту")
+[Bing Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Bing_map.ms "Скачать эту карту")
 
 [Google Карта](https://anygis.herokuapp.com/download/galileo/Global-City-Google_map.ms "Скачать эту карту")
 
@@ -67,7 +67,7 @@
 
 [Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik.ms "Скачать эту карту")
 
-[Mapnik + GPS Tracks](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
+[Mapnik + GPS треки](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_GPS_Tracks.ms "Скачать эту карту")
 
 [Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
@@ -129,13 +129,13 @@
 
 [Генштаб 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00500.ms "Скачать эту карту")
 
-[Генштаб 500 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00500_new.ms "Скачать эту карту")
+[Генштаб 500 м v2](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_00500_new.ms "Скачать эту карту")
 
 [Генштаб 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_01000.ms "Скачать эту карту")
 
 [Генштаб 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_02000.ms "Скачать эту карту")
 
-[Генштаб 2 000 м new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_02000_new.ms "Скачать эту карту")
+[Генштаб 2 000 м v2](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_02000_new.ms "Скачать эту карту")
 
 [Генштаб 5 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_05000.ms "Скачать эту карту")
 
@@ -213,11 +213,11 @@
 
 
 ### Евразия - Туристические - Хибины
-[Горы Хибинской тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Hills.ms "Скачать эту карту")
+[Горы Хибинской тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy-Hills.ms "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.ms "Скачать эту карту")
+[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.ms "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Chininy-Tundra_Old.ms "Скачать эту карту")
+[Хибинские и ловоозерские тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy-Tundra_Old.ms "Скачать эту карту")
 
 
 
@@ -324,6 +324,8 @@
 
 [FINN Kart Norge](https://anygis.herokuapp.com/download/galileo/Europe-Northern-FINN_Kart_Norge.ms "Скачать эту карту")
 
+[Finland Topo Retkikartta.fi](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Finland_topo.ms "Скачать эту карту")
+
 [Hitta](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta.ms "Скачать эту карту")
 
 [Hitta Frilufts](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Hitta_Frilufts.ms "Скачать эту карту")
@@ -342,6 +344,18 @@
 
 
 
+### Европа - Западная
+[France Topo IGN.fr](https://anygis.herokuapp.com/download/galileo/Europe-Western-France_topo.ms "Скачать эту карту")
+
+[Great Britain Topo](https://anygis.herokuapp.com/download/galileo/Europe-Western-GB_topo.ms "Скачать эту карту")
+
+
+
+### Европа - Юго-восточная
+[Черногория 250м 1970-72](https://anygis.herokuapp.com/download/galileo/Europe-Southeast-Montenegro.ms "Скачать эту карту")
+
+
+
 ### США
 [USGS National Map - Satellite](https://anygis.herokuapp.com/download/galileo/USA-USGS_Sat.ms "Скачать эту карту")
 
@@ -353,9 +367,4 @@
 
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
-
-
-
-### Overlay
-[OSM Tile Grid](https://anygis.herokuapp.com/download/galileo/Overlay-Tile_grid.ms "Скачать эту карту")
 

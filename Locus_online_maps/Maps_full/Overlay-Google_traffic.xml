@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 14-03-2019 01:46
+Файл обновлен: 14-03-2019 17:54
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -20,7 +20,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <provider id="8888016" type="0" visible="true" background="-1">
     <name>Overlay</name>
-    <mode>Google Traffic</mode>
+    <mode>Google Пробки</mode>
     <countries>World</countries>
     <usage>overlay</usage>
     <url><![CDATA[http://mt{s}.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}]]></url>

@@ -13,7 +13,7 @@
 ### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")
 [2Gis](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-2gis.xml "Скачать эту карту")
 
-[Bing Maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Bing_map.xml "Скачать эту карту")
+[Bing Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Bing_map.xml "Скачать эту карту")
 
 [Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-City-Google_map.xml "Скачать эту карту")
 
@@ -67,7 +67,7 @@
 
 [Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik.xml "Скачать эту карту")
 
-[Mapnik + GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_GPS_Tracks.xml "Скачать эту карту")
+[Mapnik + GPS треки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_GPS_Tracks.xml "Скачать эту карту")
 
 [Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
 
@@ -129,13 +129,13 @@
 
 [Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00500.xml "Скачать эту карту")
 
-[Генштаб 500 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00500_new.xml "Скачать эту карту")
+[Генштаб 500 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_00500_new.xml "Скачать эту карту")
 
 [Генштаб 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_01000.xml "Скачать эту карту")
 
 [Генштаб 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_02000.xml "Скачать эту карту")
 
-[Генштаб 2 000 м new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_02000_new.xml "Скачать эту карту")
+[Генштаб 2 000 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_02000_new.xml "Скачать эту карту")
 
 [Генштаб 5 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Genshtab_05000.xml "Скачать эту карту")
 
@@ -212,12 +212,12 @@
 
 
 
-### [Евразия - Туристические - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Hiking-Chininy.xml "Скачать всю группу")
-[Горы Хибинской тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Hills.xml "Скачать эту карту")
+### [Евразия - Туристические - Хибины](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Hiking-Khininy.xml "Скачать всю группу")
+[Горы Хибинской тундры](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Khininy-Hills.xml "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Tundra_Aerogeodesiya.xml "Скачать эту карту")
+[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml "Скачать эту карту")
 
-[Хибинские и ловоозерские тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Chininy-Tundra_Old.xml "Скачать эту карту")
+[Хибинские и ловоозерские тундры (СССР)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Khininy-Tundra_Old.xml "Скачать эту карту")
 
 
 
@@ -326,6 +326,8 @@
 
 [FINN Kart Norge](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-FINN_Kart_Norge.xml "Скачать эту карту")
 
+[Finland Topo Retkikartta.fi](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Finland_topo.xml "Скачать эту карту")
+
 [Hitta](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta.xml "Скачать эту карту")
 
 [Hitta Frilufts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Hitta_Frilufts.xml "Скачать эту карту")
@@ -344,6 +346,18 @@
 
 
 
+### [Европа - Западная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Western.xml "Скачать всю группу")
+[France Topo IGN.fr](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Western-France_topo.xml "Скачать эту карту")
+
+[Great Britain Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Western-GB_topo.xml "Скачать эту карту")
+
+
+
+### [Европа - Юго-восточная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Southeast.xml "Скачать всю группу")
+[Черногория 250м 1970-72](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Southeast-Montenegro.xml "Скачать эту карту")
+
+
+
 ### [США](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_USA.xml "Скачать всю группу")
 [USGS National Map - Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__USA-USGS_Sat.xml "Скачать эту карту")
 
@@ -359,21 +373,21 @@
 
 
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Overlay.xml "Скачать всю группу")
-[Google Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Google_labels.xml "Скачать эту карту")
+[Google Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Google_labels.xml "Скачать эту карту")
 
-[Google Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Google_traffic.xml "Скачать эту карту")
+[Google Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Google_traffic.xml "Скачать эту карту")
 
-[Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Here_traffic.xml "Скачать эту карту")
+[Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Here_traffic.xml "Скачать эту карту")
 
-[OpenSeaMap Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSeaMap_traffic.xml "Скачать эту карту")
+[OpenSeaMap Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSeaMap_traffic.xml "Скачать эту карту")
 
-[OpenSnowMap Pistes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSnowMap_pistes.xml "Скачать эту карту")
+[OpenSnowMap Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSnowMap_pistes.xml "Скачать эту карту")
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
 [OSM Tile Grid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Tile_grid.xml "Скачать эту карту")
 
-[Yandex Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
+[Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
-[Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
+[Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
 

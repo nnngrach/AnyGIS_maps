@@ -82,5 +82,5 @@
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Overlay.xml "Скачать всю группу")
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
-[Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
+[Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
 

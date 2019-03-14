@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
         
 <customMapSource>
-<name>Генштаб 500 м new</name>
+<name>Генштаб 500 м v2</name>
 <layers>
 
     <layer>
