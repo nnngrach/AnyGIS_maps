@@ -35,7 +35,7 @@
 [1]: https://shuriktravel.ru/maps/
 [2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_short
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_IOS_Short
-[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Android_Short
+[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Android_Short
 
 
 ### Полный набор
