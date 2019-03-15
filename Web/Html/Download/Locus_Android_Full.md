@@ -48,6 +48,8 @@
 
 [Here Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Here.xml "Скачать эту карту")
 
+[Космоснимки.ру](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Kosmosnimki.xml "Скачать эту карту")
+
 [Mapbox Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Mapbox.xml "Скачать эту карту")
 
 [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Yandex.xml "Скачать эту карту")
@@ -95,6 +97,12 @@
 
 ### [Глобальные - Водные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-Water.xml "Скачать всю группу")
 [ESRI Ocean](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-ERSI_ocean.xml "Скачать эту карту")
+
+[Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-Navionics_Marine_Charts.xml "Скачать эту карту")
+
+[Navionics + OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-Navionics_OSM.xml "Скачать эту карту")
+
+[Navionics Sonar Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-Navionics_Sonar_Charts.xml "Скачать эту карту")
 
 [Open Sea Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
 
@@ -260,14 +268,16 @@
 
 
 
-### [Евразия - Сотовые сети](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Mobile_coverage.xml "Скачать всю группу")
-[МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-MTS.xml "Скачать эту карту")
+### [Евразия - Справочнные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Info.xml "Скачать всю группу")
+[МТС](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-MTS.xml "Скачать эту карту")
 
-[Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Megafon.xml "Скачать эту карту")
+[Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-Megafon.xml "Скачать эту карту")
 
-[Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Tele2.xml "Скачать эту карту")
+[РосРеестр](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-RosReestr.xml "Скачать эту карту")
 
-[Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Mobile_coverage-Yota.xml "Скачать эту карту")
+[Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-Tele2.xml "Скачать эту карту")
+
+[Yota](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-Yota.xml "Скачать эту карту")
 
 
 
@@ -319,6 +329,8 @@
 [Eniro](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro.xml "Скачать эту карту")
 
 [Eniro Sjökort (Nautical)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_Nautical.xml "Скачать эту карту")
+
+[Eniro + Navionics](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_Navionics.xml "Скачать эту карту")
 
 [Eniro labels layer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro_labels.xml "Скачать эту карту")
 
@@ -396,6 +408,10 @@
 
 [Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Here_traffic.xml "Скачать эту карту")
 
+[Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Navionics_Marine_Charts.xml "Скачать эту карту")
+
+[Navionics Sonar Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Navionics_Sonar_Charts.xml "Скачать эту карту")
+
 [OpenSeaMap Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSeaMap_traffic.xml "Скачать эту карту")
 
 [OpenSnowMap Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSnowMap_pistes.xml "Скачать эту карту")
@@ -411,4 +427,9 @@
 [Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
+
+
+
+### [Background](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Northern.xml "Скачать всю группу")
+[Eniro map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Northern-Eniro.xml "Скачать эту карту")
 

@@ -26,13 +26,17 @@
 ### Базовый набор
 Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
 
-[Скачать с компьютера (целиком)][3]
+[Скачать с компьютера (целиком)][2]
 
-[Скачать со смартфона (выборочно)][2]
+[Скачать со смартфона iOS (выборочно)][3]
+
+[Скачать со смартфона Android (выборочно)][4]
 
 [1]: https://shuriktravel.ru/maps/
-[2]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/GuruShort
-[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_short
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_short
+[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_IOS_Short
+[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Android_Short
+
 
 ### Полный набор
 Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
@@ -48,7 +52,9 @@
 
 [Скачать с компьютера (целиком)][11]
 
-[Скачать со смартфона (выборочно)][12]
+[Скачать со смартфона iOS (выборочно)][12]
+
+[Скачать со смартфона Android (выборочно)][13]
 
 > Внимание! Карты на основе Яндекса составлены в нестандартной проекции. Чтобы Guru Maps смог их показывать без искажений, их приходится [преобразовывать][02] (грубо говоря, "фотошопить") на лету. Так что будьте готовы к тому, что эти карты будут загружаться сравнительно медленно.
 
@@ -59,8 +65,8 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 [11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_full
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/GuruFull
-
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_IOS_Full
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Android_Full
 
 ---
 

@@ -48,6 +48,8 @@
 
 [Here Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Here.ms "Скачать эту карту")
 
+[Космоснимки.ру](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
+
 [Mapbox Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
 [Yandex Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites-Yandex.ms "Скачать эту карту")
@@ -95,6 +97,12 @@
 
 ### Глобальные - Водные
 [ESRI Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water-ERSI_ocean.ms "Скачать эту карту")
+
+[Navionics Marine Charts](https://anygis.herokuapp.com/download/galileo/Global-Water-Navionics_Marine_Charts.ms "Скачать эту карту")
+
+[Navionics + OSM](https://anygis.herokuapp.com/download/galileo/Global-Water-Navionics_OSM.ms "Скачать эту карту")
+
+[Navionics Sonar Charts](https://anygis.herokuapp.com/download/galileo/Global-Water-Navionics_Sonar_Charts.ms "Скачать эту карту")
 
 [Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
@@ -260,14 +268,16 @@
 
 
 
-### Евразия - Сотовые сети
-[МТС](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-MTS.ms "Скачать эту карту")
+### Евразия - Справочнные
+[МТС](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-MTS.ms "Скачать эту карту")
 
-[Мегафон](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Megafon.ms "Скачать эту карту")
+[Мегафон](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-Megafon.ms "Скачать эту карту")
 
-[Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Tele2.ms "Скачать эту карту")
+[РосРеестр](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-RosReestr.ms "Скачать эту карту")
 
-[Yota](https://anygis.herokuapp.com/download/galileo/Eurasia-Mobile_coverage-Yota.ms "Скачать эту карту")
+[Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-Tele2.ms "Скачать эту карту")
+
+[Yota](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-Yota.ms "Скачать эту карту")
 
 
 
@@ -319,6 +329,8 @@
 [Eniro](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro.ms "Скачать эту карту")
 
 [Eniro Sjökort (Nautical)](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro_Nautical.ms "Скачать эту карту")
+
+[Eniro + Navionics](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro_Navionics.ms "Скачать эту карту")
 
 [Eniro Hybrid](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro_hybrid.ms "Скачать эту карту")
 
@@ -380,4 +392,9 @@
 
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
+
+
+
+### Background
+[Eniro map](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro.ms "Скачать эту карту")
 

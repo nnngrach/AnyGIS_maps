@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 15-03-2019 00:23
+Файл обновлен: 16-03-2019 02:13
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -33,12 +33,12 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <providers>
 
-<provider id="10710" type="2" visible="true" background="-1">
-    <name>Евразия - Сотовые сети</name>
-    <mode>Мегафон</mode>
+<provider id="10700" type="2" visible="true" background="-1">
+    <name>Евразия - Справочнные</name>
+    <mode>МТС</mode>
     <countries>Russia</countries>
     <usage>overlay</usage>
-    <url><![CDATA[https://maps.melda.ru/mobile/megafon/{z}/{x}/{y}.png]]></url>
+    <url><![CDATA[https://maps.melda.ru/mobile/mts/{z}/{x}/{y}.png]]></url>
     <serverPart></serverPart>
     <zoomPart>{z}-8</zoomPart>
     <zoomMin>8</zoomMin>    <!-- 0 -->
