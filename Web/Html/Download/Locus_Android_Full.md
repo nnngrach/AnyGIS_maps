@@ -273,7 +273,7 @@
 
 [Мегафон](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-Megafon.xml "Скачать эту карту")
 
-[РосРеестр](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-RosReestr.xml "Скачать эту карту")
+[РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-RosReestr.xml "Скачать эту карту")
 
 [Tele2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Info-Tele2.xml "Скачать эту карту")
 

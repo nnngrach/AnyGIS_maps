@@ -273,7 +273,7 @@
 
 [Мегафон](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Info-Megafon.ms "Скачать эту карту")
 
-[РосРеестр](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Info-RosReestr.ms "Скачать эту карту")
+[РосРеестр - Кадастровые границы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Info-RosReestr.ms "Скачать эту карту")
 
 [Tele2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Info-Tele2.ms "Скачать эту карту")
 

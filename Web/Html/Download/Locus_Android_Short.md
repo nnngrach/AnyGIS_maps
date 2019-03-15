@@ -37,6 +37,8 @@
 
 [Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
 
+[Mapsurfer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Mapsurfer.xml "Скачать эту карту")
+
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")
 
 [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")
@@ -45,12 +47,14 @@
 
 [Thunderforest Outdoor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Outdoor.xml "Скачать эту карту")
 
+[Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
+
 
 
 ### [Глобальные - Водные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-Water.xml "Скачать всю группу")
-[Open Sea Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
+[Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-Navionics_Marine_Charts.xml "Скачать эту карту")
 
-[Open Sea Map + Морской траффик](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap_traffic.xml "Скачать эту карту")
+[Open Sea Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Water-OpenSeaMap.xml "Скачать эту карту")
 
 
 
@@ -69,11 +73,6 @@
 
 
 
-### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Topo.xml "Скачать всю группу")
-[Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Topo-Topo_All.xml "Скачать эту карту")
-
-
-
 ### [Евразия - Туристические - Многослойные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Eurasia-Hiking-Multylayer.xml "Скачать всю группу")
 [RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml "Скачать эту карту")
 
@@ -81,6 +80,10 @@
 
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Overlay.xml "Скачать всю группу")
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
+
+[Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
+
+[Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
 

@@ -37,6 +37,8 @@
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
+[Mapsurfer](https://anygis.herokuapp.com/download/galileo/Global-OSM-Mapsurfer.ms "Скачать эту карту")
+
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
@@ -45,12 +47,14 @@
 
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
 
+[Thunderforest Transport](https://anygis.herokuapp.com/download/galileo/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+
 
 
 ### Глобальные - Водные
-[Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
+[Navionics Marine Charts](https://anygis.herokuapp.com/download/galileo/Global-Water-Navionics_Marine_Charts.ms "Скачать эту карту")
 
-[Open Sea Map + Морской траффик](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+[Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
 
 
@@ -66,11 +70,6 @@
 
 ### Евразия - Топокарты - Генштаб
 [Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
-
-
-
-### Евразия - Топокарты - Советские
-[Топокарты (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo-Topo_All.ms "Скачать эту карту")
 
 
 

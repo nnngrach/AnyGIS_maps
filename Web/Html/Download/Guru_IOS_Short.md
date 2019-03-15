@@ -37,6 +37,8 @@
 
 [Mapnik (PROXY)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
+[Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-Mapsurfer.ms "Скачать эту карту")
+
 [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
@@ -45,12 +47,14 @@
 
 [Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
 
+[Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+
 
 
 ### Глобальные - Водные
-[Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water-OpenSeaMap.ms "Скачать эту карту")
+[Navionics Marine Charts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water-Navionics_Marine_Charts.ms "Скачать эту карту")
 
-[Open Sea Map + Морской траффик](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water-OpenSeaMap_traffic.ms "Скачать эту карту")
+[Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water-OpenSeaMap.ms "Скачать эту карту")
 
 
 
@@ -66,11 +70,6 @@
 
 ### Евразия - Топокарты - Генштаб
 [Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
-
-
-
-### Евразия - Топокарты - Советские
-[Топокарты (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo-Topo_All.ms "Скачать эту карту")
 
 
 

@@ -273,7 +273,7 @@
 
 [Мегафон](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-Megafon.ms "Скачать эту карту")
 
-[РосРеестр](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-RosReestr.ms "Скачать эту карту")
+[РосРеестр - Кадастровые границы](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-RosReestr.ms "Скачать эту карту")
 
 [Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Info-Tele2.ms "Скачать эту карту")
 
