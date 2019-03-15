@@ -7,7 +7,7 @@
     <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/BaseMap/MapServer/tile/{$z}/{$y}/{$x}</url>
+    <url>https://anygis.herokuapp.com/Rosreestr_base/{$x}/{$y}/{$z}</url>
     </layer>
 
     <layer>

@@ -393,8 +393,3 @@
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other-NewZeland_Topo.ms "Скачать эту карту")
 
-
-
-### Background
-[Eniro map](https://anygis.herokuapp.com/download/galileo/Europe-Northern-Eniro.ms "Скачать эту карту")
-

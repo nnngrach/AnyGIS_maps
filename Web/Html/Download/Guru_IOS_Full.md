@@ -393,8 +393,3 @@
 ### Прочее
 [New-Zealand Topomaps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Other-NewZeland_Topo.ms "Скачать эту карту")
 
-
-
-### Background
-[Eniro map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Europe-Northern-Eniro.ms "Скачать эту карту")
-
