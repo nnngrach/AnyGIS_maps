@@ -282,6 +282,8 @@
 
 
 ### Исторические
+[Европейская Россия Шуберт 3-х верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Eur_Russia_Shubert.ms "Скачать эту карту")
+
 [Немецкий Генштаб 1942 3км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
 [Немецкий Генштаб 1941 2км](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
@@ -311,6 +313,8 @@
 [Стрельбицкого 1882 10-верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Strelbitsky_1882.ms "Скачать эту карту")
 
 [Стрельбицкого 1919 10 верст](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Strelbitsky_1919.ms "Скачать эту карту")
+
+[Тверская губения Менде](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Tver_Mende.ms "Скачать эту карту")
 
 
 

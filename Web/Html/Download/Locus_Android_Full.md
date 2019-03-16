@@ -282,6 +282,8 @@
 
 
 ### [Исторические](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Hystoric.xml "Скачать всю группу")
+[Европейская Россия Шуберт 3-х верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Eur_Russia_Shubert.xml "Скачать эту карту")
+
 [Немецкий Генштаб 1942 3км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
 
 [Немецкий Генштаб 1941 2км](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-German_Genshtab_3km.xml "Скачать эту карту")
@@ -311,6 +313,8 @@
 [Стрельбицкого 1882 10-верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1882.xml "Скачать эту карту")
 
 [Стрельбицкого 1919 10 верст](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Strelbitsky_1919.xml "Скачать эту карту")
+
+[Тверская губения Менде](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Tver_Mende.xml "Скачать эту карту")
 
 
 

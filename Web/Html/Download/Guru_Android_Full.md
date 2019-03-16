@@ -282,6 +282,8 @@
 
 
 ### Исторические
+[Европейская Россия Шуберт 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Eur_Russia_Shubert.ms "Скачать эту карту")
+
 [Немецкий Генштаб 1942 3км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
 
 [Немецкий Генштаб 1941 2км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
@@ -311,6 +313,8 @@
 [Стрельбицкого 1882 10-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1882.ms "Скачать эту карту")
 
 [Стрельбицкого 1919 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric-Strelbitsky_1919.ms "Скачать эту карту")
+
+[Тверская губения Менде](https://anygis.herokuapp.com/download/galileo/Hystoric-Tver_Mende.ms "Скачать эту карту")
 
 
 
