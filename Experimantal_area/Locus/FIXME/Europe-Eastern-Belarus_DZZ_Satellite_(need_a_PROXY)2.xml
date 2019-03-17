@@ -2,13 +2,13 @@
 
 <providers>
 
-<provider id="220039" type="0" visible="true" background="-1">
+<provider id="220040" type="0" visible="true" background="-1">
     <name>Европа - Восточная</name>
-    <mode>Belarus - DZZ.by Satellite</mode>
+    <mode>Belarus - DZZ.by 2 Satellite (запускать с прокси!)</mode>
     <countries>Belarus</countries>
     <usage>photo</usage>
-    <url><![CDATA[https://www.dzz.by/Java/proxy.jsp?https://www.dzz.by/arcgis/rest/services/georesursDDZ/Belarus_Web_Mercator_new/ImageServer/tile/{z}/{y}/{x}]]></url>
-    <zoomPart>{z}-14</zoomPart> <!-- z-6 -->
+    <url><![CDATA[https://anygis.herokuapp.com/Other_Belarus_DDZ/{x}/{y}/{z}]]></url>
+    <zoomPart>{z}-8</zoomPart> <!-- z-6 -->
     <zoomMin>8</zoomMin>    	<!-- 0 -->
     <zoomMax>26</zoomMax>   	<!-- 18 -->
     <tileSize>256</tileSize>

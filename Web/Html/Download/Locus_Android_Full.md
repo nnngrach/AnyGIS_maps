@@ -319,6 +319,8 @@
 
 
 ### [Европа - Восточная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Europe-Eastern.xml "Скачать всю группу")
+[Belarus - DZZ.by (need a proxy!)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml "Скачать эту карту")
+
 [Ukraine - Кадастровая карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Eastern-CadastrUA.xml "Скачать эту карту")
 
 [Ukraine - Meta.ua](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Europe-Eastern-MetaUA.xml "Скачать эту карту")

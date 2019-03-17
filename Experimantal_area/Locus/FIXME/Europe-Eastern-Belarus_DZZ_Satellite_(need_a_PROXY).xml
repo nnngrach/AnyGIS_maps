@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<providers>
+
+<provider id="220039" type="0" visible="true" background="-1">
+    <name>Европа - Восточная</name>
+    <mode>Belarus - DZZ.by Satellite (запускать с прокси!)</mode>
+    <countries>Belarus</countries>
+    <usage>photo</usage>
+    <url><![CDATA[https://www.dzz.by/Java/proxy.jsp?https://www.dzz.by/arcgis/rest/services/georesursDDZ/Belarus_Web_Mercator_new/ImageServer/tile/{z}/{y}/{x}]]></url>
+    <zoomPart>{z}-14</zoomPart> <!-- z-6 -->
+    <zoomMin>8</zoomMin>    	<!-- 0 -->
+    <zoomMax>26</zoomMax>   	<!-- 18 -->
+    <tileSize>256</tileSize>
+    <extraHeader><![CDATA[Referer#https://www.dzz.by/izuchdzz/]]></extraHeader>
+    <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+</provider>
+
+</providers>
