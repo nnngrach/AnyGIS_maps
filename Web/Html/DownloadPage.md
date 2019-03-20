@@ -14,9 +14,9 @@
 # Скачать карты
 
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/> | ### [Скачать карты для Locus][11] |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/> | [Скачать карты для Locus][11] |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> |  * [Скачать карты для Guru Maps][12] |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> |  <h3><a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo">Скачать карты для Orux Maps</a></h3> |
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/> | [Скачать карты для Orux Maps][13] |
 
