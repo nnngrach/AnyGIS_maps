@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<onlinemapsources>
+
+    <onlinemapsource uid="12060">
+        <name>2Gis (GLOBALCITY)</name>
+        <url><![CDATA[https://tile{$s}.maps.2gis.com/tiles?x={$x}&y={$y}&z={$z}&v=1.5&r=g&ts=online_sd]]></url>
+        <servers>0,1,2,3</servers>
+        <maxzoom>18</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10020">
+        <name>Google Карта (GLOBALCITY)</name>
+        <url><![CDATA[https://mt{$s}.google.com/vt/lyrs=m&hl=ru&x={$x}&y={$y}&z={$z}]]></url>
+        <servers>0,1,2,3</servers>
+        <maxzoom>20</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="117593">
+        <name>Google Ландшафт (GLOBALCITY)</name>
+        <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
+        <servers>0,1,2,3</servers>
+        <maxzoom>20</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10080">
+        <name>Yandex Карта (GLOBALCITY)</name>
+        <url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}]]></url>
+        <servers>1,2,3,4</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORELIPSOIDAL</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="424001">
+        <name>AnyGIS Спутниковый сборник (GLOBALSATELLITES)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
+        <servers></servers>
+        <maxzoom>22</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10022">
+        <name>Google Спутник (гибрид) (GLOBALSATELLITES)</name>
+        <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
+        <servers>0,1,2,3</servers>
+        <maxzoom>20</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10081">
+        <name>Yandex Спутник (GLOBALSATELLITES)</name>
+        <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+        <servers>1,2,3,4</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORELIPSOIDAL</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10201">
+        <name>Mapnik (GLOBALOSM)</name>
+        <url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="6666003">
+        <name>Mapnik (PROXY) (GLOBALOSM)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="6666007">
+        <name>Mapsurfer (GLOBALOSM)</name>
+        <url><![CDATA[https://api.openrouteservice.org/pmapsurfer/{$z}/{$x}/{$y}.png?api_key=5b3ce3597851110001cf62486750381f491044b7b57eae69a4b46fca]]></url>
+        <servers></servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10207">
+        <name>OpenTopoMap (GLOBALOSM)</name>
+        <url><![CDATA[http://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>17</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10202">
+        <name>Thunderforest Cycle (GLOBALOSM)</name>
+        <url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>22</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10204">
+        <name>Thunderforest Outdoor (GLOBALOSM)</name>
+        <url><![CDATA[http://{$s}.tile.thunderforest.com/outdoors/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>22</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10203">
+        <name>Thunderforest Transport (GLOBALOSM)</name>
+        <url><![CDATA[http://{$s}.tile.thunderforest.com/transport/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>22</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="190007">
+        <name>Navionics Marine Charts (GLOBALNAUTICAL)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
+        <servers>h,t,t,p,:,/,/,b,a,c,k,e,n,d,.,n,a,v,i,o,n,i,c,s,.,i,o,/,t,i,l,e,/,g,e,t,_,k,e,y,/,N,a,v,i,o,n,i,c,s,_,i,n,t,e,r,n,a,l,p,u,r,p,o,s,e,_,0,0,0,0,1,/,w,e,b,a,p,p,.,n,a,v,i,o,n,i,c,s,.,c,o,m,?,_,=</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="424002">
+        <name>ГосГисЦентр (Все масштабы) (EURASIATOPOGGC)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
+        <servers></servers>
+        <maxzoom>15</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="424000">
+        <name>RusOutdoor maps (EURASIAHIKINGMULTYLAYER)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
+        <servers></servers>
+        <maxzoom>22</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="8888017">
+        <name>OpenSnowMap Лыжные трассы (OVERLAY)</name>
+        <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
+        <servers></servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="10650">
+        <name>OpenStreetMap GPS Tracks (OVERLAY)</name>
+        <url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
+        <servers>a,b,c</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="8888024">
+        <name>Way Marked Trails - Cycling (OVERLAY)</name>
+        <url><![CDATA[https://tile.waymarkedtrails.org/cycling/{$z}/{$x}/{$y}.png]]></url>
+        <servers></servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="8888023">
+        <name>Way Marked Trails - Hiking (OVERLAY)</name>
+        <url><![CDATA[https://tile.waymarkedtrails.org/hiking/{$z}/{$x}/{$y}.png]]></url>
+        <servers></servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORESFERICA</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="8888019">
+        <name>Yandex Надписи (OVERLAY)</name>
+        <url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}]]></url>
+        <servers>1,2,3,4</servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORELIPSOIDAL</projection>
+        <downloadable>1</downloadable>
+        <cacheable>1</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+    <onlinemapsource uid="8888015">
+        <name>Yandex Пробки (OVERLAY)</name>
+        <url><![CDATA[https://anygis.herokuapp.com/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
+        <servers></servers>
+        <maxzoom>19</maxzoom>
+        <minzoom>0</minzoom>
+        <projection>MERCATORELIPSOIDAL</projection>
+        <downloadable>1</downloadable>
+        <cacheable>0</cacheable>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+    </onlinemapsource>
+
+
+</onlinemapsources>

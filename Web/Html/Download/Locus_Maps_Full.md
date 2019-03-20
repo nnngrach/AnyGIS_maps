@@ -424,11 +424,15 @@
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
+[РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-RosReestr.xml "Скачать эту карту")
+
 [OSM Tile Grid](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Tile_grid.xml "Скачать эту карту")
 
 [Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 
 [Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
+
+[Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Wikimapia.xml "Скачать эту карту")
 
 [Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
 

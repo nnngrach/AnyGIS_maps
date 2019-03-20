@@ -28,6 +28,8 @@
 
 [Google Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
 
+[Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Yandex.xml "Скачать эту карту")
+
 [Yandex Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
 
@@ -79,11 +81,17 @@
 
 
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Overlay.xml "Скачать всю группу")
+[OpenSnowMap Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSnowMap_pistes.xml "Скачать эту карту")
+
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
 [Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 
 [Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
+
+[Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Wikimapia.xml "Скачать эту карту")
+
+[Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Overlay-Yandex_traffic.xml "Скачать эту карту")
 

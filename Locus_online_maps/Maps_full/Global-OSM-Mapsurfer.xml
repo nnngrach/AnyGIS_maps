@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 20-03-2019 15:04
+Файл обновлен: 20-03-2019 21:33
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
     <mode>Mapsurfer</mode>
     <countries>World</countries>
     <usage>hiking</usage>
-    <url><![CDATA[https://api.openrouteservice.org/pmapsurfer/{z}/{x}/{y}.png?api_key=5b3ce3597851110001cf6248cfc9a08809aa48dd8ecf7a09068bc121]]></url>
+    <url><![CDATA[https://api.openrouteservice.org/pmapsurfer/{z}/{x}/{y}.png?api_key=5b3ce3597851110001cf62486750381f491044b7b57eae69a4b46fca]]></url>
     <serverPart></serverPart>
     <zoomPart>{z}-8</zoomPart>
     <zoomMin>8</zoomMin>    <!-- 0 -->
