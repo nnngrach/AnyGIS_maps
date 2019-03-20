@@ -7,7 +7,7 @@
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
 [06]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
-# Скачать карты для Guru Maps
+# Скачать карты для Guru Maps IOS
 
 
 ### Глобальные - Городские

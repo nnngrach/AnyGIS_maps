@@ -40,7 +40,7 @@
 
 [3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_short
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Android_Short
+[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Short
 
 
 
@@ -73,7 +73,7 @@
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/AnyGIS_full_set.xml
 
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Android_Full
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Full
 
 
 ### Подготовка к установке

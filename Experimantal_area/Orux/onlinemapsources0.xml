@@ -1,0 +1,2267 @@
+<?xml version="1.0" encoding="utf-8"?>
+<onlinemapsources>
+	
+	<!-- GOOGLE Google Maps -->
+	<onlinemapsource uid="0">
+		<name>Google Maps (GOOGLE)</name>
+		<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@121&hl=iw&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	<!-- GOOGLE Google Satellite -->
+	<onlinemapsource uid="1">
+		<name>Google Satellite (GOOGLE)</name>
+		<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=s&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>     	
+	<!-- GOOGLE Google Hybrid -->
+	<onlinemapsource uid="2">
+		<name>Google Hybrid (GOOGLE)</name>
+		<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=s,m&hl=iw&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>15</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<httpparam name=""></httpparam>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>	
+	<!-- GOOGLE Google Terrain -->
+	<onlinemapsource uid="3">
+		<name>Google Terrain (GOOGLE)</name>
+		<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t,r&hl=iw&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>15</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>	
+	<!-- GOOGLE Google Traffic Hybrid -->
+	<onlinemapsource uid="4">
+		<name>Google Traffic Hybrid (GOOGLE)</name>
+		<url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&src=app&x={$x}&y={$y}&z={$z}&s=&lyrs=m@239006565,traffic%7cseconds_into_week:-1&style=15]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- OSM MAPNIK -->
+	<onlinemapsource uid="5">
+		<name>OSM Mapnik (OSM)</name>
+		<url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://www.openstreetmap.org">OpenStreetMap Mapnik</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- OSM Cyclemap -->
+	<onlinemapsource uid="6">
+		<name>OSM Cyclemap (OSM)</name>
+		<url><![CDATA[http://{$s}.tile.opencyclemap.org/cycle/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://www.opencyclemap.org/">OpenStreetMap Cyclemap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- OSM Opnvkarte -->
+	<onlinemapsource uid="7">
+		<name>OSM Opnvkarte (OSM)</name>
+		<url><![CDATA[http://tile.xn--pnvkarte-m4a.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://www.openstreetmap.org">OpenStreetMap Opnvkarte</a>]]></website>
+		<minzoom>4</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- OSM mapsurfer.net -->
+	<onlinemapsource uid="8">
+		<name>OSM Mapsurfer.net (OSM)</name>
+		<url><![CDATA[http://129.206.74.245:8001/tms_r.ashx?x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <!-- OSM MapQuest -->
+    <onlinemapsource uid="9">
+		<name>OSM MapQuest (OSM)</name>
+		<url><![CDATA[http://otile{$s}.mqcdn.com/tiles/1.0.0/map/{$z}/{$x}/{$y}.jpg]]></url>
+		<website><![CDATA[Tiles Courtesy of <a href="http://www.mapquest.com/" target="_blank">MapQuest</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    
+	<!-- YANDEX Яндекс  -->
+	<onlinemapsource uid="10">
+		<name>Карты Яндекс (YANDEX)</name>
+		<url><![CDATA[http://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&lang=ru_RU]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<!-- YANDEX Яндекс Народная -->
+	<onlinemapsource uid="11">
+		<name>Карты Яндекс Народная (YANDEX)</name>
+		<url><![CDATA[http://0{$s}.pvec.maps.yandex.net/?l=pmap&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<!-- YANDEX Яндекс Спутник -->
+	<onlinemapsource uid="12">
+		<name>Карты Яндекс Спутник (YANDEX)</name>
+		<url><![CDATA[http://sat01.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Гибрид -->
+	<onlinemapsource uid="13">
+		<name>Карты Яндекс Гибрид (YANDEX)</name>
+		<url><![CDATA[http://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&lang=ru_RU]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Народная Гибрид -->
+	<onlinemapsource uid="14">
+		<name>Карты Яндекс Народная Гибрид (YANDEX)</name>
+		<url><![CDATA[http://wvec.maps.yandex.net/?x={$x}&y={$y}&z={$z}&lang=ru_RU]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Спутник Net -->
+	<onlinemapsource uid="15">
+		<name>Карты Яндекс Спутник Net (YANDEX)</name>
+		<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <!-- YANDEX Карты Яндекс Спутник old v= 3.102.0 -->
+	<onlinemapsource uid="16">
+		<name>Карты Яндекс Спутник old v= 3.102.0 (YANDEX)</name>
+		<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&v=3.102.0&x={$x}&y={$y}&z={$z}&lang=ru_RU]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Народная Новая -->
+	<onlinemapsource uid="17">
+		<name>Карты Яндекс Народная Новая (YANDEX)</name>
+		<url><![CDATA[http://0{$s}.rdr.um.maps.yandex.net/?l=mpskl&x={$x}&y={$y}&z={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Пробки -->
+	<onlinemapsource uid="200">
+		<name>Карты Яндекс Пробки (YANDEX)</name>
+		<url><![CDATA[http://jgo.maps.yandex.net/tiles?l=trf&lang=ru-RU&x={$x}&s=&y={$y}&z={$z}&tm={$s}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- YANDEX Карты Яндекс Пробки и События -->
+	<onlinemapsource uid="201">
+		<name>Карты Яндекс Пробки и События (YANDEX)</name>
+		<url><![CDATA[http://jgo.maps.yandex.net/tiles?l=trf,trfe&lang=ru-RU&x={$x}&s=&y={$y}&z={$z}&tm={$s}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- HERE -->
+    <onlinemapsource uid="18">
+        <name>HERE Aerial NEW (HERE)</name>
+        <url><![CDATA[http://4.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=SqE1xcSngCd3m4a1zEGb&token=r0sR1DzqDkS6sDnh902FWQ]]></url>
+        <minzoom>0</minzoom>
+        <maxzoom>18</maxzoom>
+		<servers>1,2,3,4</servers>
+        <projection>MERCATORESFERICA</projection>                
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="19">
+		<name>Here normal.day (HERE)</name>
+		<url><![CDATA[http://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="20">
+		<name>Here normal.day mobile (HERE)</name>
+		<url><![CDATA[http://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=320]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="21">
+		<name>Here normal.night (HERE)</name>
+		<url><![CDATA[http://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.night/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="22">
+		<name>Here normal.day.transit (HERE)</name>
+		<url><![CDATA[http://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day.transit/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="23">
+		<name>Here pedestrian.day (HERE)</name>
+		<url><![CDATA[http://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/pedestrian.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="24">
+		<name>Here terrain.day (HERE)</name>
+		<url><![CDATA[http://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="25">
+		<name>Here satellite.day (HERE)</name>
+		<url><![CDATA[http://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{$z}/{$x}/{$y}/256/jpg?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="26">
+		<name>Here hybrid.day (HERE)</name>
+		<url><![CDATA[http://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/jpg?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="27">
+		<name>Here hybrid.day.mobile (HERE)</name>
+		<url><![CDATA[http://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day.mobile/{$z}/{$x}/{$y}/256/jpg?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=250]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4,1,2,3,4,1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>       
+	<onlinemapsource uid="28">
+		<name>Here normal.traffic.day layer(HERE)</name>
+		<url><![CDATA[http://{$s}.traffic.maps.api.here.com/maptile/2.1/traffictile/newest/normal.traffic.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="29">
+		<name>Here hybrid.traffic.day layer(HERE)</name>
+		<url><![CDATA[http://{$s}.traffic.maps.api.here.com/maptile/2.1/traffictile/newest/hybrid.traffic.day/{$z}/{$x}/{$y}/256/jpg?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+
+	<!-- BING Bing (SAT) -->
+    <onlinemapsource uid="30">
+		<name>Bing SAT (BING)</name>
+		<url>http://a0.ortho.tiles.virtualearth.ne{$s}/tiles/a{$q}.jpg?g=45</url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>t</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+	</onlinemapsource>				
+	<!-- BING Bing Maps -->
+	<onlinemapsource uid="31">
+		<name>Bing Maps (BING)</name>
+		<url>http://r0.ortho.tiles.virtualearth.ne{$s}/tiles/r{$q}.png?g=45</url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>t</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+	</onlinemapsource>	
+	<!-- BING Bing Hybrid -->
+	<onlinemapsource uid="32">
+		<name>Bing Hybrid (BING)</name>
+		<url>http://h0.ortho.tiles.virtualearth.ne{$s}/tiles/h{$q}.png?g=45</url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>t</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+	</onlinemapsource>	
+	<!-- BING OS Maps -->
+	<onlinemapsource uid="33">
+        <name>Bing OS Maps (BING)</name>
+        <url><![CDATA[http://ecn.t3.tiles.virtualearth.net/tiles/r{$q}.png?g=604&productSet=mmOS]]></url>
+        <minzoom>12</minzoom>
+        <maxzoom>16</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>     
+	<!-- BING Bing Road -->
+    <onlinemapsource uid="34">
+        <name>Bing Road (BING)</name>
+        <url><![CDATA[http://ecn.t0.tiles.virtualearth.net/tiles/r{$q}?g=604&mkt=en-us&lbl=l1&stl=h&shading=hill&n=z]]></url>
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<!-- BING Bing Road Traffic -->
+	<onlinemapsource uid="35">
+		<name>Bing Road Traffic (BING)</name>
+		<url><![CDATA[http://t{$s}-traffic.tiles.virtualearth.net/comp/ch/{$q}?it=Z,TF&n=z&key=Ag2U1YDZ8B9-rLFCFmQe_VkwTl8EP4erWjKDjm7QY25XC9OllRtcuJ7vgLFYLBKX&tc=z]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	
+	<!-- Microsoft -->
+	<onlinemapsource uid="36">
+		<name>Microsoft Earth (MICROSOFT)</name>
+		<url><![CDATA[http://a1.ortho.tiles.virtualearth.net/tiles/a{$q}.JPG?g=45&mkt=en]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <onlinemapsource uid="37">
+		<name>Microsoft Hybrid (MICROSOFT)</name>
+		<url><![CDATA[http://h0.ortho.tiles.virtualearth.net/tiles/h{$q}.jpg?g=45]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <onlinemapsource uid="38">
+		<name>Microsoft Maps (MICROSOFT)</name>
+		<url><![CDATA[http://r0.ortho.tiles.virtualearth.net/tiles/r{$q}.png?g=45]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- Virtualearth.net -->
+	<onlinemapsource uid="39">
+		<name>VirtualEarth Maps (VIRTUALEARTH)</name>
+		<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{$q}?mkt=ru-ru&it=G,VE,BX,L,LA&shading=hill&og=69&n=z]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="40">
+		<name>VirtualEarth Sat (VIRTUALEARTH)</name>
+		<url><![CDATA[http://ak.t{$s}.tiles.virtualearth.net/tiles/a{$q}.jpeg?g=1711&n=z]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="41">
+		<name>VirtualEarth Hybrid (VIRTUALEARTH)</name>
+		<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{$q}?mkt=ru-ru&it=A,G,L,LA&shading=hill&og=69&n=z]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+		
+	<!-- GENSHTAB Генштаб 250m -->
+	<onlinemapsource uid="42">
+		<name>Генштаб 250m (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab250m/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <!-- GENSHTAB Генштаб 500m -->
+	<onlinemapsource uid="43">
+		<name>Генштаб 500m (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab500m/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	 <!-- GENSHTAB Генштаб 500m New -->
+	<onlinemapsource uid="44">
+		<name>Генштаб 500m New (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab5k_new/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Генштаб 1km -->
+    <onlinemapsource uid="45">
+		<name>Генштаб 1km (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab1km/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Генштаб 2km -->
+    <onlinemapsource uid="46">
+		<name>Генштаб 2km (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab2km/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <!-- GENSHTAB Генштаб 5km -->
+	<onlinemapsource uid="47">
+		<name>Генштаб 5km (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab5km/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+    <!-- GENSHTAB Генштаб 10km -->
+	<onlinemapsource uid="48">
+		<name>Генштаб 10km (GENSHTAB)</name>
+		<url><![CDATA[http://91.237.82.95:8086/genshtab10km/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+                <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Marshruty.ru -->
+    <onlinemapsource uid="49">
+		<name>Marshruty.ru (GENSHTAB)</name>
+		<url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={$x}&y={$y}&z={$z}&i=1]]></url>
+		<minzoom>10</minzoom>
+		<maxzoom>15</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+         <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Генштаб genshtab1k.narod.ru -->
+	<onlinemapsource uid="50">
+		<name>Генштаб genshtab1k.narod.ru (GENSHTAB)</name>
+		<url><![CDATA[http://genshtab1k.narod.ru/z{$z}/{$y}/{$x}.jpg]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Генштаб genshtab.narod.ru/map05k -->
+	<onlinemapsource uid="51">
+		<name>Генштаб genshtab.narod.ru/map05k (GENSHTAB)</name>
+		<url><![CDATA[http://karta-genshtab.narod.ru/map05k/z{$z}/{$y}/{$x}.jpg]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Генштаб genshtab.narod.ru/map10k -->
+	<onlinemapsource uid="52">
+		<name>Генштаб genshtab.narod.ru/map10k (GENSHTAB)</name>
+		<url><![CDATA[http://karta-genshtab.narod.ru/map10k/z{$z}/{$y}/{$x}.jpg]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Карты in7ane.com -->
+	<onlinemapsource uid="53">
+		<name>Карты Генштаб in7ane.com (GENSHTAB)</name>
+		<url><![CDATA[http://www.in7ane.com/topomaps/tiles/{$z}/{$x}/{$y}.jpg]]></url>
+		<website></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<httpparam name="Referer">http://www.in7ane.com</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- GENSHTAB Карты Soviet Military Maps -->
+	<onlinemapsource uid="54">
+		<name>Карты Генштаб Atlogic (GENSHTAB)</name>
+		<url><![CDATA[http://maps2.atlogis.com/cgi-bin/tilecache-2.11/tilecache.py/1.0.0/topomapper_gmerc/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource> 
+	
+	<!-- TOPO Туристический Крым -->
+	<onlinemapsource uid="55">
+		<name>Туристический Крым (TOPO)</name>
+		<url><![CDATA[http://91.237.82.95:8086/krim/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+        <website></website>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+       <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<!-- TOPO Strelbicky -->
+    <onlinemapsource uid="56">
+		<name>Strelbicky 1882 (TOPO)</name>
+		<url><![CDATA[http://91.237.82.95:8086/strelb_10_1882/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>16</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>2</maxthreads>
+	</onlinemapsource>
+	<!-- TOPO Geologic map USSR -->
+    <onlinemapsource uid="57">
+		<name>Geologic map USSR (TOPO)</name>
+		<url><![CDATA[http://91.237.82.95:8086/geologmap/{$z}/{$x}/{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>16</maxzoom>
+		<servers>2,4</servers>
+		<projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+	 </onlinemapsource>              
+	<!-- TOPO globus.tut.by -->
+	<onlinemapsource uid="58">
+		<name>globus.tut.by (TOPO)</name>
+		<url><![CDATA[http://globus.tut.by/.tiles/ev/Z{$z}/{$y}/{$x}.png]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- TOPO OpenTopoMap -->
+	<onlinemapsource uid="59">
+		<name>Карты OpenTopoMap (TOPO)</name>
+		<url><![CDATA[http://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Kartendaten: © <a href="https://openstreetmap.org/copyright" target="_blank">OpenStreetMap</a>-Mitwirkende, SRTM | Kartendarstellung: © <a href="http://opentopomap.org/" target="_blank">OpenTopoMap</a>]]></website>
+		<minzoom>7</minzoom>
+		<maxzoom>15</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!--Navionics-->
+    <onlinemapsource uid="60">
+		<name>Navionics layer (NAVIONICS)</name>
+		<url><![CDATA[http://d2hcl9zx8watk4.cloudfront.net/tile/{$z}/{$x}/{$y}.jpg?LAYERS=config_1_1_0&TRANSPARENT=TRUE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Referer">Referer: http://webapiv2.navionics.com/examples/2010_BoatingNavionicsMap.html</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="61">
+		<name>Navionics Sonar layer (NAVIONICS)</name>
+		<url><![CDATA[http://d2hcl9zx8watk4.cloudfront.net/tile/{$z}/{$x}/{$y}.jpg?LAYERS=config_1_1_1&TRANSPARENT=TRUE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Referer">Referer: http://webapiv2.navionics.com/examples/2010_BoatingNavionicsMap.html</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="62">
+		<name>Navionics (NAVIONICS)</name>
+		<url><![CDATA[http://d2hcl9zx8watk4.cloudfront.net/tile/{$z}/{$x}/{$y}.jpg?LAYERS=config_1_1_0&TRANSPARENT=FALSE&navtoken=TmF2aW9uaWNzX2ludGVybmFscHVycG9zZV8wMDAwMSt3ZWJhcGl2Mi5uYXZpb25pY3MuY29t]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Referer">Referer: http://webapiv2.navionics.com/examples/2010_BoatingNavionicsMap.html</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- WIKI Wikimapia Map -->
+	<onlinemapsource uid="63">
+		<name>Wikimapia Map (WIKI)</name>
+		<url><![CDATA[http://i{$s}.wikimapia.org/?lng=1&x={$x}&y={$y}&zoom={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop>($x%4)+($y%4)*4</sop>
+	 </onlinemapsource>
+	<!-- WIKI Wikimapia Hybrid -->
+	<onlinemapsource uid="64">
+		<name>Wikimapia Hybrid (WIKI)</name>
+		<url><![CDATA[http://i{$s}.wikimapia.org/?lng=1&r=764397&type=hybrid&x={$x}&y={$y}&zoom={$z}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop>($x%4)+($y%4)*4</sop>
+	 </onlinemapsource>
+	
+	<!-- RU 2GIS -->
+	<onlinemapsource uid="65">
+		<name>Карты 2GIS (RU)</name>
+		<url><![CDATA[https://tile{$s}.maps.2gis.com/tiles?x={$x}&y={$y}&z={$z}&v=1.1]]></url>
+		<website><![CDATA[<a href=""></a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	
+	<!-- KOSMOSNIMKI Карта Kosmosnimki Map -->
+	<onlinemapsource uid="66">
+		<name>Карты Космоснимки Map (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=E50931C3B2DD4E0FA2C03366552EEAA1&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprIMdejskzZJjbi1OqiaOos8jcIkx7ZpxgKqE9oCejuVldUckosPF8OHgRlZSRzg%2BRwCpMKtADvZoTUBGS6iAtZhvqweQRsWjmAtUHtfkgSQH%2BTBAF9CWClWxCphTffmWv&z={$z}&x={$x}&y={$y}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers></servers>
+		<httpparam name="Referer">http://kosmosnimki.ru/</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop>$x - (1 &lt;&lt; $z) / 2 </xop>
+		<yop>(1 &lt;&lt; $z) / 2 - $y - 1</yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<!-- KOSMOSNIMKI Карты Космоснимки Рельеф -->
+	<onlinemapsource uid="67">
+		<name>Карты Космоснимки Рельеф (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://{$s}.tile.cart.kosmosnimki.ru/r/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://Kosmosnimki.ru/">Kosmosnimki</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>13</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers>a,b,c,d</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>	
+	<!-- KOSMOSNIMKI Карты Космоснимки ScanEx 0 -->
+	<onlinemapsource uid="68">
+		<name>Карты Космоснимки ScanEx 0 (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=Kosmosnimki&LayerName=C7B2E6510209444E80673F3C37519F7E&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprIMdejskzZJjbi1OqiaOos8jcIkx7ZpxgKqE9oCejuVldUckosPF8OHgRlZSRzg%2BRwCpMKtADvZoTUBGS6iAtZhvqweQRsWjmAtUHtfkgSQH%2BTBAF9CWClWxCphTffmWv&z={$z}&x={$x}&y={$y}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers></servers>
+		<httpparam name="Referer">http://kosmosnimki.ru/</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop>$x - (1 &lt;&lt; $z) / 2 </xop>
+		<yop>(1 &lt;&lt; $z) / 2 - $y - 1</yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<!-- KOSMOSNIMKI Карты КосмоснимкиS canEx 1 -->
+	<onlinemapsource uid="69">
+		<name>Карты Космоснимки ScanEx 1 (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://maps.kosmosnimki.ru/TileService.ashx?Request=gettile&LayerName=04C9E7CE82C34172910ACDBF8F1DF49A&apikey=7BDJ6RRTHH&crs=epsg:3857&z={$z}&x={$x}&y={$y}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<website><![CDATA[Kosmosnimki.ru]]></website>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- KOSMOSNIMKI Карты Космоснимки ScanEx 2-->
+	<onlinemapsource uid="70">
+		<name>Карты Космоснимки ScanEx 2 (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://maps.kosmosnimki.ru/TileService.ashx?Request=gettile&LayerName=04C9E7CE82C34172910ACDBF8F1DF49A&apikey=7BDJ6RRTHH&crs=epsg:3857&z={$z}&x={$x}&y={$y}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<website><![CDATA[Kosmosnimki.ru]]></website>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- KOSMOSNIMKI Карты Космоснимки IRS Satellite -->
+	<onlinemapsource uid="71">
+		<name>Карты Космоснимки IRS Satellite (KOSMOSNIMKI)</name>
+		<url><![CDATA[http://irs.gis-lab.info/?layers=irs&request=GetTile&z={$z}&x={$x}&y={$y}]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	   
+	<!-- OTHER Yahoo Satellite (OTHER) -->
+	<onlinemapsource uid="72">
+        <name>Yahoo Satellite (OTHER)</name>
+        <url><![CDATA[http://maps.yimg.com/ae/ximg?v=1.9&t=a&s=256&r=1&x={$x}&y={$y}&z={$z}]]></url>
+        <minzoom>0</minzoom>
+        <maxzoom>18</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <website><![CDATA[Yahoo Satellite]]></website>
+        <httpparam name="Yahoo"></httpparam>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop>((1&lt;&lt;($z-1))-1-$y)<!--(2^$z)/2-1-$y--></yop>
+        <zop>1</zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	
+	<!-- OTHER MapBox Satellite (OTHER) -->
+	<onlinemapsource uid="73">
+		<name>MapBox Satellite (OTHER)</name>
+		<url><![CDATA[http://api.tiles.mapbox.com/v3/dennisl.map-6g3jtnzm/{$z}/{$x}/{$y}.png]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<website><![CDATA[MapBox   <a href="https://www.mapbox.com">https://www.mapbox.com</a>]]></website>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- OTHER TomToM -->
+	<onlinemapsource uid="74">
+		<name>TomToM (OTHER)</name>
+		<url><![CDATA[http://{$s}.api.internal.tomtom.com/lbs/map/3/basic/1/{$z}/{$x}/{$y}.png?key=dvbfcb88hkrje9ur2fs84uxn]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c,d</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- OTHER Карты MFF Рельеф -->
+	<onlinemapsource uid="75">
+		<name>Карты Maps-For-Free Рельеф (OTHER)</name>
+		<url><![CDATA[http://www.maps-for-free.com/layer/relief//z{$z}/row{$y}/{$z}_{$x}-{$y}.jpg]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>11</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- OTHER Карты MFF Water Hyb -->
+	<onlinemapsource uid="76">
+		<name>Карты Maps-For-Free Water Hyb (OTHER)</name>
+		<url><![CDATA[http://www.maps-for-free.com/layer/water//z{$z}/row{$y}/{$z}_{$x}-{$y}.gif]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>11</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- OTHER geoportal.ntsomz.ru -->
+	<onlinemapsource uid="77">
+        <name>geoportal.ntsomz.ru (OTHER)</name>
+        <url><![CDATA[http://geoportal.ntsomz.ru/get_tile_external.php?x={$x}&y={$y}&scale={$z}]]></url>                
+		<minzoom>0</minzoom>
+        <maxzoom>16</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <servers></servers>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+    </onlinemapsource>	
+	
+	<!-- MAPBOX -->
+	<onlinemapsource uid="78">
+        <name>mapbox.streets (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.streets/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="79">
+        <name>mapbox.light (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.light/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="80">
+        <name>mapbox.dark (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.dark/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="81">
+        <name>mapbox.satellite (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="82">
+        <name>mapbox.streets-satellite (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.streets-satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="83">
+        <name>mapbox.wheatpaste (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.wheatpaste/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="84">
+        <name>mapbox.comic (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.comic/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="85">
+        <name>mapbox.outdoors (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.outdoors/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="86">
+        <name>mapbox.run-bike-hike (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.run-bike-hike/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="87">
+        <name>mapbox.pencil (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.pencil/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+	<onlinemapsource uid="88">
+        <name>mapbox.pirates (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.pirates/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="89">
+        <name>mapbox.emerald (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.emerald/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="90">
+        <name>mapbox.high-contrast (MAPBOX)</name>
+        <url><![CDATA[https://{$s}.tiles.mapbox.com/v4/mapbox.high-contrast/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6IlhHVkZmaW8ifQ.hAMX5hSW-QnTeRCMAy9A8Q]]></url>
+        <servers>a,b,c</servers> 
+        <minzoom>1</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <cacheable>1</cacheable>
+        <downloadable>1</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop></xop>
+        <yop></yop>
+        <zop></zop>
+        <qop></qop>
+        <sop></sop>
+	</onlinemapsource>
+	
+	<!-- OTHER Visicom -->
+	<onlinemapsource uid="91">
+		<name>Visicom (OTHER)</name>
+		<url><![CDATA[http://tms{$s}.visicom.ua/1.0.3/world_ru/{$z}/{$x}/{$y}.png]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<httpparam name=""></httpparam>
+		<xop></xop>
+		<yop>0</yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- OTHER Hike and Bike -->
+	<onlinemapsource uid="92">
+		<name>Hike and Bike (OTHER)</name>
+		<url><![CDATA[http://toolserver.org/tiles/hikebike/{$z}/{$x}/{$y}.png]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Hike and Bike"></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	<!-- OTHER Topo 4umaps -->
+	<onlinemapsource uid="93">
+		<name>Topo 4umaps (OTHER)</name>
+		<url><![CDATA[http://4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://4umaps.eu/index.htm">4umaps.eu Maps</a>]]></website>
+		<minzoom>3</minzoom>
+		<maxzoom>15</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Topo 4umaps"></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	<!-- OTHER Ordnance SM  -->
+	<onlinemapsource uid="94">
+		<name>Ordnance SM (OTHER)</name>
+		<url><![CDATA[http://ecn.t2.tiles.virtualearth.net/tiles/r{$q}.png?g=41&productSet=mmOS]]></url>
+		<minzoom>12</minzoom>
+		<maxzoom>16</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="Ordnance SM (UK)"></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- RU Navicom -->
+	<onlinemapsource uid="95">
+		<name>Карты Navicom (RU)</name>
+		<url><![CDATA[http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{$x};{$y};{$z}]]></url>
+		<website><![CDATA[<a href="http://maps.navicom.ru">Navicom.ru</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- RU Mail.ru -->
+	<onlinemapsource uid="96">
+		<name>Карты Mail.ru (RU)</name>
+		<url><![CDATA[http://t{$s}maps.mail.ru/tiles/scheme/{$z}/{$y}/{$x}.png]]></url>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4,5,6,7,8,9</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<httpparam name="Referer">http://maps.mail.ru</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<!-- RU Mail.ru Traf Hyb -->
+	<onlinemapsource uid="97">
+		<name>Карты Mail.ru Траффик (RU)</name>
+		<url><![CDATA[http://jn{$s}maps.mail.ru/tiles/newjams/{$z}/{$y}/{$x}.png]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>0,1,2,3</servers>
+		<httpparam name="Referer">http://maps.mail.ru</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+        <xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+    </onlinemapsource>	
+			
+	<!-- OTHER Карты Waze live map -->
+	<onlinemapsource uid="98">
+		<name>Карты Waze live map (OTHER)</name>
+		<url><![CDATA[http://tilesworld1.waze.com/tiles/{$z}/{$x}/{$y}.jpg]]></url>
+		<website><![CDATA[<a href="http://waze.com">waze.com</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+
+	<!-- RU Карта Navitel -->
+    <onlinemapsource uid="99">
+		<name>Карта Navitel (RU)</name>
+		<url><![CDATA[http://m0{$s}.navitel.su/navitms.fcgi?t={$x},{$y},{$z}&hl=ru]]></url>
+		<minzoom>3</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3</servers>
+		<httpparam name="Referer">http://map.navitel.su</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop>( substr('000000000'||$x, -8, 8) )</xop>
+		<yop>( substr('000000000'||((1 &lt;&lt; $z)-1-$y), -8, 8) )</yop>
+		<zop>( substr('00'||$z, -2, 2) )</zop>
+		<qop></qop>
+		<sop></sop>
+    </onlinemapsource>
+	<!-- RU Карта Navitel Traf Hyb -->
+	<onlinemapsource uid="100">
+		<name>Карта Navitel Traf Hyb (RU)</name>
+		<url><![CDATA[http://m0{$s}.navitel.su/navitms.fcgi?j={$x},{$y},{$z}&hl=ru]]></url>
+        <minzoom>0</minzoom>
+        <maxzoom>20</maxzoom>
+        <projection>MERCATORESFERICA</projection>
+        <servers>1,2,3</servers>
+	    <httpparam name="Referer">http://map.navitel.su</httpparam>
+        <cacheable>0</cacheable>
+        <downloadable>0</downloadable>
+        <maxtilesday>0</maxtilesday>
+        <maxthreads>0</maxthreads>
+        <xop>substr('000000000'||$x, -8, 8)</xop>
+        <yop>( substr('000000000'||((1 &lt;&lt; $z)-1-$y), -8, 8) )</yop>
+        <zop>substr('00'||$z, -2, 2)</zop>
+        <qop></qop>
+        <sop></sop>
+    </onlinemapsource>
+
+	<!-- NOKIAOVI Карты Nokia Sat+ -->
+    <onlinemapsource uid="101">
+		<name>Карты Nokia Sat Hyb (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maps.nlp.nokia.com/maptile/2.1/maptile/cf7f6539c6/hybrid.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=r0sR1DzqDkS6sDnh902FWQ]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Nokia Sat-->
+	<onlinemapsource uid="102">
+		<name>Карты Nokia Sat (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maps.nlp.nokia.com/maptile/2.1/maptile/cf7f6539c6/satellite.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=r0sR1DzqDkS6sDnh902FWQ]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>		
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Nokia Map -->
+	<onlinemapsource uid="103">
+		<name>Карты Nokia Map (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maps.nlp.nokia.com/maptile/2.1/maptile/cf7f6539c6/normal.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=r0sR1DzqDkS6sDnh902FWQ]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		 <servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Ovi Map -->
+	<onlinemapsource uid="104">
+		<name>Карты Ovi Map (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maptile.lbs.ovi.com/maptiler/v2/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		 <servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Ovi Sat-->
+	<onlinemapsource uid="105">
+		<name>Карты Ovi Sat (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maptile.lbs.ovi.com/maptiler/v2/maptile/newest/satellite.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		 <servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Ovi Sat+-->
+	<onlinemapsource uid="106">
+		<name>Карты Ovi Sat Hyb (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maptile.lbs.ovi.com/maptiler/v2/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		 <servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- NOKIAOVI Карты Ovi Рельеф -->
+	<onlinemapsource uid="107">
+		<name>Карты Ovi Рельеф (NOKIAOVI)</name>
+		<url><![CDATA[http://{$s}.maptile.lbs.ovi.com/maptiler/v2/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&token=fee2f2a877fd4a429f17207a57658582&appId=nokiaMaps]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		 <servers>1,2,3,4</servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	
+	<!-- RU Карта Росреестр -->
+	<onlinemapsource uid="108">
+		<name>Карта Росреестр (RU)</name>
+		<url><![CDATA[http://c.maps.rosreestr.ru/ArcGIS/rest/services/BaseMaps/BaseMapAnno/MapServer/tile/{$z}/{$y}/{$x}]]></url>
+		<minzoom>4</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers></servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<httpparam name="Referer">http://127.0.0.1</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- RU Карта Росреестр 2 -->
+	<onlinemapsource uid="109">
+		<name>Карта Росреестр 2 (RU)</name>
+		<url><![CDATA[http://c.maps.rosreestr.ru/ArcGIS/rest/services/BaseMaps/BaseMap/MapServer/tile/{$z}/{$y}/{$x}]]></url>
+		<minzoom>4</minzoom>
+		<maxzoom>17</maxzoom>
+		<projection>MERCATORELIPSOIDAL</projection>
+		<servers></servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<httpparam name="Referer">http://127.0.0.1</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>		
+	
+	<!-- RU Карты RUMAP -->
+	<onlinemapsource uid="110">
+		<name>Карты RUMAP (RU)</name>
+		<url><![CDATA[http://tile.digimap.ru/rumap/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[<a href="http://map.digimap.ru">map.digimap.ru</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- OTHER Спутник Here.com -->
+	<onlinemapsource uid="111">
+		<name>Спутник Here.com (OTHER)</name>
+		<url><![CDATA[http://1.maps.nlp.nokia.com/maptile/2.1/maptile/newest/satellite.day/{$z}/{$x}/{$y}/256/png8?lg=RUS&app_id=SqE1xcSngCd3m4a1zEGb&token=r0sR1DzqDkS6sDnh902FWQ&xnlp=CL_JSMv2.5.0.3,SID_34725629-4FBE-4EA5-A2AB-52EA24DEA26F]]></url>
+		<website><![CDATA[<a href="http://Here.com/">Here.com Sat</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+	
+	<!-- OTHER Спутник ArcGIS Imagery -->
+	<onlinemapsource uid="112">
+		<name>Спутник ArcGIS Imagery (OTHER)</name>
+		<url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{$z}/{$y}/{$x}.jpg]]></url>
+		<website><![CDATA[<a href="http://arcgisonline.com">arcgisonline.com</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+	</onlinemapsource>
+					
+	<!-- OTHER shturman -->
+	<onlinemapsource uid="113">
+		<name>My.shturman.com (OTHER)</name>
+		<url><![CDATA[http://map.shturmann.com/{$z}/{$x}/{$y}.png]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<website><![CDATA[<a href="http://my.shturmann.com">My.shturmann.com </a>]]></website>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	
+	<!-- RU sputnik.ru -->
+	<onlinemapsource uid="114">
+		<name>Карты sputnik.ru (RU)</name>
+		<url><![CDATA[http://tiles.maps.sputnik.ru/{$z}/{$x}/{$y}.png]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<website><![CDATA[<a href="http:// sputnik.ru"> sputnik.ru</a>]]></website>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+		
+	<!-- OTHER ArcGIS ESRI -->
+	<onlinemapsource uid="115">
+		<name>ArcGIS ESRI (OTHER)</name>
+		<url><![CDATA[http://services.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/{$z}/{$y}/{$x}.png]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>20</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers></servers>
+		<httpparam name=""></httpparam>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+		
+	<!-- NOKIAOVI Карты Nokia Sat+ -->
+    <onlinemapsource uid="116">
+		<name>Карты OVI-Nokia (NOKIAOVI)</name>
+		<url><![CDATA[http://maptile.mapplayer1.maps.svc.ovi.com/maptiler/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8]]></url>
+		<minzoom>1</minzoom>
+		<maxzoom>19</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>1,2,3,4</servers>
+		<cacheable>1</cacheable>
+		<downloadable>1</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+			
+	<!-- WEATHER OpenWeatherMaps -->
+	<onlinemapsource uid="408">
+		<name>OpenWeatherMap Precipitation (WEATHER)</name>
+		<url><![CDATA[http://{$s}.tile.openweathermap.org/map/precipitation/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Map data © <a href="http://www.openweathermap.org/" target="_blank">OpenWeatherMap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<transparency>0.5</transparency>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="409">
+		<name>OpenWeatherMap Pressure (WEATHER)</name>
+		<url><![CDATA[http://{$s}.tile.openweathermap.org/map/pressure_cntr/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Map data © <a href="http://www.openweathermap.org/" target="_blank">OpenWeatherMap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<transparency>0.5</transparency>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="410">
+		<name>OpenWeatherMap Wind (WEATHER)</name>
+		<url><![CDATA[http://{$s}.tile.openweathermap.org/map/wind/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Map data © <a href="http://www.openweathermap.org/" target="_blank">OpenWeatherMap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<transparency>0.5</transparency>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>	
+	<onlinemapsource uid="411">
+		<name>OpenWeatherMap Snow (WEATHER)</name>
+		<url><![CDATA[http://{$s}.tile.openweathermap.org/map/snow/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Map data © <a href="http://www.openweathermap.org/" target="_blank">OpenWeatherMap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<transparency>0.5</transparency>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>
+	<onlinemapsource uid="412">
+		<name>OpenWeatherMap Temp (WEATHER)</name>
+		<url><![CDATA[http://{$s}.tile.openweathermap.org/map/temp/{$z}/{$x}/{$y}.png]]></url>
+		<website><![CDATA[Map data © <a href="http://www.openweathermap.org/" target="_blank">OpenWeatherMap</a>]]></website>
+		<minzoom>0</minzoom>
+		<maxzoom>18</maxzoom>
+		<projection>MERCATORESFERICA</projection>
+		<servers>a,b,c</servers>
+		<httpparam name="User-Agent">{om}</httpparam>
+		<cacheable>0</cacheable>
+		<downloadable>0</downloadable>
+		<maxtilesday>0</maxtilesday>
+		<maxthreads>0</maxthreads>
+		<transparency>0.5</transparency>
+		<xop></xop>
+		<yop></yop>
+		<zop></zop>
+		<qop></qop>
+		<sop></sop>
+	</onlinemapsource>			
+	
+</onlinemapsources>

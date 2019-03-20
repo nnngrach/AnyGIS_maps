@@ -7,7 +7,7 @@
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
 [06]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
-# Скачать карты для Locus
+# Скачать карты для Locus Maps
 
 
 ### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global-City.xml "Скачать всю группу")

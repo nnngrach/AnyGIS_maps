@@ -1,0 +1,16 @@
+[url_template]
+http://vec01.maps.yandex.net/tiles?l=map&x={1}&y={2}&z={0}
+[ext]
+.jpg
+[min_zoom]
+0
+[max_zoom]
+20
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+18000
+[ellipsoid]
+true
