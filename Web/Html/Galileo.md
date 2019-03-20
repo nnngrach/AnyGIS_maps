@@ -17,7 +17,7 @@
 
 [0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog
 
-![Picture with 4 maps compilation](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4maps.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsGuru.png)
 
 
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] карт:

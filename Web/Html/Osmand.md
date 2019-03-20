@@ -17,7 +17,7 @@
 
 [0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog
 
-![Picture with 4 maps compilation](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4maps.png)
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsOsmand.png)
 
 
 
