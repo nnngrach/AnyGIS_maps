@@ -16,9 +16,11 @@
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/> | [Скачать карты для Locus][11] |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> |  <h3><a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo">Скачать карты для Orux Maps</a></h3> |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> |  <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo"><h3>Скачать карты для Orux Maps</h3></a> |
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/> | [Скачать карты для Orux Maps][13] |
+
+<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/> <h3><a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo">Скачать карты для Orux Maps</a></h3>
 
 
 [11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
