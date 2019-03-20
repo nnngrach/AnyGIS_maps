@@ -14,12 +14,15 @@
 # Скачать карты
 
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png  =100x)) Скачать карты для Locus
+<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/>
+### Скачать карты для Locus
 
-<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="200"/>
-Скачать карты для Guru Maps
+<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/>
+#### Скачать карты для Guru Maps
 
-| ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png) | Скачать карты для Orux Maps |
+<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/>
+##### Скачать карты для Orux Maps
+
 
 
 
