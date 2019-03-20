@@ -17,11 +17,10 @@
 <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/>
 ### Скачать карты для Locus
 
-<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/>
-#### Скачать карты для Guru Maps
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> | ### Скачать карты для Guru Maps |
 
 <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/>
-##### Скачать карты для Orux Maps
+### Скачать карты для Orux Maps
 
 
 
