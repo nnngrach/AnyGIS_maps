@@ -14,15 +14,18 @@
 # Скачать карты
 
 
-<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/>
-### Скачать карты для Locus
+<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_locus.png" width="100"/> ### Скачать карты для Locus
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> | ### Скачать карты для Guru Maps |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> |  [Скачать карты для Guru Maps][12] |
 
 <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/>
 ### Скачать карты для Orux Maps
 
 
+[11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Orux
+[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand
 
 
 
