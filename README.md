@@ -1,47 +1,12 @@
 ![AnyGIS - Onlime maps pack](https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/AnyGIS_logo_and_text.png)
 
-Сервис для удобной загрузки дополнительных онлайн-карт для мобильных навигационных приложений. Вот некоторые карты, которые имеются в данной подборке:
+This is web-site for downloading preset files for mobile client devices. It supporting most popular smatphone navigation apps: Locus, Osmand, Orux, GuruMaps. This files allows to connect new online maps to moblie navigation apps&
 
-* Карты для города (Яндекс, Google, Here, Bing, 2gis)
-* Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox)
-* Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-* Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)
-* Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
-* Многослойный сборник карт для пешего и горного туризма (RusOutdoor Set)
-* Карты со справочной информацией (Wikimapia) 
-
-
-### Как это работает?
-
-В качестве маршрутизатора используется backend-утилита [AnyGIS server](https://github.com/nnngrach/AnyGIS_server). 
-
-Она принимает от навигационного приложения GET-запрос для скачивания кусочка карты. Получает из запроса параметры "имя карты" и координаты "XYZ". В зависимости от указанной карты, AnyGIS генерирует соответствующий ей URL-адрес. Затем скачиватет по нему картинку с кусочком карты и возвращает ее на смартфон. 
-
-Такое промежуточное звено может производить различные дополнительные вычисления и позволяет генерировать достаточно сложные и динамически изменяющиеся URL-адреса. Благодаря этому к навигационным приложениям можно подключить многие из ранее недоступных для них карт.
-
-На этой странице вы можете прочитать более подробное описание того, [как именно это работает?](https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description) А для того, чтобы загружать с помощью AnyGIS различные карты, можно воспользоваться его [API](https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api).
-
-
-
-Помимо этого, с помошью базы данных AnyGIS происходит автоматическая генерациция всех многочисленных файлов для данной подборки: карт для GuruMaps, карт для Locus, вспомогательных скриптов Locus Action и веб-страниц со списком всех карт из базы. Благодаря этому внесение изменений и обновление файлов для скачивания может происходить быстрее и чаще.
-
-
-### Ссылки
-
-На данный момент карты генерируются в форматах для приложений Locus и для GuruMaps. Скачать последнюю версию подборки можно по этим ссылкам:
-
-[Комплект карт и инструкция для Locus](https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus)
-
-[Комплект карт и инструкция для Guru Maps (ex Galileo Pro)](https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo)
-
-
-
-
-Подробнее о данном проекте вы можете узнать, перейдя на его [оффициальный сайт](https://nnngrach.github.io/AnyGIS_maps/).
+For online processing map data it using backend utility [AnyGIS Server](https://github.com/nnngrach/AnyGIS_server). More information about it you can read [here](https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description).
 
 ---
 
-Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then write me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 <p align="center">
 <a href="mailto:anygis@bk.ru">anygis@bk.ru</a> 
