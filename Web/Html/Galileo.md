@@ -127,6 +127,7 @@
 
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
+![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/guru_itunes.png)
 
 ---
 
