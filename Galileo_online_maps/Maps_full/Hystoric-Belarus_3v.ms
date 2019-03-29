@@ -7,7 +7,7 @@
     <layer>
     <minZoom>10</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://orda.of.by/.tiles/3v/Z{$z}/{$y}/{$x}.jpg</url>
+    <url>https://globus.tut.by/.tiles/3v/Z{$z}/{$y}/{$x}.jpg</url>
     </layer>
 
 
