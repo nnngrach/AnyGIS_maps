@@ -281,6 +281,14 @@
 
 
 ### Исторические
+[Беларусь 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_3v_plus.ms "Скачать эту карту")
+
+[Беларусь Генштаб](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_Genshtab.ms "Скачать эту карту")
+
+[Беларусь РККА 500м](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_RKKA_plus.ms "Скачать эту карту")
+
+[Беларусь WIG 1km](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_WIG_plus.ms "Скачать эту карту")
+
 [Европейская Россия Шуберт 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Eur_Russia_Shubert.ms "Скачать эту карту")
 
 [Немецкий Генштаб 1942 3км](https://anygis.herokuapp.com/download/galileo/Hystoric-German_Genshtab_3km.ms "Скачать эту карту")
