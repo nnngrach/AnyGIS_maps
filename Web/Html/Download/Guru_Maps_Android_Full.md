@@ -281,7 +281,9 @@
 
 
 ### Исторические
-[Беларусь 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_3v_plus.ms "Скачать эту карту")
+[Беларусь 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_3v.ms "Скачать эту карту")
+
+[Беларусь 3-х верстовая+](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_3v_plus.ms "Скачать эту карту")
 
 [Беларусь Генштаб](https://anygis.herokuapp.com/download/galileo/Hystoric-Belarus_Genshtab.ms "Скачать эту карту")
 

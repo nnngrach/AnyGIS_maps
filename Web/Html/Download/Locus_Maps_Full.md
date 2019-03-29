@@ -281,7 +281,9 @@
 
 
 ### [Исторические](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Hystoric.xml "Скачать всю группу")
-[Беларусь 3-х верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Belarus_3v_plus.xml "Скачать эту карту")
+[Беларусь 3-х верстовая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Belarus_3v.xml "Скачать эту карту")
+
+[Беларусь 3-х верстовая+](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Belarus_3v_plus.xml "Скачать эту карту")
 
 [Беларусь Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Hystoric-Belarus_Genshtab.xml "Скачать эту карту")
 

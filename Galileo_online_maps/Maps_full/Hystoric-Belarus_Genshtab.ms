@@ -5,8 +5,8 @@
 <layers>
 
     <layer>
-    <minZoom>0</minZoom>
-    <maxZoom>19</maxZoom>
+    <minZoom>5</minZoom>
+    <maxZoom>14</maxZoom>
     <url>https://globus.tut.by/.tiles/ev/Z{$z}/{$y}/{$x}.png</url>
     </layer>
 

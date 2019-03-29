@@ -6,7 +6,7 @@
 
     <layer>
     <minZoom>10</minZoom>
-    <maxZoom>15</maxZoom>
+    <maxZoom>14</maxZoom>
     <url>https://globus.tut.by/.tiles/rkka_v2/Z{$z}/{$y}/{$x}.jpg</url>
     </layer>
 

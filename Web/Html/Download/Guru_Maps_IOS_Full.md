@@ -281,7 +281,9 @@
 
 
 ### Исторические
-[Беларусь 3-х верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Belarus_3v_plus.ms "Скачать эту карту")
+[Беларусь 3-х верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Belarus_3v.ms "Скачать эту карту")
+
+[Беларусь 3-х верстовая+](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Belarus_3v_plus.ms "Скачать эту карту")
 
 [Беларусь Генштаб](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Hystoric-Belarus_Genshtab.ms "Скачать эту карту")
 
