@@ -16,6 +16,8 @@
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_guru.png" width="100"/> | **[Скачать карты для Guru Maps][12]** |
 
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_osmand.png" width="100"/> | **[Скачать карты для OsmAnd][14]** |
+
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/> | **[Скачать карты для Orux Maps][13]** |
 
 
