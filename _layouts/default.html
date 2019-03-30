@@ -6,16 +6,6 @@
     
 {% seo %}
 
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
-    <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <![endif]-->
-
-    <link rel="shortcut icon" type="image/x-icon" href="https://nnngrach.github.io/AnyGIS_maps/Web/Img/favicon.ico">
-
     <script> 
     window.onload = function redirectToAnotherLanguage() {
         var url = String(location);
@@ -26,10 +16,22 @@
             url = url.replace("_ru", "_en");
         }
 
-        document.body.innerHTML = document.body.innerHTML.replace('{{ site.github.repository_url_lang }}', url);
+        document.body.innerHTML = document.body.innerHTML.replace(' site.github.repository_url_lang', url);
     }
     </script>
+
+    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+
+    <!--[if lt IE 9]>
+    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+
+    <link rel="shortcut icon" type="image/x-icon" href="https://nnngrach.github.io/AnyGIS_maps/Web/Img/favicon.ico">
+
     
+
   </head>
 
   <body>
