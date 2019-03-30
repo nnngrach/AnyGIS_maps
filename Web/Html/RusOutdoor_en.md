@@ -1,11 +1,11 @@
-| [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
+| [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
+[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
 
 
 

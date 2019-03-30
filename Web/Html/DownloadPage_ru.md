@@ -2,10 +2,10 @@
 
 
 [01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
 
 
 
@@ -24,10 +24,10 @@
 
 
 
-[11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Orux
-[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand
+[11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus_ru
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo_ru
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Orux_ru
+[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand_ru
 
 
 

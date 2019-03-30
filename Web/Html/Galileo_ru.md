@@ -2,11 +2,11 @@
 
 
 [01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster
+[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
+[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
+[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
+[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
+[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
 
 
 
@@ -15,7 +15,7 @@
 
 [Список изменений][0]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog
+[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsGuru.png)
 
