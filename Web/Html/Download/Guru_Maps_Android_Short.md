@@ -58,6 +58,8 @@
 
 
 ### Глобальные - Справочные
+[Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia.ms "Скачать эту карту")
+
 [Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo/Global-Wikimapia_satellite.ms "Скачать эту карту")
 
 

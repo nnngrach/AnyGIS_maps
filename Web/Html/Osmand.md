@@ -11,7 +11,7 @@
 
 
 
-# Карты для Orux Maps
+# Карты для OsmAnd
 
 [Список изменений][0]
 
@@ -26,13 +26,16 @@
 ### Базовый набор
 Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
 
-[Скачать карты][2]
+[Скачать карты (целиком)][2]
+
+[Скачать карты (выборочно)][3]
 
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.herokuapp.com/download/orux_short/onlinemapsources.xml
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short
 
+[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Short
 
 
 
@@ -47,7 +50,9 @@
 - Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
 - Карты со справочной информацией (Wikimapia)
 
-[Скачать карты][11]
+[Скачать карты (целиком)][11]
+
+[Скачать карты (выборочно)][12]
 
 
 
@@ -58,8 +63,9 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://anygis.herokuapp.com/download/orux_full/onlinemapsources.xml
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_full
 
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full
 
 
 

@@ -60,6 +60,8 @@
 
 
 ### [Глобальные - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/_Global.xml "Скачать всю группу")
+[Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Wikimapia.xml "Скачать эту карту")
+
 [Wikimapia.org + Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/__Global-Wikimapia_satellite.xml "Скачать эту карту")
 
 
