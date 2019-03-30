@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 29-03-2019 15:34
+Файл обновлен: 29-03-2019 16:58
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,33 +19,33 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="11007" type="0" visible="true" background="-1">
-    <name>Европа - Северная</name>
-    <mode>Skoterleder</mode>
-    <countries>Sweden</countries>
-    <usage>hiking</usage>
-    <url><![CDATA[https://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></url>
-    <serverPart></serverPart>
-    <zoomPart>{z}-8</zoomPart>
-    <zoomMin>8</zoomMin>    <!-- 0 -->
-    <zoomMax>30</zoomMax>   <!-- 22 -->
-    <tileSize>256</tileSize>
-    <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-    <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+<name>Европа - Северная</name>
+<mode>Skoterleder</mode>
+<countries>Sweden</countries>
+<usage>hiking</usage>
+<url><![CDATA[https://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>30</zoomMax>   <!-- 22 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>
 
 <provider id="11008" type="0" visible="true" background="11007">
-    <name>Европа - Северная</name>
-    <mode>Hitta Frilufts + Skoterleder</mode>
-    <countries>Sweden</countries>
-    <usage>hiking</usage>
-    <url><![CDATA[https://overl.skoterleder.org/tiles/{z}/{x}/{y}.png]]></url>
-    <serverPart></serverPart>
-    <zoomPart>{z}-8</zoomPart>
-    <zoomMin>8</zoomMin>    <!-- 0 -->
-    <zoomMax>30</zoomMax>   <!-- 22 -->
-    <tileSize>256</tileSize>
-    <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-    <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+<name>Европа - Северная</name>
+<mode>Hitta Frilufts + Skoterleder</mode>
+<countries>Sweden</countries>
+<usage>hiking</usage>
+<url><![CDATA[https://overl.skoterleder.org/tiles/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>30</zoomMax>   <!-- 22 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>
 
 </providers>

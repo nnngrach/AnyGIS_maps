@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 29-03-2019 15:33
+Файл обновлен: 29-03-2019 16:58
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -17,173 +17,175 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <locusActions>
 
-    <download>
-        <source>
-        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Европа%20-%20Северная.png]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Европа - Северная.png]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Европа%20-%20Северная.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Европа - Северная.png]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Eniro.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_Nautical.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Nautical.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_Navionics.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Navionics.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_Navionics.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Navionics.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_satellite.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_satellite.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_labels.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_labels.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_Nautical.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Nautical.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_satellite.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_satellite.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Eniro_labels.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_labels.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-FINN_Kart_Norge.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-FINN_Kart_Norge.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-FINN_Kart_Norge.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-FINN_Kart_Norge.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Finland_topo.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Finland_topo.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Finland_topo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Finland_topo.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Hitta.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Frilufts.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Frilufts.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Satellit.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Satellit.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Hitta_Satellit.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Satellit.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Lantmateriet_Topowebb.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Topowebb.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Lantmateriet_Topowebb.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Topowebb.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norgeskart.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Skoterleder.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Skoterleder.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Skoterleder.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Northern-Skoterleder.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Northern-Norgeskart.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart.xml]]>
+</dest>
+</download>
+
+</locusActions>

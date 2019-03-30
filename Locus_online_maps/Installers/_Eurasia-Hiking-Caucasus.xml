@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 29-03-2019 15:33
+Файл обновлен: 29-03-2019 16:58
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -17,110 +17,112 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <locusActions>
 
-    <download>
-        <source>
-        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Кавказ.png]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Евразия - Туристические - Кавказ.png]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Евразия%20-%20Туристические%20-%20Кавказ.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Евразия - Туристические - Кавказ.png]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-FGU.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-FGU.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-FGU.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-FGU.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+</dest>
+</download>
+
+</locusActions>

@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 29-03-2019 15:33
+Файл обновлен: 29-03-2019 16:58
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -17,29 +17,31 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <locusActions>
 
-    <download>
-        <source>
-        <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Европа%20-%20Западная.png]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Европа - Западная.png]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/Европа%20-%20Западная.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Европа - Западная.png]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Western-France_topo.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Western-France_topo.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Western-France_topo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Western-France_topo.xml]]>
+</dest>
+</download>
 
-    <download>
-        <source>
-        <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Western-GB_topo.xml]]>
-        </source>
-        <dest>
-        <![CDATA[/mapsOnline/custom/Europe-Western-GB_topo.xml]]>
-        </dest>
-    </download>
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/Europe-Western-GB_topo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Western-GB_topo.xml]]>
+</dest>
+</download>
+
+</locusActions>
