@@ -9,71 +9,71 @@
 # Download maps for Guru Maps IOS
 
 
-### Глобальные - Городские
-[2Gis](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_2gis.ms "Скачать эту карту")
+### Global - City
+[2Gis](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_2gis.ms Download this map)
 
-[Google Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Google_map.ms "Скачать эту карту")
+[Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Google_map.ms Download this map)
 
-[Google Ландшафт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Google_terrain.ms "Скачать эту карту")
+[Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Google_terrain.ms Download this map)
 
-[Yandex Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Yandex_map.ms "Скачать эту карту")
+[Yandex Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Yandex_map.ms Download this map)
 
-[Yandex Пробки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Yandex_traffic.ms "Скачать эту карту")
-
-
-
-### Глобальные - Спутниковые
-[AnyGIS Спутниковый сборник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_All.ms "Скачать эту карту")
-
-[Google Спутник (гибрид)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_Google_with_labels.ms "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_Yandex_with_labels.ms "Скачать эту карту")
+[Yandex Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-City_Yandex_traffic.ms Download this map)
 
 
 
-### Глобальные - OSM
-[Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapnik.ms "Скачать эту карту")
+### Global - Satellites
+[AnyGIS Satellites compilation](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_All.ms Download this map)
 
-[Mapnik (PROXY)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapnik_Proxy.ms "Скачать эту карту")
+[Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_Google_with_labels.ms Download this map)
 
-[Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapsurfer.ms "Скачать эту карту")
-
-[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_OpenSnowMap.ms "Скачать эту карту")
-
-[OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_OpenTopoMap.ms "Скачать эту карту")
-
-[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Cycle.ms "Скачать эту карту")
-
-[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Outdoor.ms "Скачать эту карту")
-
-[Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Transport.ms "Скачать эту карту")
+[Yandex Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Satellites_Yandex_with_labels.ms Download this map)
 
 
 
-### Глобальные - Водные
-[Navionics Marine Charts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water_Navionics_Marine_Charts.ms "Скачать эту карту")
+### Global - OSM
+[Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapnik.ms Download this map)
 
-[Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water_OpenSeaMap.ms "Скачать эту карту")
+[Mapnik (PROXY)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapnik_Proxy.ms Download this map)
 
+[Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Mapsurfer.ms Download this map)
 
+[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_OpenSnowMap.ms Download this map)
 
-### Глобальные - Справочные
-[Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global_Wikimapia.ms "Скачать эту карту")
+[OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_OpenTopoMap.ms Download this map)
 
-[Wikimapia.org + Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global_Wikimapia_satellite.ms "Скачать эту карту")
+[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Cycle.ms Download this map)
 
+[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Outdoor.ms Download this map)
 
-
-### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo_GGC_All.ms "Скачать эту карту")
-
-
-
-### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo_Genshtab_All.ms "Скачать эту карту")
+[Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-OSM_Thunderforest_Transport.ms Download this map)
 
 
 
-### Евразия - Туристические - Многослойные
-[RusOutdoor maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Hiking-Multylayer_RusOutdoorMaps.ms "Скачать эту карту")
+### Global - Nautical
+[Navionics Marine Charts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water_Navionics_Marine_Charts.ms Download this map)
+
+[Open Sea Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global-Water_OpenSeaMap.ms Download this map)
+
+
+
+### Global - Info
+[Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global_Wikimapia.ms Download this map)
+
+[Wikimapia.org + Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Global_Wikimapia_satellite.ms Download this map)
+
+
+
+### Eurasia - Topo - GGC
+[GGC Compilation](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo_GGC_All.ms Download this map)
+
+
+
+### Eurasia - Topo - Genshtab
+[Genshtab Compilation](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Topo_Genshtab_All.ms Download this map)
+
+
+
+### Eurasia - Hiking - Multylayer
+[RusOutdoor maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full/Eurasia-Hiking-Multylayer_RusOutdoorMaps.ms Download this map)
 

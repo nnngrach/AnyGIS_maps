@@ -9,400 +9,400 @@
 # Download maps for Guru Maps Android
 
 
-### Глобальные - Городские
-[2Gis](https://anygis.herokuapp.com/download/galileo/Global-City_2gis.ms "Скачать эту карту")
+### Global - City
+[2Gis](https://anygis.herokuapp.com/download/galileo/Global-City_2gis.ms Download this map)
 
-[Bing Карта](https://anygis.herokuapp.com/download/galileo/Global-City_Bing_map.ms "Скачать эту карту")
+[Bing Map](https://anygis.herokuapp.com/download/galileo/Global-City_Bing_map.ms Download this map)
 
-[Google Карта](https://anygis.herokuapp.com/download/galileo/Global-City_Google_map.ms "Скачать эту карту")
+[Google Map](https://anygis.herokuapp.com/download/galileo/Global-City_Google_map.ms Download this map)
 
-[Google Ландшафт](https://anygis.herokuapp.com/download/galileo/Global-City_Google_terrain.ms "Скачать эту карту")
+[Google Terrain](https://anygis.herokuapp.com/download/galileo/Global-City_Google_terrain.ms Download this map)
 
-[Google Пробки](https://anygis.herokuapp.com/download/galileo/Global-City_Google_traffic.ms "Скачать эту карту")
+[Google Traffic](https://anygis.herokuapp.com/download/galileo/Global-City_Google_traffic.ms Download this map)
 
-[Here Карта](https://anygis.herokuapp.com/download/galileo/Global-City_Here_map.ms "Скачать эту карту")
+[Here Map](https://anygis.herokuapp.com/download/galileo/Global-City_Here_map.ms Download this map)
 
-[Here Ландшафт](https://anygis.herokuapp.com/download/galileo/Global-City_Here_terrain.ms "Скачать эту карту")
+[Here Terrain](https://anygis.herokuapp.com/download/galileo/Global-City_Here_terrain.ms Download this map)
 
-[Here Пробки](https://anygis.herokuapp.com/download/galileo/Global-City_Here_traffic.ms "Скачать эту карту")
+[Here Traffic](https://anygis.herokuapp.com/download/galileo/Global-City_Here_traffic.ms Download this map)
 
-[Yandex Карта](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_map.ms "Скачать эту карту")
+[Yandex Map](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_map.ms Download this map)
 
-[Yandex Народная](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_narodnaya.ms "Скачать эту карту")
+[Yandex MapEditor](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_narodnaya.ms Download this map)
 
-[Yandex Пробки](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_traffic.ms "Скачать эту карту")
+[Yandex Traffic](https://anygis.herokuapp.com/download/galileo/Global-City_Yandex_traffic.ms Download this map)
 
 
 
-### Глобальные - Спутниковые
-[AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/galileo/Global-Satellites_All.ms "Скачать эту карту")
+### Global - Satellites
+[AnyGIS Satellites compilation](https://anygis.herokuapp.com/download/galileo/Global-Satellites_All.ms Download this map)
 
-[Bing Bird's Eye](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Bing_birds_eye.ms "Скачать эту карту")
+[Bing Bird's Eye](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Bing_birds_eye.ms Download this map)
 
-[ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites_ESRI_Imagenary.ms "Скачать эту карту")
+[ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo/Global-Satellites_ESRI_Imagenary.ms Download this map)
 
-[Google Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Google.ms "Скачать эту карту")
+[Google Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Google.ms Download this map)
 
-[Google Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Google_with_labels.ms "Скачать эту карту")
+[Google Satellite + labels](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Google_with_labels.ms Download this map)
 
-[Here Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Here.ms "Скачать эту карту")
+[Here Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Here.ms Download this map)
 
-[Mapbox Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Mapbox.ms "Скачать эту карту")
+[Mapbox Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Mapbox.ms Download this map)
 
-[Yandex Спутник](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Yandex.ms "Скачать эту карту")
+[Yandex Satellite](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Yandex.ms Download this map)
 
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Yandex_with_labels.ms "Скачать эту карту")
+[Yandex Satellite + labels](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Yandex_with_labels.ms Download this map)
 
-[Космоснимки.ру](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Kosmosnimki.ms "Скачать эту карту")
+[Kosmosnimki.ru](https://anygis.herokuapp.com/download/galileo/Global-Satellites_Kosmosnimki.ms Download this map)
 
 
 
-### Глобальные - OSM
-[4U maps](https://anygis.herokuapp.com/download/galileo/Global-OSM_4umaps.ms "Скачать эту карту")
+### Global - OSM
+[4U maps](https://anygis.herokuapp.com/download/galileo/Global-OSM_4umaps.ms Download this map)
 
-[ERSI Topomap](https://anygis.herokuapp.com/download/galileo/Global-OSM_Ersi_topo.ms "Скачать эту карту")
+[ERSI Topomap](https://anygis.herokuapp.com/download/galileo/Global-OSM_Ersi_topo.ms Download this map)
 
-[Hike and bike](https://anygis.herokuapp.com/download/galileo/Global-OSM_HikeBike.ms "Скачать эту карту")
+[Hike and bike](https://anygis.herokuapp.com/download/galileo/Global-OSM_HikeBike.ms Download this map)
 
-[Kosmosnimki](https://anygis.herokuapp.com/download/galileo/Global-OSM_Kosmosnimli.ms "Скачать эту карту")
+[Kosmosnimki](https://anygis.herokuapp.com/download/galileo/Global-OSM_Kosmosnimli.ms Download this map)
 
-[Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik.ms "Скачать эту карту")
+[Mapnik](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik.ms Download this map)
 
-[Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_Proxy.ms "Скачать эту карту")
+[Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_Proxy.ms Download this map)
 
-[Mapnik + GPS треки](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_GPS_Tracks.ms "Скачать эту карту")
+[Mapnik + GPS Tracks](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_GPS_Tracks.ms Download this map)
 
-[Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_Hillshade.ms "Скачать эту карту")
+[Mapnik + Hillshade](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapnik_Hillshade.ms Download this map)
 
-[Mapsurfer](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapsurfer.ms "Скачать эту карту")
+[Mapsurfer](https://anygis.herokuapp.com/download/galileo/Global-OSM_Mapsurfer.ms Download this map)
 
-[OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM_OpenSnowMap.ms "Скачать эту карту")
+[OpenSnowMap](https://anygis.herokuapp.com/download/galileo/Global-OSM_OpenSnowMap.ms Download this map)
 
-[OpenTopoMap](https://anygis.herokuapp.com/download/galileo/Global-OSM_OpenTopoMap.ms "Скачать эту карту")
+[OpenTopoMap](https://anygis.herokuapp.com/download/galileo/Global-OSM_OpenTopoMap.ms Download this map)
 
-[Opnvkarte.de](https://anygis.herokuapp.com/download/galileo/Global-OSM_Opnvkarte.ms "Скачать эту карту")
+[Opnvkarte.de](https://anygis.herokuapp.com/download/galileo/Global-OSM_Opnvkarte.ms Download this map)
 
-[Sputnik.ru](https://anygis.herokuapp.com/download/galileo/Global-OSM_Sputnik.ms "Скачать эту карту")
+[Sputnik.ru](https://anygis.herokuapp.com/download/galileo/Global-OSM_Sputnik.ms Download this map)
 
-[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Cycle.ms "Скачать эту карту")
+[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Cycle.ms Download this map)
 
-[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Outdoor.ms "Скачать эту карту")
+[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Outdoor.ms Download this map)
 
-[Thunderforest Transport](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Transport.ms "Скачать эту карту")
+[Thunderforest Transport](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Transport.ms Download this map)
 
-[Thunderforest Transport Dark](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Transport_Dark.ms "Скачать эту карту")
+[Thunderforest Transport Dark](https://anygis.herokuapp.com/download/galileo/Global-OSM_Thunderforest_Transport_Dark.ms Download this map)
 
 
 
-### Глобальные - Водные
-[ESRI Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water_ERSI_ocean.ms "Скачать эту карту")
+### Global - Nautical
+[ESRI Ocean](https://anygis.herokuapp.com/download/galileo/Global-Water_ERSI_ocean.ms Download this map)
 
-[Navionics + OSM](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_OSM.ms "Скачать эту карту")
+[Navionics + OSM](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_OSM.ms Download this map)
 
-[Navionics Marine Charts](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_Marine_Charts.ms "Скачать эту карту")
+[Navionics Marine Charts](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_Marine_Charts.ms Download this map)
 
-[Navionics Sonar Charts](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_Sonar_Charts.ms "Скачать эту карту")
+[Navionics SonarCharts](https://anygis.herokuapp.com/download/galileo/Global-Water_Navionics_Sonar_Charts.ms Download this map)
 
-[Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap.ms "Скачать эту карту")
+[Open Sea Map](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap.ms Download this map)
 
-[Open Sea Map + Карта глубин](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap_deep.ms "Скачать эту карту")
+[Open Sea Map + Deep Map](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap_deep.ms Download this map)
 
-[Open Sea Map + Морской траффик](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap_traffic.ms "Скачать эту карту")
+[Open Sea Map + Traffic](https://anygis.herokuapp.com/download/galileo/Global-Water_OpenSeaMap_traffic.ms Download this map)
 
 
 
-### Глобальные - Справочные
-[Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global_Wikimapia.ms "Скачать эту карту")
+### Global - Info
+[Wikimapia.org](https://anygis.herokuapp.com/download/galileo/Global_Wikimapia.ms Download this map)
 
-[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo/Global_Wikimapia_satellite.ms "Скачать эту карту")
+[Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/galileo/Global_Wikimapia_satellite.ms Download this map)
 
 
 
-### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_All.ms "Скачать эту карту")
+### Eurasia - Topo - GGC
+[GGC Compilation](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_All.ms Download this map)
 
-[ГосГисЦентр 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_1000.ms "Скачать эту карту")
+[GGC 1 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_1000.ms Download this map)
 
-[ГосГисЦентр 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_2000.ms "Скачать эту карту")
+[GGC 2 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_2000.ms Download this map)
 
-[ГосГисЦентр 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_0250.ms "Скачать эту карту")
+[GGC 250m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_0250.ms Download this map)
 
-[ГосГисЦентр 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_0500.ms "Скачать эту карту")
+[GGC 500m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_GGC_0500.ms Download this map)
 
 
 
-### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_All.ms "Скачать эту карту")
+### Eurasia - Topo - Genshtab
+[Genshtab Compilation](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_All.ms Download this map)
 
-[Генштаб 1 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_01000.ms "Скачать эту карту")
+[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_01000.ms Download this map)
 
-[Генштаб 10 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_10000.ms "Скачать эту карту")
+[Genshtab 10 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_10000.ms Download this map)
 
-[Генштаб 2 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_02000.ms "Скачать эту карту")
+[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_02000.ms Download this map)
 
-[Генштаб 2 000 м v2](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_02000_new.ms "Скачать эту карту")
+[Genshtab 2 000m new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_02000_new.ms Download this map)
 
-[Генштаб 20 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_20000.ms "Скачать эту карту")
+[Genshtab 20 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_20000.ms Download this map)
 
-[Генштаб 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00250.ms "Скачать эту карту")
+[Genshtab 250m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00250.ms Download this map)
 
-[Генштаб 5 000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_05000.ms "Скачать эту карту")
+[Genshtab 5 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_05000.ms Download this map)
 
-[Генштаб 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00500.ms "Скачать эту карту")
+[Genshtab 500m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00500.ms Download this map)
 
-[Генштаб 500 м v2](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00500_new.ms "Скачать эту карту")
+[Genshtab 500m new](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Genshtab_00500_new.ms Download this map)
 
 
 
-### Евразия - Топокарты - Советские
-[Топокарты (Все масштабы)](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_All.ms "Скачать эту карту")
+### Eurasia - Topo - Soviet
+[Topomaps Compilation](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_All.ms Download this map)
 
-[Топокарты 1000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_01000.ms "Скачать эту карту")
+[Topomaps 1 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_01000.ms Download this map)
 
-[Топокарты 10000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_10000.ms "Скачать эту карту")
+[Topomaps 10 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_10000.ms Download this map)
 
-[Топокарты 250 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_00250.ms "Скачать эту карту")
+[Topomaps 250m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_00250.ms Download this map)
 
-[Топокарты 25000 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_25000.ms "Скачать эту карту")
+[Topomaps 25 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_25000.ms Download this map)
 
-[Топокарты 500 м](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_00500.ms "Скачать эту карту")
+[Topomaps 500m](https://anygis.herokuapp.com/download/galileo/Eurasia-Topo_Topo_00500.ms Download this map)
 
 
 
-### Евразия - Туристические - Многослойные
-[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer_RusOutdoorMaps.ms "Скачать эту карту")
+### Eurasia - Hiking - Multylayer
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer_RusOutdoorMaps.ms Download this map)
 
-[Маршруты.ru](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer_MarshrutiRU.ms "Скачать эту карту")
+[Marshruty.ru](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Multylayer_MarshrutiRU.ms Download this map)
 
 
 
-### Евразия - Туристические - Московская область
-[Атлас издательства "Арбалет"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Arbalet.ms "Скачать эту карту")
+### Eurasia - Hiking - Moscow Region
+[Arbalet](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Arbalet.ms Download this map)
 
-[Карты Завьялова "ММБ"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Slazav.ms "Скачать эту карту")
+[Slazav](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Slazav.ms Download this map)
 
-[Ориентирование "Adraces"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Adraces.ms "Скачать эту карту")
+[Adraces](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_Adraces.ms Download this map)
 
-[Ориентирование "O-Sport"](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_OSport.ms "Скачать эту карту")
+[O-Sport](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Moscow_OSport.ms Download this map)
 
 
 
-### Евразия - Туристические - Кавказ
-[Абишира-Ахуба (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Abshira_Ahuba.ms "Скачать эту карту")
+### Eurasia - Hiking - Caucasus
+[Abishira Akhuba](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Abshira_Ahuba.ms Download this map)
 
-[Западный Кавказ (КОТ ОРИЕНТ)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_West_Kot.ms "Скачать эту карту")
+[Caucasus West](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_West_Kot.ms Download this map)
 
-[Казбек (Geoland)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Kazbek.ms "Скачать эту карту")
+[Caucasus Kazbek](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Kazbek.ms Download this map)
 
-[Перевалы Западного Кавказа   2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_West.ms "Скачать эту карту")
+[Caucasus West Passes 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_West.ms Download this map)
 
-[Перевалы Центрального Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_Center.ms "Скачать эту карту")
+[Caucasus Central Passes 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_Center.ms Download this map)
 
-[Перевалы Южного Кавказа 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_South.ms "Скачать эту карту")
+[Caucasus Southern 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Perevaly_South.ms Download this map)
 
-[Сводная Госгеодезия 1991г](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Gosgeodesiya.ms "Скачать эту карту")
+[GosGeodesya 1991](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Gosgeodesiya.ms Download this map)
 
-[Сводная ФГУ СК АГП](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_FGU.ms "Скачать эту карту")
+[Caucasus FGU SK AGP](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_FGU.ms Download this map)
 
-[Сводная карта Кавказа 1 000м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Svodnaya_1000.ms "Скачать эту карту")
+[Caucasus 1 000m](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Svodnaya_1000.ms Download this map)
 
-[Сводная карта Кавказа 500м](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Svodnaya_0500.ms "Скачать эту карту")
+[Caucasus 500m](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Svodnaya_0500.ms Download this map)
 
-[Хребтовка Приэльбрусья (Ляпин В.Г.)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Prielbusye.ms "Скачать эту карту")
+[Elbrus Region](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Caucasus_Prielbusye.ms Download this map)
 
 
 
-### Евразия - Туристические - Крым
-[Горный Крым (Картография2010)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea_Kartografiya.ms "Скачать эту карту")
+### Eurasia - Hiking - Crimea
+[Crimea Kartagrafiya 2010](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea_Kartografiya.ms Download this map)
 
-[Горный Крым (Союзкарта2011)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea_SoyusKarta.ms "Скачать эту карту")
+[Crimea Souskarta 2011](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Crimea_SoyusKarta.ms Download this map)
 
 
 
-### Евразия - Туристические - Хибины
-[Горы Хибинской тундры](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy_Hills.ms "Скачать эту карту")
+### Eurasia - Hiking - Khibiny
+[Khibiny's Mountains](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy_Hills.ms Download this map)
 
-[Хибинские и ловоозерские тундры (Аэрогеодезия 2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khibiny_Tundra_Aerogeodesiya.ms "Скачать эту карту")
+[Khibiny's Tundra (2008)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khibiny_Tundra_Aerogeodesiya.ms Download this map)
 
-[Хибинские и ловоозерские тундры (СССР)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy_Tundra_Old.ms "Скачать эту карту")
+[Khibiny's Tundra (Old)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Khininy_Tundra_Old.ms Download this map)
 
 
 
-### Евразия - Туристические - Разное
-[Карпаты](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Karpaty.ms "Скачать эту карту")
+### Eurasia - Hiking - Other
+[Carpathians](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Karpaty.ms Download this map)
 
-[Катунский Чуйский хребты.  Алтай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Altay.ms "Скачать эту карту")
+[Altai Katun Ridge](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Altay.ms Download this map)
 
-[Киргизский хребет](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Kyrgizskiy_hrebet.ms "Скачать эту карту")
+[Kyrgyz Ala-Too Range](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Kyrgizskiy_hrebet.ms Download this map)
 
-[Национальный парк Таганай](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Taganay.ms "Скачать эту карту")
+[Taganay](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Taganay.ms Download this map)
 
-[Саяны. Ергаки - Арадан](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Sayani.ms "Скачать эту карту")
+[Ergaki - Ardan](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Sayani.ms Download this map)
 
-[Тянь-Шань и Памир](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_TianShan_and_Pamir.ms "Скачать эту карту")
+[Tien Shan and Pamirs](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_TianShan_and_Pamir.ms Download this map)
 
-[Хребет Аладаглар 2014](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Alagadar.ms "Скачать эту карту")
+[Aladaglar](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Alagadar.ms Download this map)
 
-[Хребтовка Терскей-Алатау (А.Цветков)](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Terskey_Alatau.ms "Скачать эту карту")
+[Terskey Alatau](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Terskey_Alatau.ms Download this map)
 
-[Хребтовки Завьялова](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Slazav_hrebtovki.ms "Скачать эту карту")
+[Slazav Mountains](https://anygis.herokuapp.com/download/galileo/Eurasia-Hiking-Other_Slazav_hrebtovki.ms Download this map)
 
 
 
-### Евразия - Водные
-[Река Кубань 1985 (От Краснодрского гидроузла до устья)](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Kuban.ms "Скачать эту карту")
+### Eurasia - Rivers
+[Kuban river](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Kuban.ms Download this map)
 
-[Речная лоция Волги и Камы 1996](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Volga_kama.ms "Скачать эту карту")
+[Volga and Kama rivers location](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Volga_kama.ms Download this map)
 
-[Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Chusovaya_Novoutkinsk.ms "Скачать эту карту")
+[Chusovaya river](https://anygis.herokuapp.com/download/galileo/Eurasia-Rivers_Chusovaya_Novoutkinsk.ms Download this map)
 
 
 
-### Евразия - Лётные
-[ERSI World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_ERSI_Navigation_Charts.ms "Скачать эту карту")
+### Eurasia - Aviation
+[ERSI World Navigation Charts](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_ERSI_Navigation_Charts.ms Download this map)
 
-[Лётные карты RNK](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_RNK.ms "Скачать эту карту")
+[Avia RNK](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_RNK.ms Download this map)
 
-[Лётные карты МВЛ](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_MVL.ms "Скачать эту карту")
+[Avia MVL](https://anygis.herokuapp.com/download/galileo/Eurasia-Aviation_MVL.ms Download this map)
 
 
 
-### Евразия - Справочнные
-[Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Tele2.ms "Скачать эту карту")
+### Eurasia - Info
+[Mobile Tele2](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Tele2.ms Download this map)
 
-[Yota](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Yota.ms "Скачать эту карту")
+[Mobile Yota](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Yota.ms Download this map)
 
-[МТС](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_MTS.ms "Скачать эту карту")
+[Mobile MTS](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_MTS.ms Download this map)
 
-[Мегафон](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Megafon.ms "Скачать эту карту")
+[Mobile Megaphone](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_Megafon.ms Download this map)
 
-[РосРеестр - Кадастровые границы](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_RosReestr.ms "Скачать эту карту")
+[RosReestr](https://anygis.herokuapp.com/download/galileo/Eurasia-Info_RosReestr.ms Download this map)
 
 
 
-### Исторические
-[Беларусь 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_3v.ms "Скачать эту карту")
+### Hystoric
+[Belarus 3 verstovaya](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_3v.ms Download this map)
 
-[Беларусь 3-х верстовая+](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_3v_plus.ms "Скачать эту карту")
+[Belarus 3 verstovaya+](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_3v_plus.ms Download this map)
 
-[Беларусь WIG 1km](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_WIG_plus.ms "Скачать эту карту")
+[Belarus WIG 1km](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_WIG_plus.ms Download this map)
 
-[Беларусь Генштаб](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_Genshtab.ms "Скачать эту карту")
+[Belarus Genshtab](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_Genshtab.ms Download this map)
 
-[Беларусь РККА 500м](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_RKKA_plus.ms "Скачать эту карту")
+[Belarus RKKA 500m](https://anygis.herokuapp.com/download/galileo/Hystoric_Belarus_RKKA_plus.ms Download this map)
 
-[Европейская Россия Шуберт 3-х верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Eur_Russia_Shubert.ms "Скачать эту карту")
+[European Russia - Shubert](https://anygis.herokuapp.com/download/galileo/Hystoric_Eur_Russia_Shubert.ms Download this map)
 
-[Кавказ 1877 5-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1877.ms "Скачать эту карту")
+[Caucasus 1877](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1877.ms Download this map)
 
-[Кавказ 1926 5-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1926.ms "Скачать эту карту")
+[Caucasus 1926](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1926.ms Download this map)
 
-[Кавказ 1941-48 5-верстовая (ENG)](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1948_eng.ms "Скачать эту карту")
+[Caucasus 1941](https://anygis.herokuapp.com/download/galileo/Hystoric_Kavkaz_1948_eng.ms Download this map)
 
-[Крым 1880 1-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Krim_1v.ms "Скачать эту карту")
+[Crimea 1880](https://anygis.herokuapp.com/download/galileo/Hystoric_Krim_1v.ms Download this map)
 
-[Кубанская область 1902](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1902.ms "Скачать эту карту")
+[Kuban 1902](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1902.ms Download this map)
 
-[Кубанский округ 1930](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1930.ms "Скачать эту карту")
+[Kuban district 1930](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1930.ms Download this map)
 
-[Кубанский р-н геологическая 1908-16 1 верста](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1916.ms "Скачать эту карту")
+[Kuban district geologic1908-16](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1916.ms Download this map)
 
-[Кубань Стрельбицкого 1918 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1918.ms "Скачать эту карту")
+[Kuban Stralbitsky 1918](https://anygis.herokuapp.com/download/galileo/Hystoric_Kuban_1918.ms Download this map)
 
-[Майкопский округ 1925](https://anygis.herokuapp.com/download/galileo/Hystoric_Maykop_1925.ms "Скачать эту карту")
+[Maykop 1925](https://anygis.herokuapp.com/download/galileo/Hystoric_Maykop_1925.ms Download this map)
 
-[Немецкий Генштаб 1941 2км](https://anygis.herokuapp.com/download/galileo/Hystoric_German_Genshtab_3km.ms "Скачать эту карту")
+[German military 1941 2km](https://anygis.herokuapp.com/download/galileo/Hystoric_German_Genshtab_3km.ms Download this map)
 
-[Немецкий Генштаб 1942 3км](https://anygis.herokuapp.com/download/galileo/Hystoric_German_Genshtab_3km.ms "Скачать эту карту")
+[German military 1942 3km](https://anygis.herokuapp.com/download/galileo/Hystoric_German_Genshtab_3km.ms Download this map)
 
-[РККА 1932-1942 2км](https://anygis.herokuapp.com/download/galileo/Hystoric_RKKA_2km.ms "Скачать эту карту")
+[RKKA 1932-42 2km](https://anygis.herokuapp.com/download/galileo/Hystoric_RKKA_2km.ms Download this map)
 
-[РККА 1940 1км](https://anygis.herokuapp.com/download/galileo/Hystoric_RKKA_1km.ms "Скачать эту карту")
+[RKKA 1940 1km](https://anygis.herokuapp.com/download/galileo/Hystoric_RKKA_1km.ms Download this map)
 
-[Стрельбицкого 1882 10-верстовая](https://anygis.herokuapp.com/download/galileo/Hystoric_Strelbitsky_1882.ms "Скачать эту карту")
+[Strelbitsky 1882](https://anygis.herokuapp.com/download/galileo/Hystoric_Strelbitsky_1882.ms Download this map)
 
-[Стрельбицкого 1919 10 верст](https://anygis.herokuapp.com/download/galileo/Hystoric_Strelbitsky_1919.ms "Скачать эту карту")
+[Strelbitsky 1919](https://anygis.herokuapp.com/download/galileo/Hystoric_Strelbitsky_1919.ms Download this map)
 
-[Тверская губения Менде](https://anygis.herokuapp.com/download/galileo/Hystoric_Tver_Mende.ms "Скачать эту карту")
+[Tver Mende](https://anygis.herokuapp.com/download/galileo/Hystoric_Tver_Mende.ms Download this map)
 
 
 
-### Европа - Восточная
-[Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_MetaUA.ms "Скачать эту карту")
+### Europe - Eastern
+[Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_MetaUA.ms Download this map)
 
-[Ukraine - Navlux](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_Navlux.ms "Скачать эту карту")
+[Ukraine - Navlux](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_Navlux.ms Download this map)
 
-[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_Vicicom.ms "Скачать эту карту")
+[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_Vicicom.ms Download this map)
 
-[Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_CadastrUA.ms "Скачать эту карту")
+[Ukraine - Cadaster map](https://anygis.herokuapp.com/download/galileo/Europe-Eastern_CadastrUA.ms Download this map)
 
 
 
-### Европа - Северная
-[Eniro](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro.ms "Скачать эту карту")
+### Europe - Northern
+[Eniro](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro.ms Download this map)
 
-[Eniro + Navionics](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_Navionics.ms "Скачать эту карту")
+[Eniro + Navionics](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_Navionics.ms Download this map)
 
-[Eniro Hybrid](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_hybrid.ms "Скачать эту карту")
+[Eniro Hybrid](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_hybrid.ms Download this map)
 
-[Eniro Sjökort (Nautical)](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_Nautical.ms "Скачать эту карту")
+[Eniro Sjökort (Nautical)](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Eniro_Nautical.ms Download this map)
 
-[FINN Kart Norge](https://anygis.herokuapp.com/download/galileo/Europe-Northern_FINN_Kart_Norge.ms "Скачать эту карту")
+[FINN Kart Norge](https://anygis.herokuapp.com/download/galileo/Europe-Northern_FINN_Kart_Norge.ms Download this map)
 
-[Finland Topo Retkikartta.fi](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Finland_topo.ms "Скачать эту карту")
+[Finland Topo Retkikartta.fi](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Finland_topo.ms Download this map)
 
-[Hitta](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta.ms "Скачать эту карту")
+[Hitta](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta.ms Download this map)
 
-[Hitta Frilufts](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Frilufts.ms "Скачать эту карту")
+[Hitta Frilufts](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Frilufts.ms Download this map)
 
-[Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Frilufts_Skoterleder.ms "Скачать эту карту")
+[Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Frilufts_Skoterleder.ms Download this map)
 
-[Hitta Satellit](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Satellit.ms "Скачать эту карту")
+[Hitta Satellit](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Hitta_Satellit.ms Download this map)
 
-[Lantmäteriets Fjällkarta](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Lantmateriet_Fjallkarta.ms "Скачать эту карту")
+[Lantmäteriets Fjällkarta](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Lantmateriet_Fjallkarta.ms Download this map)
 
-[Lantmäteriets Topografisk](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Lantmateriet_Topowebb.ms "Скачать эту карту")
+[Lantmäteriets Topografisk](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Lantmateriet_Topowebb.ms Download this map)
 
-[Norway topomap UT.no](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Norway_topo_UT.ms "Скачать эту карту")
+[Norway topomap UT.no](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Norway_topo_UT.ms Download this map)
 
-[Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Skoterleder.ms "Скачать эту карту")
+[Skoterleder](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Skoterleder.ms Download this map)
 
-[Topografisk Norgeskart 4](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Norgeskart.ms "Скачать эту карту")
+[Topografisk Norgeskart 4](https://anygis.herokuapp.com/download/galileo/Europe-Northern_Norgeskart.ms Download this map)
 
 
 
-### Европа - Западная
-[France Topo IGN.fr](https://anygis.herokuapp.com/download/galileo/Europe-Western_France_topo.ms "Скачать эту карту")
+### Europe - Western
+[France Topo IGN.fr](https://anygis.herokuapp.com/download/galileo/Europe-Western_France_topo.ms Download this map)
 
-[Great Britain Topo](https://anygis.herokuapp.com/download/galileo/Europe-Western_GB_topo.ms "Скачать эту карту")
+[Great Britain Topo](https://anygis.herokuapp.com/download/galileo/Europe-Western_GB_topo.ms Download this map)
 
 
 
-### Европа - Юго-восточная
-[Черногория 250м 1970-72](https://anygis.herokuapp.com/download/galileo/Europe-Southeast_Montenegro.ms "Скачать эту карту")
+### Europe - Southeast
+[Montenecro 250](https://anygis.herokuapp.com/download/galileo/Europe-Southeast_Montenegro.ms Download this map)
 
 
 
-### Европа - Центральная
-[Чехия ](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_base.ms "Скачать эту карту")
+### Europe - Central
+[Czech base](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_base.ms Download this map)
 
-[Чехия - Географическая](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_geo.ms "Скачать эту карту")
+[Czech geographical](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_geo.ms Download this map)
 
-[Чехия - Зимниие тропы](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_winter.ms "Скачать эту карту")
+[Czech winter](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_winter.ms Download this map)
 
-[Чехия - Тропы](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_tourist.ms "Скачать эту карту")
+[Czech tourist](https://anygis.herokuapp.com/download/galileo/Europe-Central_Czech_tourist.ms Download this map)
 
 
 
-### США
-[USGS National Map - Satellite](https://anygis.herokuapp.com/download/galileo/USA_USGS_Sat.ms "Скачать эту карту")
+### USA
+[USGS National Map - Satellite](https://anygis.herokuapp.com/download/galileo/USA_USGS_Sat.ms Download this map)
 
-[USGS National Map - Satellite Plus](https://anygis.herokuapp.com/download/galileo/USA_USGS_Sat_plus.ms "Скачать эту карту")
+[USGS National Map - Satellite Plus](https://anygis.herokuapp.com/download/galileo/USA_USGS_Sat_plus.ms Download this map)
 
-[USGS National Map - Topo](https://anygis.herokuapp.com/download/galileo/USA_USGS_Topo.ms "Скачать эту карту")
+[USGS National Map - Topo](https://anygis.herokuapp.com/download/galileo/USA_USGS_Topo.ms Download this map)
 
 
 
-### Прочее
-[New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other_NewZeland_Topo.ms "Скачать эту карту")
+### Other
+[New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo/Other_NewZeland_Topo.ms Download this map)
 

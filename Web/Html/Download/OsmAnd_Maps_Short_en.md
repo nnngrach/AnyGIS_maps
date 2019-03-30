@@ -9,78 +9,78 @@
 # Download maps for OsmAnd Maps
 
 
-### Глобальные - Городские
-[2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_2gis.sqlitedb "Скачать эту карту")
+### Global - City
+[2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_2gis.sqlitedb Download this map)
 
-[Google Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Google_map.sqlitedb "Скачать эту карту")
+[Google Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Google_map.sqlitedb Download this map)
 
-[Google Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Google_terrain.sqlitedb "Скачать эту карту")
+[Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Google_terrain.sqlitedb Download this map)
 
-[Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Yandex_map.sqlitedb "Скачать эту карту")
-
-
-
-### Глобальные - Спутниковые
-[AnyGIS Спутниковый сборник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_All.sqlitedb "Скачать эту карту")
-
-[Google Спутник (гибрид)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_Google_with_labels.sqlitedb "Скачать эту карту")
-
-[Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_Yandex.sqlitedb "Скачать эту карту")
+[Yandex Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-City_Yandex_map.sqlitedb Download this map)
 
 
 
-### Глобальные - OSM
-[Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Mapnik.sqlitedb "Скачать эту карту")
+### Global - Satellites
+[AnyGIS Satellites compilation](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_All.sqlitedb Download this map)
 
-[Mapnik (PROXY)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Mapnik_Proxy.sqlitedb "Скачать эту карту")
+[Google Satellite + labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_Google_with_labels.sqlitedb Download this map)
 
-[OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_OpenTopoMap.sqlitedb "Скачать эту карту")
-
-[Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Cycle.sqlitedb "Скачать эту карту")
-
-[Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Outdoor.sqlitedb "Скачать эту карту")
-
-[Thunderforest Transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Transport.sqlitedb "Скачать эту карту")
+[Yandex Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Satellites_Yandex.sqlitedb Download this map)
 
 
 
-### Глобальные - Водные
-[Navionics Marine Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Water_Navionics_Marine_Charts.sqlitedb "Скачать эту карту")
+### Global - OSM
+[Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Mapnik.sqlitedb Download this map)
+
+[Mapnik (PROXY)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Mapnik_Proxy.sqlitedb Download this map)
+
+[OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_OpenTopoMap.sqlitedb Download this map)
+
+[Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Cycle.sqlitedb Download this map)
+
+[Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Outdoor.sqlitedb Download this map)
+
+[Thunderforest Transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-OSM_Thunderforest_Transport.sqlitedb Download this map)
 
 
 
-### Глобальные - Справочные
-[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global_Wikimapia.sqlitedb "Скачать эту карту")
+### Global - Nautical
+[Navionics Marine Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global-Water_Navionics_Marine_Charts.sqlitedb Download this map)
 
 
 
-### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Topo_GGC_All.sqlitedb "Скачать эту карту")
+### Global - Info
+[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Global_Wikimapia.sqlitedb Download this map)
 
 
 
-### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Topo_Genshtab_All.sqlitedb "Скачать эту карту")
+### Eurasia - Topo - GGC
+[GGC Compilation](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Topo_GGC_All.sqlitedb Download this map)
 
 
 
-### Евразия - Туристические - Многослойные
-[RusOutdoor maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Hiking-Multylayer_RusOutdoorMaps.sqlitedb "Скачать эту карту")
+### Eurasia - Topo - Genshtab
+[Genshtab Compilation](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Topo_Genshtab_All.sqlitedb Download this map)
+
+
+
+### Eurasia - Hiking - Multylayer
+[RusOutdoor maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Eurasia-Hiking-Multylayer_RusOutdoorMaps.sqlitedb Download this map)
 
 
 
 ### Overlay
-[OpenSnowMap Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
+[OpenSnowMap Pistes](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_OpenSnowMap_pistes.sqlitedb Download this map)
 
-[OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_OpenSreetMaps_Tracks.sqlitedb "Скачать эту карту")
+[OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_OpenSreetMaps_Tracks.sqlitedb Download this map)
 
-[Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
+[Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_WayMarkedTrails_Cycling.sqlitedb Download this map)
 
-[Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
+[Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_WayMarkedTrails_Hiking.sqlitedb Download this map)
 
-[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Wikimapia.sqlitedb "Скачать эту карту")
+[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Wikimapia.sqlitedb Download this map)
 
-[Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Yandex_labels.sqlitedb "Скачать эту карту")
+[Yandex Labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Yandex_labels.sqlitedb Download this map)
 
-[Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Yandex_traffic.sqlitedb "Скачать эту карту")
+[Yandex Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full/Overlay_Yandex_traffic.sqlitedb Download this map)
 
