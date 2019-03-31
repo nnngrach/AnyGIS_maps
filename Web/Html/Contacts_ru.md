@@ -16,7 +16,9 @@
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_email.png" width="80"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][14]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][13]** |
+
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][13]** |
 
 
 
@@ -26,8 +28,8 @@
 
 [11]: https://vk.com/anygis
 [12]: mailto:anygis@bk.ru
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Orux_ru
-[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand_ru
+[13]: https://github.com/nnngrach/AnyGIS_server
+[14]: https://github.com/nnngrach/AnyGIS_server
 
 
 
