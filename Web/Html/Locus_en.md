@@ -11,9 +11,9 @@
 
 
 
-# Карты для Locus
+# Online-maps sources for Locus
 
-[Список изменений][16]
+[Changelog][16]
 
 [16]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
 
@@ -21,16 +21,16 @@
 
 
 
-Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] карт:
+It's no secret that the basic set of cards with which the application is supplied is often not enough. However, it is possible to add additional maps yourself. Here you will find two sets of [raster][07] maps:
 
-### Базовый набор
-Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
+### Basic set
+A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks. 
 
-[Скачать с компьютера (целиком)][3]
+[Download from computer (all files)][3]
 
-[Скачать со смартфона (целиком)][2]
+[Download from smartphone (all files)][2]
 
-[Скачать со смартфона (выборочно)][0]
+[Download from smartphone (by one file)][0]
 
 
 [1]: https://shuriktravel.ru/maps/
@@ -43,22 +43,20 @@
 
 
 
-### Полный набор
-Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
+### Full set
+If you already know what kind of maps you need, then this set is for you. Note that it already includes maps from other compilers collections: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] and some others. And as there are many maps from the program [SAS.Planet][10]. A total of about a hundred cards included. Here are some of them:
 
-- Карты для города (Яндекс, Google, Here, Bing, 2gis)
-- Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox) 
-- Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-- Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)
-- Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
-- Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
-- Карты со справочной информацией (Wikimapia)
+- Maps for city (Google, Here, Bing, Yandex, 2gis)
+- Satellites (Google, ERSI, Here, Mapbox, Yandex) 
+- OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)
+- Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
+- Information maps (Wikimapia)
 
-[Скачать с компьютера (целиком)][11]
+[Download from computer (all files)][11]
 
-[Скачать со смартфона (целиком)][12]
+[Download from smartphone (all files)][12]
 
-[Скачать со смартфона (выборочно)][13]
+[Download from smartphone (by one file)][13]
 
 
 [5]: https://github.com/nnngrach/AnyGIS_maps/tree/master/Experimantal_area
@@ -75,17 +73,17 @@
 [13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Full_en
 
 
-### Подготовка к установке
+### Preparing for installation
 
-Перед первой установкой карт рекомендую скрыть все стандартные карты Locus'a: многие из них будут заменены на версию без ограничений на скачивание карты. Для этого:
+Before the first installation of maps, I recommend to hide all standard maps of the Locus: many of them will be replaced by a version without restrictions on downloading the map. For this:
 
-* Откройте меню со списком карт.
-* В правом-верхнем углу нажмите на кнопку с тремя точками.
-* Выберите пункт `"Доступные карты"`.
-* В правом-верхнем углу нажмите на кнопку с гаечным ключом.
-* Выберите пункт `"Снять выделение со всего"`.
+* Open the menu with the list of maps.
+* In the upper right corner, click the button with three dots.
+* Select `Available maps'.
+* In the upper right corner, click the button with a wrench.
+* Click `Deselect all'.
 
-При всех последующих установках карт из сторонних наборов подобную операцию больше проводить не нужно. Если же вы захотите вернуть какую либо из карт Locus'а, то снова зайдите в это меню и поставьте галочку возле нужной вам карты.
+With all the following installations of maps from third-party sets, such an operation is no longer necessary. If you want to return any of the maps locus'a, then again go to this menu and check the box next to the desired map.
 
 <p align="center">
 <img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager2.png"/>
@@ -102,42 +100,42 @@
 
 
 
-### Инструкция по установке со смартфона
-* Если вы хотите установить сразу все карты, то просто перейдите по ссылке `"Скачать со смартфона (целиком)"`. 
-* Если же вы хотите установить только некоторые из карт данной подборки, то перейдите на страницу со списком карт, пройдя по ссылке `"Скачать со смартфона (выборочно)"`. На этой странице можете скачать как отдельную карту, так и любую группу карт целиком.
-* На смартфоне запустится Locus. В левом-верхнем углу появися иконка со статусом установки. Подождите некоторое время, пока индикатор не сообщит о завершении установки. (Операция может занять пару минут). Если все прошло успешно, то в списке карт появятся только что добавленные карты.
-* При желании, скройте не нужные для вас карты из моего набора.
+### How to install maps from the smartphone?
+* If you want to install all the maps at once, just follow the link `Download from smartphone (all files)'. 
+* If you want to install only some of the maps in this collection, go to the page with a list of maps by clicking on the link `Download from smartphone (by one file)'. On this page you can download a separate map or any group of maps as a whole.
+* The Locus app will start on your smartphone. An icon with the installation status will appear in the upper left corner. Wait for a while until the indicator tells you that the installation is complete. (The operation may take a couple of minutes.) If all goes well, the maps you just added will appear in the map list
+* If desired, hide unnecessary for you maps from my set of.
 
-> Внимание! Данная функция поддерживается не всеми браузерами. Протестированно и работает в приложениях: Google Chrome, Firefox, Opera, Dolphine. Не работает в приложениях: UC.
-
-
+> Attention! This feature is not supported by all browsers.
 
 
-### Инструкция по установке с компьютера
-* Перейдите по ссылке `"Скачать с компьютера (целиком)"`.
-* Когда файл загрузится, разархивируйте его. 
-* Подключите к компьютеру смартфон или карту памяти.
-* Откройте папку, в которой установлен Locus.
-* Откройте папку с картами: `Locus/mapsOnline/custom`.
-* Скопируйте в эту папку все интересующие вас карты и иконки.
-* Перезапустите приложение, чтобы в нем отобразились добавленные карты.
-* При желании, скройте не нужные для вас карты из моего набора.
 
-> Внимание! Приложение не увидит карты, которые будут лежать в подпапках. Нужно чтобы все файлы лежали в одной папке.
 
-По идее, после этого все должно заработать. Однако иногда, если Locus уже порядком захламлен и вы устанавливаете новые версии карт поверх старых, то некоторые из файлов могут не замениться на новые версии. В таких случаях помогает удаление Локуса, удаление уго папки со всеми файлами и повторная установка. Перед подобной процедурой не забудьте сохранить свои точки, gps-треки и выкачанные офлайн-карты.
+### How to install maps from the computer?
+* Follow the link `Download from computer`.
+* When the file is downloaded, unzip it. 
+* Connect your smartphone or memory card to your computer.
+* Open the folder where you have installed Locus.
+* Open the folder with maps: `Locus/mapsOnline/custom`.
+* Copy all the maps and icons in to this folder.
+* Restart the app to see the maps you've added.
+* If desired, hide the unnecessary for you maps from my set.
+
+> Attention! The application will not see the cards that will lie in the subfolders. It is necessary that all the files were in the same folder.
+
+The idea is that after this everything should work fine. However, sometimes, if the Locus is already cluttered and you install new versions of maps on top of old ones, some of the files may not be replaced by new versions. In this case, you can completely uninstall Locus along with all the files and then install it again. Before such a procedure, do not forget to save your points, gps-tracks and downloaded offline maps.
 
  
 
-### Настройка кэша
-После того, как карты загрузятся и появятся в Локусе, будет полезно настроить время их хранения в кэше. Напомню, что все фрагменты карты, прежде, чем отобразиться на экране, скачиваются в память смартфона. Благодаря этому все сохраненные области могут отображаться без интернета.
+### How to set cache refreshing
+Once the additional maps are loaded and appear in the Locus, it is useful to configure how long they are stored in the cache. Let me remind you that all the map fragments are downloaded to the smartphone memory before they appear on the screen. With this procedure, all saved areas can be displayed without the Internet.
 
-Однако многие карты время от времени обновляются, становясь лучше и точнее. К сожалению, по умолчанию Локус запрещает всем хранящимся в кэше картам скачиваться повторно. Так что следует вручную произвести дополнительные настройки для всех карт, для которых вы хотите получаться обновления. Для этого:
+However, many maps are updated from time to time, becoming better and more accurate. Unfortunately, by default, the Locus prevents all cached maps from being downloaded again. So you should manually make additional settings for all the maps for which you want to get updates. For this:
 
-* Откройте меню карт
-* Нажмите на кнопку с тремя точками справа от заголовка выбранной карты.
-* Выберие пункт `Установить "Срок действия"`
-* Укажите, через сколько часов можно обновлять выбранную карту.
+* Open the menu with the list of maps
+* Click the three-dot button to the right of the title of the selected map.
+* Select `Set Valid for`
+* Specify how many hours later the application will be allowed to download the map tiles again.
 
 <p align="center">
 <img src="https://docs.locusmap.eu/lib/exe/fetch.php?media=manual:user_guide:mapsmanager.png"/>
@@ -145,45 +143,33 @@
 
 
 
-### Оптимальные значения для времени хранения кэша:
+### Optimal values for cache refresh time:
 
-##### 0 часов  (не сохранять в кэше)
+##### 0 hours  (don't save)
 
-Подойдёт для всех динамически изменяющихся карт. Например, для всех карт и оверлеев с пробками: Яндекс Пробки, Google Traffic, Here Traffic, OpenSeaMap Traffic.
+Suitable for all dynamically changing maps. For example, all maps and overlays with traffic: Yandex Traffic, Google Traffic, Traffic Here, OpenSeaMap Traffic.
 
-##### 720 часов  (30 дней)
+##### 720 hours  (30 days)
 
-Для современных цифровых карт, которые регулярно обновляются. Это все карты из категорий "Городские", "Справочные" и "OSM".
+For modern digital maps, which are regularly updated, including all maps from the categories "City", "Information" and "OSM".
 
-##### 2160 часов  (90 дней)
+##### 2160 hours  (90 days)
 
-Для всех карт из категории "Спутниковые снимки". 
+For all cards in the category "Satellites". 
 
-##### 8760 часов  (365 дней)
+##### 8760 hours  (365 days)
 
-Для редко обновляющихся, но все же обновляющихся карт. Это Карты Завьялова (ММБ), Хребтовки Завьялова, карты для споритвного ориентирования Adraces и OSport.
+For rarely updated maps. 
 
-##### По умолчанию  (хранить бесконечно)
+##### По умолчанию  (don't update)
 
-Для всех растровых (грубо говоря, "отсканированных") карт время хранение кэша можно оставить без изменений. То есть бесконечным: вряд ли их кто-то уже будет перерисовывать. Так что можно пропускать и не делать вышеописанные настройки для всех оставшиехся карт из категории "Евразия". 
-
-
+For all raster (roughly "scanned") maps, you can leave the cache storage time unchanged. That is endless: it is unlikely that someone will ever redraw them. So you can skip and do not do the above settings for all the remaining cards from the category "Eurasia". 
 
 
 
-### Ссылки
+---
 
-Напоследок хочу порекомендовать несколько полезных ссылок:
-
-[Руководство по настройке Locus. Советы и лайфхаки][14]
-
-[Русскоязычный форум Locus и множество полезных файлов для него][15]
-
-[14]: https://shuriktravel.ru/locusmap_firststep/
-
-[15]: http://4pda.ru/forum/index.php?showtopic=210573
-
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 
 <p align="center">
