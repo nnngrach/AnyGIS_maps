@@ -12,6 +12,10 @@
 
 Added a set of maps in the format of the OsmAnd app for Android.
 
+Added English version of the site.
+
+Added a set of maps with the English labels.
+
 
 ### March 2019 
 

@@ -8,28 +8,28 @@
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
 
 
-# Как это работает?
+# How it works?
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Tiles.png)
 
-### Поговорим о мобильных навигаторах
+### Let's talk about mobile navigators
 
-Чтобы приложения для навигации могли на лету подгружать из интернета нужные участки карты нужно хранить файлы карты особым образом. Карту разделяют на небольшие кусочки (обычно, это изображения формата PNG размера 256x256 px) и хранят их на специальных серверах. При этом, названия этих файлов (и папок, которых они лежат) обычно являются числами - координатами, которым соответствует то или иное изображение. Например, это может выглядеть так: 
+In order for navigation applications to be able to load the necessary parts of the map from the Internet on the fly, it is necessary to store map files in a special way. The map is divided into small pieces (usually PNG images of size 256x256 px) and stored on special servers. The names of these files (and the folders in which they are located) are usually numbers - coordinates, which corresponds to a particular image. For example, it might look like this:
 
 ```
 www.funmap.com / 10 / 200 / 115.png
 ```
 
 
-Генерация подобного адреса навигационных приложениях происходит в два шага:
+The generation of such an address for navigation applications takes place in two steps:
 
-1 - Навигатор загружает тектовый файл с "заготовкой" адреса.
+1 - the Navigator loads a text file with a "preset" of map URL.
 
 ```
 www.funmap.com / Z / X / Y.png
 ```
 
-2 - Навигатор подставляет на место букв XYZ координаты кусочка карты, который нужно отобразить на экране. 
+2 - Navigator substitutes in place of the letters XYZ in the number of coordinates of the piece of card that you want to display on the screen. 
 
 ```
 www.funmap.com / 10 / 200 / 115.png
@@ -37,88 +37,88 @@ www.funmap.com / 10 / 200 / 115.png
 
 
 
-Обычно, чтобы подключить любую другую карту достаточно создать еще один файл-заготовку с новым адресом и буквами XYZ на требуемых местах.
+Usually, to connect any other card is enough to create another template file with a new address and the letters XYZ in the desired locations.
 
 ```
 www.Another-map.org/satellite / X / Y / Z.png
 ```
 
-И в большинстве случаев, навигатор без проблем заменит XYZ на требуемые числа и карта будет загружаться. Большинство сайтов с дополнительными источниками карт для того или иного навигатора именно такие файлики и предлагают.
+And in most cases, the Navigator will easily replace XYZ with the required numbers and the map will be loaded. Most sites with additional online-map sources for navigation apps offer just these files.
 
-Увы, но бывают исключения в виде "сложных" карт. К примеру, на некоторых серверах для нумерации файлов может использоваться другая система координат. И чтобы загруженный кусок карты соответствовал требуемому месту, числа XYZ нужно прогнать через ряд математических преобразований. (обозначу их, как XYZ во второй проекции)
+Alas, there are exceptions in the form of "complex" maps. For example, some servers may use a different coordinate system for file numbering. And in order for the loaded piece of the map to correspond to the required place, the numbers XYZ must be run through a series of mathematical transformations. (I'll denote them as XYZ in the second projection)
 
 ```
 www.funmap.com / X2 / Y2 / Z2.png
 ```
 
-А на некоторых серверах в адресах используются дополнительные числа. Например, все файлы могут быть разделены на подпапки по 1000 файлов в каждой. Тогда надо будет вычислить эти два дополнительные числа.
+And some servers use additional numbers in their addresses. For example, all files can be divided into subfolders of 1000 files each. Then it will be necessary to calculate these two additional numbers.
 
 ```
 www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 ```
 
-К сожалению, навигационные приложения не могут выполнять многие из этих дополнительных вычислений. А значит, чтобы не ограничивать себя в выборе карт, которые можно подключить к своему навигатору, потребуется дополнительная утилита, которая выполнит все те задачи, с которыми не сможет справится мобильный навигатор.
+Unfortunately, navigation applications cannot perform many of these additional calculations. This means that in order not to limit yourself in the selection of maps that can be connected to your Navigator, you will need an additional utility that will perform all those tasks that the mobile Navigator will not be able to cope with.
 
 
 
-### Промежуточное звено
+### The Intermediate
 
-Как уже говорилось, AnyGIS - это серверное приложение. В тех случаях, когда не удается подключить навигатор к какому-либо источнику карт напрямую...
-
-```
-Навигатор   ->   funmap.com/ X2 / Y2 / Z2 
-```
-
-... можно сделать это через дополнительное звено: через AnyGIS.
+As already mentioned, AnyGIS is a server application. In cases where it is not possible to connect the Navigator to any map source directly...
 
 ```
-Навигатор   ->   anygis.com/ funmap / X1 / Y1 / Z1   ->   funmap.com/ X2 / Y2 / Z2 
+NavigatorApp   ->   funmap.com/ X2 / Y2 / Z2 
 ```
 
-Навигатор может обращаться к AnyGIS со стандартными XYZ. AnyGIS проведет все необходимые преобразования и сформирует нужный URL-адрес. Затем он скачает с него файл с кусочком карты и отошлет этот файл обратно на навигатор (или же просто сделает редирект). В результате, на смартфоне будет отображаться карта, подключиться к которой ранее не представлялось возможным.
+... we can do this through an intermediate: through AnyGIS.
+
+```
+NavigatorApp   ->   anygis.com/ funmap / X1 / Y1 / Z1   ->   funmap.com/ X2 / Y2 / Z2 
+```
+
+Navigator can query the AnyGIS with standard numbers XYZ. AnyGIS will perform all the necessary conversions and generate a new URL. Then it will download the tile from it and send the file back to the Navigator (or just make a redirect). As a result, the smartphone will display a map that was previously unavailable.
 
 
-Помимо этого, благодаря сервису [Cloudinary][1], AnyGIS может осуществлять обработку изображений на лету. Например, он может скачать несколько слоев для многослойных карт, "склеить" их в одно изображение и отослать его на навигатор. Такая функция может пригодиться для навигаторов, которые не умеют самостоятельно работать со слоями. 
+In addition, the [Cloudinary][1] service helps AnyGIS to convert images on the fly. For example, it can download multiple layers for layered maps, overlay them, and send it back to the Navigator. This feature can be useful for applications that are not able to work with layers on their own.
 
 
 
-### Круглая или не очень? 
+### Spherical or not too? 
 
-Кроме того, AnyGIS умеет делать несложные [преобразования][2] карт в разных проекциях. А точнее, пока только одно: сделать подгонку карт из проекции WGS84 (Яндекс карты, Космоснимки) в стандартную проекцию Web Mercator.  Это позволит подключить Яндекс карты к навигаторам, которые не могут сами осуществить подобные преобразования. Например к Guru Maps.
+In addition, AnyGIS is able to make simple [transformations][2] maps in different projections. More precisely, so far only one thing: to make the fit of maps from the elliptical projection WGS 84 (Yandex maps) in the standard spherical projection Web Mercator. This will allow you to connect Yandex maps to navigation applications that can not themselves carry out such transformations. For example to Guru Maps.
 
-Стоит заметить, что в целях ускорения быстродействия эта подгонка происходит по упрощенной схеме. А именно, с помощью обычного смещения карты. Технически, это происходит следующим образом. Допустим, требуется получить кусок карты для этого места. (На изображении - эталон - кусок карты в стандартной проекции).
+It is worth noting that in order to speed up the performance of this adjustment occurs in a simplified way. Namely, using the usual map offset. Here's how it works. Let's say we need to get a piece of map for this place. (The image shows a reference sample - a tile in the standard projection).
 
 <p align="center">
 <img src="https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/osm.jpg"/>
 </p>
 
 
-Для начала, вычисляются координаты четырех ближайших к требуемому месту кусочков WGS84 карты. Все четыре кусочка загружаются и "склеиваются" в один большой квадрат.
+First, we need to calculate the coordinates of the four closest tiles in the WGS84 projection to the desired location. All four tiles are loaded and "glued" into one large square.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs4.jpg)
 
-Вычисляется, на какое расстояние требуется "cместить" новую карту. На большом квадрате делаются соответствующие отступы и вырезается кусок стандартного размера. 
+Next, we need to calculate the distance required to "shift" the new map. From a large square cut a piece of standard size, taking into account the calculated offset distance.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_offset.jpg)
 
-Получаем довольно похожий кусочек карты на то, что требуется. В принципе, для большинства задач такой грубой подгонки будет вполне достаточно. Однако стоит отметить, что небольшие расхождения все-таки будут присутствовать. Особенно они будут заметны ближе к полюсам.
+We get a pretty similar piece of the map to what is required. In principle, for most tasks such a rough fit will be enough. However, it is worth noting that small differences will still be present. They will be especially noticeable closer to the North and South poles.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_osm.jpg)
 
-Кроме того, на то, чтобы "отфотошопить" карту на лету, потребуется некоторое время. То есть, карта с подобными преобразованиями будет загружаться не столь быстро, как остальные карты без каких-либо обработок. 
+In addition, it will take some time to "photoshoping" the map on the fly. That is, a map with such transformations will not load as fast as other maps without any processing. 
 
 
-### Вырезать лучшее и собрать вместе
+### Cut the best and put it together
 
-Ну, и последний режим, в котором может работать AnyGIS - это поиск наилучшего варианта карты для данной местности. Особенно это будет актуально для растровых (грубо говоря, отсканированных) карт, которые покрывают не всю планету, а только какой-нибудь небольшой кусок местности. 
+Well, the last mode in which anygis can work is to search for the best existing map for a given area. This will be especially useful for raster (roughly, scanned) maps that do not cover the entire planet, but only some small piece of terrain. 
 
-Для этого формируется список карт, отсортированных в порядке их приоритета. Сначала AnyGIS проверяет первую карту: есть ли на сервере с ней файл с интересующим нас кусочком местности. Если нет, то проверяется вторая карта и так далее по списку. 
+To do this, a list of cards is created, sorted in order of their priority. And AnyGIS checks the first map: is there a file on the server with it with a piece of terrain we are interested in? If not, the second card is checked and so on in the list.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/slazav.png)
 
-Подобный режим позволяет склеить мелкие разрозненные кусочки с разных серверов в цельную неразрывную карту, которой сравнительно удобно пользоваться. Не требуется вручную переключаться между десятком различных карт, пока не отыщется хотя бы одна, которая будет пригодна для этой местности.
+This mode allows you to collect small pieces of disparate from different servers in a single continuous map, which is relatively convenient to use. You do not need to manually switch between a dozen different maps until you find at least one that will be suitable for this area.
 
-В качестве примера подобной карты вы можете ознакомиться с набором карт для туризма по России - [RusOutdoor Maps][03].
+As an example of such a map you can find a set of maps for tourism in Russia - [RusOutdoor Maps][03].
 
 [1]: https://cloudinary.com/
 [2]: https://habr.com/ru/post/151103/
