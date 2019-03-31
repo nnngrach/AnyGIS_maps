@@ -28,7 +28,7 @@ So I decided to develop this idea and add the missing layers in my opinion. I no
 
 ***
 
-### Layer 1: - Countries
+### Layer 1 - Countries
 
 Zoom: from 0 to 9
 
@@ -42,7 +42,7 @@ This group of layers should be used to select the desired continent, country, an
 ***
 
 
-### Layer 2 - Города и трассы
+### Layer 2 - Cities and highways
 
 Zoom: 10
 
@@ -53,7 +53,7 @@ This and the next layer should be used to find the region of interest, focusing 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/sputnik_ru.png)
 
 
-### Layer 3 - Города и трассы
+### Layer 3 - Cities and highways
 
 Zoom: 11
 
@@ -82,7 +82,7 @@ And last of all, if there are no maps of the General staff for this territory, a
 
 
 
-### Layer 4 - Raster maps
+### Layer 4 - Raster topo maps
 
 Zoom: 12
 
@@ -92,7 +92,7 @@ Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
 
 
 
-### Layer 5 - Raster maps
+### Layer 5 - Raster topo maps
 
 Zoom: 13
 
@@ -102,7 +102,7 @@ Maps with local coverage, GGC 1km, Genshtab 500m
 
 
 
-### Layer 6 - Raster maps
+### Layer 6 - Raster topo maps
 
 Zoom: 14
 
