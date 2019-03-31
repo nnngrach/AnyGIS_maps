@@ -12,13 +12,12 @@
 # Контакты
 
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_vk.png" width="80"/> | **[Vk.com/anygis][11]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_email.png" width="80"/> | **[Anygis@bk.ru][12]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][13]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="60"/> | **[GitHub.com][13]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][13]** |
 
 
 
