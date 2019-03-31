@@ -10,7 +10,7 @@
 
 
 
-# Туристические карты для смартфонов (en)
+# Туристические карты для смартфонов
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/smartphone.png)
 
