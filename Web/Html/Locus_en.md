@@ -35,9 +35,9 @@
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/AnyGIS_short_set.xml
+[2]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_short_set.xml
 
-[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_short
+[3]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_short_en
 
 [0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Short_en
 
@@ -68,9 +68,9 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_full
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Locus_online_maps/Maps_full_en
 
-[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers/AnyGIS_full_set.xml
+[12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_full_set.xml
 
 [13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Full_en
 
