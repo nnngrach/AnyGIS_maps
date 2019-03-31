@@ -11,9 +11,9 @@
 
 
 
-# Карты для OsmAnd
+# Online-maps sources for OsmAnd
 
-[Список изменений][0]
+[Changelog][0]
 
 [0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
 
@@ -21,14 +21,14 @@
 
 
 
-Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] карт:
+It's no secret that the basic set of cards with which the application is supplied is often not enough. However, it is possible to add additional maps yourself. Here you will find two sets of [raster][07] maps:
 
-### Базовый набор
-Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
+### Basic set
+A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.
 
-[Скачать карты (целиком)][2]
+[Download maps (all files)][2]
 
-[Скачать карты (выборочно)][3]
+[Download maps (by one files)][3]
 
 
 [1]: https://shuriktravel.ru/maps/
@@ -39,20 +39,18 @@
 
 
 
-### Полный набор
-Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
+### Full set
+If you already know what kind of maps you need, then this set is for you. Note that it already includes maps from other compilers collections: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] and some others. And as there are many maps from the program [SAS.Planet][10]. A total of about a hundred cards included. Here are some of them:
 
-- Карты для города (Яндекс, Google, Here, Bing, 2gis)
-- Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox) 
-- Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-- Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)
-- Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
-- Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
-- Карты со справочной информацией (Wikimapia)
+- Maps for city (Google, Here, Bing, Yandex, 2gis)
+- Satellites (Google, ERSI, Here, Mapbox, Yandex) 
+- OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)
+- Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
+- Information maps (Wikimapia)
 
-[Скачать карты (целиком)][11]
+[Download maps (all files)][11]
 
-[Скачать карты (выборочно)][12]
+[Download maps (by one files)][12]
 
 
 
@@ -69,43 +67,43 @@
 
 
 
-### Инструкция по установке для Android
+### How to install maps (Android)
 
-* Если вы скачали карты целиком, то нужно распаковать zip-архив.
-* Поместите скачанный файл карты с расширением `.sqlitedb` на свой смартфон в папку  `Android\data\net.osmand\files\tiles` 
-* Если по каким-то причинам у вас нет такой папки (например, Osmand установлен на SD-карту), то нужно узнать, в какой именно директория он находится. Для этого запустите приложение, откройте `Настройки`, выберите пункт `Основные настройки` и промотайте вниз до пункта `Каталог для хранения данных`. Здесь будет указан адрес. Карты нужно копировать в подпапку `tiles`
+* If you have downloaded the zip archive you need to unpack it first.
+* Copy the downloaded map file with the extension `.sqlitedb` to the folder on smatphone  `Android\data\net.osmand\files\tiles` 
+* If for some reason you do not have such a folder (for example, Osmand is installed on the SD-card), then you need to know in which directory it is located. To do this, launch the application, open `Settings`, select `Basic settings` and scroll down to `Storage Directory`. Here you will find the address. Card you want to copy to the subfolder `tiles`
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Osmand_patch.png)
 
-* Новые карты должны появиться в приложении в разделах `Источник карты`, `Карты покрытия`, `Карта подложки`
-* Если постребуется убрать какую-либо карту из списка, то нужно удалить её из папки с помощью файлового менеджера.
+* New maps should appear in the application in the tabs `map Source`, `Coverage maps`, `substrate Map`
+* If you need to remove any map from this list, you need to remove it from the storage of your phone using the File Manager app.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Osmand_maplist.png)
 
 
-### Инструкция по установке для  IOS
+### How to install maps (IOS)
 
-На данный момент мне не удалось подключить к IOS-версии приложения ни одну внешнюю онлайн-карту. Если вам известно, как это можно сделать, пожалуйста, свяжитесь со мной.
+At the moment I have not been able to connect any external online map to the IOS version of OsmAnd. If you know how to do this, please contact me.
 
-> Внимание! У некоторых серверов с картами иногда проседает скорость. Увы, в подобных случаях Osmand для экономии заряда может принудительно разорвать соединение, не давая таким образом картам докачаться. Подобное чаще всего происходит с картами OpenTopoMaps, OpenStreetMaps, 4Umaps, RusOutdoorMaps, YandexTraffic. Замечу, что через некоторое время сервер может разгрузиться и карты снова могут начать нормально скачиватсья.
+> Attention! Some servers with maps sometimes slow down. Alas, in such cases, Osmand can force the connection to be disconnected to save power, thus preventing the cards from loading. This often happens with OpenTopoMaps, OpenStreetMaps, 4Umaps, RusOutdoorMaps and YandexTraffic maps. Note that after a while the server can recover and the cards can start downloading normally again.
 
-### Инструкция по работе с динамическими картами
+### How to set up the traffic layer?
 
-Замечу, что среди карт этой подборки есть несколько динамических. Я имею ввиду все карты с пробками: Яндекс Пробки, Google и Here Traffic. Туда же стоит отнести и слой с движущимися кораблями OpenSeaMaps. Стоит отметить, что приложение не рассчитывалось на подобные карты, так что для того, чтобы с ними можно было работать потребуются каждый раз проделывать дополнительные операции.
+I note that among the cards in this collection there are several dynamic. I mean all the maps with a layer of corrent traffic sitiation. There should also include a layer with moving ships Openseamap. It is worth noting that the application is not designed for such cards, so in order to be able to work with them will need to do additional settings each time.
 
-Допустим, у вас на экране уже отображется динамическая карта. Например, Яндекс пробки. Прошло некоторое время и вам хочется узнать, не изменилось ли состояние на дорогах. Для этого нужно сделать следующее:
+Suppose you already have a dynamic map on your screen. For example, Google Traffic. Some time has passed and you want to know whether the situation on the roads has changed. To do this, you need to do the following:
 
-* Нужно сделать так, чтобы обновляемая карта не отображалась на экране. Если карта выбрана в качестве базового слоя, то переключите её на другую. Если она выбрана в качестве подложки, то просто отключите отображение поджлоки. 
-* Выключите OsmAnd, чтобы сбросить кэш.
-* Включите OsmaAnd.
-* Снова включите карту, которую требовалось обновить. 
+* Make sure that the updated map is not displayed on the screen. If the map is selected as the base layer, switch it to another layer. If it is selected as a substrate, simply turn off the display of the substrate. 
+* Turn off OsmAnd to reset the cache.
+* Open OsmAnd.
+* Turn on the card you want to update again.
 
-После этих действий карта будет загружена заново. И если состояние пробок изменилось, то вы это увидите.
+After these actions, the map will be reloaded. And if the condition of traffic jams has changed, you will see it.
 
 ---
 
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 
 <p align="center">
