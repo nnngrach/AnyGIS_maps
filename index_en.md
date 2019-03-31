@@ -10,35 +10,36 @@
 
 
 
-# Туристические карты для смартфонов
+# Mobile outdoor maps
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/smartphone.png)
 
-В наши дни практически у каждого при себе есть смартфон. И раз уж мы его все равно носим, хочется, чтобы он приносил нам как можно больше пользы. Например, чтобы навигатор в телефоне стал по-настоящему полезным.
+Nowadays, almost everyone has a smartphone with them. And since we're wearing it anyway, it would be nice if it did us as much good as possible. For example, to make the navigator apps in the phone really useful.
 
-Этот сайт предоставляет комплект карт для загородного отдыха: туристические, горные, морские и много какие ещё. Чтобы ими было удобно пользоваться, вам потребуется специальное приложение "картографический агрегатор". От обычных навигационных приложений они отличаются тем, что умеют показывать много карт, а не только какую-то одну. Для для Android можно порекомендовать [Locus][1], для iOS - [Guru Maps][2] (раньше он назывался Galileo Pro).
+This site provides a set of maps for country holidays: tourist, mountain, sea and many more. To make them easy to use, you will need a special application "map aggregator". Aggregators differ from conventional navigation applications in that they are able to show many maps, not just one. For Android I can recommend [Locus][1] or [OsmAnd][6], for iOS - [Guru Maps][2] (formerly Galileo Pro).
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/locus_maplist.png)
 
-Эти приложения позволяют загружать специализированные [растровые][07] карты прямо со смартфона и пользоваться ими без интернета. При желании, это избавляет от необходимости, каждый раз заблаговременно загружать в телефон карту с помощью компьютера. Более того, если вдруг потребуется (всякое бывает), вы сможете загружать карту прямо во время маршрута, ведь мобильный интернет сегодня вполне можно поймать и в лесу, и в горах. Хотя и довольно медленный.
+These applications allow you to download specialized [raster][07] maps directly from your smartphone and use them without the Internet. This eliminates the need to download a map to your phone every time in advance using a computer. Moreover, if you suddenly need (anything happens), you can download the map directly during the route, because the mobile Internet today is quite possible to catch in the woods and in the mountains. (Although quite slow)
 
-Всё это превращает смартфон если не в [полноценную замену][5] связки "Garmin + компьютер", то в отличное дополнение к ней.
-
+All this makes the smartphone almost a complete replacement of the "Garmin + computer" bundle. Well, or in a great addition to it.
 
 ### Ссылки: 
 
-* Приложение [Locus][1] для Androd.
+* [Locus][1] app for Androd.
 
-* Инструкция по установке и комплект карт для [Locus][04].
+* Map set and installation instructions for [Locus][10].
 
-* Приложение [Guru Maps][2] для iOS.
+* [OsmAnd][6] app for IOS and Androd.
 
-* Инструкция по установке и комплект карт для [Guru Maps][05].
+* Map set and installation instructions for [Osmand][11].
+
+* [Guru Maps][2] for IOS and Androd.
+
+* Map set and installation instructions for [Guru Maps][12].
 
 
-Отдельно хочу порекомендовать мой собственный сборник карт для туристических походов по регионам России и ближнего зарубежья - [RusOutdoor Maps][03]. 
-
-И в завершение, замечу, что для загрузки многих карт применяется разработанный мной онлайн-преобразователь AnyGIS server. [Здесь][03] вы можете прочитать о том, как именно он работает.
+And in conclusion, I note that many of the maps in this set are loaded using the online-сonverter AnyGIS Server developed by me. [Here][02] you can read about exactly how it works.
 
 
 
@@ -48,3 +49,8 @@
 [3]: http://www.sasgis.org/
 [4]: https://nakarte.me
 [5]: https://melda.ru/2017/07/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%B5-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-vs-garmin/
+[6]: http://osmand.net/
+[10]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus_ru
+[11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand_ru
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo_ru
+
