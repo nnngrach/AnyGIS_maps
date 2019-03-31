@@ -22,6 +22,19 @@
 
         window.location.replace(url);
     }
+
+
+    function redirectContactsPage() {
+        var url = String(location);
+
+        if (url.indexOf("_ru") == -1) {
+          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_ru";
+        } else {
+          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
+        }
+
+        window.location.replace(url);
+    }
     </script>
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -54,7 +67,7 @@
           <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
           <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
         {% endif %}
-          <li><a href="javascript:redirectToAnotherLanguage();">View On <strong>GitHub</strong></a></li>
+          <li><a href="javascript:redirectToAnotherLanguage();">Change <strong>Language</strong></a></li>
         </ul>
       </header>
       <section>
@@ -65,7 +78,7 @@
     </div>
     <footer>
     {% if site.github.is_project_page %}
-      <p>Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
+      <p>Project maintained by <a href="javascript:redirectContactsPage()">{{ site.github.owner_name }}</a></p>
     {% endif %}
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
     </footer>
