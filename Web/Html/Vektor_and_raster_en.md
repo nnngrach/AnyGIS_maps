@@ -7,51 +7,49 @@
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
 
-# Векторные и растровые карты
+# Vector and raster maps
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_img.png)
 
-### Немного теории
+### A bit of theory
 
-Краткое введение, чтобы объяснить сильные и слабые стороны карт из этой подборки. Но для начала немного теории. Изображения на компьютере могут храниться двумя основными способами: в векторном и в растровом форматах. 
+A brief introduction to explain the strengths and weaknesses of the cards from this collection. The fact that the image on the computer can be stored in two main ways: vector and raster formats.
 
-Растровые картинка - это сетка маленьких квадратных точек (пикселей). Файл такой картинки хранит информацию о цвете каждой из точек. И чем больше и детальней будет изображение, тем больше нужно этих точек и тем больше будет размер файла. 
+A bitmap is a grid of small square dots (pixels). The image file stores information about the color of each point. And the larger and more detailed the image, the more you need these points and the larger the file size.
 
-Векторные изображения - это набор геометрических фигур. В файле хранятся только координаты этих фигур и их цвета.
+Vector images are a collection of geometric shapes. Only the coordinates of these shapes and their colors are stored in the file.
 
-Для нас сейчас важнее всего то, что векторные файлы значительно меньше, чем растровые. Они занимают меньше места и быстрее скачиваются. С другой стороны, растровые изображения обычно выглядят более естественными. Менее "рисованными", что-ли.
+The most important thing for us now is that vector files are much smaller than raster files. They take up less space and download faster. On the other hand, bitmaps usually look more natural.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_img_compilation.png)
 
 
-### Как обстоят дела на практике?
+### The real situation
 
-Вы спросите, как всё это относится к картам?  Дело в том, что разработчики мобильных навигационных приложений обычно разрешают скачивать именно векторные карты. Среди них Maps.me, GuruMaps, OsmAnd и многие другие. Все эти векторные карты занимают очень мало места. Более того: для удобства пользователей они даже разделены на части, чтобы можно было скачать лишь какой-то конкретный город или регион. Вполне естественно, что именно этот вариант наиболее прост, быстр и удобен для большинства пользователей.
+You ask how this information relates to maps? The fact is that the developers of mobile navigation applications encourage users to download vector maps in the first place. Among them Maps.me, GuruMaps, OsmAnd and many others. All these vector maps take up very little space. Moreover, for the convenience of users, they are even divided into parts, so that they can download only a specific city or region. It is quite natural that this option is the most simple, fast and convenient for most users.
 
 <p align="center">
 <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/vector_maps_list.png" width="200"/>
 </p>
 
 
-Однако, некоторым не нравится отрисовка стандартных векторных карт. Что ж, существуют сайты, которые уже сделали более сложную и приятную глазу отрисовку тех же векторных карт, сохранили их в растровый формат и выложили для скачивания. На таких картах часто бывает рельеф местности, изолинии и прочие приятные детализированные текстуры. Просто сравните: 
+However, some people do not like the standard rendering of vector maps. Well, there are sites that have already made a more complex and pleasing to the eye drawing of the same vector maps, saved them in raster format and published for download. Such maps often have terrain, contours and other nice detailed textures. Just compare:
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_map.png)
 
-Увы, такие карты занимают много места, как и все растровые изображения. Для сравнения: векторная всей России занимает примерно 2 гигабайта. Растровая - 400 гигабайт. Вероятно, поэтому навигаторы на смартфонах обычно не предлагают скачивать такие карты по целыми регионами, ведь они попросту не поместятся на смартфоне. Но некоторые из них дают возможность выделить рамочкой небольшой участок местности и и скачать только его. То есть, скачать не всю Нижегородскую область, а только конкретный кусок леса, в который вы собираетесь идти в поход. Однако, даже несмотря на это скачивание может занять несколько часов и несколько гигабайт.
+Unfortunately, these maps take up a lot of space, like all bitmaps. For comparison, the entire vector of Russia is approximately 2 gigabytes. Raster - 400 gigabytes. This is probably why navigators on smartphones usually do not offer to download such maps for entire regions, because smartphones usually do not have so much space. But some of them make it possible to allocate a frame of a small area and download only it. That is, download not the entire Caucasus region, but only a specific piece of forest in which you are going to go Hiking. However, even though the download may take several hours and several gigabytes.
 
 <p align="center">
 <img src="https://shuriktravel.ru/wp-content/uploads/2018/10/2018-10-22-00.31.48-596x1024.png" width="200"/>
 </p>
 
 
-Вы спросите, для чего же такие трудности? Дело в том, что многие карты бывают только растровые. Спутниковые фотографии бывают только растровые. "Отсканированные" топографические карты Генштаба СССР или ГосГисЦентра тоже только растровые. Некоторые турклубы выкладывают в сеть карты собственного изготовления, новые и детально проработанные. Разумеется, тоже растровые.
+You may ask, why do we need such difficulties? The fact that many of the maps are raster only. Satellite photos are only raster. "Scanned" Soviet topographic maps (still the best for some regions) are also only raster. Some hiking organisations publish maps of their own production, new and detailed. Of course, also raster.
 
-Иными словами, если ваши потребности отграничиваются "сходить в лес на шашлыки и не заблудится", то все эти заморочки с растровыми картами вам, скорее всего, ни к чему. Просто скачайте векторные карты для своего региона. Например, с помощью приложений  Maps.me, GuruMaps или OsmAnd. Карты скачаются быстро и много места не займут. 
+In other words, if your needs are limited to "go to the forest for barbecue and not get lost", all these troubles with raster maps you do not need. Just download vector maps for your region. For example, using Maps.me, GuruMaps or OsmAnd. Maps will load quickly and do not take up much space.
 
-Если же вы уже достаточно опытны и собираетесь в какие-нибудь более основательные походы, то вам могут пригодиться дополнительные (более специализированные) карты. В этом случае вам уже придется самостоятельно подбирать подходящую для вашего маршрута карту. А затем - вручную выделить нужный участок местности и поставить его скачиваться на свой смартфон. 
+If you are already experienced enough and going to some more difficult trips, then you may need additional (more specialized) maps. In this case, you will already have to choose a suitable map for your route. And then - manually select the desired area and put it downloaded to your smartphone.
 
+### Summary
 
-### Выводы
+So why did I write all this? To make you understand that this site contains only heavy raster maps. And it is designed primarily for more or less experienced users who will not be deterred by the need to make a few additional (though long) operations to be able to download high-quality specialized maps directly from your smartphone.
 
-Так для чего я все это писал? А для того, чтобы вы понимали, что на этом сайте собраны именно тяжеловесные растровые карты. И предназначен он прежде всего, для более-менее опытных пользователей, которых не отпугнет необходимость сделать несколько дополнительных (хотя и долгих) операций, чтобы иметь возможность скачивать качественные специализированные карты прямо со своего смартфона.
-
-Кстати, всем кто хочет более основательно разобраться в теме векторных и растровых карт предлагаю прочитать эту [статью](https://melda.ru/2018/05/%D0%B2%D0%B5%D0%BA%D1%82%D0%BE%D1%80%D0%BD%D1%8B%D0%B5-%D0%B8-%D1%80%D0%B0%D1%81%D1%82%D1%80%D0%BE%D0%B2%D1%8B%D0%B5-%D0%BA%D0%B0%D1%80%D1%82%D1%8B/) .
