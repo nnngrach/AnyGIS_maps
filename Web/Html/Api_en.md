@@ -11,13 +11,13 @@
 
 # AnyGIS API
 
-Для получения тайлов интересующей Вас онлайн-карты нужно послать GET запрос, состоящий из следующих частей:
+To get the tiles of the online card you are interested in, you need to send a GET request consisting of the following parts:
 
 ```
 Host / MapName / X / Y / Z
 ```
 
-В качестве примера сформируем запрос для загрузки тайла карты Wikimapia. Для этого будем использовать следующие параметры:
+As an example, let's create a query to download the Wikimapia's map tile. To do this, we will use the following parameters:
 
 ```
 Host = https://anygis.herokuapp.com/
@@ -27,16 +27,15 @@ Y = 320
 Z = 10
 ```
 
-Результирующий запрос будет выглядеть следующим образом:
+The final version of the query will look like this:
 
 ```
 https://anygis.herokuapp.com/Wikimapia/619/320/10
 ```
 
-X ,Y - это номера тайлов в стандартной проекции Web Mercator. Z - уровень приближения для нее же. Иными словами, это - те же самые значения, что используются для получения карт OpenStreetMaps.
+X ,Y are the tile numbers in the standard web Mercator projection. Z - level of zoom for it same. In other words, these are the same values that are used to obtain OpenStreetMap tiles.
 
-
-Так же, вместо номеров тайлов можно указать координаты в десятичном формате:
+Also, instead of tile numbers, you can specify the coordinates in decimal format:
 
 ```
 Host / MapName / Longitude / Latitude / Z
@@ -44,7 +43,7 @@ https://anygis.herokuapp.com/Wikimapia/56.062293/37.708244/10
 ```
 
 
-Чтобы получить параметр MapName нужно перейти на страницу  со списком доступных карт:
+To get the MapName parameter, go to the page with the list of available maps:
 
 ```
 https://anygis.herokuapp.com/list

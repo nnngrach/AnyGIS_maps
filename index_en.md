@@ -10,7 +10,7 @@
 
 
 
-# Mobile outdoor maps
+# Outdoor mobile maps
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/smartphone.png)
 
@@ -24,7 +24,7 @@ These applications allow you to download specialized [raster][07] maps directly 
 
 All this makes the smartphone almost a complete replacement of the "Garmin + computer" bundle. Well, or in a great addition to it.
 
-### Ссылки: 
+### Links: 
 
 * [Locus][1] app for Androd.
 
