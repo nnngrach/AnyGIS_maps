@@ -8,79 +8,75 @@
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
 
 
-### Апрель 2019 
+### April 2019 
 
-Добавлена подборка карт в формате приложения OsmAnd для Android.
-
-
-### Март 2019 
-
-Добавлена подборка карт в формате приложения Orux Maps.
-
-Устранена ошибка при загрузке карт GuruMaps на iOS.
-
-Добавлены карты Navionics, Росреестр, Космоснимки.ру (спутниковые).
-
-Добавлены карты Центральной и Западной Европы.
-
-Добавлены карты Mapsurfer, Kosmosnimki, Bing Спутник.
-
-Добавлен новый раздел с советскими топокартыми 1970-90х (не Генштаб)
-
-Добавлен новый раздел с историческими картами.
-
-Устранена ошибка при загрузке карт GuruMaps на Android.
-
-Добалены карты Северной Европы и США.
-
-Завершение бета-тестирования. Релиз!
-
-Добавлены карты стран северной Европы и США.
-
-Основной функционал реализован. Начало бета-тестирования подборки для Locus и GuruMaps.
+Added a set of maps in the format of the OsmAnd app for Android.
 
 
-### Февраль 2019 
+### March 2019 
 
-Добавлен режим для индексации траффика.
+Added a set of maps in the OruxMaps application format.
 
-Создан скрипт для автоматической генерации файлов на основе собранной базы даных.  Упростилось и усторилось обновление хранящихся на сервере веб страничек, файлов карт и скриптов для их установки в Locus. 
+Fixed error loading Guru Maps on iOS.
 
-Сделан сайт для удобной загрузки карт. 
+Added maps Navionics, Rosreestr, Kosmosnimki.ru.
 
+Added maps of Central and Western Europe.
 
-### Зима 2018
+Added mapsurfer, Bing Satellite maps.
 
-Режим загрузки изображений через прямой прокси. (Для Mapnik)
+Added a new set with the Soviet topographic maps of the 1970-90s (not the Genshtab)
 
-На этом режима реализован набор карт RusOutdoor maps, который фключид в себя побор из оптимальных растровых карт из числа Генштаб, ГГЦ, Туристический раздел программы Sas.planet. 
+Added a new set with historical maps.
 
-Режим подбора наилучшей из имеющихся для данной местности карт. (Проверяется, ести ли кусок карты для требуемых координат на всех серверах, в порядке их приоритета).
+Fixed bug when loading Guru Maps on Android.
 
-Режим выбра карты из нескольких зеркал.
+Added map of Northern Europe and the United States.
 
+The end of the beta test. Release!
 
-### Осень 2018 
-
-Подготовлен первый тестовый набор источников онлайн карт для Locus.
-
-С помошью сервиса MapBox создан слой карты с затенением рельефа и тополиниями. Добавлена карта Mapnik + Hillshade.
-
-Режим для слоев с пробками.
-
-Добавлены некоторые карты из наборов от Erelen и Dreame.
-
-Проект переписан с языка PHP на Swift. Измены ссылки в наборе для Galileo. 
+The main functionality is implemented. The beginning of beta testing of the collection for Locus and GuruMaps.
 
 
-### Лето 2018
+### February 2019 
 
-Подготовлен первый тестовый набор источников онлайн карт для Galileo Pro.
+Added mode for traffic indexing.
 
-Реализована загрузка изображений с подменой Referer и UserAgent.
+Created script for automatic generation of files based on the collected database. This allows to update maps more often.
 
-Добавлена функция обработки изображений. С ее помощью реализован конвертер карт из проекции WGS84 в стандартную проекцию WebMerkatror.
+Made a website for easy loading maps. 
 
-Реализована генерация ссылок для Wikimapia и карт SAS.planet (из разделов Теристический и Генштаб).
 
-Начата работа над проектом. (PHP)
+### Winter 2018
+
+Added a mode for downloading images via the direct proxy. (For Mapnik)
+
+Added a mode to select the best available maps for the area. (Checked if there is а piece of map for required coordinates on all servers, in order of their priority). In this mode is based on a set of maps RusOutdoorMaps, which included a selection of optimal raster maps from the Genshtab, GGC, and maps from the tourist section of the Sas.planet programm.
+
+Added map selection mode from multiple mirrors.
+
+
+### Autumn 2018 
+
+The first test set of online map sources for Locus has been prepared.
+
+Added map layer shaded relief and supplements through the service MapBox. Added Mapnik + Hillshade map.
+
+Added mode for layers with traffic.
+
+Added some maps from sets from Erelen and from Dreamers.
+
+The project was rewritten from PHP to Swift. Changed the links in the set for Galileo.
+
+
+### Summer 2018
+
+The first test set of online map sources for Galileo Pro has been prepared.
+
+Added mode to download images spoofing the Referer and UserAgent.
+
+Added the function of image processing. Implemented a Converter maps from elliptic projection in WGS84 standard spherical projection WebMerkatror.
+
+Implemented link generation for Wikimapia and SAS.planet maps (from the Tourist and the Genshtab sections).
+
+Work on the project has begun. (PHP)
