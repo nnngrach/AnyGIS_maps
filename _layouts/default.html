@@ -23,8 +23,19 @@
         window.location.replace(url);
     }
 
+    function redirectToIndexPage() {
+        var url = String(location);
 
-    function redirectContactsPage() {
+        if (url.indexOf("_en") == -1) {
+          url = "https://nnngrach.github.io/AnyGIS_maps/index";
+        } else {
+          url = "https://nnngrach.github.io/AnyGIS_maps/index_en";
+        }
+
+        window.location.replace(url);
+    }
+
+    function redirectContactsToPage() {
         var url = String(location);
 
         if (url.indexOf("_en") == -1) {
@@ -55,8 +66,8 @@
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
 
-        <a href="https://nnngrach.github.io/AnyGIS_maps/index"><img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
-        <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/changeLanguage.png" style="float:right;width:35px;height:35px;">
+        <a href="javascript:redirectToIndexPage()"><img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToAnotherLanguage()"><img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/changeLanguage.png" style="float:right;width:35px;height:35px;"></a>
 
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}
@@ -82,7 +93,7 @@
     </div>
     <footer>
     {% if site.github.is_project_page %}
-      <p>Contacts - project maintained by <a href="javascript:redirectContactsPage()">{{ site.github.owner_name }}</a></p>
+      <p>Contacts - project maintained by <a href="javascript:redirectToContactsPage()">{{ site.github.owner_name }}</a></p>
     {% endif %}
       <p>Hosted on GitHub Pages &mdash; Theme by <a href="https://github.com/orderedlist">orderedlist</a></p>
     </footer>
