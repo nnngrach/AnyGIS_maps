@@ -27,10 +27,10 @@
     function redirectContactsPage() {
         var url = String(location);
 
-        if (url.indexOf("_ru") == -1) {
-          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
-        } else {
+        if (url.indexOf("_en") == -1) {
           url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_ru";
+        } else {
+          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
         }
 
         window.location.replace(url);
