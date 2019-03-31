@@ -11,7 +11,7 @@
 
 
 
-# Online-maps sources for Guru Maps (Galileo Pro)
+# Online-maps sources for Guru Maps
 
 [Сhangelog][0]
 
@@ -125,8 +125,6 @@ The other way
 
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/guru_itunes.png)
-
 ---
 
 ### How to set up the traffic layer?
@@ -134,9 +132,9 @@ I note that among the cards in this collection there are several dynamic. I mean
 
 ##### The first option - purging the cache:
 * Open the settings menu
-* Select `Online maps`
-* Toggle the switch `Update maps`
-* Drag the slider to the left (always update)
+* Select `Cashe info`
+* Toggle the switch `Map refresh`
+* Drag the slider to the left (actual map)
 
 As a result, the map will be periodically updated once in a certain (though relatively large) period of time.
 
@@ -146,7 +144,7 @@ As a result, the map will be periodically updated once in a certain (though rela
 
 ##### The second option is a manual deletion of the cache:
 * Open the settings menu
-* Select `Online maps`
+* Select `Cashe info`
 * Find the map you are interested in in the list
 * Delete cache by clicking on the red circle to the left of the map name
 

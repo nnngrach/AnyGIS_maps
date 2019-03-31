@@ -28,7 +28,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [Download maps (all files)][2]
 
-[Download maps (by one files)][3]
+[Download maps (by one file)][3]
 
 
 [1]: https://shuriktravel.ru/maps/
@@ -50,7 +50,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [Download maps (all files)][11]
 
-[Download maps (by one files)][12]
+[Download maps (by one file)][12]
 
 
 

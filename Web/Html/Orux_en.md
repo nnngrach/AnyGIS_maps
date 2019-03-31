@@ -11,9 +11,9 @@
 
 
 
-# Карты для Orux Maps
+# Online-maps sources for Orux Maps
 
-[Список изменений][0]
+[Changelog][0]
 
 [0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
 
@@ -21,12 +21,12 @@
 
 
 
-Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] карт:
+It's no secret that the basic set of cards with which the application is supplied is often not enough. However, it is possible to add additional maps yourself. Here you will find two sets of [raster][07] maps:
 
-### Базовый набор
-Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
+### Basic set
+A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks. 
 
-[Скачать карты][2]
+[Download maps][2]
 
 
 [1]: https://shuriktravel.ru/maps/
@@ -36,18 +36,16 @@
 
 
 
-### Полный набор
-Если вы уже знаете, какие именно карты вам требуются, то эта подборка для вас. Замечу, что она уже включает в себя карты из подборок от других составителей: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] и некоторых других. А так же тут есть множество карт из программы [SAS.Planet][10]. Всего в комплекте около сотни карт. Вот некоторые из них:
+### Full set
+If you already know what kind of maps you need, then this set is for you. Note that it already includes maps from other compilers collections: [Erelen][6], [Dreame][7], [ms.Galileo-app][8], [Custom-maps-sourse][9] and some others. And as there are many maps from the program [SAS.Planet][10]. A total of about a hundred cards included. Here are some of them:
 
-- Карты для города (Яндекс, Google, Here, Bing, 2gis)
-- Спутниковые снимки (Яндекс, Google, ERSI, Here, Mapbox) 
-- Карты на основе OSM (Mapnik, Cycle, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap и др.)
-- Растровые топографические (Генштаб, ГГЦ, Маршруты.ру)
-- Растровые туристические (карты Завьялова ММБ; атласы и хребтовки Кавказа, Карелии, Крыма, Алтая и др.)
-- Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
-- Карты со справочной информацией (Wikimapia)
+- Maps for city (Google, Here, Bing, Yandex, 2gis)
+- Satellites (Google, ERSI, Here, Mapbox, Yandex) 
+- OSM-based maps (Mapnik, Cyclemap, Outdoors, OpenTopoMaps, OpenSeaMap, OpenSnowMap)
+- Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
+- Information maps (Wikimapia)
 
-[Скачать карты][11]
+[Download maps][11]
 
 
 
@@ -63,20 +61,21 @@
 
 
 
-### Установка
+### How to install maps?
 
-* Поместите файл `onlinemapsources.xml` в папку  `oruxmaps\mapfiles\customonlinemaps`
-* Перезапустите Orux или нажмите на кнопку Обновить. 
-* Новые карты должны появиться в разеле `Online` в папке `Layers`
+* Copy the downloaded file `onlinemapsources.xml` to the folder on your smarphone  `oruxmaps\mapfiles\customonlinemaps`
+* Restart Orux app.
+* Open Map list and press Refresh button. 
+* New maps should appear in the application in the section `Online` of the folder `Layers`
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapUpdater.png)
 
-* Если какие-то из карт покажутся вам лишними, то вы можете удалить их из списка. Для этого нужно просто нажать и удерживать на названии карты. Через некоторое время она исчезнет из списка.
+* If any of the cards seem superfluous to you, you can remove them from the list. To do this, simply click and hold on the name of the card. After a while, it will disappear from the list.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapDeleter.png)
 
 
-На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.
+That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 
 <p align="center">
