@@ -161,7 +161,7 @@ For all cards in the category "Satellites".
 
 For rarely updated maps. 
 
-##### По умолчанию  (don't update)
+##### Default  (don't update)
 
 For all raster (roughly "scanned") maps, you can leave the cache storage time unchanged. That is endless: it is unlikely that someone will ever redraw them. So you can skip and do not do the above settings for all the remaining cards from the category "Eurasia". 
 
