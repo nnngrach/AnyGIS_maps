@@ -6,48 +6,6 @@
     
 {% seo %}
 
-    <script> 
-    function redirectToAnotherLanguage() {
-        var url = String(location);
-
-        if (url.indexOf("index_en") != -1) {
-          url = url.replace("index_en", "index");
-        } else if (url.indexOf("index") != -1) {
-          url = url.replace("index", "index_en");
-        } else if (url.indexOf("_ru") == -1) {
-          url = url.replace("_en", "_ru");
-        } else {
-          url = url.replace("_ru", "_en");
-        }
-
-        window.location.replace(url);
-    }
-
-    function redirectToIndexPage() {
-        var url = String(location);
-
-        if (url.indexOf("_en") == -1) {
-          url = "https://nnngrach.github.io/AnyGIS_maps/index";
-        } else {
-          url = "https://nnngrach.github.io/AnyGIS_maps/index_en";
-        }
-
-        window.location.replace(url);
-    }
-
-    function redirectContactsToPage() {
-        var url = String(location);
-
-        if (url.indexOf("_en") == -1) {
-          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_ru";
-        } else {
-          url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
-        }
-
-        window.location.replace(url);
-    }
-    </script>
-
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
@@ -58,8 +16,47 @@
 
     <link rel="shortcut icon" type="image/x-icon" href="https://nnngrach.github.io/AnyGIS_maps/Web/Img/favicon.ico">
 
-    
+    <script> 
+      function redirectToIndexPage() {
+          var url = String(location);
 
+          if (url.indexOf("_en") == -1) {
+            url = "https://nnngrach.github.io/AnyGIS_maps/index";
+          } else {
+            url = "https://nnngrach.github.io/AnyGIS_maps/index_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToContactsPage() {
+          var url = String(location);
+
+          if (url.indexOf("_en") == -1) {
+            url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_ru";
+          } else {
+            url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
+          }
+
+          window.location.replace(url);
+      }
+
+      function redirectToAnotherLanguage() {
+          var url = String(location);
+
+          if (url.indexOf("index_en") != -1) {
+            url = url.replace("index_en", "index");
+          } else if (url.indexOf("index") != -1) {
+            url = url.replace("index", "index_en");
+          } else if (url.indexOf("_ru") == -1) {
+            url = url.replace("_en", "_ru");
+          } else {
+            url = url.replace("_ru", "_en");
+          }
+
+          window.location.replace(url);
+      }
+    </script>
   </head>
 
   <body>
@@ -73,17 +70,6 @@
         {% if site.description or site.github.project_tagline %}
           <p>{{ site.description | default: site.github.project_tagline }}</p>
         {% endif %}
-
-        <!--
-        <br><p class="view"><a href="javascript:redirectToAnotherLanguage()">Change Language <small>{{ github_name }}</small></a></p>
-        <ul>
-        {% if site.show_downloads %}
-          <li><a href="{{ site.github.zip_url }}">Download <strong>ZIP File</strong></a></li>
-          <li><a href="{{ site.github.tar_url }}">Download <strong>TAR Ball</strong></a></li>
-        {% endif %}
-          <li><a href="javascript:redirectToAnotherLanguage();">Change <strong>Language</strong></a></li>
-        </ul>
-      -->
       </header>
       <section>
 
