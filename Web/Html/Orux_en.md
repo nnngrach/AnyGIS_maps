@@ -31,7 +31,7 @@
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://anygis.herokuapp.com/download/orux_short/onlinemapsources.xml
+[2]: https://anygis.herokuapp.com/download/orux_short_en/onlinemapsources.xml
 
 
 
@@ -58,7 +58,7 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://anygis.herokuapp.com/download/orux_full/onlinemapsources.xml
+[11]: https://anygis.herokuapp.com/download/orux_full_en/onlinemapsources.xml
 
 
 

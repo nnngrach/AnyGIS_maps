@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus Maps.
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 31-03-2019 13:22
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/_en/Евразия%20-%20Туристические%20-%20Многослойные.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Евразия - Туристические - Многослойные.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+</dest>
+</download>
+
+</locusActions>

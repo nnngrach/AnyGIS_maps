@@ -32,7 +32,7 @@
 [Скачать со смартфона Android (выборочно)][4]
 
 [1]: https://shuriktravel.ru/maps/
-[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_short
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_short_ru
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_IOS_Short_ru
 [4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_Android_Short_ru
 
@@ -63,7 +63,7 @@
 [8]: https://ms.galileo-app.com/
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_full
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Galileo_online_maps/Maps_full_ru
 [12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_IOS_Full_ru
 [13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_Android_Full_ru
 
