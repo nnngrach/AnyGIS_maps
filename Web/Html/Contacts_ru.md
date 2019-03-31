@@ -16,7 +16,7 @@
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_email.png" width="80"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[Fork me on GitHub][14]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="80"/> | **[GitHub][14]** |
 
 
 
