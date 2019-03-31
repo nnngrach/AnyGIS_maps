@@ -12,29 +12,29 @@
 
 # RusOutdoor maps
 
-***Универсальная карта для пешего и горного туризма по России и ближнему зарубежью***
+***Universal map for hiking and mountain tourism in Russia and neighboring countries***
 
-*последнее обновление: 19.02.19*
+*last update: 19.02.19*
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/nnngrach_zagedan.jpg)
 
+Despite the fact that I have already written that there is no ideal and universal map and can not be, I still tried to do it. As a model, I chose a map from the site [Matshruty.ru][1] - when changing the scale it changing the displayed map.
 
-Несмотря на то, что я уже сам писал, что идеальной и универсальной карты нет и быть не может, я все же попробовал таковую сделать. В качестве образца для подражания я выбрал карту с сайта [Маршруты.ру][1] - на ней при смене масштаба меняется отображаемая карта. 
+This idea seemed to me quite convenient, because here to choose another map you just need to change the scale: just one click on the `"+"` or` -'`. At that time, as usual you had to press `Menu -> map Selection -> Scroll to desired -> Click on the map`. Sometimes even on the button `"back"` then press.  That is, 3-4 clicks each time you need to change the displayed map. And in some cases the maps have to be changed very often and it is frankly tiring.
 
-Эта идея показалась мне довольно удобной, ведь здесь, чтобы выбрать другую карту достаточно всего лишь изменить масштаб: всего один клик на кнопку `"+"` или `"-"`. В то время, как обычно требовалось нажать `Меню -> Выбор карты -> Проскроллить до нужной -> Кликнуть на карту`. Иногда еще и на кнопку `"назад"`  после этого нажать.  То есть по 3-4 клика каждый раз, когда потребуется сменить отображаемую карту. А в некоторых ситуациях их приходится сменять крайне часто и это откровенно утомляет.
+So I decided to develop this idea and add the missing layers in my opinion. I note that in this collection the priority was given to raster maps. In my opinion, for many regions they are still more detailed than OSM-based maps. Now let's see some of the layers consists of RusOutdoor Maps.
 
-Так что я решил развить эту идею и добавить недостающих на мой взгляд слоев. Замечу, что в этой подборке приоритет отдавался именно растровым картам. На мой взгляд, для многих регионов они все еще более детальны, чем карты на основе OSM. А теперь давайте посмотрим, из каких слоев состоит RusOutdoor Maps. 
 
 
 ***
 
-### Слой 1: - Обзорный
+### Layer 1: - Countries
 
-Масштабы: с 0-го по 9-й
+Zoom: from 0 to 9
 
-Google Ландшафт
+Google Terrain
 
-Эту группу слоев стоит использовать, чтобы выбрать нужный материк, страну, и интересующий регион в этой стране. Для удобства, на карте обозначен рельеф, так что найти горные районы будет сравнительно просто. 
+This group of layers should be used to select the desired continent, country, and region of interest in this country. For convenience, the map is marked relief, so find the mountain areas will be relatively easy.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/google_terrain.png)
 
@@ -42,71 +42,71 @@ Google Ландшафт
 ***
 
 
-### Слой 2 - Города и трассы
+### Layer 2 - Города и трассы
 
-Масштаб 10-й
+Zoom: 10
 
-OSM Спутник.ру
+OSM Sputnik.ru
 
-Этот и следующий слой следует использовать, чтобы найти интересующий регион, ориентируясь по названиям городов и линиям автомагистралей. Плюс карты с сайта Спутник в том, что она быстро загружается и что на ней отображается рельеф. Минус - не самая наглядная отрисовка дорог. 
+This and the next layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Sputnik that it loads quickly and that it displays the terrain. Minus - not the most visual drawing of roads.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/sputnik_ru.png)
 
 
-### Слой 3 - Города и трассы
+### Layer 3 - Города и трассы
 
-Масштаб 11-й
+Zoom: 11
 
-Яндекс Карта
+Yandex Map
 
-Этот и предыдущий слой следует использовать, чтобы найти интересующий регион, ориентируясь по названиям городов и линиям автомагистралей. Плюс карты с сайта Яндекс в более детальной и наглядной отрисовке дорог. Есть отображение заболоченных участков. Минусы - это карта в нестандартной проекции. Чтобы ее преобразовать затрачивается дополнительное время и карта загружается не так быстро. Очень часто я просто проскакиваю этот слой.
+This and the previous layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Yandex in a more detailed and visual rendering of roads. There is a display of wetlands. Cons - a map in a non-standard projection. To convert it takes extra time and the map is loaded not so fast. Very often I just slip through this layer.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ya_map.png)
 
 ***
 
-Следующие три слоя - те самые, ради которых и затевалась эта сборка - растровые карты. Благо, для них вполне достаточно всего трех масштабов: карты крупнее 12-го малопригодны для пешего туризма, а карт детальнее 14-15 обычно попросту не существует.
+The next three layers are the ones for which this set was created - raster maps. Fortunately, quite enough of all three zoom levels maps are larger 12th unsuitable for Hiking, and maps 14-15 more usually simply do not exist.
 
-Эти карты стоит применять для лесных и горных районов. Из плюсов - они составлялись профессиональными картографами. Они содержат много информации, которой нет других картах: лесные просеки, заболоченные участки, ручьи, родники, горные тропы и многое другое. Из минусов - многие из этих карт уже устарели. Некоторые - довольно критично, некоторые - еще нет.
+These maps should be used for forest and mountain areas. Of the advantages - they were made by professional cartographers. They contain a lot of information that there are no other maps: forest glades, wetlands, streams, springs, mountain trails and more. Of the minuses - many of these cards are outdated. Some - quite critical, some - not yet.
 
-Стоит заметить, что растровых карт слишком много и, поэтому, на этих слоях используется функция подбора наиболее подходящей карты для данной местности. 
+It is worth noting that there are too many raster maps and, therefore, on these layers, the function of automatic search for the most suitable map for the area is used.
 
-В первую очередь программа проверяет, существуют ли для этой местности локальные растровые карты? Например карты Завьялова или специальные туристические горных районов (Хибины, Кавказ, Алтай итд). В списке присутствуют практически все карты из программы SAS.planet из раздела "Туристические".
+First of all, the program checks whether there are local raster maps for this area? For example Slazav maps for mountain areas. The list contains almost all the cards from the SAS.planet programm from the section "Hiking".
 
-Во вторую очередь (если локальных карт не нашлось), загружаются топографические карты с более широкой зоной покрытия, но немного меньшим уровнем детализации. А именно - современные российские топокарты ГГЦ (составлялись в 2000-е). 
+In the second place (if local maps were not found), topographic maps with a wider coverage area, but a slightly lower level of detail will be loaded. Namely, the modern Russian topographic map GGC (made in 2000s).
 
-В третью очередь, если карт ГГЦ не нашлось, загружаются советские топокарты Генштаб (составлялись в 1980-е). Эти карты устарели сильнее всего. Особенно, вблизи населенных пунктов. Да и многие отмеченные здесь лесные тропы могли успеть зарасти.
+In the third place, if the card GHZ not found, load the Genshtab (Soviet military) topographic map (drawn up in the 1980s). These maps are the most outdated. Especially, near settlements, and many marked on them forest trails could have time to grow.
 
-И в последнюю очередь, если для данной территории не нашлось и карт Генштаба, загружается карта OSM. А именно - Thunderforest Outdoors.
-
-
+And last of all, if there are no maps of the General staff for this territory, a map based on OSM is loaded. Namely - Thunderforest Outdoors.
 
 
-### Слой 4 - Растровые карты
 
-Масштаб 12-й
 
-Локальные карты, Генштаб 1км, Генштаб 2 км, OSM Outdoors
+### Layer 4 - Raster maps
+
+Zoom: 12
+
+Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/genshtab.png)
 
 
 
-### Слой 5 - Растровые карты
+### Layer 5 - Raster maps
 
-Масштаб 13-й
+Zoom: 13
 
-Локальные карты, ГГЦ 1км, Генштаб 500м
+Maps with local coverage, GGC 1km, Genshtab 500m
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/kavkaz_1000.png)
 
 
 
-### Слой 6 - Растровые карты
+### Layer 6 - Raster maps
 
-Масштаб 14-й
+Zoom: 14
 
-Локальные карты, ГГЦ 500м, OSM Outdoors
+Maps with local coverage, GGC 500m, OSM Outdoors
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ggc.png)
 
@@ -115,79 +115,80 @@ OSM Спутник.ру
 
 ***
 
-### Слой 7 - Векторные карты на основе OSM
+### Layer 7 - Vector OSM-based maps
 
-Масштаб 15-й
+Zoom: 15
 
-Thunderforest Outdoors + слой с пиктограммами POI
+Thunderforest Outdoors + POI layer
 
-Карты OSM - это публичные цифровые карты, которые покрывают всю планету. Информация здесь наиболее современная. Подойдет не только для леса, но и для города. Помимо природных объектов и троп, на этой карте могут быть отмечены остановки и ж/д станции, а так же магазины и некоторые достопримечательности. 
+OSM maps are public digital maps that cover the entire planet. The information here is the most up-to-date. Suitable not only for the forest, but also for the city. In addition to natural sites and trails, this map can be marked by public transport and railway stations, as well as shops and some attractions.
 
-Из минусов, стоит отметить, что это - общедоступная карта ее может изменять любой желающий. В том числе и дилетанты. Так же стоит отметить, что удаленные районы, которые посещает мало людей, могут быть отрисованы недостаточно подробно.
+Of the minuses, it is worth noting that this is a public map it can be changed by anyone. Including not competent enough . It is also worth noting that remote areas that are visited by few people can be drawn in insufficient detail.
 
-Если же говорить конкретно про карту Thunderforest Outdoors, то здесь довольно наглядная отрисовка рельефа и хорошо заметные  линии троп.
+If we talk specifically about the map Thunderforest Outdoors, there is quite a clear drawing of the terrain and well-marked lines of trails.
 
-В дополнение к этой карте я добавил слой с пиктограммами: родники, места под стоянки и прочее. По стандарту OSM многие из этих иконок отображаются лишь с 16-го или даже 17-го масштаба. Но, на мой взгляд, при планировании маршрута, удобно видеть такие важные объекты "из дали".  К сожалению, эта дополнительная операция немного снизила скорость загрузки карты. 
+In addition to this map, I added a layer with POI icons: springs, camping lots, etc. According to the OSM standard, many of these icons are only displayed at scale 16 or even 17. But, in my opinion, when planning a route, it is convenient to see such important objects "from afar".  Unfortunately, this additional operation slightly reduced the loading speed of the map. 
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/osm_outdoors.png)
 
 
 
-### Слой 8 - Векторные карты на основе OSM
+### Layer 8 - Vector OSM-based maps
 
-Масштаб 16-й
+Zoom: 16
 
-OpenStreetMaps Mapnik + слой с рельефом
+OpenStreetMaps Mapnik + hillshade layer
 
-Основная версия карт OSM. Имеет те же плюсы и минусы, что и все OSM карты. На мой взгляд, эта версия - самая универсальная и обладающая наибольшим числом иконок и подписанных объектов. из минусов - на ней не отображается рельеф.
+This is the basic version of OSM maps. It has the same pros and cons as all OSM maps. In my opinion, this version is the most versatile and has the largest number of POI icons and signed objects. Of the minuses - it does not display the terrain.
 
-Чтобы это компенсировать, я добавил к этой карте дополнительный полупрозрачный слой с рельефом. Не слишком яркий, чтобы не отвлекать внимание и не закрасить мелкие объекты на карте. Но при этом, чтобы участки с сильным перепадом высот сразу бросались в глаза. Как и в предыдущем случае, за загрузку дополнительного слоя приходится платить увеличившимся временем загрузки.
+To compensate, I added an additional semi-transparent layer with relief to this map. Not too noticeable, so as not to distract attention and not to paint over small objects on the map. But at the same time, to areas with a strong height difference immediately caught the eye. As in the previous case, you have to pay for loading an additional layer with increased loading time.
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/mapnik.png)
 
 ***
 
-На более мелких масштабах карты OSM становятся малопригодными для загородной местности. Зачастую они показывают на весь экран смартфона сплошной белый цвет (поля) или сплошной зеленый (леса). Единственный тип карт, который показывает хоть что-нибудь интересное при таком приближении - это спутниковые снимки. 
+At smaller zoom levels, OSM maps become less suitable for the countryside. Often they show the entire screen of the smartphone solid white (field) or solid green (forest). The only type of map that shows anything interesting at this close - up is satellite imagery.
 
-А чтобы добавить больше полезной информации на карту поверх этих снимков я добавил слой Wikimapia. Это еще одна публичная карта, на которой пользователи отмечают контуры интересных объектов. Тут можно найти родники, места под стоянку, беседки, достопримечательности (крупные и не очень), заброшенные и полуразрушенные объекты, остатки укреплений времен ВОВ и прочие объекты, которые пользователи сайта сочли интересными. Замечу, что надписи на некоторых объектах появляются только при достаточно сильном приближении.
-
-
+And to add more useful information to the map on top of these images, I added a Wikimapia layer. This is another public map where users mark the contours of interesting objects. Here you can find springs, places for camping, gazebos, attractions (large and not), abandoned and dilapidated objects, the remains of fortifications of WW2 and other objects that users of the site found interesting. Note that the labels on some objects appear only at a sufficiently strong approximation. 
 
 
 
-### Слой 9 - Справочная информация
 
-Масштаб 17-й
+
+
+### Layer 9 - Reference information
+
+Zoom: 17
 
 OpenStreetMaps Mapnik
 
-Слой Wikimapia
+Wikimapia layer
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_mapnik.png)
 
 
 
 
-### Слой 10 - Справочная информация
+### Layer 10 - Reference information
 
-Масштаб 18-й
+Zoom: 18
 
-Google Спутник
+Google Satellite
 
-Слой Wikimapia
+Wikimapia layer
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_google.png)
 
 
 
 
-### Слой 11 - Справочная информация
+### Layer 11 - Reference information
 
-Масштабы с 19-го по 21-й
+Zoom: from 19 to 21
 
-Яндекс Спутник
+Yandex Satellite
 
-Слой Wikimapia
+Wikimapia layer
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_ya.png)
 
@@ -195,7 +196,7 @@ Google Спутник
 
 ***
 
-Чтож, на этом все. Думаю, теперь вам будет проще разобраться, как работать с этой картой. Скачать эту и многие другие карты можно на странице загрузки. Здесь - для [Locus][2], а здесь - для [Guru maps (Galileo Pro)][3]. Если же вы хотите более детально разобраться в основных видах карт, то предлагаю ознакомиться с этой [статьей][4].
+That's it. I think now it will be easier for you to understand how to work with this map.
 
 
 
