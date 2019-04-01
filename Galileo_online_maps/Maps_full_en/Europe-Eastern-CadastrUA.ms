@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>22</maxZoom>
-<url>http://map.land.gov.ua/map/dzk_overview/{$z}/{$x}/{$invY}.png</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <url>http://map.land.gov.ua/map/dzk_overview/{$z}/{$x}/{$invY}.png</url>
+</layer>
 
 </layers>
 </customMapSource>

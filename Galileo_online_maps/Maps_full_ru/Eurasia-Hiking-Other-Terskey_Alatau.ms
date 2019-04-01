@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>15</maxZoom>
-<url>http://map.g-utka.ru/{$z}/{$x}/{$y}.png</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>15</maxZoom>
+    <url>http://map.g-utka.ru/{$z}/{$x}/{$y}.png</url>
+</layer>
 
 </layers>
 </customMapSource>

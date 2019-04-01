@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>17</maxZoom>
-<url>https://anygis.herokuapp.com/Local_Taganay/{$x}/{$y}/{$z}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>17</maxZoom>
+    <url>https://anygis.herokuapp.com/Local_Taganay/{$x}/{$y}/{$z}</url>
+</layer>
 
 </layers>
 </customMapSource>

@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>6</minZoom>
-<maxZoom>15</maxZoom>
-<url>http://nz1.nztopomaps.com/{$z}/{$x}/{$invY}.png</url>
-    </layer>
-
+    <minZoom>6</minZoom>
+    <maxZoom>15</maxZoom>
+    <url>http://nz1.nztopomaps.com/{$z}/{$x}/{$invY}.png</url>
+</layer>
 
 </layers>
 </customMapSource>

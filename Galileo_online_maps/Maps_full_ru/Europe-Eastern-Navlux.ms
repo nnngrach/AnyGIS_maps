@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>19</maxZoom>
-<url>http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>19</maxZoom>
+    <url>http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png</url>
+</layer>
 
 </layers>
 </customMapSource>

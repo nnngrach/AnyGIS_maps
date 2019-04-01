@@ -5,12 +5,11 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>20</maxZoom>
-<url>https://mt{$serverpart}.google.com/vt/lyrs=m&amp;hl=en&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
-<serverParts>0 1 2 3 </serverParts>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>20</maxZoom>
+    <url>https://mt{$serverpart}.google.com/vt/lyrs=m&amp;hl=en&amp;x={$x}&amp;y={$y}&amp;z={$z}</url>
+    <serverParts>0 1 2 3 </serverParts>
+</layer>
 
 </layers>
 </customMapSource>

@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>14</maxZoom>
-<url>https://tiles.nakarte.me/topo500/{$z}/{$x}/{$invY}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>14</maxZoom>
+    <url>https://tiles.nakarte.me/topo500/{$z}/{$x}/{$invY}</url>
+</layer>
 
 </layers>
 </customMapSource>

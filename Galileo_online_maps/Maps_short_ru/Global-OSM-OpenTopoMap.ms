@@ -5,12 +5,11 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>17</maxZoom>
-<url>http://{$serverpart}.tile.opentopomap.org/{$z}/{$x}/{$y}.png</url>
-<serverParts>a b c </serverParts>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>17</maxZoom>
+    <url>http://{$serverpart}.tile.opentopomap.org/{$z}/{$x}/{$y}.png</url>
+    <serverParts>a b c </serverParts>
+</layer>
 
 </layers>
 </customMapSource>

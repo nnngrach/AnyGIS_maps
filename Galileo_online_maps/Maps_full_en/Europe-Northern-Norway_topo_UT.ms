@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>19</maxZoom>
-<url>https://tilesprod.ut.no/tilestache/ut_topo_light/{$z}/{$x}/{$y}.jpg</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>19</maxZoom>
+    <url>https://tilesprod.ut.no/tilestache/ut_topo_light/{$z}/{$x}/{$y}.jpg</url>
+</layer>
 
 </layers>
 </customMapSource>

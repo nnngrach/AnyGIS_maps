@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>15</maxZoom>
-<url>http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{$z}/{$y}/{$x}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>15</maxZoom>
+    <url>http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{$z}/{$y}/{$x}</url>
+</layer>
 
 </layers>
 </customMapSource>

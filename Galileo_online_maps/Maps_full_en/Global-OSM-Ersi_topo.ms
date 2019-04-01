@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>22</maxZoom>
-<url>https://anygis.herokuapp.com/Ersi_Topomap/{$x}/{$y}/{$z}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <url>https://anygis.herokuapp.com/Ersi_Topomap/{$x}/{$y}/{$z}</url>
+</layer>
 
 </layers>
 </customMapSource>

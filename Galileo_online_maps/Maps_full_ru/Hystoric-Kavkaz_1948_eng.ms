@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>13</maxZoom>
-<url>https://anygis.herokuapp.com/Historic_Kavkaz_1948_eng/{$x}/{$y}/{$z}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>13</maxZoom>
+    <url>https://anygis.herokuapp.com/Historic_Kavkaz_1948_eng/{$x}/{$y}/{$z}</url>
+</layer>
 
 </layers>
 </customMapSource>

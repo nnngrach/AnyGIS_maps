@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>15</maxZoom>
-<url>https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$invY}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>15</maxZoom>
+    <url>https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$invY}</url>
+</layer>
 
 </layers>
 </customMapSource>

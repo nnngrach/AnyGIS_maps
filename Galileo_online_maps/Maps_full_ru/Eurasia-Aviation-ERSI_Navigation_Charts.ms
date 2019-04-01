@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>10</maxZoom>
-<url>https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>10</maxZoom>
+    <url>https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}</url>
+</layer>
 
 </layers>
 </customMapSource>

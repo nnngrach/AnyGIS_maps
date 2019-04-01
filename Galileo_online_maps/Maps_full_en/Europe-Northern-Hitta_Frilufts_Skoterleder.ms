@@ -5,17 +5,16 @@
 <layers>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>22</maxZoom>
-<url>https://tiles.skoterleder.org/tiles/{$z}/{$x}/{$y}.png</url>
-    </layer>
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <url>https://tiles.skoterleder.org/tiles/{$z}/{$x}/{$y}.png</url>
+</layer>
 
 <layer>
-<minZoom>0</minZoom>
-<maxZoom>22</maxZoom>
-<url>https://overl.skoterleder.org/tiles/{$z}/{$x}/{$y}.png</url>
-    </layer>
-
+    <minZoom>0</minZoom>
+    <maxZoom>22</maxZoom>
+    <url>https://overl.skoterleder.org/tiles/{$z}/{$x}/{$y}.png</url>
+</layer>
 
 </layers>
 </customMapSource>

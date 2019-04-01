@@ -5,11 +5,10 @@
 <layers>
 
 <layer>
-<minZoom>10</minZoom>
-<maxZoom>14</maxZoom>
-<url>https://orda.of.by/.tiles/3vq/Z{$z}/{$y}/{$x}.jpg</url>
-    </layer>
-
+    <minZoom>10</minZoom>
+    <maxZoom>14</maxZoom>
+    <url>https://orda.of.by/.tiles/3vq/Z{$z}/{$y}/{$x}.jpg</url>
+</layer>
 
 </layers>
 </customMapSource>
