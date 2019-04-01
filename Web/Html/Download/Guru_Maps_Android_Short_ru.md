@@ -63,12 +63,12 @@
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Topo-GGC_All.ms "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Topo-GGC-All.ms "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
+[Генштаб (Все масштабы)](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Topo-Genshtab-All.ms "Скачать эту карту")
 
 
 

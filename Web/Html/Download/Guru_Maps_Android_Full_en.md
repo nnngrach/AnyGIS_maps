@@ -215,38 +215,38 @@
 
 
 ### Eurasia - Topo - GGC
-[GGC 1 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC_1000.ms "Download this map")
+[GGC 1 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC-1000.ms "Download this map")
 
-[GGC 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC_2000.ms "Download this map")
+[GGC 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC-2000.ms "Download this map")
 
-[GGC 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC_0250.ms "Download this map")
+[GGC 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC-0250.ms "Download this map")
 
-[GGC 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC_0500.ms "Download this map")
+[GGC 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC-0500.ms "Download this map")
 
-[GGC Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC_All.ms "Download this map")
+[GGC Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-GGC-All.ms "Download this map")
 
 
 
 ### Eurasia - Topo - Genshtab
-[Genshtab 10 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_10000.ms "Download this map")
+[Genshtab 10 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-10000.ms "Download this map")
 
-[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_02000.ms "Download this map")
+[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-02000.ms "Download this map")
 
-[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_01000.ms "Download this map")
+[Genshtab 2 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-01000.ms "Download this map")
 
-[Genshtab 2 000m new](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_02000_new.ms "Download this map")
+[Genshtab 2 000m new](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-02000_new.ms "Download this map")
 
-[Genshtab 20 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_20000.ms "Download this map")
+[Genshtab 20 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-20000.ms "Download this map")
 
-[Genshtab 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_00250.ms "Download this map")
+[Genshtab 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-00250.ms "Download this map")
 
-[Genshtab 5 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_05000.ms "Download this map")
+[Genshtab 5 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-05000.ms "Download this map")
 
-[Genshtab 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_00500.ms "Download this map")
+[Genshtab 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-00500.ms "Download this map")
 
-[Genshtab 500m new](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_00500_new.ms "Download this map")
+[Genshtab 500m new](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-00500_new.ms "Download this map")
 
-[Genshtab Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab_All.ms "Download this map")
+[Genshtab Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-All.ms "Download this map")
 
 
 
@@ -262,17 +262,17 @@
 
 
 ### Eurasia - Topo - Soviet
-[Topomaps 1 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_01000.ms "Download this map")
+[Topomaps 1 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-01000.ms "Download this map")
 
-[Topomaps 10 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_10000.ms "Download this map")
+[Topomaps 10 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-10000.ms "Download this map")
 
-[Topomaps 25 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_25000.ms "Download this map")
+[Topomaps 25 000m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-25000.ms "Download this map")
 
-[Topomaps 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_00250.ms "Download this map")
+[Topomaps 250m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-00250.ms "Download this map")
 
-[Topomaps 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_00500.ms "Download this map")
+[Topomaps 500m](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-00500.ms "Download this map")
 
-[Topomaps Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Topo_All.ms "Download this map")
+[Topomaps Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Soviet-All.ms "Download this map")
 
 
 

@@ -89,53 +89,53 @@
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_All.sqlitedb "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-All.sqlitedb "Скачать эту карту")
 
-[ГосГисЦентр 1 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_1000.sqlitedb "Скачать эту карту")
+[ГосГисЦентр 1 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-1000.sqlitedb "Скачать эту карту")
 
-[ГосГисЦентр 2 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_2000.sqlitedb "Скачать эту карту")
+[ГосГисЦентр 2 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-2000.sqlitedb "Скачать эту карту")
 
-[ГосГисЦентр 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_0250.sqlitedb "Скачать эту карту")
+[ГосГисЦентр 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0250.sqlitedb "Скачать эту карту")
 
-[ГосГисЦентр 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_0500.sqlitedb "Скачать эту карту")
+[ГосГисЦентр 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0500.sqlitedb "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_All.sqlitedb "Скачать эту карту")
+[Генштаб (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-All.sqlitedb "Скачать эту карту")
 
-[Генштаб 1 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_01000.sqlitedb "Скачать эту карту")
+[Генштаб 1 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-01000.sqlitedb "Скачать эту карту")
 
-[Генштаб 10 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_10000.sqlitedb "Скачать эту карту")
+[Генштаб 10 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-10000.sqlitedb "Скачать эту карту")
 
-[Генштаб 2 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_02000.sqlitedb "Скачать эту карту")
+[Генштаб 2 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000.sqlitedb "Скачать эту карту")
 
-[Генштаб 2 000 м v2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_02000_new.sqlitedb "Скачать эту карту")
+[Генштаб 2 000 м v2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000_new.sqlitedb "Скачать эту карту")
 
-[Генштаб 20 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_20000.sqlitedb "Скачать эту карту")
+[Генштаб 20 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-20000.sqlitedb "Скачать эту карту")
 
-[Генштаб 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00250.sqlitedb "Скачать эту карту")
+[Генштаб 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00250.sqlitedb "Скачать эту карту")
 
-[Генштаб 5 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_05000.sqlitedb "Скачать эту карту")
+[Генштаб 5 000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-05000.sqlitedb "Скачать эту карту")
 
-[Генштаб 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00500.sqlitedb "Скачать эту карту")
+[Генштаб 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500.sqlitedb "Скачать эту карту")
 
-[Генштаб 500 м v2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00500_new.sqlitedb "Скачать эту карту")
+[Генштаб 500 м v2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500_new.sqlitedb "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Советские
-[Топокарты (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_All.sqlitedb "Скачать эту карту")
+[Топокарты (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-All.sqlitedb "Скачать эту карту")
 
-[Топокарты 1000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_01000.sqlitedb "Скачать эту карту")
+[Топокарты 1000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-01000.sqlitedb "Скачать эту карту")
 
-[Топокарты 10000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_10000.sqlitedb "Скачать эту карту")
+[Топокарты 10000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-10000.sqlitedb "Скачать эту карту")
 
-[Топокарты 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_00250.sqlitedb "Скачать эту карту")
+[Топокарты 250 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-00250.sqlitedb "Скачать эту карту")
 
-[Топокарты 25000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_25000.sqlitedb "Скачать эту карту")
+[Топокарты 25000 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-25000.sqlitedb "Скачать эту карту")
 
-[Топокарты 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Topo_00500.sqlitedb "Скачать эту карту")
+[Топокарты 500 м](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-00500.sqlitedb "Скачать эту карту")
 
 
 

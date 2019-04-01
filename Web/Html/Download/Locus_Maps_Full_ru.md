@@ -124,54 +124,54 @@
 
 
 
-### [Евразия - Топокарты - ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo.xml "Скачать всю группу")
-[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_All.xml "Скачать эту карту")
+### [Евразия - Топокарты - ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-GGC.xml "Скачать всю группу")
+[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-All.xml "Скачать эту карту")
 
-[ГосГисЦентр 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_1000.xml "Скачать эту карту")
+[ГосГисЦентр 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-1000.xml "Скачать эту карту")
 
-[ГосГисЦентр 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_2000.xml "Скачать эту карту")
+[ГосГисЦентр 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-2000.xml "Скачать эту карту")
 
-[ГосГисЦентр 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_0250.xml "Скачать эту карту")
+[ГосГисЦентр 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-0250.xml "Скачать эту карту")
 
-[ГосГисЦентр 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_0500.xml "Скачать эту карту")
-
-
-
-### [Евразия - Топокарты - Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo.xml "Скачать всю группу")
-[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_All.xml "Скачать эту карту")
-
-[Генштаб 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_01000.xml "Скачать эту карту")
-
-[Генштаб 10 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_10000.xml "Скачать эту карту")
-
-[Генштаб 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_02000.xml "Скачать эту карту")
-
-[Генштаб 2 000 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_02000_new.xml "Скачать эту карту")
-
-[Генштаб 20 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_20000.xml "Скачать эту карту")
-
-[Генштаб 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_00250.xml "Скачать эту карту")
-
-[Генштаб 5 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_05000.xml "Скачать эту карту")
-
-[Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_00500.xml "Скачать эту карту")
-
-[Генштаб 500 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_00500_new.xml "Скачать эту карту")
+[ГосГисЦентр 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-0500.xml "Скачать эту карту")
 
 
 
-### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo.xml "Скачать всю группу")
-[Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_All.xml "Скачать эту карту")
+### [Евразия - Топокарты - Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Genshtab.xml "Скачать всю группу")
+[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-All.xml "Скачать эту карту")
 
-[Топокарты 1000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_01000.xml "Скачать эту карту")
+[Генштаб 1 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-01000.xml "Скачать эту карту")
 
-[Топокарты 10000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_10000.xml "Скачать эту карту")
+[Генштаб 10 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-10000.xml "Скачать эту карту")
 
-[Топокарты 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_00250.xml "Скачать эту карту")
+[Генштаб 2 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-02000.xml "Скачать эту карту")
 
-[Топокарты 25000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_25000.xml "Скачать эту карту")
+[Генштаб 2 000 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-02000_new.xml "Скачать эту карту")
 
-[Топокарты 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Topo_00500.xml "Скачать эту карту")
+[Генштаб 20 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-20000.xml "Скачать эту карту")
+
+[Генштаб 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-00250.xml "Скачать эту карту")
+
+[Генштаб 5 000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-05000.xml "Скачать эту карту")
+
+[Генштаб 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-00500.xml "Скачать эту карту")
+
+[Генштаб 500 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-00500_new.xml "Скачать эту карту")
+
+
+
+### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Soviet.xml "Скачать всю группу")
+[Топокарты (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-All.xml "Скачать эту карту")
+
+[Топокарты 1000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-01000.xml "Скачать эту карту")
+
+[Топокарты 10000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-10000.xml "Скачать эту карту")
+
+[Топокарты 250 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-00250.xml "Скачать эту карту")
+
+[Топокарты 25000 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-25000.xml "Скачать эту карту")
+
+[Топокарты 500 м](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Soviet-00500.xml "Скачать эту карту")
 
 
 

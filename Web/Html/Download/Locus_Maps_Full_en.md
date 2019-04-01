@@ -222,39 +222,39 @@
 
 
 
-### [Eurasia - Topo - GGC](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
-[GGC 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_1000.xml "Download this map")
+### [Eurasia - Topo - GGC](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo-GGC.xml "Download all group files")
+[GGC 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC-1000.xml "Download this map")
 
-[GGC 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_2000.xml "Download this map")
+[GGC 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC-2000.xml "Download this map")
 
-[GGC 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_0250.xml "Download this map")
+[GGC 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC-0250.xml "Download this map")
 
-[GGC 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_0500.xml "Download this map")
+[GGC 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC-0500.xml "Download this map")
 
-[GGC Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_All.xml "Download this map")
+[GGC Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC-All.xml "Download this map")
 
 
 
-### [Eurasia - Topo - Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
-[Genshtab 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_10000.xml "Download this map")
+### [Eurasia - Topo - Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo-Genshtab.xml "Download all group files")
+[Genshtab 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-10000.xml "Download this map")
 
-[Genshtab 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_02000.xml "Download this map")
+[Genshtab 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-02000.xml "Download this map")
 
-[Genshtab 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_01000.xml "Download this map")
+[Genshtab 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-01000.xml "Download this map")
 
-[Genshtab 2 000m new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_02000_new.xml "Download this map")
+[Genshtab 2 000m new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-02000_new.xml "Download this map")
 
-[Genshtab 20 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_20000.xml "Download this map")
+[Genshtab 20 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-20000.xml "Download this map")
 
-[Genshtab 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_00250.xml "Download this map")
+[Genshtab 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-00250.xml "Download this map")
 
-[Genshtab 5 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_05000.xml "Download this map")
+[Genshtab 5 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-05000.xml "Download this map")
 
-[Genshtab 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_00500.xml "Download this map")
+[Genshtab 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-00500.xml "Download this map")
 
-[Genshtab 500m new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_00500_new.xml "Download this map")
+[Genshtab 500m new](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-00500_new.xml "Download this map")
 
-[Genshtab Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_All.xml "Download this map")
+[Genshtab Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-All.xml "Download this map")
 
 
 
@@ -269,18 +269,18 @@
 
 
 
-### [Eurasia - Topo - Soviet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
-[Topomaps 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_01000.xml "Download this map")
+### [Eurasia - Topo - Soviet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo-Soviet.xml "Download all group files")
+[Topomaps 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-01000.xml "Download this map")
 
-[Topomaps 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_10000.xml "Download this map")
+[Topomaps 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-10000.xml "Download this map")
 
-[Topomaps 25 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_25000.xml "Download this map")
+[Topomaps 25 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-25000.xml "Download this map")
 
-[Topomaps 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_00250.xml "Download this map")
+[Topomaps 250m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-00250.xml "Download this map")
 
-[Topomaps 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_00500.xml "Download this map")
+[Topomaps 500m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-00500.xml "Download this map")
 
-[Topomaps Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_All.xml "Download this map")
+[Topomaps Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Soviet-All.xml "Download this map")
 
 
 

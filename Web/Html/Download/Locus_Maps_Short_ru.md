@@ -64,13 +64,13 @@
 
 
 
-### [Евразия - Топокарты - ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo.xml "Скачать всю группу")
-[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC_All.xml "Скачать эту карту")
+### [Евразия - Топокарты - ГГЦ](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-GGC.xml "Скачать всю группу")
+[ГосГисЦентр (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-GGC-All.xml "Скачать эту карту")
 
 
 
-### [Евразия - Топокарты - Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo.xml "Скачать всю группу")
-[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab_All.xml "Скачать эту карту")
+### [Евразия - Топокарты - Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Genshtab.xml "Скачать всю группу")
+[Генштаб (Все масштабы)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-All.xml "Скачать эту карту")
 
 
 

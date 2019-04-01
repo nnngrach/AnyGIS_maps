@@ -125,53 +125,53 @@
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_All.ms "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-All.ms "Скачать эту карту")
 
-[ГосГисЦентр 1 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_1000.ms "Скачать эту карту")
+[ГосГисЦентр 1 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-1000.ms "Скачать эту карту")
 
-[ГосГисЦентр 2 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_2000.ms "Скачать эту карту")
+[ГосГисЦентр 2 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-2000.ms "Скачать эту карту")
 
-[ГосГисЦентр 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_0250.ms "Скачать эту карту")
+[ГосГисЦентр 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0250.ms "Скачать эту карту")
 
-[ГосГисЦентр 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_0500.ms "Скачать эту карту")
+[ГосГисЦентр 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0500.ms "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
+[Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-All.ms "Скачать эту карту")
 
-[Генштаб 1 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_01000.ms "Скачать эту карту")
+[Генштаб 1 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-01000.ms "Скачать эту карту")
 
-[Генштаб 10 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_10000.ms "Скачать эту карту")
+[Генштаб 10 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-10000.ms "Скачать эту карту")
 
-[Генштаб 2 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_02000.ms "Скачать эту карту")
+[Генштаб 2 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000.ms "Скачать эту карту")
 
-[Генштаб 2 000 м v2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_02000_new.ms "Скачать эту карту")
+[Генштаб 2 000 м v2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000_new.ms "Скачать эту карту")
 
-[Генштаб 20 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_20000.ms "Скачать эту карту")
+[Генштаб 20 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-20000.ms "Скачать эту карту")
 
-[Генштаб 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00250.ms "Скачать эту карту")
+[Генштаб 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00250.ms "Скачать эту карту")
 
-[Генштаб 5 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_05000.ms "Скачать эту карту")
+[Генштаб 5 000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-05000.ms "Скачать эту карту")
 
-[Генштаб 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00500.ms "Скачать эту карту")
+[Генштаб 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500.ms "Скачать эту карту")
 
-[Генштаб 500 м v2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_00500_new.ms "Скачать эту карту")
+[Генштаб 500 м v2](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500_new.ms "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Советские
-[Топокарты (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_All.ms "Скачать эту карту")
+[Топокарты (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-All.ms "Скачать эту карту")
 
-[Топокарты 1000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_01000.ms "Скачать эту карту")
+[Топокарты 1000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-01000.ms "Скачать эту карту")
 
-[Топокарты 10000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_10000.ms "Скачать эту карту")
+[Топокарты 10000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-10000.ms "Скачать эту карту")
 
-[Топокарты 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_00250.ms "Скачать эту карту")
+[Топокарты 250 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-00250.ms "Скачать эту карту")
 
-[Топокарты 25000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_25000.ms "Скачать эту карту")
+[Топокарты 25000 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-25000.ms "Скачать эту карту")
 
-[Топокарты 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Topo_00500.ms "Скачать эту карту")
+[Топокарты 500 м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-00500.ms "Скачать эту карту")
 
 
 

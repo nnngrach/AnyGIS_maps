@@ -63,12 +63,12 @@
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC_All.ms "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-GGC-All.ms "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_All.ms "Скачать эту карту")
+[Генштаб (Все масштабы)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-All.ms "Скачать эту карту")
 
 
 

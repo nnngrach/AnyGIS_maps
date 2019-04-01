@@ -49,12 +49,12 @@
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC_All.sqlitedb "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-GGC-All.sqlitedb "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab_All.sqlitedb "Скачать эту карту")
+[Генштаб (Все масштабы)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-All.sqlitedb "Скачать эту карту")
 
 
 
