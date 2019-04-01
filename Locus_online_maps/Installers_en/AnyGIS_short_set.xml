@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-04-2019 22:16
+Файл обновлен: 01-04-2019 22:35
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,10 +19,10 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Глобальные%20-%20Городские.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20City.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Городские.png]]>
+<![CDATA[/mapsOnline/custom/Global - City.png]]>
 </dest>
 </download>
 
@@ -46,10 +46,10 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Глобальные%20-%20Спутниковые.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20Satellites.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
+<![CDATA[/mapsOnline/custom/Global - Satellites.png]]>
 </dest>
 </download>
 
@@ -127,10 +127,10 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Глобальные%20-%20OSM.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM.png]]>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
 </dest>
 </download>
 
@@ -208,10 +208,10 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Глобальные%20-%20Водные.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20Nautical.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Водные.png]]>
+<![CDATA[/mapsOnline/custom/Global - Nautical.png]]>
 </dest>
 </download>
 
@@ -235,10 +235,10 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Глобальные%20-%20Справочные.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20Info.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Справочные.png]]>
+<![CDATA[/mapsOnline/custom/Global - Info.png]]>
 </dest>
 </download>
 
