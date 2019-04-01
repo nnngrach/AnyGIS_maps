@@ -9,7 +9,7 @@
 # Download maps for Locus Maps
 
 
-### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-City.xml Download all group files)
+### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-City.xml "Download all group files")
 [2Gis](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-2gis.xml "Download this map")
 
 [Bing Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Bing_map.xml "Download this map")
@@ -38,7 +38,7 @@
 
 
 
-### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml Download all group files)
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [AnyGIS Satellites compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-All.xml "Download this map")
 
 [Bing Bird's Eye](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Bing_birds_eye.xml "Download this map")
@@ -63,7 +63,7 @@
 
 
 
-### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml Download all group files)
+### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml "Download all group files")
 [4U maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-4umaps.xml "Download this map")
 
 [ERSI Topomap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ersi_topo.xml "Download this map")
@@ -100,7 +100,7 @@
 
 
 
-### [Global - Nautical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Water.xml Download all group files)
+### [Global - Nautical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Water.xml "Download all group files")
 [ESRI Ocean](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-ERSI_ocean.xml "Download this map")
 
 [Navionics + OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-Navionics_OSM.xml "Download this map")
@@ -117,14 +117,14 @@
 
 
 
-### [Global - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global.xml Download all group files)
+### [Global - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global.xml "Download all group files")
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Wikimapia.xml "Download this map")
 
 [Wikimapia.org + Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Wikimapia_satellite.xml "Download this map")
 
 
 
-### [Europe - Northern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Northern.xml Download all group files)
+### [Europe - Northern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Northern.xml "Download all group files")
 [Eniro](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Eniro.xml "Download this map")
 
 [Eniro + Navionics](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Northern-Eniro_Navionics.xml "Download this map")
@@ -163,14 +163,14 @@
 
 
 
-### [Europe - Western](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Western.xml Download all group files)
+### [Europe - Western](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Western.xml "Download all group files")
 [France Topo IGN.fr](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Western-France_topo.xml "Download this map")
 
 [Great Britain Topo](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Western-GB_topo.xml "Download this map")
 
 
 
-### [Europe - Central](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Central.xml Download all group files)
+### [Europe - Central](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Central.xml "Download all group files")
 [Czech base](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_base.xml "Download this map")
 
 [Czech geographical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Central-Czech_geo.xml "Download this map")
@@ -181,12 +181,12 @@
 
 
 
-### [Europe - Southeast](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Southeast.xml Download all group files)
+### [Europe - Southeast](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Southeast.xml "Download all group files")
 [Montenecro 250](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Southeast-Montenegro.xml "Download this map")
 
 
 
-### [Europe - Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Eastern.xml Download all group files)
+### [Europe - Eastern](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Europe-Eastern.xml "Download all group files")
 [Belarus - DZZ.by (need a proxy!)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml "Download this map")
 
 [Belarus Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Belarus_Genshtab.xml "Download this map")
@@ -201,7 +201,7 @@
 
 
 
-### [USA](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_USA.xml Download all group files)
+### [USA](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_USA.xml "Download all group files")
 [USGS National Map - Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__USA-USGS_Sat.xml "Download this map")
 
 [USGS National Map - Satellite Plus](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__USA-USGS_Sat_plus.xml "Download this map")
@@ -210,19 +210,19 @@
 
 
 
-### [Other](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Other.xml Download all group files)
+### [Other](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Other.xml "Download all group files")
 [New-Zealand Topomaps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Other-NewZeland_Topo.xml "Download this map")
 
 
 
-### [Eurasia - Hiking - Multylayer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Multylayer.xml Download all group files)
+### [Eurasia - Hiking - Multylayer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Multylayer.xml "Download all group files")
 [Marshruty.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Multylayer-MarshrutiRU.xml "Download this map")
 
 [RusOutdoor maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml "Download this map")
 
 
 
-### [Eurasia - Topo - GGC](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml Download all group files)
+### [Eurasia - Topo - GGC](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
 [GGC 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_1000.xml "Download this map")
 
 [GGC 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-GGC_2000.xml "Download this map")
@@ -235,7 +235,7 @@
 
 
 
-### [Eurasia - Topo - Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml Download all group files)
+### [Eurasia - Topo - Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
 [Genshtab 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_10000.xml "Download this map")
 
 [Genshtab 2 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab_02000.xml "Download this map")
@@ -258,7 +258,7 @@
 
 
 
-### [Eurasia - Hiking - Moscow Region](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Moscow.xml Download all group files)
+### [Eurasia - Hiking - Moscow Region](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Moscow.xml "Download all group files")
 [Adraces](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-Adraces.xml "Download this map")
 
 [Arbalet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Moscow-Arbalet.xml "Download this map")
@@ -269,7 +269,7 @@
 
 
 
-### [Eurasia - Topo - Soviet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml Download all group files)
+### [Eurasia - Topo - Soviet](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Topo.xml "Download all group files")
 [Topomaps 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_01000.xml "Download this map")
 
 [Topomaps 10 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Topo_10000.xml "Download this map")
@@ -284,7 +284,7 @@
 
 
 
-### [Eurasia - Hiking - Caucasus](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Caucasus.xml Download all group files)
+### [Eurasia - Hiking - Caucasus](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Caucasus.xml "Download all group files")
 [Abishira Akhuba](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml "Download this map")
 
 [Caucasus 1 000m](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Caucasus-Svodnaya_1000.xml "Download this map")
@@ -309,14 +309,14 @@
 
 
 
-### [Eurasia - Hiking - Crimea](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Crimea.xml Download all group files)
+### [Eurasia - Hiking - Crimea](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Crimea.xml "Download all group files")
 [Crimea Kartagrafiya 2010](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Crimea-Kartografiya.xml "Download this map")
 
 [Crimea Souskarta 2011](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Crimea-SoyusKarta.xml "Download this map")
 
 
 
-### [Eurasia - Hiking - Khibiny](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Khininy.xml Download all group files)
+### [Eurasia - Hiking - Khibiny](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Khininy.xml "Download all group files")
 [Khibiny's Mountains](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Khininy-Hills.xml "Download this map")
 
 [Khibiny's Tundra (2008)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml "Download this map")
@@ -325,7 +325,7 @@
 
 
 
-### [Eurasia - Hiking - Other](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Other.xml Download all group files)
+### [Eurasia - Hiking - Other](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Other.xml "Download all group files")
 [Aladaglar](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Alagadar.xml "Download this map")
 
 [Altai Katun Ridge](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Hiking-Other-Altay.xml "Download this map")
@@ -346,7 +346,7 @@
 
 
 
-### [Eurasia - Rivers](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Rivers.xml Download all group files)
+### [Eurasia - Rivers](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Rivers.xml "Download all group files")
 [Chusovaya river](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Rivers-Chusovaya_Novoutkinsk.xml "Download this map")
 
 [Kuban river](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Rivers-Kuban.xml "Download this map")
@@ -355,7 +355,7 @@
 
 
 
-### [Eurasia - Aviation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Aviation.xml Download all group files)
+### [Eurasia - Aviation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Aviation.xml "Download all group files")
 [Avia MVL](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Aviation-MVL.xml "Download this map")
 
 [Avia RNK](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Aviation-RNK.xml "Download this map")
@@ -364,7 +364,7 @@
 
 
 
-### [Eurasia - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Info.xml Download all group files)
+### [Eurasia - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Info.xml "Download all group files")
 [Mobile MTS](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-MTS.xml "Download this map")
 
 [Mobile Megaphone](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Info-Megafon.xml "Download this map")
@@ -377,7 +377,7 @@
 
 
 
-### [Eurasia - Hystoric](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Hystoric.xml Download all group files)
+### [Eurasia - Hystoric](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Hystoric.xml "Download all group files")
 [Belarus 3 verstovaya](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Belarus_3v.xml "Download this map")
 
 [Belarus 3 verstovaya+](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Hystoric-Belarus_3v_plus.xml "Download this map")
@@ -422,7 +422,7 @@
 
 
 
-### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml Download all group files)
+### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml "Download all group files")
 [Google Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Google_labels.xml "Download this map")
 
 [Google Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Google_traffic.xml "Download this map")

@@ -9,14 +9,14 @@
 # Download maps for Locus Maps
 
 
-### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-City.xml Download all group files)
+### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-City.xml "Download all group files")
 [Google Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_map.xml "Download this map")
 
 [Google Terrain](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_terrain.xml "Download this map")
 
 
 
-### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml Download all group files)
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [AnyGIS Satellites compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-All.xml "Download this map")
 
 [Bing Bird's Eye](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Bing_birds_eye.xml "Download this map")
@@ -35,7 +35,7 @@
 
 
 
-### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml Download all group files)
+### [Global - OSM](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM.xml "Download all group files")
 [4U maps](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-4umaps.xml "Download this map")
 
 [Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapnik.xml "Download this map")
@@ -54,21 +54,21 @@
 
 
 
-### [Global - Nautical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Water.xml Download all group files)
+### [Global - Nautical](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Water.xml "Download all group files")
 [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-Navionics_Marine_Charts.xml "Download this map")
 
 [Open Sea Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Water-OpenSeaMap.xml "Download this map")
 
 
 
-### [Global - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global.xml Download all group files)
+### [Global - Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global.xml "Download all group files")
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Wikimapia.xml "Download this map")
 
 [Wikimapia.org + Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Wikimapia_satellite.xml "Download this map")
 
 
 
-### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml Download all group files)
+### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml "Download all group files")
 [Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Here_traffic.xml "Download this map")
 
 [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Navionics_Marine_Charts.xml "Download this map")
