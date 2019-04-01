@@ -10,9 +10,9 @@
 
 
 ### Global - City
-[Google Map RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_map.ms "Download this map")
+[Google Map RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_map_ru.ms "Download this map")
 
-[Google Terrain RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
+[Google Terrain RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_terrain_ru.ms "Download this map")
 
 
 

@@ -10,9 +10,9 @@
 
 
 ### Global - City
-[Google Map RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
+[Google Map RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map_ru.ms "Download this map")
 
-[Google Terrain RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
+[Google Terrain RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain_ru.ms "Download this map")
 
 
 
