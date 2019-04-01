@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 31-03-2019 13:22
+Файл обновлен: 01-04-2019 21:29
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/_ru/Глобальные%20-%20Спутниковые.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Спутниковые.png]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-All.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Bing_birds_eye.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Bing_birds_eye.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Bing_birds_eye.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-ESRI_Imagenary.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-ESRI_Imagenary.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
@@ -55,7 +55,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Google.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
@@ -64,7 +64,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Google_with_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels.xml]]>
@@ -73,7 +73,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Google_with_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels.xml]]>
@@ -82,7 +82,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Here.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Here.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Here.xml]]>
@@ -91,7 +91,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Mapbox.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Mapbox.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
@@ -100,7 +100,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Yandex.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
@@ -109,7 +109,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Yandex_with_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Yandex_with_labels.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
@@ -118,7 +118,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_ru/Global-Satellites-Kosmosnimki.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Kosmosnimki.xml]]>

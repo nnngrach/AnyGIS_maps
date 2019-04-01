@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 31-03-2019 13:22
+Файл обновлен: 01-04-2019 21:29
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,7 +19,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons/_en/Евразия%20-%20Топокарты%20-%20Советские.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Евразия%20-%20Топокарты%20-%20Советские.png]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Евразия - Топокарты - Советские.png]]>
@@ -28,7 +28,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_01000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_01000.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_01000.xml]]>
@@ -37,7 +37,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_10000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_10000.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_10000.xml]]>
@@ -46,7 +46,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_25000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_25000.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_25000.xml]]>
@@ -55,7 +55,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_00250.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_00250.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_00250.xml]]>
@@ -64,7 +64,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_00500.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_00500.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_00500.xml]]>
@@ -73,7 +73,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full/_en/Eurasia-Topo-Topo_All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Topo-Topo_All.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Topo_All.xml]]>
