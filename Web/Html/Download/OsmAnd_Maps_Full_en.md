@@ -12,10 +12,6 @@
 ### Global - City
 [2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-2gis.sqlitedb "Download this map")
 
-[Google Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map.sqlitedb "Download this map")
-
-[Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain.sqlitedb "Download this map")
-
 [Here Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Here_map.sqlitedb "Download this map")
 
 [Here Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Here_terrain.sqlitedb "Download this map")
@@ -32,8 +28,6 @@
 [ESRI World Imagenary](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.sqlitedb "Download this map")
 
 [Google Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google.sqlitedb "Download this map")
-
-[Google Satellite + labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.sqlitedb "Download this map")
 
 [Here Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Here.sqlitedb "Download this map")
 

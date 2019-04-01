@@ -12,10 +12,6 @@
 ### Глобальные - Городские
 [2Gis](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-2gis.ms "Скачать эту карту")
 
-[Google Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Google_map.ms "Скачать эту карту")
-
-[Google Ландшафт](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Google_terrain.ms "Скачать эту карту")
-
 [Yandex Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
 [Yandex Пробки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_traffic.ms "Скачать эту карту")
@@ -24,8 +20,6 @@
 
 ### Глобальные - Спутниковые
 [AnyGIS Спутниковый сборник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-All.ms "Скачать эту карту")
-
-[Google Спутник (гибрид)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
 
 [Yandex Спутник (гибрид)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 

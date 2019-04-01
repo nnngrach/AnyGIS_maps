@@ -10,9 +10,9 @@
 
 
 ### [Global - City](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-City.xml "Download all group files")
-[Google Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_map.xml "Download this map")
+[Google Map RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_map.xml "Download this map")
 
-[Google Terrain](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_terrain.xml "Download this map")
+[Google Terrain RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Google_terrain.xml "Download this map")
 
 
 
@@ -22,8 +22,6 @@
 [Bing Bird's Eye](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Bing_birds_eye.xml "Download this map")
 
 [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-ESRI_Imagenary.xml "Download this map")
-
-[Google Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Google_with_labels.xml "Download this map")
 
 [Here Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Here.xml "Download this map")
 

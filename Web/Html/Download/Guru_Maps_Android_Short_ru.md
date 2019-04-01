@@ -12,10 +12,6 @@
 ### Глобальные - Городские
 [2Gis](https://anygis.herokuapp.com/download/galileo_ru/Global-City-2gis.ms "Скачать эту карту")
 
-[Google Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_map.ms "Скачать эту карту")
-
-[Google Ландшафт](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_terrain.ms "Скачать эту карту")
-
 [Yandex Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
 [Yandex Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_traffic.ms "Скачать эту карту")
@@ -24,8 +20,6 @@
 
 ### Глобальные - Спутниковые
 [AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-All.ms "Скачать эту карту")
-
-[Google Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
 
 [Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
