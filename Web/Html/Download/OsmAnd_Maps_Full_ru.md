@@ -12,6 +12,10 @@
 ### Глобальные - Городские
 [2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-2gis.sqlitedb "Скачать эту карту")
 
+[Google Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map.sqlitedb "Скачать эту карту")
+
+[Google Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain.sqlitedb "Скачать эту карту")
+
 [Here Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Here_map.sqlitedb "Скачать эту карту")
 
 [Here Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Here_terrain.sqlitedb "Скачать эту карту")
@@ -28,6 +32,8 @@
 [ESRI World Imagenary](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-ESRI_Imagenary.sqlitedb "Скачать эту карту")
 
 [Google Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
+
+[Google Спутник (гибрид)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.sqlitedb "Скачать эту карту")
 
 [Here Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
 

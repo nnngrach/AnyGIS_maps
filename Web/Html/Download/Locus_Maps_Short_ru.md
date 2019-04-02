@@ -21,6 +21,8 @@
 ### [Глобальные - Спутниковые](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Satellites.xml "Скачать всю группу")
 [AnyGIS Спутниковый сборник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-All.xml "Скачать эту карту")
 
+[Google Спутник (гибрид) RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels_ru.xml "Скачать эту карту")
+
 [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
 [Yandex Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")

@@ -10,7 +10,11 @@
 
 
 ### Global - City
+[Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
+
 [Google Map RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map_ru.ms "Download this map")
+
+[Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
 
 [Google Terrain RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain_ru.ms "Download this map")
 
@@ -22,6 +26,8 @@
 [Bing Bird's Eye](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
 
 [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
+
+[Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
 [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
 
