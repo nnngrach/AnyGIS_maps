@@ -258,7 +258,7 @@
 ### [Евразия - Водные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Rivers.xml "Скачать всю группу")
 [Река Кубань 1985 (От Краснодрского гидроузла до устья)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Rivers-Kuban.xml "Скачать эту карту")
 
-[Речная лоция Волги и Камы 1996](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Rivers-Volga_kama.xml "Скачать эту карту")
+[Речная лоция Волги и Камы 1996 (gmap.camapka.ru)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Rivers-Volga_kama.xml "Скачать эту карту")
 
 [Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Rivers-Chusovaya_Novoutkinsk.xml "Скачать эту карту")
 

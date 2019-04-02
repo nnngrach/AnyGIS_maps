@@ -222,7 +222,7 @@
 ### Евразия - Водные
 [Река Кубань 1985 (От Краснодрского гидроузла до устья)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Rivers-Kuban.sqlitedb "Скачать эту карту")
 
-[Речная лоция Волги и Камы 1996](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Rivers-Volga_kama.sqlitedb "Скачать эту карту")
+[Речная лоция Волги и Камы 1996 (gmap.camapka.ru)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Rivers-Volga_kama.sqlitedb "Скачать эту карту")
 
 [Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Rivers-Chusovaya_Novoutkinsk.sqlitedb "Скачать эту карту")
 
