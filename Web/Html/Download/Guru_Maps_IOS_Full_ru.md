@@ -86,8 +86,6 @@
 
 [Mapnik + Рельеф](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
-[Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Mapsurfer.ms "Скачать эту карту")
-
 [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
@@ -300,8 +298,6 @@
 [Беларусь WIG 1km](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-Belarus_WIG_plus.ms "Скачать эту карту")
 
 [Беларусь РККА 500м](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-Belarus_RKKA_plus.ms "Скачать эту карту")
-
-[Европейская Россия Шуберт 3-х верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-Eur_Russia_Shubert.ms "Скачать эту карту")
 
 [Кавказ 1877 5-верстовая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Hystoric-Kavkaz_1877.ms "Скачать эту карту")
 

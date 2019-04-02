@@ -86,8 +86,6 @@
 
 [Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
-[Mapsurfer](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapsurfer.ms "Скачать эту карту")
-
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
@@ -300,8 +298,6 @@
 [Беларусь WIG 1km](https://anygis.herokuapp.com/download/galileo_ru/Hystoric-Belarus_WIG_plus.ms "Скачать эту карту")
 
 [Беларусь РККА 500м](https://anygis.herokuapp.com/download/galileo_ru/Hystoric-Belarus_RKKA_plus.ms "Скачать эту карту")
-
-[Европейская Россия Шуберт 3-х верстовая](https://anygis.herokuapp.com/download/galileo_ru/Hystoric-Eur_Russia_Shubert.ms "Скачать эту карту")
 
 [Кавказ 1877 5-верстовая](https://anygis.herokuapp.com/download/galileo_ru/Hystoric-Kavkaz_1877.ms "Скачать эту карту")
 

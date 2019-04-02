@@ -86,8 +86,6 @@
 
 [Mapnik + Hillshade](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapnik_Hillshade.xml "Download this map")
 
-[Mapsurfer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapsurfer.xml "Download this map")
-
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-OpenSnowMap.xml "Download this map")
 
 [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-OpenTopoMap.xml "Download this map")

@@ -86,8 +86,6 @@
 
 [Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
 
-[Mapsurfer](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapsurfer.xml "Скачать эту карту")
-
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")
 
 [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")

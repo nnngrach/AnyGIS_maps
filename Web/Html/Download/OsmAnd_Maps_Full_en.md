@@ -186,8 +186,6 @@
 
 [RusOutdoor maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.sqlitedb "Download this map")
 
-[RusOutdoor maps (lite)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.sqlitedb "Download this map")
-
 
 
 ### Eurasia - Topo - GGC

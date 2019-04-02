@@ -86,8 +86,6 @@
 
 [Mapnik + Hillshade](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
-[Mapsurfer](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapsurfer.ms "Download this map")
-
 [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenSnowMap.ms "Download this map")
 
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
@@ -391,8 +389,6 @@
 [Caucasus 1941](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Kavkaz_1948_eng.ms "Download this map")
 
 [Crimea 1880](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Krim_1v.ms "Download this map")
-
-[European Russia - Shubert](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Eur_Russia_Shubert.ms "Download this map")
 
 [German military 1941 2km](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-German_Genshtab_3km.ms "Download this map")
 

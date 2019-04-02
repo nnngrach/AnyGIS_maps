@@ -86,8 +86,6 @@
 
 [Mapnik + Hillshade](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
-[Mapsurfer](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapsurfer.ms "Download this map")
-
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenSnowMap.ms "Download this map")
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenTopoMap.ms "Download this map")
@@ -391,8 +389,6 @@
 [Caucasus 1941](https://anygis.herokuapp.com/download/galileo_en/Hystoric-Kavkaz_1948_eng.ms "Download this map")
 
 [Crimea 1880](https://anygis.herokuapp.com/download/galileo_en/Hystoric-Krim_1v.ms "Download this map")
-
-[European Russia - Shubert](https://anygis.herokuapp.com/download/galileo_en/Hystoric-Eur_Russia_Shubert.ms "Download this map")
 
 [German military 1941 2km](https://anygis.herokuapp.com/download/galileo_en/Hystoric-German_Genshtab_3km.ms "Download this map")
 
