@@ -48,7 +48,7 @@
 
 
 ### Глобальные - Справочные
-[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Wikimapia.sqlitedb "Скачать эту карту")
+[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Info-Wikimapia.sqlitedb "Скачать эту карту")
 
 
 
@@ -64,6 +64,8 @@
 
 ### Евразия - Туристические - Многослойные
 [RusOutdoor maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.sqlitedb "Скачать эту карту")
+
+[RusOutdoor maps (lite)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.sqlitedb "Скачать эту карту")
 
 
 

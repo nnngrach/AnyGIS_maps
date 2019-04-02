@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-04-2019 16:02
+Файл обновлен: 02-04-2019 19:47
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -37,6 +37,24 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map_ru.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_terrain_ru.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Google_terrain_ru.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Yandex_map.xml]]>
 </source>
 <dest>
@@ -59,15 +77,6 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-All.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
 </dest>
 </download>
 
@@ -208,19 +217,19 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Wikimapia.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Wikimapia.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Wikimapia_satellite.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Wikimapia_satellite.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Wikimapia_satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia_satellite.xml]]>
 </dest>
 </download>
 
@@ -275,6 +284,15 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.xml]]>
 </dest>
 </download>
 

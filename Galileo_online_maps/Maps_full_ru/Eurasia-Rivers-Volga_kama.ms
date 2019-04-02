@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <customMapSource>
-<name>Речная лоция Волги и Камы 1996</name>
+<name>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</name>
 <layers>
 
 <layer>

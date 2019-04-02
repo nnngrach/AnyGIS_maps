@@ -54,9 +54,9 @@
 
 
 ### Глобальные - Справочные
-[Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Wikimapia.ms "Скачать эту карту")
+[Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Wikimapia.ms "Скачать эту карту")
 
-[Wikimapia.org + Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Wikimapia_satellite.ms "Скачать эту карту")
+[Wikimapia.org + Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Wikimapia_satellite.ms "Скачать эту карту")
 
 
 

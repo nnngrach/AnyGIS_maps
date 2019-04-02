@@ -47,8 +47,14 @@
 
 [Google Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google.ms "Download this map")
 
+
+
+### Global - Satellites
 [Google Satellite + labels](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
+
+
+### Global - Satellites
 [Google Satellite + labels RU](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels_ru.ms "Download this map")
 
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
@@ -118,9 +124,9 @@
 
 
 ### Global - Info
-[Wikimapia.org](https://anygis.herokuapp.com/download/galileo_en/Global-Wikimapia.ms "Download this map")
+[Wikimapia.org](https://anygis.herokuapp.com/download/galileo_en/Global-Info-Wikimapia.ms "Download this map")
 
-[Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Wikimapia_satellite.ms "Download this map")
+[Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Info-Wikimapia_satellite.ms "Download this map")
 
 
 

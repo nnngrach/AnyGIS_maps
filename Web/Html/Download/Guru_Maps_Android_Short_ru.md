@@ -54,9 +54,9 @@
 
 
 ### Глобальные - Справочные
-[Wikimapia.org](https://anygis.herokuapp.com/download/galileo_ru/Global-Wikimapia.ms "Скачать эту карту")
+[Wikimapia.org](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia.ms "Скачать эту карту")
 
-[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Wikimapia_satellite.ms "Скачать эту карту")
+[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia_satellite.ms "Скачать эту карту")
 
 
 

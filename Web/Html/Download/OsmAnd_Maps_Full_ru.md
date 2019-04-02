@@ -37,8 +37,14 @@
 
 [Google Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
 
+
+
+### Глобальные - Городские
 [Google Спутник (гибрид)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.sqlitedb "Скачать эту карту")
 
+
+
+### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
 [Here Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
@@ -90,7 +96,7 @@
 
 
 ### Глобальные - Справочные
-[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Wikimapia.sqlitedb "Скачать эту карту")
+[Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Info-Wikimapia.sqlitedb "Скачать эту карту")
 
 
 
@@ -147,6 +153,8 @@
 
 ### Евразия - Туристические - Многослойные
 [RusOutdoor maps](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.sqlitedb "Скачать эту карту")
+
+[RusOutdoor maps (lite)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.sqlitedb "Скачать эту карту")
 
 [Маршруты.ru](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-MarshrutiRU.sqlitedb "Скачать эту карту")
 
@@ -388,11 +396,15 @@
 
 [Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
 
+[Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wiggle_wifi.sqlitedb "Скачать эту карту")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wikimapia.sqlitedb "Скачать эту карту")
 
 [Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_labels.sqlitedb "Скачать эту карту")
 
 [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
+
+[Рельеф](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_mapbox.sqlitedb "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-RosReestr.sqlitedb "Скачать эту карту")
 
