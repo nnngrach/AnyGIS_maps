@@ -21,8 +21,6 @@
 
 
 ### Global - Satellites
-[AnyGIS Satellites compilation](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-All.ms "Download this map")
-
 [Bing Bird's Eye](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
 
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")

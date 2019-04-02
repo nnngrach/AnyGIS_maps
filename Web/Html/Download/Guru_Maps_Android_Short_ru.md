@@ -19,8 +19,6 @@
 
 
 ### Глобальные - Спутниковые
-[AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-All.ms "Скачать эту карту")
-
 [Google Спутник (гибрид) RU](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
 [Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")

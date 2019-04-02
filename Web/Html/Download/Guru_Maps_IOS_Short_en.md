@@ -21,8 +21,6 @@
 
 
 ### Global - Satellites
-[AnyGIS Satellites compilation](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-All.ms "Download this map")
-
 [Bing Bird's Eye](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Bing_birds_eye.ms "Download this map")
 
 [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")

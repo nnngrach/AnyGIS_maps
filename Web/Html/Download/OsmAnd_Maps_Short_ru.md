@@ -17,7 +17,7 @@
 
 
 ### Глобальные - Спутниковые
-[AnyGIS Спутниковый сборник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-All.sqlitedb "Скачать эту карту")
+[Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
 [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
 
