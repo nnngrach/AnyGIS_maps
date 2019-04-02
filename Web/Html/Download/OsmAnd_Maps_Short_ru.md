@@ -12,6 +12,10 @@
 ### Глобальные - Городские
 [2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-2gis.sqlitedb "Скачать эту карту")
 
+[Google Карта RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map_ru.sqlitedb "Скачать эту карту")
+
+[Google Ландшафт RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain_ru.sqlitedb "Скачать эту карту")
+
 [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
 

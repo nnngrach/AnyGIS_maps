@@ -12,11 +12,7 @@
 ### Global - City
 [Google Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map.sqlitedb "Download this map")
 
-[Google Map RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map_ru.sqlitedb "Download this map")
-
 [Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain.sqlitedb "Download this map")
-
-[Google Terrain RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain_ru.sqlitedb "Download this map")
 
 
 
