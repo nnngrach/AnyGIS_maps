@@ -195,13 +195,13 @@
 
 [Belarus Genshtab](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Belarus_Genshtab.xml "Download this map")
 
-[Ukraine - Cadaster map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-CadastrUA.xml "Download this map")
+[Ukraine - Cadaster map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-CadastrUA_overlay.xml "Download this map")
 
 [Ukraine - Meta.ua](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-MetaUA.xml "Download this map")
 
 [Ukraine - Navlux](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Navlux.xml "Download this map")
 
-[Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Vicicom.xml "Download this map")
+[Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Europe-Eastern-Visicom.xml "Download this map")
 
 
 

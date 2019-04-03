@@ -297,9 +297,9 @@
 
 [Ukraine - Navlux](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-Navlux.sqlitedb "Скачать эту карту")
 
-[Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-Vicicom.sqlitedb "Скачать эту карту")
+[Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-Visicom.sqlitedb "Скачать эту карту")
 
-[Ukraine - Кадастровая карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA.sqlitedb "Скачать эту карту")
+[Ukraine - Кадастровая карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.sqlitedb "Скачать эту карту")
 
 [Беларусь Генштаб](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.sqlitedb "Скачать эту карту")
 

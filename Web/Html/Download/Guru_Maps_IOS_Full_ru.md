@@ -336,11 +336,9 @@
 ### Европа - Восточная
 [Ukraine - Meta.ua](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-MetaUA.ms "Скачать эту карту")
 
-[Ukraine - Navlux](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Navlux.ms "Скачать эту карту")
+[Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
-[Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Vicicom.ms "Скачать эту карту")
-
-[Ukraine - Кадастровая карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA.ms "Скачать эту карту")
+[Ukraine - Кадастровая карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
 
 [Беларусь Генштаб](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
 

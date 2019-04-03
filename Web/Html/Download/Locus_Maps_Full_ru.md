@@ -344,9 +344,9 @@
 
 [Ukraine - Navlux](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Navlux.xml "Скачать эту карту")
 
-[Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Vicicom.xml "Скачать эту карту")
+[Ukraine - Visicom](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Visicom.xml "Скачать эту карту")
 
-[Ukraine - Кадастровая карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-CadastrUA.xml "Скачать эту карту")
+[Ukraine - Кадастровая карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-CadastrUA_overlay.xml "Скачать эту карту")
 
 [Беларусь Генштаб](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Eastern-Belarus_Genshtab.xml "Скачать эту карту")
 

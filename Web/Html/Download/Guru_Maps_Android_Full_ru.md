@@ -336,11 +336,9 @@
 ### Европа - Восточная
 [Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-MetaUA.ms "Скачать эту карту")
 
-[Ukraine - Navlux](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-Navlux.ms "Скачать эту карту")
+[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-Visicom.ms "Скачать эту карту")
 
-[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-Vicicom.ms "Скачать эту карту")
-
-[Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-CadastrUA.ms "Скачать эту карту")
+[Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-CadastrUA_overlay.ms "Скачать эту карту")
 
 [Беларусь Генштаб](https://anygis.herokuapp.com/download/galileo_ru/Europe-Eastern-Belarus_Genshtab.ms "Скачать эту карту")
 

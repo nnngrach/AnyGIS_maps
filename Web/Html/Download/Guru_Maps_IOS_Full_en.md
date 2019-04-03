@@ -187,13 +187,11 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-Belarus_Genshtab.ms "Download this map")
 
-[Ukraine - Cadaster map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-CadastrUA.ms "Download this map")
+[Ukraine - Cadaster map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_overlay.ms "Download this map")
 
 [Ukraine - Meta.ua](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-MetaUA.ms "Download this map")
 
-[Ukraine - Navlux](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-Navlux.ms "Download this map")
-
-[Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-Vicicom.ms "Download this map")
+[Ukraine - Visicom](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-Visicom.ms "Download this map")
 
 
 

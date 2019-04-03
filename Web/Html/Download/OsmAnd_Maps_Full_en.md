@@ -157,13 +157,13 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-Belarus_Genshtab.sqlitedb "Download this map")
 
-[Ukraine - Cadaster map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-CadastrUA.sqlitedb "Download this map")
+[Ukraine - Cadaster map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_overlay.sqlitedb "Download this map")
 
 [Ukraine - Meta.ua](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-MetaUA.sqlitedb "Download this map")
 
 [Ukraine - Navlux](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-Navlux.sqlitedb "Download this map")
 
-[Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-Vicicom.sqlitedb "Download this map")
+[Ukraine - Visicom](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-Visicom.sqlitedb "Download this map")
 
 
 

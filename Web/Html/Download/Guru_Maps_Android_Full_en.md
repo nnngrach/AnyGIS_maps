@@ -187,13 +187,11 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-Belarus_Genshtab.ms "Download this map")
 
-[Ukraine - Cadaster map](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-CadastrUA.ms "Download this map")
+[Ukraine - Cadaster map](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-CadastrUA_overlay.ms "Download this map")
 
 [Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-MetaUA.ms "Download this map")
 
-[Ukraine - Navlux](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-Navlux.ms "Download this map")
-
-[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-Vicicom.ms "Download this map")
+[Ukraine - Visicom](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-Visicom.ms "Download this map")
 
 
 
