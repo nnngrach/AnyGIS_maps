@@ -73,3 +73,7 @@
 ### Евразия - Туристические - Многослойные
 [RusOutdoor maps](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Скачать эту карту")
 
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Скачать эту карту")
+
+[RusOutdoor maps (lite)](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.ms "Скачать эту карту")
+

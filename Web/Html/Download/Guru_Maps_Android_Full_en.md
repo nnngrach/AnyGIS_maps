@@ -214,6 +214,10 @@
 
 [RusOutdoor maps](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Download this map")
 
+[RusOutdoor maps](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Download this map")
+
+[RusOutdoor maps (lite)](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.ms "Download this map")
+
 
 
 ### Eurasia - Topo - GGC

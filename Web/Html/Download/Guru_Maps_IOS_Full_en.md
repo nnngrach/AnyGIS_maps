@@ -214,6 +214,10 @@
 
 [RusOutdoor maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Download this map")
 
+[RusOutdoor maps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps.ms "Download this map")
+
+[RusOutdoor maps (lite)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.ms "Download this map")
+
 
 
 ### Eurasia - Topo - GGC
