@@ -16,11 +16,7 @@
 
 [Google Map](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_map.ms "Download this map")
 
-[Google Map RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_map_ru.ms "Download this map")
-
 [Google Terrain](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
-
-[Google Terrain RU](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_terrain_ru.ms "Download this map")
 
 [Google Traffic](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_traffic.ms "Download this map")
 
@@ -55,8 +51,6 @@
 
 
 ### Global - Satellites
-[Google Satellite + labels RU](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels_ru.ms "Download this map")
-
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
 [Kosmosnimki.ru](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Kosmosnimki.ms "Download this map")

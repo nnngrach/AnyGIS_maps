@@ -16,11 +16,7 @@
 
 [Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
 
-[Google Map RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map_ru.ms "Download this map")
-
 [Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
-
-[Google Terrain RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain_ru.ms "Download this map")
 
 [Google Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_traffic.ms "Download this map")
 
@@ -55,8 +51,6 @@
 
 
 ### Global - Satellites
-[Google Satellite + labels RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels_ru.ms "Download this map")
-
 [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
 
 [Kosmosnimki.ru](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Kosmosnimki.ms "Download this map")

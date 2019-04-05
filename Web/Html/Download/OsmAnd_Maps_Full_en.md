@@ -14,11 +14,7 @@
 
 [Google Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map.sqlitedb "Download this map")
 
-[Google Map RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map_ru.sqlitedb "Download this map")
-
 [Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain.sqlitedb "Download this map")
-
-[Google Terrain RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain_ru.sqlitedb "Download this map")
 
 [Here Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Here_map.sqlitedb "Download this map")
 
@@ -45,8 +41,6 @@
 
 
 ### Global - Satellites
-[Google Satellite + labels RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google_with_labels_ru.sqlitedb "Download this map")
-
 [Here Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Here.sqlitedb "Download this map")
 
 [Kosmosnimki.ru](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Kosmosnimki.sqlitedb "Download this map")
