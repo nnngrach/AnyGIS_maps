@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 05-04-2019 20:35
+Файл обновлен: 12-04-2019 00:15
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Генштаб (Все масштабы)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
-<url><![CDATA[https://anygis.herokuapp.com/Combo_Best_Genshtab/{x}/{y}/{z}]]></url>
+<url><![CDATA[http://anygis.herokuapp.com/Combo_Best_Genshtab/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

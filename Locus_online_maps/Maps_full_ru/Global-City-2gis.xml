@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 05-04-2019 20:35
+Файл обновлен: 12-04-2019 00:15
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>2Gis</mode>
 <countries>Russia</countries>
 <usage>city</usage>
-<url><![CDATA[https://tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></url>
+<url><![CDATA[http://tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></url>
 <serverPart>0;1;2;3</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
