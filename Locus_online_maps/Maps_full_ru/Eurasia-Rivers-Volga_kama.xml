@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 12-04-2019 00:15
+Файл обновлен: 13-04-2019 17:52
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Local_River_Volga/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Local_River_Volga/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>15</zoomMin>    <!-- 7 -->

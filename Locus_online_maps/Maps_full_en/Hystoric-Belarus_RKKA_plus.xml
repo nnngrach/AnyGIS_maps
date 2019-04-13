@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 12-04-2019 00:15
+Файл обновлен: 13-04-2019 17:52
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Belarus RKKA 500m</mode>
 <countries>Belarus</countries>
 <usage>city</usage>
-<url><![CDATA[http://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></url>
+<url><![CDATA[https://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>18</zoomMin>    <!-- 10 -->

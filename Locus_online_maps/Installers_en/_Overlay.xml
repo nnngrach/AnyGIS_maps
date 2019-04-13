@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 05-04-2019 20:35
+Файл обновлен: 13-04-2019 17:53
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -122,6 +122,51 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-RosReestr.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Strava_All.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_All.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Strava_Ride.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Strava_Run.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Run.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Strava_Water.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Water.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Strava_Winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter.xml]]>
 </dest>
 </download>
 
