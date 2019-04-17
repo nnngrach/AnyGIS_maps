@@ -21,14 +21,8 @@
 
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
 
-
-
-### Global - Satellites
 [Google Satellite + labels](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-
-
-### Global - Satellites
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
 [Mapbox Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
@@ -42,17 +36,24 @@
 
 [Mapnik](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapnik.ms "Download this map")
 
-[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenSnowMap.ms "Download this map")
-
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Opnvkarte.ms "Download this map")
 
-[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Cycle.ms "Download this map")
-
-[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Outdoor.ms "Download this map")
-
 [Thunderforest Transport](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Transport.ms "Download this map")
+
+
+
+### Global - OSM - Ways
+[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")
+
+[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Ride.ms "Download this map")
+
+[Strava Heatmap - Run](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Run.ms "Download this map")
+
+[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Thunderforest_Cycle.ms "Download this map")
+
+[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Thunderforest_Outdoor.ms "Download this map")
 
 
 

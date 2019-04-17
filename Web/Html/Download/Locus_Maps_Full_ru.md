@@ -64,7 +64,7 @@
 
 [Hike and bike](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-HikeBike.xml "Скачать эту карту")
 
-[Kosmosnimki](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Kosmosnimli.xml "Скачать эту карту")
+[Kosmosnimki](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Kosmosnimki.xml "Скачать эту карту")
 
 [Mapnik](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik.xml "Скачать эту карту")
 
@@ -74,21 +74,34 @@
 
 [Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
 
-[OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenSnowMap.xml "Скачать эту карту")
-
 [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")
 
 [Opnvkarte.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Opnvkarte.xml "Скачать эту карту")
 
 [Sputnik.ru](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Sputnik.xml "Скачать эту карту")
 
-[Thunderforest Cycle](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Cycle.xml "Скачать эту карту")
-
-[Thunderforest Outdoor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Outdoor.xml "Скачать эту карту")
-
 [Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
 
 [Thunderforest Transport Dark](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport_Dark.xml "Скачать эту карту")
+
+
+
+### [Глобальные - OSM - Ways](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-OSM-Ways.xml "Скачать всю группу")
+[OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-OpenSnowMap.xml "Скачать эту карту")
+
+[Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_All.xml "Скачать эту карту")
+
+[Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Ride.xml "Скачать эту карту")
+
+[Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Run.xml "Скачать эту карту")
+
+[Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Water.xml "Скачать эту карту")
+
+[Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_Winter.xml "Скачать эту карту")
+
+[Thunderforest Cycle](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Thunderforest_Cycle.xml "Скачать эту карту")
+
+[Thunderforest Outdoor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Thunderforest_Outdoor.xml "Скачать эту карту")
 
 
 
@@ -359,6 +372,8 @@
 
 [Hitta Frilufts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Frilufts.xml "Скачать эту карту")
 
+[Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Skoterleder.xml "Скачать эту карту")
+
 [Hitta Frilufts + Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Frilufts_Skoterleder.xml "Скачать эту карту")
 
 [Hitta Satellit](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Satellit.xml "Скачать эту карту")
@@ -434,6 +449,16 @@
 [OpenSnowMap Лыжные трассы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-OpenSnowMap_pistes.xml "Скачать эту карту")
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
+
+[Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All.xml "Скачать эту карту")
+
+[Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride.xml "Скачать эту карту")
+
+[Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run.xml "Скачать эту карту")
+
+[Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water.xml "Скачать эту карту")
+
+[Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter.xml "Скачать эту карту")
 
 [Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 

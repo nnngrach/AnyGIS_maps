@@ -43,14 +43,8 @@
 
 [Google Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google.ms "Download this map")
 
-
-
-### Global - Satellites
 [Google Satellite + labels](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-
-
-### Global - Satellites
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
 [Kosmosnimki.ru](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Kosmosnimki.ms "Download this map")
@@ -70,7 +64,7 @@
 
 [Hike and bike](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-HikeBike.ms "Download this map")
 
-[Kosmosnimki](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Kosmosnimli.ms "Download this map")
+[Kosmosnimki](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Kosmosnimki.ms "Download this map")
 
 [Mapnik](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapnik.ms "Download this map")
 
@@ -80,21 +74,34 @@
 
 [Mapnik + Hillshade](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
-[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenSnowMap.ms "Download this map")
-
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Opnvkarte.ms "Download this map")
 
 [Sputnik.ru](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Sputnik.ms "Download this map")
 
-[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Cycle.ms "Download this map")
-
-[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Outdoor.ms "Download this map")
-
 [Thunderforest Transport](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Transport.ms "Download this map")
 
 [Thunderforest Transport Dark](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Thunderforest_Transport_Dark.ms "Download this map")
+
+
+
+### Global - OSM - Ways
+[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")
+
+[Strava Heatmap - All](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_All.ms "Download this map")
+
+[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Ride.ms "Download this map")
+
+[Strava Heatmap - Run](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Run.ms "Download this map")
+
+[Strava Heatmap - Water](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Water.ms "Download this map")
+
+[Strava Heatmap - Winter](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Strava_Winter.ms "Download this map")
+
+[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Thunderforest_Cycle.ms "Download this map")
+
+[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Thunderforest_Outdoor.ms "Download this map")
 
 
 
@@ -139,6 +146,8 @@
 
 [Hitta Frilufts](https://anygis.herokuapp.com/download/galileo_en/Europe-Northern-Hitta_Frilufts.ms "Download this map")
 
+[Skoterleder](https://anygis.herokuapp.com/download/galileo_en/Europe-Northern-Skoterleder.ms "Download this map")
+
 [Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/galileo_en/Europe-Northern-Hitta_Frilufts_Skoterleder.ms "Download this map")
 
 [Hitta Satellit](https://anygis.herokuapp.com/download/galileo_en/Europe-Northern-Hitta_Satellit.ms "Download this map")
@@ -181,6 +190,9 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-Belarus_Genshtab.ms "Download this map")
 
+
+
+### Europe - Eastern
 [Ukraine - Cadaster map](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-CadastrUA_overlay.ms "Download this map")
 
 [Ukraine - Meta.ua](https://anygis.herokuapp.com/download/galileo_en/Europe-Eastern-MetaUA.ms "Download this map")

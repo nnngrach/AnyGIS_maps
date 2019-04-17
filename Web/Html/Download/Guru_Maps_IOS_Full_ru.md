@@ -64,7 +64,7 @@
 
 [Hike and bike](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-HikeBike.ms "Скачать эту карту")
 
-[Kosmosnimki](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Kosmosnimli.ms "Скачать эту карту")
+[Kosmosnimki](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Kosmosnimki.ms "Скачать эту карту")
 
 [Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Mapnik.ms "Скачать эту карту")
 
@@ -74,21 +74,34 @@
 
 [Mapnik + Рельеф](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
-[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
-
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
 [Opnvkarte.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.ms "Скачать эту карту")
 
 [Sputnik.ru](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Sputnik.ms "Скачать эту карту")
 
-[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Cycle.ms "Скачать эту карту")
-
-[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
-
 [Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
 
 [Thunderforest Transport Dark](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.ms "Скачать эту карту")
+
+
+
+### Глобальные - OSM - Ways
+[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
+
+[Strava Heatmap - All](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.ms "Скачать эту карту")
+
+[Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
+
+[Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
+
+[Strava Heatmap - Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Water.ms "Скачать эту карту")
+
+[Strava Heatmap - Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Winter.ms "Скачать эту карту")
+
+[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.ms "Скачать эту карту")
+
+[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.ms "Скачать эту карту")
 
 
 
@@ -352,6 +365,8 @@
 [Hitta](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Hitta.ms "Скачать эту карту")
 
 [Hitta Frilufts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Hitta_Frilufts.ms "Скачать эту карту")
+
+[Skoterleder](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Skoterleder.ms "Скачать эту карту")
 
 [Hitta Frilufts + Skoterleder](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Northern-Hitta_Frilufts_Skoterleder.ms "Скачать эту карту")
 

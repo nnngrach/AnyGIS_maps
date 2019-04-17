@@ -21,14 +21,8 @@
 
 [ESRI World Imagenary](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
 
-
-
-### Global - Satellites
 [Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-
-
-### Global - Satellites
 [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
 
 [Mapbox Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Mapbox.ms "Download this map")
@@ -42,17 +36,24 @@
 
 [Mapnik](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik.ms "Download this map")
 
-[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenSnowMap.ms "Download this map")
-
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 [Opnvkarte.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Opnvkarte.ms "Download this map")
 
-[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Thunderforest_Cycle.ms "Download this map")
-
-[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Thunderforest_Outdoor.ms "Download this map")
-
 [Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Thunderforest_Transport.ms "Download this map")
+
+
+
+### Global - OSM - Ways
+[OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")
+
+[Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Ride.ms "Download this map")
+
+[Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Strava_Run.ms "Download this map")
+
+[Thunderforest Cycle](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.ms "Download this map")
+
+[Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Outdoor.ms "Download this map")
 
 
 

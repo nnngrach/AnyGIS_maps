@@ -52,7 +52,7 @@
 
 [Hike and bike](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-HikeBike.sqlitedb "Скачать эту карту")
 
-[Kosmosnimki](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Kosmosnimli.sqlitedb "Скачать эту карту")
+[Kosmosnimki](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Kosmosnimki.sqlitedb "Скачать эту карту")
 
 [Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Mapnik.sqlitedb "Скачать эту карту")
 
@@ -64,13 +64,16 @@
 
 [Sputnik.ru](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Sputnik.sqlitedb "Скачать эту карту")
 
-[Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Cycle.sqlitedb "Скачать эту карту")
-
-[Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Outdoor.sqlitedb "Скачать эту карту")
-
 [Thunderforest Transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.sqlitedb "Скачать эту карту")
 
 [Thunderforest Transport Dark](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.sqlitedb "Скачать эту карту")
+
+
+
+### Глобальные - OSM - Ways
+[Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb "Скачать эту карту")
+
+[Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.sqlitedb "Скачать эту карту")
 
 
 
@@ -379,6 +382,16 @@
 [OpenSnowMap Лыжные трассы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-OpenSnowMap_pistes.sqlitedb "Скачать эту карту")
 
 [OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-OpenSreetMaps_Tracks.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - All](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_All.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Ride](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Ride.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Run](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Run.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Water.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Winter.sqlitedb "Скачать эту карту")
 
 [Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
 

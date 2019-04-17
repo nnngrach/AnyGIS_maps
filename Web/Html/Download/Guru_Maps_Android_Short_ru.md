@@ -34,15 +34,22 @@
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
-[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenSnowMap.ms "Скачать эту карту")
-
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
-[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Thunderforest_Cycle.ms "Скачать эту карту")
-
-[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Thunderforest_Outdoor.ms "Скачать эту карту")
-
 [Thunderforest Transport](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
+
+
+
+### Глобальные - OSM - Ways
+[OpenSnowMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
+
+[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Strava_Ride.ms "Скачать эту карту")
+
+[Strava Heatmap - Run](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Strava_Run.ms "Скачать эту карту")
+
+[Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Thunderforest_Cycle.ms "Скачать эту карту")
+
+[Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Thunderforest_Outdoor.ms "Скачать эту карту")
 
 
 
