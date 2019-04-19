@@ -58,6 +58,10 @@
 
 [Mapnik (PROXY)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Mapnik_Proxy.sqlitedb "Скачать эту карту")
 
+[Mapy Tourists](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Mapy_Tourists.sqlitedb "Скачать эту карту")
+
+[Michelin transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Michelin.sqlitedb "Скачать эту карту")
+
 [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.sqlitedb "Скачать эту карту")
 
 [Opnvkarte.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.sqlitedb "Скачать эту карту")
@@ -71,6 +75,8 @@
 
 
 ### Глобальные - OSM - Ways
+[Mapy Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Mapy_Winter.sqlitedb "Скачать эту карту")
+
 [Mtbmap.cz](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-MTB_Map_Europe.sqlitedb "Скачать эту карту")
 
 [Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb "Скачать эту карту")

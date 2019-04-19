@@ -74,6 +74,8 @@
 
 [Mapnik + Hillshade](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
+[Michelin transport](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Michelin.ms "Download this map")
+
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Opnvkarte.ms "Download this map")
@@ -87,6 +89,8 @@
 
 
 ### Global - OSM - Ways
+[Mapy Winter](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-Mapy_Winter.ms "Download this map")
+
 [Mtbmap.cz](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-MTB_Map_Europe.ms "Download this map")
 
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")

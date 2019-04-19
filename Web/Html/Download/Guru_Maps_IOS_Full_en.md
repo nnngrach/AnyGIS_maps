@@ -74,6 +74,8 @@
 
 [Mapnik + Hillshade](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
+[Michelin transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Michelin.ms "Download this map")
+
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.ms "Download this map")
 
 [Opnvkarte.de](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Opnvkarte.ms "Download this map")
@@ -87,6 +89,8 @@
 
 
 ### Global - OSM - Ways
+[Mapy Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-Mapy_Winter.ms "Download this map")
+
 [Mtbmap.cz](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.ms "Download this map")
 
 [OpenSnowMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Ways-OpenSnowMap.ms "Download this map")

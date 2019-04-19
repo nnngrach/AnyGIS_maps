@@ -74,6 +74,8 @@
 
 [Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
+[Michelin transport](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")
+
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Opnvkarte.ms "Скачать эту карту")
@@ -87,6 +89,8 @@
 
 
 ### Глобальные - OSM - Ways
+[Mapy Winter](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Mapy_Winter.ms "Скачать эту карту")
+
 [Mtbmap.cz](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-MTB_Map_Europe.ms "Скачать эту карту")
 
 [OpenSnowMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-OpenSnowMap.ms "Скачать эту карту")
