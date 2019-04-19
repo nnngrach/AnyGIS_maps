@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 17-04-2019 12:38
+Файл обновлен: 19-04-2019 17:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Хребтовка Приэльбрусья (Ляпин В.Г.)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Local_Kavkaz_08/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Local_Kavkaz_08/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

@@ -34,8 +34,6 @@
 
 [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.sqlitedb "Скачать эту карту")
 
-[Thunderforest Transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.sqlitedb "Скачать эту карту")
-
 
 
 ### Глобальные - OSM - Ways
@@ -87,9 +85,9 @@
 
 [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Winter.sqlitedb "Скачать эту карту")
 
-[Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
+[Waymarkedtrails.org - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
 
-[Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
+[Waymarkedtrails.org - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
 
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wikimapia.sqlitedb "Скачать эту карту")
 

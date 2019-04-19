@@ -36,8 +36,6 @@
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
-[Thunderforest Transport](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
-
 
 
 ### Глобальные - OSM - Ways

@@ -10,6 +10,10 @@
 
 ### April 2019 
 
+Added script for automatic authorization in Strava Heatmaps.
+
+Added a script for automatic a
+
 Added a set of maps in the format of the OsmAnd app for Android.
 
 Added English version of the site.

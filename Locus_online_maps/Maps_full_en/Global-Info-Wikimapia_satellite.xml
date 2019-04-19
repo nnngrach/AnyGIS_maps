@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 17-04-2019 12:38
+Файл обновлен: 19-04-2019 17:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,11 +19,11 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999012" type="0" visible="false" background="-1">
-<name>Global - Info</name>
-<mode>Wikimapia.org + Satellite</mode>
+<name>Background</name>
+<mode>Google Satellite</mode>
 <countries>World</countries>
 <usage>photo</usage>
-<url><![CDATA[http://mt{s}.google.com/vt/lyrs=s@176103410&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=en]]></url>
+<url><![CDATA[https://mt{s}.google.com/vt/lyrs=s@176103410&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=en]]></url>
 <serverPart>0;1;2;3</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
@@ -39,7 +39,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Wikimapia.org + Satellite</mode>
 <countries>World</countries>
 <usage>photo</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Wikimapia_layer/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Wikimapia_layer/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

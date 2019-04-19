@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 17-04-2019 12:38
+Файл обновлен: 19-04-2019 17:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,11 +19,11 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999016" type="0" visible="false" background="-1">
-<name>Global - Nautical</name>
-<mode>Navionics + OSM</mode>
+<name>Background</name>
+<mode>Mapnik Proxy</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Osm_Mapnik_proxy/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Osm_Mapnik_proxy/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
@@ -39,7 +39,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Navionics + OSM</mode>
 <countries>World</countries>
 <usage>nautical</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

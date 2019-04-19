@@ -38,8 +38,6 @@
 
 [OpenTopoMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-OpenTopoMap.xml "Скачать эту карту")
 
-[Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Thunderforest_Transport.xml "Скачать эту карту")
-
 
 
 ### [Глобальные - OSM - Ways](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-OSM-Ways.xml "Скачать всю группу")
@@ -101,9 +99,9 @@
 
 [Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter.xml "Скачать эту карту")
 
-[Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
+[Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 
-[Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
+[Waymarkedtrails.org - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
 
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Wikimapia.xml "Скачать эту карту")
 

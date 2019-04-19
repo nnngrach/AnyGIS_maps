@@ -12,7 +12,11 @@
 ### Глобальные - Городские
 [2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-2gis.sqlitedb "Скачать эту карту")
 
+[Google Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map.sqlitedb "Скачать эту карту")
+
 [Google Карта RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map_ru.sqlitedb "Скачать эту карту")
+
+[Google Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain.sqlitedb "Скачать эту карту")
 
 [Google Ландшафт RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain_ru.sqlitedb "Скачать эту карту")
 
@@ -33,6 +37,14 @@
 
 [Google Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
 
+
+
+### Глобальные - Городские
+[Google Спутник (гибрид)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.sqlitedb "Скачать эту карту")
+
+
+
+### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
 [Here Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
@@ -71,6 +83,8 @@
 
 
 ### Глобальные - OSM - Ways
+[Mtbmap.cz](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-MTB_Map_Europe.sqlitedb "Скачать эту карту")
+
 [Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb "Скачать эту карту")
 
 [Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.sqlitedb "Скачать эту карту")
@@ -393,9 +407,9 @@
 
 [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Winter.sqlitedb "Скачать эту карту")
 
-[Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
+[Waymarkedtrails.org - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
 
-[Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
+[Waymarkedtrails.org - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.sqlitedb "Скачать эту карту")
 
 [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wiggle_wifi.sqlitedb "Скачать эту карту")
 
@@ -405,7 +419,11 @@
 
 [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
 
-[Рельеф](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_mapbox.sqlitedb "Скачать эту карту")
+[Рельеф Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_mapbox.sqlitedb "Скачать эту карту")
+
+[Рельеф Waymarkedtrails.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_Waymarkedtrails.sqlitedb "Скачать эту карту")
+
+[Рельеф Windy.com](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_Windy.sqlitedb "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-RosReestr.sqlitedb "Скачать эту карту")
 

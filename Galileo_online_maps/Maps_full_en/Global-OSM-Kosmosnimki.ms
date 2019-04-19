@@ -8,7 +8,7 @@
     <minZoom>0</minZoom>
     <maxZoom>17</maxZoom>
     <url>http://{$serverpart}.tile.osm.kosmosnimki.ru/kosmo/{$z}/{$x}/{$y}.png</url>
-    <serverParts>a b c</serverParts>
+    <serverParts>a b c </serverParts>
 </layer>
 
 </layers>

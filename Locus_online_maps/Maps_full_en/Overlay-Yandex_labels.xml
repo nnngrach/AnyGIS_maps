@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 17-04-2019 12:38
+Файл обновлен: 19-04-2019 17:38
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Yandex Labels</mode>
 <countries>World</countries>
 <usage>overlay</usage>
-<url><![CDATA[http://vec0{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></url>
+<url><![CDATA[https://vec0{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></url>
 <serverPart>1;2;3;4</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

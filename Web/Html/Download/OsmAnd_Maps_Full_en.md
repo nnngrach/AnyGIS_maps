@@ -14,7 +14,11 @@
 
 [Google Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map.sqlitedb "Download this map")
 
+[Google Map RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_map_ru.sqlitedb "Download this map")
+
 [Google Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain.sqlitedb "Download this map")
+
+[Google Terrain RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Google_terrain_ru.sqlitedb "Download this map")
 
 [Here Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Here_map.sqlitedb "Download this map")
 
@@ -33,7 +37,15 @@
 
 [Google Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google.sqlitedb "Download this map")
 
+
+
+### Global - Satellites
 [Google Satellite + labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.sqlitedb "Download this map")
+
+
+
+### Global - Satellites
+[Google Satellite + labels RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google_with_labels_ru.sqlitedb "Download this map")
 
 [Here Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Here.sqlitedb "Download this map")
 
@@ -71,6 +83,8 @@
 
 
 ### Global - OSM - Ways
+[Mtbmap.cz](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Ways-MTB_Map_Europe.sqlitedb "Download this map")
+
 [Thunderforest Cycle](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Cycle.sqlitedb "Download this map")
 
 [Thunderforest Outdoor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Ways-Thunderforest_Outdoor.sqlitedb "Download this map")
@@ -148,9 +162,6 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-Belarus_Genshtab.sqlitedb "Download this map")
 
-
-
-### Europe - Eastern
 [Ukraine - Cadaster map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_overlay.sqlitedb "Download this map")
 
 [Ukraine - Meta.ua](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Europe-Eastern-MetaUA.sqlitedb "Download this map")
@@ -374,14 +385,12 @@
 
 [Here Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Here_traffic.sqlitedb "Download this map")
 
+[Hillshade Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_mapbox.sqlitedb "Download this map")
 
+[Hillshade Waymarkedtrails.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_Waymarkedtrails.sqlitedb "Download this map")
 
-### Global - Info
-[Hillshade](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_mapbox.sqlitedb "Download this map")
+[Hillshade Windy.com](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_Windy.sqlitedb "Download this map")
 
-
-
-### Overlay
 [Navionics Marine Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Navionics_Marine_Charts.sqlitedb "Download this map")
 
 [Navionics Sonar Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Navionics_Sonar_Charts.sqlitedb "Download this map")
@@ -406,18 +415,12 @@
 
 [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Strava_Winter.sqlitedb "Download this map")
 
-[Way Marked Trails - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-WayMarkedTrails_Cycling.sqlitedb "Download this map")
+[Waymarkedtrails.org - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-WayMarkedTrails_Cycling.sqlitedb "Download this map")
 
-[Way Marked Trails - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-WayMarkedTrails_Hiking.sqlitedb "Download this map")
+[Waymarkedtrails.org - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-WayMarkedTrails_Hiking.sqlitedb "Download this map")
 
-
-
-### Global - Info
 [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Wiggle_wifi.sqlitedb "Download this map")
 
-
-
-### Overlay
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Wikimapia.sqlitedb "Download this map")
 
 [Yandex Labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Yandex_labels.sqlitedb "Download this map")

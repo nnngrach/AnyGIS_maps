@@ -36,8 +36,6 @@
 
 [OpenTopoMap](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.ms "Скачать эту карту")
 
-[Thunderforest Transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.ms "Скачать эту карту")
-
 
 
 ### Глобальные - OSM - Ways

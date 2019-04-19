@@ -21,8 +21,14 @@
 
 [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-ESRI_Imagenary.xml "Download this map")
 
+
+
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [Google Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Google_with_labels.xml "Download this map")
 
+
+
+### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [Here Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Here.xml "Download this map")
 
 [Mapbox Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Mapbox.xml "Download this map")
@@ -42,11 +48,11 @@
 
 [Opnvkarte.de](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Opnvkarte.xml "Download this map")
 
-[Thunderforest Transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Thunderforest_Transport.xml "Download this map")
-
 
 
 ### [Global - OSM - Ways](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-OSM-Ways.xml "Download all group files")
+[Mtbmap.cz](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ways-MTB_Map_Europe.xml "Download this map")
+
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ways-OpenSnowMap.xml "Download this map")
 
 [Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Ways-Strava_Ride.xml "Download this map")
@@ -76,6 +82,10 @@
 ### [Overlay](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overlay.xml "Download all group files")
 [Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Here_traffic.xml "Download this map")
 
+[Hillshade Waymarkedtrails.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Waymarkedtrails.xml "Download this map")
+
+[Hillshade Windy.com](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Windy.xml "Download this map")
+
 [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Navionics_Marine_Charts.xml "Download this map")
 
 [OpenSnowMap Pistes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSnowMap_pistes.xml "Download this map")
@@ -90,9 +100,9 @@
 
 [Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Winter.xml "Download this map")
 
-[Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Cycling.xml "Download this map")
+[Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Cycling.xml "Download this map")
 
-[Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Hiking.xml "Download this map")
+[Waymarkedtrails.org - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Hiking.xml "Download this map")
 
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Wikimapia.xml "Download this map")
 

@@ -14,7 +14,11 @@
 
 [Bing Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Bing_map.xml "Скачать эту карту")
 
+[Google Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_map.xml "Скачать эту карту")
+
 [Google Карта RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_map_ru.xml "Скачать эту карту")
+
+[Google Ландшафт](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_terrain.xml "Скачать эту карту")
 
 [Google Ландшафт RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Google_terrain_ru.xml "Скачать эту карту")
 
@@ -43,6 +47,14 @@
 
 [Google Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google.xml "Скачать эту карту")
 
+
+
+### [Глобальные - Городские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Satellites.xml "Скачать всю группу")
+[Google Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels.xml "Скачать эту карту")
+
+
+
+### [Глобальные - Спутниковые](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Satellites.xml "Скачать всю группу")
 [Google Спутник (гибрид) RU](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Google_with_labels_ru.xml "Скачать эту карту")
 
 [Here Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Here.xml "Скачать эту карту")
@@ -87,6 +99,8 @@
 
 
 ### [Глобальные - OSM - Ways](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-OSM-Ways.xml "Скачать всю группу")
+[Mtbmap.cz](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-MTB_Map_Europe.xml "Скачать эту карту")
+
 [OpenSnowMap](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-OpenSnowMap.xml "Скачать эту карту")
 
 [Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Ways-Strava_All.xml "Скачать эту карту")
@@ -372,8 +386,6 @@
 
 [Hitta Frilufts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Frilufts.xml "Скачать эту карту")
 
-[Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Skoterleder.xml "Скачать эту карту")
-
 [Hitta Frilufts + Skoterleder](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Frilufts_Skoterleder.xml "Скачать эту карту")
 
 [Hitta Satellit](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Northern-Hitta_Satellit.xml "Скачать эту карту")
@@ -460,9 +472,9 @@
 
 [Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter.xml "Скачать эту карту")
 
-[Way Marked Trails - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
+[Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 
-[Way Marked Trails - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
+[Waymarkedtrails.org - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Hiking.xml "Скачать эту карту")
 
 [Wigle.net Wi-fi location](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Wiggle_wifi.xml "Скачать эту карту")
 
@@ -472,7 +484,11 @@
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_traffic.xml "Скачать эту карту")
 
-[Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_mapbox.xml "Скачать эту карту")
+[Рельеф Mapbox](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_mapbox.xml "Скачать эту карту")
+
+[Рельеф Waymarkedtrails.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_Waymarkedtrails.xml "Скачать эту карту")
+
+[Рельеф Windy.com](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_Windy.xml "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-RosReestr.xml "Скачать эту карту")
 
