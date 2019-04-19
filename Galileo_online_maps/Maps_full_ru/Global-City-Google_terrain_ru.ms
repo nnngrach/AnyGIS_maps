@@ -8,7 +8,7 @@
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
     <url>http://mt{$serverpart}.google.com/vt/lyrs=t@130,r@206000000&amp;hl=ru&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;s=Galileo&amp;scale=1&amp;hl=ru</url>
-    <serverParts>0 1 2 3 </serverParts>
+    <serverParts>0 1 2 3</serverParts>
 </layer>
 
 </layers>

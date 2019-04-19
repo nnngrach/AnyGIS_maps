@@ -21,14 +21,8 @@
 
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-ESRI_Imagenary.ms "Download this map")
 
-
-
-### Global - Satellites
 [Google Satellite + labels](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Google_with_labels.ms "Download this map")
 
-
-
-### Global - Satellites
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
 [Mapbox Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
@@ -70,7 +64,7 @@
 
 
 
-### Global - Info
+### Global-Info
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo_en/Global-Info-Wikimapia.ms "Download this map")
 
 [Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Info-Wikimapia_satellite.ms "Download this map")

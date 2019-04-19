@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 19-04-2019 17:38
+Файл обновлен: 19-04-2019 22:20
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -18,12 +18,12 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <providers>
 
-<provider id="8888037" type="0" visible="true" background="-1">
+<provider id="8888042" type="0" visible="true" background="-1">
 <name>Overlay</name>
 <mode>Рельеф Windy.com</mode>
 <countries>World</countries>
 <usage>overlay</usage>
-<url><![CDATA[https://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[http://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

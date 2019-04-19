@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 19-04-2019 17:38
+Файл обновлен: 19-04-2019 22:20
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,11 +19,11 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999021" type="2" visible="false" background="-1">
-<name>Background</name>
-<mode>Yandex Map</mode>
+<name>Global - City</name>
+<mode>Yandex Traffic</mode>
 <countries>World</countries>
 <usage>city, road</usage>
-<url><![CDATA[https://vec0{s}.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></url>
+<url><![CDATA[http://vec0{s}.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></url>
 <serverPart>1;2;3;4</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
@@ -39,7 +39,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Yandex Traffic</mode>
 <countries>World</countries>
 <usage>road</usage>
-<url><![CDATA[https://anygis.herokuapp.com/Yandex_traffic_layer_WGS84/{x}/{y}/{z}]]></url>
+<url><![CDATA[http://anygis.herokuapp.com/Yandex_traffic_layer_WGS84/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
