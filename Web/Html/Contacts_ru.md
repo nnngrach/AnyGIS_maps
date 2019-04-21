@@ -11,7 +11,7 @@
 
 # Контакты
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_fb.png" width="60"/> | **[facebook.com/anygismaps][10]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
