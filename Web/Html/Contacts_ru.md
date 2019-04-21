@@ -11,6 +11,7 @@
 
 # Контакты
 
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_fb.png" width="60"/> | **[facebook.com/anygismaps][10]** |
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
@@ -24,7 +25,7 @@
 
 
 
-
+[10]: https://www.facebook.com/anygismaps
 [11]: https://vk.com/anygis
 [12]: mailto:anygis@bk.ru
 [13]: https://github.com/nnngrach/AnyGIS_server
