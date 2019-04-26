@@ -277,6 +277,8 @@
 
 [Genshtab Compilation](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-All.xml "Download this map")
 
+[Soviet military map 1km (planet)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Eurasia-Topo-Genshtab-Topomapper_planet.xml "Download this map")
+
 
 
 ### [Eurasia - Hiking - Moscow Region](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Eurasia-Hiking-Moscow.xml "Download all group files")

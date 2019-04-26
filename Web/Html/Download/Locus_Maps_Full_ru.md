@@ -169,6 +169,8 @@
 
 [Генштаб 500 м v2](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-00500_new.xml "Скачать эту карту")
 
+[Советские военные карты 1км (вся планета)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Eurasia-Topo-Genshtab-Topomapper_planet.xml "Скачать эту карту")
+
 
 
 ### [Евразия - Топокарты - Советские](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Eurasia-Topo-Soviet.xml "Скачать всю группу")

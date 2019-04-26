@@ -226,6 +226,8 @@
 
 [Genshtab Compilation](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Eurasia-Topo-Genshtab-All.sqlitedb "Download this map")
 
+[Soviet military map 1km (planet)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Eurasia-Topo-Genshtab-Topomapper_planet.sqlitedb "Download this map")
+
 
 
 ### Eurasia - Hiking - Moscow Region

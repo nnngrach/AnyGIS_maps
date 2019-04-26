@@ -133,6 +133,8 @@
 
 [Генштаб 500 м v2](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500_new.sqlitedb "Скачать эту карту")
 
+[Советские военные карты 1км (вся планета)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-Topomapper_planet.sqlitedb "Скачать эту карту")
+
 
 
 ### Евразия - Топокарты - Советские

@@ -266,6 +266,8 @@
 
 [Genshtab Compilation](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-All.ms "Download this map")
 
+[Soviet military map 1km (planet)](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Topo-Genshtab-Topomapper_planet.ms "Download this map")
+
 
 
 ### Eurasia - Hiking - Moscow Region
