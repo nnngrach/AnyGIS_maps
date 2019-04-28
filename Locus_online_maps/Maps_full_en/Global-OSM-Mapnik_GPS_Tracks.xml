@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 26-04-2019 10:37
+Файл обновлен: 28-04-2019 10:07
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,8 +19,8 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999000" type="0" visible="false" background="-1">
-<name>Global - OSM</name>
-<mode>Mapnik + GPS Tracks</mode>
+<name>Background</name>
+<mode>Mapnik</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <url><![CDATA[http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png]]></url>
@@ -39,7 +39,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Mapnik + GPS Tracks</mode>
 <countries>World</countries>
 <usage>hiking</usage>
-<url><![CDATA[http://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[https://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
 <serverPart>a;b;c</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

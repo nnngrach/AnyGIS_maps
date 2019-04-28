@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 26-04-2019 10:37
+Файл обновлен: 28-04-2019 10:07
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -46,10 +46,28 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Google_map.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map_ru.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_terrain.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Google_terrain.xml]]>
 </dest>
 </download>
 
@@ -167,6 +185,33 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Городские.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Глобальные - Городские.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Спутниковые.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
 </dest>
 </download>
 
@@ -1927,10 +1972,28 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_All_Bluered.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_All_Bluered.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride_Bluered.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride_Bluered.xml]]>
 </dest>
 </download>
 
@@ -1945,6 +2008,15 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Run_Bluered.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Run_Bluered.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water.xml]]>
 </source>
 <dest>
@@ -1954,10 +2026,28 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water_Bluered.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Water_Bluered.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Strava_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter_Bluered.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter_Bluered.xml]]>
 </dest>
 </download>
 

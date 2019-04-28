@@ -14,7 +14,11 @@
 
 [Bing Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Bing_map.ms "Скачать эту карту")
 
+[Google Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_map.ms "Скачать эту карту")
+
 [Google Карта RU](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_map_ru.ms "Скачать эту карту")
+
+[Google Ландшафт](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_terrain.ms "Скачать эту карту")
 
 [Google Ландшафт RU](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Google_terrain_ru.ms "Скачать эту карту")
 
@@ -43,6 +47,14 @@
 
 [Google Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google.ms "Скачать эту карту")
 
+
+
+### Глобальные - Городские
+[Google Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google_with_labels.ms "Скачать эту карту")
+
+
+
+### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
 [Here Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Here.ms "Скачать эту карту")
@@ -373,8 +385,6 @@
 [Hitta](https://anygis.herokuapp.com/download/galileo_ru/Europe-Northern-Hitta.ms "Скачать эту карту")
 
 [Hitta Frilufts](https://anygis.herokuapp.com/download/galileo_ru/Europe-Northern-Hitta_Frilufts.ms "Скачать эту карту")
-
-[Skoterleder](https://anygis.herokuapp.com/download/galileo_ru/Europe-Northern-Skoterleder.ms "Скачать эту карту")
 
 [Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/galileo_ru/Europe-Northern-Hitta_Frilufts_Skoterleder.ms "Скачать эту карту")
 

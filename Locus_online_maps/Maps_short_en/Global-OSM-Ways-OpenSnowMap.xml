@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 26-04-2019 10:37
+Файл обновлен: 28-04-2019 10:07
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,8 +19,8 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999023" type="0" visible="false" background="-1">
-<name>Global - OSM - Ways</name>
-<mode>OpenSnowMap</mode>
+<name>Background</name>
+<mode>OpenSnowMap base layer</mode>
 <countries>World</countries>
 <usage>ski</usage>
 <url><![CDATA[http://www.opensnowmap.org/base_snow_map/{z}/{x}/{y}.png]]></url>

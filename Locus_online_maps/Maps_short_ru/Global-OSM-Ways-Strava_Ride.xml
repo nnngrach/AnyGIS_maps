@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 26-04-2019 10:37
+Файл обновлен: 28-04-2019 10:07
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -19,11 +19,11 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <providers>
 
 <provider id="9999045" type="0" visible="false" background="-1">
-<name>Глобальные - OSM - Ways</name>
-<mode>Strava Heatmap - Ride</mode>
+<name>Background</name>
+<mode>Mapquest Dark</mode>
 <countries>World</countries>
 <usage>city</usage>
-<url><![CDATA[http://{s}.tiles.mapbox.com/v4/mapquest.dark-mb/{z}/{x}/{y}@2x.png?access_token=pk.eyJ1IjoibWFwcXVlc3QiLCJhIjoiY2Q2N2RlMmNhY2NiZTRkMzlmZjJmZDk0NWU0ZGJlNTMifQ.mPRiEubbajc6a5y9ISgydg]]></url>
+<url><![CDATA[https://{s}.tiles.mapbox.com/v4/mapquest.dark-mb/{z}/{x}/{y}@2x.png?access_token=pk.eyJ1IjoibWFwcXVlc3QiLCJhIjoiY2Q2N2RlMmNhY2NiZTRkMzlmZjJmZDk0NWU0ZGJlNTMifQ.mPRiEubbajc6a5y9ISgydg]]></url>
 <serverPart>a;b;c</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
@@ -38,7 +38,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Strava Heatmap - Ride</mode>
 <countries>World</countries>
 <usage>cycle</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Tracks_Strava_Ride_HD/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.herokuapp.com/Tracks_Strava_Ride_HD/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

@@ -12,7 +12,11 @@
 ### Глобальные - Городские
 [2Gis](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-2gis.sqlitedb "Скачать эту карту")
 
+[Google Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map.sqlitedb "Скачать эту карту")
+
 [Google Карта RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_map_ru.sqlitedb "Скачать эту карту")
+
+[Google Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain.sqlitedb "Скачать эту карту")
 
 [Google Ландшафт RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Google_terrain_ru.sqlitedb "Скачать эту карту")
 
@@ -33,6 +37,14 @@
 
 [Google Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google.sqlitedb "Скачать эту карту")
 
+
+
+### Глобальные - Городские
+[Google Спутник (гибрид)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels.sqlitedb "Скачать эту карту")
+
+
+
+### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.sqlitedb "Скачать эту карту")
 
 [Here Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Here.sqlitedb "Скачать эту карту")
@@ -395,13 +407,23 @@
 
 [Strava Heatmap - All](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_All.sqlitedb "Скачать эту карту")
 
+[Strava Heatmap - All (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_All_Bluered.sqlitedb "Скачать эту карту")
+
 [Strava Heatmap - Ride](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Ride.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Ride (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Ride_Bluered.sqlitedb "Скачать эту карту")
 
 [Strava Heatmap - Run](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Run.sqlitedb "Скачать эту карту")
 
+[Strava Heatmap - Run (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Run_Bluered.sqlitedb "Скачать эту карту")
+
 [Strava Heatmap - Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Water.sqlitedb "Скачать эту карту")
 
+[Strava Heatmap - Water (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Water_Bluered.sqlitedb "Скачать эту карту")
+
 [Strava Heatmap - Winter](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Winter.sqlitedb "Скачать эту карту")
+
+[Strava Heatmap - Winter (Bluered)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Strava_Winter_Bluered.sqlitedb "Скачать эту карту")
 
 [Waymarkedtrails.org - Cycling](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.sqlitedb "Скачать эту карту")
 

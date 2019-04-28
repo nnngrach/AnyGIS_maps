@@ -16,7 +16,11 @@
 
 [Google Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map.ms "Download this map")
 
+[Google Map RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_map_ru.ms "Download this map")
+
 [Google Terrain](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain.ms "Download this map")
+
+[Google Terrain RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_terrain_ru.ms "Download this map")
 
 [Google Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Google_traffic.ms "Download this map")
 
@@ -43,7 +47,15 @@
 
 [Google Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google.ms "Download this map")
 
+
+
+### Global - Satellites
 [Google Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.ms "Download this map")
+
+
+
+### Global - Satellites
+[Google Satellite + labels RU](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Google_with_labels_ru.ms "Download this map")
 
 [Here Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Here.ms "Download this map")
 
@@ -152,8 +164,6 @@
 
 [Hitta Frilufts](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Northern-Hitta_Frilufts.ms "Download this map")
 
-[Skoterleder](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Northern-Skoterleder.ms "Download this map")
-
 [Hitta Frilufts + Skoterleder](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Northern-Hitta_Frilufts_Skoterleder.ms "Download this map")
 
 [Hitta Satellit](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Northern-Hitta_Satellit.ms "Download this map")
@@ -196,9 +206,6 @@
 ### Eurasia - Hystoric
 [Belarus Genshtab](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-Belarus_Genshtab.ms "Download this map")
 
-
-
-### Europe - Eastern
 [Ukraine - Cadaster map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_overlay.ms "Download this map")
 
 [Ukraine - Meta.ua](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Europe-Eastern-MetaUA.ms "Download this map")
