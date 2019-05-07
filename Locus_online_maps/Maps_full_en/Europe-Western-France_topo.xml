@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 28-04-2019 10:07
+Файл обновлен: 07-05-2019 22:29
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>France Topo IGN.fr</mode>
 <countries>France</countries>
 <usage>hiking</usage>
-<url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}]]></url>
+<url><![CDATA[http://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>14</zoomMin>    <!-- 6 -->

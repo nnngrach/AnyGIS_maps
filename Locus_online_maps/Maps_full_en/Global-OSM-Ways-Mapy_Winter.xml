@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 28-04-2019 10:07
+Файл обновлен: 07-05-2019 22:29
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Mapy Winter</mode>
 <countries>World</countries>
 <usage>ski</usage>
-<url><![CDATA[https://m{s}.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></url>
+<url><![CDATA[http://m{s}.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></url>
 <serverPart>1;2;3;4</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

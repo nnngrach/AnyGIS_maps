@@ -385,6 +385,8 @@
 
 [RosReestr](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Info-RosReestr.ms "Download this map")
 
+[Slope map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Eurasia-Info-Slopemap.ms "Download this map")
+
 
 
 ### Eurasia - Hystoric

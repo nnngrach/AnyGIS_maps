@@ -386,6 +386,8 @@
 
 [Hillshade Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_mapbox.sqlitedb "Download this map")
 
+[Hillshade Slope map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_Slopemap.sqlitedb "Download this map")
+
 [Hillshade Waymarkedtrails.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_Waymarkedtrails.sqlitedb "Download this map")
 
 [Hillshade Windy.com](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_Windy.sqlitedb "Download this map")

@@ -381,6 +381,8 @@
 
 [Here Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Here_traffic.sqlitedb "Скачать эту карту")
 
+[Hillshade Карта уклонов](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_Slopemap.sqlitedb "Скачать эту карту")
+
 [Navionics Marine Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Navionics_Marine_Charts.sqlitedb "Скачать эту карту")
 
 [Navionics Sonar Charts](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Navionics_Sonar_Charts.sqlitedb "Скачать эту карту")

@@ -446,6 +446,8 @@
 
 [Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Here_traffic.xml "Скачать эту карту")
 
+[Hillshade Карта уклонов](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_Slopemap.xml "Скачать эту карту")
+
 [Navionics Marine Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Navionics_Marine_Charts.xml "Скачать эту карту")
 
 [Navionics Sonar Charts](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Navionics_Sonar_Charts.xml "Скачать эту карту")

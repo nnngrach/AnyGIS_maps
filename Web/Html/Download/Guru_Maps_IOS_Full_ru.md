@@ -293,6 +293,8 @@
 
 [Yota](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
 
+[Карта уклонов](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
+
 [МТС](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
 
 [Мегафон](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")

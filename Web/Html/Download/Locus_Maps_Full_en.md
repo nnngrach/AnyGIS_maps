@@ -454,6 +454,8 @@
 
 [Hillshade Mapbox](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_mapbox.xml "Download this map")
 
+[Hillshade Slope map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Slopemap.xml "Download this map")
+
 [Hillshade Waymarkedtrails.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Waymarkedtrails.xml "Download this map")
 
 [Hillshade Windy.com](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Hillshade_Windy.xml "Download this map")

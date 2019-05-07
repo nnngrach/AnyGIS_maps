@@ -293,6 +293,8 @@
 
 [Yota](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")
 
+[Карта уклонов](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-Slopemap.ms "Скачать эту карту")
+
 [МТС](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-MTS.ms "Скачать эту карту")
 
 [Мегафон](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-Megafon.ms "Скачать эту карту")

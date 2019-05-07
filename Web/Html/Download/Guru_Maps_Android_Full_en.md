@@ -385,6 +385,8 @@
 
 [RosReestr](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Info-RosReestr.ms "Download this map")
 
+[Slope map](https://anygis.herokuapp.com/download/galileo_en/Eurasia-Info-Slopemap.ms "Download this map")
+
 
 
 ### Eurasia - Hystoric
