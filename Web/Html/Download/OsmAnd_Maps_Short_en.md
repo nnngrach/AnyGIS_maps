@@ -19,14 +19,8 @@
 ### Global - Satellites
 [ESRI World Imagenary](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.sqlitedb "Download this map")
 
-
-
-### Global - Satellites
 [Google Satellite + labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Google_with_labels.sqlitedb "Download this map")
 
-
-
-### Global - Satellites
 [Here Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Here.sqlitedb "Download this map")
 
 [Mapbox Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Mapbox.sqlitedb "Download this map")

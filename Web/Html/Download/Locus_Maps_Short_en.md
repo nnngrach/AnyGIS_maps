@@ -21,14 +21,8 @@
 
 [ESRI World Imagenary](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-ESRI_Imagenary.xml "Download this map")
 
-
-
-### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [Google Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Google_with_labels.xml "Download this map")
 
-
-
-### [Global - Satellites](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Satellites.xml "Download all group files")
 [Here Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Here.xml "Download this map")
 
 [Mapbox Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Mapbox.xml "Download this map")
