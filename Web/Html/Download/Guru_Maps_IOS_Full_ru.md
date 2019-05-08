@@ -109,10 +109,7 @@
 
 [Thunderforest Outdoor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.ms "Скачать эту карту")
 
-
-
-### Глобальные - OSM
-[Перевалы Вестра + Ourdoors](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Westra_Passes.ms "Скачать эту карту")
+[Перевалы Вестра + Ourdoors](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Ways-Westra_Passes.ms "Скачать эту карту")
 
 
 

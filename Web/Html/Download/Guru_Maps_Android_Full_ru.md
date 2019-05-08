@@ -109,10 +109,7 @@
 
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Thunderforest_Outdoor.ms "Скачать эту карту")
 
-
-
-### Глобальные - OSM
-[Перевалы Вестра + Ourdoors](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Westra_Passes.ms "Скачать эту карту")
+[Перевалы Вестра + Ourdoors](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Westra_Passes.ms "Скачать эту карту")
 
 
 
