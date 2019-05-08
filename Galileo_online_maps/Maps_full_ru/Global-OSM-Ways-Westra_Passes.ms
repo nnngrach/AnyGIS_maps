@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <customMapSource>
-<name>Перевалы Вестра + Ourdoors</name>
+<name>Перевалы Вестра + Ourdoor</name>
 <layers>
 
 <layer>
