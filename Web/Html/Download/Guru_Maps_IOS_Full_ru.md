@@ -111,6 +111,11 @@
 
 
 
+### Глобальные - OSM
+[Перевалы Вестра + Ourdoors](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-OSM-Westra_Passes.ms "Скачать эту карту")
+
+
+
 ### Глобальные - Водные
 [ESRI Ocean](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Water-ERSI_ocean.ms "Скачать эту карту")
 

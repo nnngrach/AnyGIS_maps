@@ -95,3 +95,5 @@
 
 [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
 
+[Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Westra_Passes.sqlitedb "Скачать эту карту")
+
