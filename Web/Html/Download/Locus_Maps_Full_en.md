@@ -28,6 +28,8 @@
 
 [Yandex Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map.xml "Download this map")
 
+[Yandex Map (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map_proxy.xml "Download this map")
+
 [Yandex MapEditor](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_narodnaya.xml "Download this map")
 
 [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_traffic.xml "Download this map")
@@ -52,6 +54,8 @@
 [Mapbox Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Mapbox.xml "Download this map")
 
 [Yandex Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex.xml "Download this map")
+
+[Yandex Satellite (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_proxy.xml "Download this map")
 
 [Yandex Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_with_labels.xml "Download this map")
 
@@ -507,4 +511,6 @@
 [Yandex Labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_labels.xml "Download this map")
 
 [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic.xml "Download this map")
+
+[Yandex Traffic (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic_proxy.xml "Download this map")
 

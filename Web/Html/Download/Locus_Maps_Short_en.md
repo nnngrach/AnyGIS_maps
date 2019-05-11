@@ -29,6 +29,8 @@
 
 [Yandex Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex.xml "Download this map")
 
+[Yandex Satellite (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_proxy.xml "Download this map")
+
 [Yandex Satellite + labels](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Satellites-Yandex_with_labels.xml "Download this map")
 
 

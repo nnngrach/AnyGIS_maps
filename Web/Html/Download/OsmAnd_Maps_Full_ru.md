@@ -22,6 +22,8 @@
 
 [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
+[Yandex Карта (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
+
 [Yandex Народная](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-City-Yandex_narodnaya.sqlitedb "Скачать эту карту")
 
 
@@ -40,6 +42,8 @@
 [Mapbox Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Mapbox.sqlitedb "Скачать эту карту")
 
 [Yandex Спутник](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Yandex.sqlitedb "Скачать эту карту")
+
+[Yandex Спутник (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Yandex_proxy.sqlitedb "Скачать эту карту")
 
 [Космоснимки.ру](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.sqlitedb "Скачать эту карту")
 
@@ -63,6 +67,8 @@
 [Michelin transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Michelin.sqlitedb "Скачать эту карту")
 
 [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.sqlitedb "Скачать эту карту")
+
+[OpenTopoMap proxy](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap_proxy.sqlitedb "Скачать эту карту")
 
 [Opnvkarte.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.sqlitedb "Скачать эту карту")
 
@@ -379,6 +385,8 @@
 ### Overlay
 [Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Google_traffic.sqlitedb "Скачать эту карту")
 
+[Google Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Google_traffic_proxy.sqlitedb "Скачать эту карту")
+
 [Here Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Here_traffic.sqlitedb "Скачать эту карту")
 
 [Hillshade Карта уклонов](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Hillshade_Slopemap.sqlitedb "Скачать эту карту")
@@ -421,11 +429,15 @@
 
 [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wiggle_wifi.sqlitedb "Скачать эту карту")
 
+[Wigle.net Wi-fi location (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wiggle_wifi_proxy.sqlitedb "Скачать эту карту")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Wikimapia.sqlitedb "Скачать эту карту")
 
 [Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_labels.sqlitedb "Скачать эту карту")
 
 [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
+
+[Yandex Пробки (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Yandex_traffic_proxy.sqlitedb "Скачать эту карту")
 
 [Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_ru/Overlay-Westra_Passes.sqlitedb "Скачать эту карту")
 

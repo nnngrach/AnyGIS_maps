@@ -22,6 +22,8 @@
 
 [Yandex Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Yandex_map.sqlitedb "Download this map")
 
+[Yandex Map (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Yandex_map_proxy.sqlitedb "Download this map")
+
 [Yandex MapEditor](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-City-Yandex_narodnaya.sqlitedb "Download this map")
 
 
@@ -43,6 +45,8 @@
 
 [Yandex Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Yandex.sqlitedb "Download this map")
 
+[Yandex Satellite (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Yandex_proxy.sqlitedb "Download this map")
+
 
 
 ### Global - OSM
@@ -63,6 +67,8 @@
 [Michelin transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Michelin.sqlitedb "Download this map")
 
 [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.sqlitedb "Download this map")
+
+[OpenTopoMap proxy](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-OpenTopoMap_proxy.sqlitedb "Download this map")
 
 [Opnvkarte.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Opnvkarte.sqlitedb "Download this map")
 
@@ -382,6 +388,8 @@
 ### Overlay
 [Google Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Google_traffic.sqlitedb "Download this map")
 
+[Google Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Google_traffic_proxy.sqlitedb "Download this map")
+
 [Here Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Here_traffic.sqlitedb "Download this map")
 
 [Hillshade Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Hillshade_mapbox.sqlitedb "Download this map")
@@ -434,9 +442,13 @@
 
 [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Wiggle_wifi.sqlitedb "Download this map")
 
+[Wigle.net Wi-fi location (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Wiggle_wifi_proxy.sqlitedb "Download this map")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Wikimapia.sqlitedb "Download this map")
 
 [Yandex Labels](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Yandex_labels.sqlitedb "Download this map")
 
 [Yandex Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Yandex_traffic.sqlitedb "Download this map")
+
+[Yandex Traffic (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Overlay-Yandex_traffic_proxy.sqlitedb "Download this map")
 

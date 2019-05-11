@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="Overpass API 0.7.55.7 8b86ff77">
+<note>The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.</note>
+<meta osm_base="2019-05-11T15:24:02Z"/>
+
+  <bounds minlat="55.5819349" minlon="37.5074959" maxlat="55.6543476" maxlon="37.6432800"/>
+
+  <node id="678326001" lat="55.6322418" lon="37.5561012">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="678326002" lat="55.6322328" lon="37.5559699">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="766777098" lat="55.5932111" lon="37.5580864">
+    <tag k="amenity" v="drinking_water"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="2620191965" lat="55.6313905" lon="37.5772242">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="3801042764" lat="55.6202454" lon="37.5311769">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="3849196091" lat="55.6207584" lon="37.5236406">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="3849196092" lat="55.6207605" lon="37.5235687">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4338693184" lat="55.6140813" lon="37.5457757">
+    <tag k="name" v="Родник №28, Ясеневский родник"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="4338718549" lat="55.5932066" lon="37.5580521">
+    <tag k="name" v="Родник №27"/>
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="5194697296" lat="55.6108930" lon="37.5227737">
+    <tag k="natural" v="spring"/>
+  </node>
+  <node id="5434085247" lat="55.6187721" lon="37.5322483">
+    <tag k="natural" v="spring"/>
+  </node>
+
+</osm>

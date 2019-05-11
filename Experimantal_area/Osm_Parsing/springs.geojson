@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-ide",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2019-05-11T15:24:02Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678326001",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5561012,
+          55.6322418
+        ]
+      },
+      "id": "node/678326001"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/678326002",
+        "amenity": "drinking_water",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5559699,
+          55.6322328
+        ]
+      },
+      "id": "node/678326002"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/766777098",
+        "amenity": "drinking_water",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5580864,
+          55.5932111
+        ]
+      },
+      "id": "node/766777098"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2620191965",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5772242,
+          55.6313905
+        ]
+      },
+      "id": "node/2620191965"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3801042764",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5311769,
+          55.6202454
+        ]
+      },
+      "id": "node/3801042764"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3849196091",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5236406,
+          55.6207584
+        ]
+      },
+      "id": "node/3849196091"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3849196092",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5235687,
+          55.6207605
+        ]
+      },
+      "id": "node/3849196092"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338693184",
+        "name": "Родник №28, Ясеневский родник",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5457757,
+          55.6140813
+        ]
+      },
+      "id": "node/4338693184"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4338718549",
+        "name": "Родник №27",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5580521,
+          55.5932066
+        ]
+      },
+      "id": "node/4338718549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5194697296",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5227737,
+          55.610893
+        ]
+      },
+      "id": "node/5194697296"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/5434085247",
+        "natural": "spring"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.5322483,
+          55.6187721
+        ]
+      },
+      "id": "node/5434085247"
+    }
+  ]
+}

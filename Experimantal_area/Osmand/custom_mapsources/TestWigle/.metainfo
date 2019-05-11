@@ -1,0 +1,12 @@
+[url_template]
+https://anygis.herokuapp.com/Other_Info_Wiggle_wifi/{1}/{2}/{0}
+[ext]
+.png
+[min_zoom]
+5
+[max_zoom]20[tile_size]
+256
+[img_density]
+32
+[avg_img_size]
+18000

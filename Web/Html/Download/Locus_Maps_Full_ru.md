@@ -28,6 +28,8 @@
 
 [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
 
+[Yandex Карта (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map_proxy.xml "Скачать эту карту")
+
 [Yandex Народная](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_narodnaya.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_traffic.xml "Скачать эту карту")
@@ -50,6 +52,8 @@
 [Mapbox Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Mapbox.xml "Скачать эту карту")
 
 [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
+
+[Yandex Спутник (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_proxy.xml "Скачать эту карту")
 
 [Yandex Спутник (гибрид)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_with_labels.xml "Скачать эту карту")
 
@@ -491,6 +495,8 @@
 [Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_traffic.xml "Скачать эту карту")
+
+[Yandex Пробки (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_traffic_proxy.xml "Скачать эту карту")
 
 [Перевалы Вестра](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Westra_Passes.xml "Скачать эту карту")
 

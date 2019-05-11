@@ -27,6 +27,8 @@
 
 [Yandex Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Yandex.sqlitedb "Download this map")
 
+[Yandex Satellite (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-Satellites-Yandex_proxy.sqlitedb "Download this map")
+
 
 
 ### Global - OSM
@@ -35,6 +37,8 @@
 [Mapnik](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Mapnik.sqlitedb "Download this map")
 
 [OpenTopoMap](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.sqlitedb "Download this map")
+
+[OpenTopoMap proxy](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-OpenTopoMap_proxy.sqlitedb "Download this map")
 
 [Opnvkarte.de](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Maps_full_en/Global-OSM-Opnvkarte.sqlitedb "Download this map")
 
