@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 01-06-2019 22:24
+Файл обновлен: 01-06-2019 22:54
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -18,12 +18,12 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <providers>
 
-<provider id="468328" type="0" visible="true" background="-1">
-<name>Global - City</name>
-<mode>Google Terrain</mode>
+<provider id="10020" type="0" visible="true" background="-1">
+<name>Глобальные - Городские</name>
+<mode>Google Карта RU</mode>
 <countries>World</countries>
 <usage>city</usage>
-<url><![CDATA[http://mt{s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=en]]></url>
+<url><![CDATA[http://mt{s}.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}]]></url>
 <serverPart>0;1;2;3</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
