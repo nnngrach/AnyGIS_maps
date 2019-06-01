@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers>
+	<!--colorway options: hot blue gray blue-->
+	<!-- Strava  -->
+	<provider id="10899" type="0" visible="true" background="-1">
+		<name>Strava</name>
+		<mode>Global Heatmap Winter</mode>
+		<countries>World</countries>
+		<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/winter/blue/{z}/{x}/{y}.png?v={ts}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>
+		<tileSize>256</tileSize>
+		<tileScale dpi="0" multi="2.0" replace="19" />
+		
+		<attribution><![CDATA[© 2019 Strava]]></attribution>
+		<extraHeader><![CDATA[ place cookie here ]]></extraHeader>
+	</provider>
+
+	<provider id="10900" type="0" visible="true" background="-1">
+		<name>Strava</name>
+		<mode>Global Heatmap Biking</mode>
+		<countries>World</countries>
+		<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/ride/blue/{z}/{x}/{y}.png?v={ts}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>
+		<tileSize>256</tileSize>
+		<tileScale dpi="0" multi="2.0" replace="19" />
+		
+		<attribution><![CDATA[© 2019 Strava]]></attribution>
+		<extraHeader><![CDATA[ place cookie here ]]></extraHeader>
+	</provider>
+
+	<provider id="10901" type="0" visible="true" background="-1">
+		<name>Strava</name>
+		<mode>Global Heatmap Running</mode>
+		<countries>World</countries>
+		<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/run/blue/{z}/{x}/{y}.png?v={ts}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>
+		<tileSize>256</tileSize>
+		<tileScale dpi="0" multi="2.0" replace="19" />
+		
+		<attribution><![CDATA[© 2019 Strava]]></attribution>
+		<extraHeader><![CDATA[ place cookie here ]]></extraHeader>
+	</provider>
+
+	<provider id="10902" type="0" visible="true" background="-1">
+		<name>Strava</name>
+		<mode>Global Heatmap All</mode>
+		<countries>World</countries>
+		<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/all/blue/{z}/{x}/{y}.png?v={ts}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>
+		<tileSize>256</tileSize>
+		<tileScale dpi="0" multi="2.0" replace="19" />
+		
+		<attribution><![CDATA[© 2019 Strava]]></attribution>
+		<extraHeader><![CDATA[ place cookie here ]]></extraHeader>
+	</provider>
+</providers>

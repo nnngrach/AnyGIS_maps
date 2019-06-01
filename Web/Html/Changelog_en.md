@@ -8,6 +8,20 @@
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
 
 
+### June 2019
+
+Update links for Strava maps for new version of Locus
+
+
+### May 2019
+
+Add Votetovid.ri mountain map
+
+Add Vestra mountain map
+
+Bugfix
+
+
 ### April 2019 
 
 Added script for automatic authorization in Strava Heatmaps.
