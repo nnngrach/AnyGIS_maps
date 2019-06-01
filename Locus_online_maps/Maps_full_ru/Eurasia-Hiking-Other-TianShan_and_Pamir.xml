@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus Maps.
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 02-06-2019 01:00
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+
+<providers>
+
+<provider id="720005" type="0" visible="true" background="-1">
+<name>Евразия - Туристические - Разное</name>
+<mode>Тянь-Шань и Памир</mode>
+<countries>Kyrgyzstan</countries>
+<usage>hiking</usage>
+<url><![CDATA[http://anygis.herokuapp.com/Local_Tyan_shan1/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>23</zoomMax>   <!-- 15 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[Referer#https://anygis.herokuapp.com/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+</provider>
+
+</providers>

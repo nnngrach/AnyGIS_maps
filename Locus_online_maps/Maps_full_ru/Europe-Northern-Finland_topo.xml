@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Комплект карт "AnyGIS" для навигатора Locus Maps.
+https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+
+Составитель: AnyGIS (anygis@bk.ru).
+Файл обновлен: 02-06-2019 01:00
+
+Сделан на основе наборов карт от:
+- SAS.planet (http://www.sasgis.org/)
+- Erelen (https://melda.ru/locus/)
+- ms.Galileo-app (https://ms.galileo-app.com/)
+- Custom-maps-sourse (https://custom-map-source.appspot.com/)
+-->
+
+
+
+<providers>
+
+<provider id="11014" type="0" visible="true" background="-1">
+<name>Европа - Северная</name>
+<mode>Finland Topo Retkikartta.fi</mode>
+<countries>Finland</countries>
+<usage>hiking</usage>
+<url><![CDATA[http://retkikartta.fi/wmts/30c616a00f157e7357721900e8b0415c?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=maastokartta&STYLE=default&TILEMATRIXSET=WGS84_Pseudo-Mercator&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>26</zoomMax>   <!-- 18 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+</provider>
+
+</providers>
