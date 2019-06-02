@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-06-2019 01:00
+Файл обновлен: 02-06-2019 11:45
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -38,13 +38,13 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Strava Heatmap - Winter</mode>
 <countries>World</countries>
 <usage>ski</usage>
-<url><![CDATA[http://anygis.herokuapp.com/Tracks_Strava_Winter_HD/{x}/{y}/{z}]]></url>
+<url><![CDATA[http://anygis.herokuapp.com/Tracks_Strava_Winter_HD/{x}/{y}/{z}?locusScale={ts}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
-<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+<tileScale dpi="0" multi="2.0" replace="19" /><extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>
