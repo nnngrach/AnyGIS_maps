@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-06-2019 13:24
+Файл обновлен: 02-06-2019 13:51
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -18,7 +18,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <providers>
 
-<provider id="1900019999016" type="0" visible="false" background="-1">
+<provider id="19999016" type="0" visible="false" background="-1">
 <name>Global - Nautical</name>
 <mode>Open Sea Map</mode>
 <countries>World</countries>
@@ -34,7 +34,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>
 
-<provider id="190001" type="0" visible="true" background="1900019999016">
+<provider id="190001" type="0" visible="true" background="19999016">
 <name>Global - Nautical</name>
 <mode>Open Sea Map</mode>
 <countries>World</countries>
