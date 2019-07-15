@@ -13,9 +13,9 @@
 
 # Карты для OsmAnd
 
-[Список изменений][0]
+[Список изменений][00]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
+[00]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsOsmand.png)
 
@@ -24,18 +24,22 @@
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] онлайн-карт:
 
 ### Базовый набор
-Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
+Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][0].
 
-[Скачать карты целиком (sqlitedb)][2]
+[Скачать карты целиком (sqlitedb)][1]
+
+[Скачать карты целиком (metainfo)][2]
 
 [Скачать карты выборочно (sqlitedb)][3]
 
 [Скачать карты выборочно (metainfo)][4]
 
 
-[1]: https://shuriktravel.ru/maps/
+[0]: https://shuriktravel.ru/maps/
 
-[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short_ru
+[1]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short_ru
+
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru
 
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_ru
 
@@ -56,9 +60,11 @@
 
 [Скачать карты целиком (sqlitedb)][11]
 
-[Скачать карты выборочно (sqlitedb)][12]
+[Скачать карты целиком (metainfo)][12]
 
-[Скачать карты выборочно (metainfo)][13]
+[Скачать карты выборочно (sqlitedb)][13]
+
+[Скачать карты выборочно (metainfo)][14]
 
 
 
@@ -71,9 +77,11 @@
 
 [11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_full_ru
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
+[12]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru
 
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
+
+[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru
 
 
 
