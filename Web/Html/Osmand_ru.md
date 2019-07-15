@@ -26,16 +26,20 @@
 ### Базовый набор
 Отличный вариант для начинающих. Если вы еще не уверены в том, какие именно карты стоит закачать в навигатор, то начните именно с этой подборки. Здесь собран минимальный комплект из наиболее необходимых, на мой взгляд, карт.  Этот набор подойдет не только для того, чтобы ознакомиться с различными типами карт, которые можно установить в приложение, но и вполне справится с большинством повседневных задач. Все же, кто хочет более основательно разобраться в основных типах карт предлагаю прочитать эту [статью][1].
 
-[Скачать карты (целиком)][2]
+[Скачать карты целиком (sqlitedb)][2]
 
-[Скачать карты (выборочно)][3]
+[Скачать карты выборочно (sqlitedb)][3]
+
+[Скачать карты выборочно (metainfo)][4]
 
 
 [1]: https://shuriktravel.ru/maps/
 
 [2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short_ru
 
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Short_ru
+[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Short_ru
+
+[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_ru
 
 
 
@@ -50,9 +54,11 @@
 - Сборник карт для пешего и горного туризма ([RusOutdoor Set][5])
 - Карты со справочной информацией (Wikimapia)
 
-[Скачать карты (целиком)][11]
+[Скачать карты целиком (sqlitedb)][11]
 
-[Скачать карты (выборочно)][12]
+[Скачать карты выборочно (sqlitedb)][12]
+
+[Скачать карты выборочно (metainfo)][13]
 
 
 
@@ -65,7 +71,8 @@
 
 [11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_full_ru
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full_ru
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(sqlitedb)_Full_ru
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_ru
 
 
 
