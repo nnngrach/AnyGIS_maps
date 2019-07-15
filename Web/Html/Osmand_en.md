@@ -26,16 +26,18 @@ It's no secret that the basic set of cards with which the application is supplie
 ### Basic set
 A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.
 
-[Download all maps (sqlitedb)][2]
+[Download all maps (sqlitedb)][1]
+
+[Download all maps (metainfo)][2]
 
 [Download maps by one file (sqlitedb)][3]
 
-[Download maps by one file (sqlitedb)][4]
+[Download maps by one file (metainfo)][4]
 
 
-[1]: https://shuriktravel.ru/maps/
+[1]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Sqlitedb/Maps_short_en
 
-[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short_en
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_short_en
 
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Short_en
 
@@ -54,9 +56,11 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [Download all maps (sqlitedb)][11]
 
-[Download maps by one file (sqlitedb)][12]
+[Download all maps (metainfo)][12]
 
-[Download maps by one file (metainfo)][13]
+[Download maps by one file (sqlitedb)][13]
+
+[Download maps by one file (metainfo)][14]
 
 
 
@@ -67,11 +71,13 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_full_en
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Sqlitedb/Maps_full_en
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full_en
+[12]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en
 
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full_en
+
+[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
 
 
 
