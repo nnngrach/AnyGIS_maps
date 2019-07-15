@@ -8,6 +8,11 @@
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
 
 
+### Июль 2019
+
+Добавлены карты для Osmand в формате metainfo
+
+
 ### Июнь 2019
 
 Изменены ссылки на карты Strava из-за обновления Locus
