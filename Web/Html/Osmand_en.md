@@ -26,9 +26,11 @@ It's no secret that the basic set of cards with which the application is supplie
 ### Basic set
 A great option for beginners. If you still not sure what cards you should upload in the navigation app, you'll start with this collection. Here is a minimum set of the most necessary, in my opinion, cards.  This set is suitable not only to get acquainted with the different types of maps that can be installed in the application, but also quite cope with most everyday tasks.
 
-[Download maps (all files)][2]
+[Download all maps (sqlitedb)][2]
 
-[Download maps (by one file)][3]
+[Download maps by one file (sqlitedb)][3]
+
+[Download maps by one file (sqlitedb)][4]
 
 
 [1]: https://shuriktravel.ru/maps/
@@ -36,6 +38,8 @@ A great option for beginners. If you still not sure what cards you should upload
 [2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Maps_short_en
 
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Short_en
+
+[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en
 
 
 
@@ -48,9 +52,11 @@ If you already know what kind of maps you need, then this set is for you. Note t
 - Digitized raster topomaps (Soviet military maps, GGC, Hiking maps with local coverage)
 - Information maps (Wikimapia)
 
-[Download maps (all files)][11]
+[Download all maps (sqlitedb)][11]
 
-[Download maps (by one file)][12]
+[Download maps by one file (sqlitedb)][12]
+
+[Download maps by one file (metainfo)][13]
 
 
 
@@ -65,12 +71,17 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full_en
 
+[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
+
 
 
 ### How to install maps (Android)
 
+Maps are presented in two formats. Theoretically, the maps are in the `sqlitedb` format should be loaded faster. On the other hand, you can easily delete the cache for `metainfo` maps. (Directly from the map folder). Anyway, you can download anything. But the Strava maps I recommend to download in the `metainfo` format.
+
 * If you have downloaded the zip archive you need to unpack it first.
-* Copy the downloaded map file with the extension `.sqlitedb` to the folder on smatphone  `Android\data\net.osmand\files\tiles` 
+* If you have downloaded map file in `.sqlitedb` format, then copy this file to the folder on smatphone  `Android\data\net.osmand\files\tiles` 
+* If you want to download map in `.metainfo` format, then you'll get zip archive. Unpack it. Copy unpacked folder to the `Android\data\net.osmand\files\tiles` 
 * If for some reason you do not have such a folder (for example, Osmand is installed on the SD-card), then you need to know in which directory it is located. To do this, launch the application, open `Settings`, select `Basic settings` and scroll down to `Storage Directory`. Here you will find the address. Card you want to copy to the subfolder `tiles`
 
 ![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Osmand_patch.png)
