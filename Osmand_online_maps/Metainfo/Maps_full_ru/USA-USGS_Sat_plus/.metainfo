@@ -1,0 +1,16 @@
+[url_template]
+http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryTopo/MapServer/tile/{0}/{2}/{1}
+[min_zoom]
+0
+[max_zoom]
+13
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

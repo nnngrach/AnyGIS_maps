@@ -1,0 +1,16 @@
+[url_template]
+https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={0}&TILEROW={2}&TILECOL={1}&FORMAT=image/png
+[min_zoom]
+0
+[max_zoom]
+22
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

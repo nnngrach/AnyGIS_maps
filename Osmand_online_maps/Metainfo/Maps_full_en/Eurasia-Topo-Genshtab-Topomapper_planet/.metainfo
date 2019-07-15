@@ -1,0 +1,16 @@
+[url_template]
+http://144.76.234.108/cgi-bin/tapp/tilecache.py/1.0.0/topomapper_v2/{0}/{1}/{2}.jpg
+[min_zoom]
+0
+[max_zoom]
+13
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

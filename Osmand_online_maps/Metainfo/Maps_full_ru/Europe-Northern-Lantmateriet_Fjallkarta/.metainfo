@@ -1,0 +1,16 @@
+[url_template]
+https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{0}/{1}/{2}.jpg
+[min_zoom]
+5
+[max_zoom]
+12
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

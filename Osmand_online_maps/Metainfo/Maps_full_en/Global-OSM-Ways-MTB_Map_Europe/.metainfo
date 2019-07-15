@@ -1,0 +1,16 @@
+[url_template]
+http://tile.mtbmap.cz/mtbmap_tiles/{0}/{1}/{2}.png
+[min_zoom]
+0
+[max_zoom]
+16
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

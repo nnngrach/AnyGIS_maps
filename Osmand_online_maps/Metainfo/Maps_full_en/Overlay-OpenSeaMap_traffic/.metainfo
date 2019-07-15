@@ -1,0 +1,16 @@
+[url_template]
+https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={0}&X={1}&Y={2}
+[min_zoom]
+0
+[max_zoom]
+19
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

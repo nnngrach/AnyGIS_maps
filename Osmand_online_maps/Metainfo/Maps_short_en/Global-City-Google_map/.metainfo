@@ -1,0 +1,16 @@
+[url_template]
+https://mt0.google.com/vt/lyrs=m&hl=en&x={1}&y={2}&z={0}
+[min_zoom]
+0
+[max_zoom]
+20
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

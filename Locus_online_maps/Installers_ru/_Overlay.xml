@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 02-06-2019 13:52
+Файл обновлен: 15-07-2019 18:48
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -118,91 +118,91 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_All_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_All.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_All_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_All_Bluered.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_All_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_All_Bluered.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_All_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride_Bluered.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Ride_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride_Bluered.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Ride_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Run.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Run_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Run.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Run_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Run_Bluered.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Run_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Run_Bluered.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Run_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Water.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Water_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water_Bluered.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Water_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Water_Bluered.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Water_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter_Bluered.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Strava_Winter_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter_Bluered.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay-Strava_Winter_Bluered_HD.xml]]>
 </dest>
 </download>
 

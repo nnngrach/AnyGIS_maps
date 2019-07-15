@@ -1,0 +1,16 @@
+[url_template]
+https://orda.of.by/.tiles/3vq/Z{0}/{2}/{1}.jpg
+[min_zoom]
+10
+[max_zoom]
+14
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

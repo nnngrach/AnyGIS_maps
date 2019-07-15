@@ -1,0 +1,16 @@
+[url_template]
+https://anygis.herokuapp.com/Local_Kavkaz_09/{1}/{2}/{0}
+[min_zoom]
+0
+[max_zoom]
+15
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

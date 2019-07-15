@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>http://toolserver.org/tiles/hikebike/{$z}/{$x}/{$y}.png</url>
+    <url>https://tiles.wmflabs.org/hikebike/{$z}/{$x}/{$y}.png</url>
 </layer>
 
 </layers>
