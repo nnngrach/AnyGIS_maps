@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 19-07-2019 23:10
+Файл обновлен: 19-07-2019 23:40
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -20,7 +20,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 <provider id="468332" type="0" visible="true" background="-1">
 <name>Глобальные - Городские</name>
-<mode>Waze</mode>
+<mode>Waze Пробки</mode>
 <countries>World</countries>
 <usage>city</usage>
 <url><![CDATA[http://anygis.herokuapp.com/Waze/{x}/{y}/{z}]]></url>

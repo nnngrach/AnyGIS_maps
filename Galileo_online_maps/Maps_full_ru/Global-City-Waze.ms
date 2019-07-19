@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <customMapSource>
-<name>Waze</name>
+<name>Waze Пробки</name>
 <layers>
 
 <layer>

@@ -26,7 +26,7 @@
 
 [Here Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Here_traffic.ms "Скачать эту карту")
 
-[Waze](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
+[Waze Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
 
 [Yandex Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
@@ -104,8 +104,6 @@
 [Thunderforest Cycle](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Thunderforest_Cycle.ms "Скачать эту карту")
 
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Thunderforest_Outdoor.ms "Скачать эту карту")
-
-[Перевалы Вестра + Ourdoor](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Ways-Westra_Passes.ms "Скачать эту карту")
 
 
 
