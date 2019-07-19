@@ -14,6 +14,8 @@
 
 [Google Terrain](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Google_terrain "Download this map")
 
+[Waze](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Waze "Download this map")
+
 
 
 ### Global - Satellites

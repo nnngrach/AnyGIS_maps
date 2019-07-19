@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 15-07-2019 18:48
+Файл обновлен: 19-07-2019 23:10
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,6 +23,24 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Info.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Info-Geocashing.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Info-Geocashing.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Info-Westra_Passes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Info-Westra_Passes.xml]]>
 </dest>
 </download>
 

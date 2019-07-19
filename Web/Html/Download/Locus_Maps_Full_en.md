@@ -26,6 +26,8 @@
 
 [Here Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Here_traffic.xml "Download this map")
 
+[Waze](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Waze.xml "Download this map")
+
 [Yandex Map](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map.xml "Download this map")
 
 [Yandex Map (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-City-Yandex_map_proxy.xml "Download this map")
@@ -133,6 +135,10 @@
 
 
 ### [Global-Info](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Global-Info.xml "Download all group files")
+[Nakarte.me - Geocashing](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Info-Geocashing.xml "Download this map")
+
+[Nakarte.me - Westra passes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Info-Westra_Passes.xml "Download this map")
+
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Info-Wikimapia.xml "Download this map")
 
 [Wikimapia.org + Satellite](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-Info-Wikimapia_satellite.xml "Download this map")
@@ -502,8 +508,6 @@
 
 [Waymarkedtrails.org - Hiking](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Hiking.xml "Download this map")
 
-[Westra Mountain Passes](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Westra_Passes.xml "Download this map")
-
 [Wigle.net Wi-fi location](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Wiggle_wifi.xml "Download this map")
 
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Wikimapia.xml "Download this map")
@@ -513,4 +517,13 @@
 [Yandex Traffic](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic.xml "Download this map")
 
 [Yandex Traffic (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Yandex_traffic_proxy.xml "Download this map")
+
+
+
+### [Overpass](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/_Overpass.xml "Download all group files")
+[OverpassTurbo: Drinking Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overpass-Waste.xml "Download this map")
+
+[OverpassTurbo: Gravel Running Trails](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overpass-GravelRunTrails.xml "Download this map")
+
+[OverpassTurbo: Waste Baskets](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overpass-Waste.xml "Download this map")
 

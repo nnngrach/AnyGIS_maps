@@ -20,6 +20,8 @@
 
 [Here Ландшафт](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Here_terrain "Скачать эту карту")
 
+[Waze](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Waze "Скачать эту карту")
+
 [Yandex Карта](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map "Скачать эту карту")
 
 [Yandex Карта (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map_proxy "Скачать эту карту")
@@ -99,6 +101,10 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Геокэшинг](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Geocashing "Скачать эту карту")
+
+[Nakarte.me - Перевалы Вестра](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Westra_Passes "Скачать эту карту")
+
 [Wikimapia.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Wikimapia "Скачать эту карту")
 
 
@@ -428,4 +434,13 @@
 [Рельеф Windy.com](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Hillshade_Windy "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-RosReestr "Скачать эту карту")
+
+
+
+### Overpass
+[OverpassTurbo: Гравийные дорожки для бега](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-GravelRunTrails "Скачать эту карту")
+
+[OverpassTurbo: Мусорные баки](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-Waste "Скачать эту карту")
+
+[OverpassTurbo: Питьевая вода](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-Waste "Скачать эту карту")
 

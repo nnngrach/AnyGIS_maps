@@ -20,6 +20,8 @@
 
 [Here Terrain](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Here_terrain "Download this map")
 
+[Waze](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Waze "Download this map")
+
 [Yandex Map](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map "Download this map")
 
 [Yandex Map (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-City-Yandex_map_proxy "Download this map")
@@ -99,6 +101,10 @@
 
 
 ### Global-Info
+[Nakarte.me - Geocashing](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Info-Geocashing "Download this map")
+
+[Nakarte.me - Westra passes](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Info-Westra_Passes "Download this map")
+
 [Wikimapia.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Info-Wikimapia "Download this map")
 
 
@@ -431,4 +437,13 @@
 [Yandex Labels](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_labels "Download this map")
 
 [Yandex Traffic](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic "Download this map")
+
+
+
+### Overpass
+[OverpassTurbo: Drinking Water](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-Waste "Download this map")
+
+[OverpassTurbo: Gravel Running Trails](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-GravelRunTrails "Download this map")
+
+[OverpassTurbo: Waste Baskets](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-Waste "Download this map")
 

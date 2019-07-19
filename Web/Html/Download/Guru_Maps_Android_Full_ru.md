@@ -26,11 +26,9 @@
 
 [Here Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Here_traffic.ms "Скачать эту карту")
 
+[Waze](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Waze.ms "Скачать эту карту")
+
 [Yandex Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
-
-[Yandex Народная](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
-
-[Yandex Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_traffic.ms "Скачать эту карту")
 
 
 
@@ -50,8 +48,6 @@
 [Mapbox Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
 [Yandex Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
 [Космоснимки.ру](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
@@ -131,6 +127,10 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Геокэшинг](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Geocashing.ms "Скачать эту карту")
+
+[Nakarte.me - Перевалы Вестра](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Westra_Passes.ms "Скачать эту карту")
+
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia.ms "Скачать эту карту")
 
 [Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia_satellite.ms "Скачать эту карту")
@@ -428,4 +428,13 @@
 
 ### Прочее
 [New-Zealand Topomaps](https://anygis.herokuapp.com/download/galileo_ru/Other-NewZeland_Topo.ms "Скачать эту карту")
+
+
+
+### Overpass
+[OverpassTurbo: Гравийные дорожки для бега](https://anygis.herokuapp.com/download/galileo_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
+
+[OverpassTurbo: Мусорные баки](https://anygis.herokuapp.com/download/galileo_ru/Overpass-Waste.ms "Скачать эту карту")
+
+[OverpassTurbo: Питьевая вода](https://anygis.herokuapp.com/download/galileo_ru/Overpass-Waste.ms "Скачать эту карту")
 

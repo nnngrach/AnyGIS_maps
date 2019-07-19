@@ -49,6 +49,8 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Info-Westra_Passes.sqlitedb "Скачать эту карту")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Info-Wikimapia.sqlitedb "Скачать эту карту")
 
 
@@ -94,6 +96,4 @@
 [Yandex Надписи](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_labels.sqlitedb "Скачать эту карту")
 
 [Yandex Пробки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic.sqlitedb "Скачать эту карту")
-
-[Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Westra_Passes.sqlitedb "Скачать эту карту")
 

@@ -20,6 +20,8 @@
 
 [Here Ландшафт](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Here_terrain.sqlitedb "Скачать эту карту")
 
+[Waze](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Waze.sqlitedb "Скачать эту карту")
+
 [Yandex Карта](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map.sqlitedb "Скачать эту карту")
 
 [Yandex Карта (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-City-Yandex_map_proxy.sqlitedb "Скачать эту карту")
@@ -101,6 +103,10 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Геокэшинг](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Info-Geocashing.sqlitedb "Скачать эту карту")
+
+[Nakarte.me - Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Info-Westra_Passes.sqlitedb "Скачать эту карту")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-Info-Wikimapia.sqlitedb "Скачать эту карту")
 
 
@@ -439,8 +445,6 @@
 
 [Yandex Пробки (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Yandex_traffic_proxy.sqlitedb "Скачать эту карту")
 
-[Перевалы Вестра](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Westra_Passes.sqlitedb "Скачать эту карту")
-
 [Рельеф Mapbox](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Hillshade_mapbox.sqlitedb "Скачать эту карту")
 
 [Рельеф Waymarkedtrails.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Hillshade_Waymarkedtrails.sqlitedb "Скачать эту карту")
@@ -448,4 +452,13 @@
 [Рельеф Windy.com](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Hillshade_Windy.sqlitedb "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-RosReestr.sqlitedb "Скачать эту карту")
+
+
+
+### Overpass
+[OverpassTurbo: Гравийные дорожки для бега](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-GravelRunTrails.sqlitedb "Скачать эту карту")
+
+[OverpassTurbo: Мусорные баки](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Waste.sqlitedb "Скачать эту карту")
+
+[OverpassTurbo: Питьевая вода](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overpass-Waste.sqlitedb "Скачать эту карту")
 

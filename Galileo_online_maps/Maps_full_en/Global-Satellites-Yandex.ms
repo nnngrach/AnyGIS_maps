@@ -6,7 +6,7 @@
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>19</maxZoom>
+    <maxZoom>18</maxZoom>
     <url>https://anygis.herokuapp.com/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
 </layer>
 

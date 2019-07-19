@@ -26,6 +26,8 @@
 
 [Here Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Here_traffic.xml "Скачать эту карту")
 
+[Waze](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Waze.xml "Скачать эту карту")
+
 [Yandex Карта](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map.xml "Скачать эту карту")
 
 [Yandex Карта (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-City-Yandex_map_proxy.xml "Скачать эту карту")
@@ -133,6 +135,10 @@
 
 
 ### [Глобальные - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Info.xml "Скачать всю группу")
+[Nakarte.me - Геокэшинг](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Geocashing.xml "Скачать эту карту")
+
+[Nakarte.me - Перевалы Вестра](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Westra_Passes.xml "Скачать эту карту")
+
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Wikimapia.xml "Скачать эту карту")
 
 [Wikimapia.org + Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Wikimapia_satellite.xml "Скачать эту карту")
@@ -498,8 +504,6 @@
 
 [Yandex Пробки (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_traffic_proxy.xml "Скачать эту карту")
 
-[Перевалы Вестра](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Westra_Passes.xml "Скачать эту карту")
-
 [Рельеф Mapbox](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_mapbox.xml "Скачать эту карту")
 
 [Рельеф Waymarkedtrails.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_Waymarkedtrails.xml "Скачать эту карту")
@@ -507,4 +511,13 @@
 [Рельеф Windy.com](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Hillshade_Windy.xml "Скачать эту карту")
 
 [РосРеестр - Кадастровые границы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-RosReestr.xml "Скачать эту карту")
+
+
+
+### [Overpass](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Overpass.xml "Скачать всю группу")
+[OverpassTurbo: Гравийные дорожки для бега](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-GravelRunTrails.xml "Скачать эту карту")
+
+[OverpassTurbo: Мусорные баки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
+
+[OverpassTurbo: Питьевая вода](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
 

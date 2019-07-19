@@ -18,14 +18,12 @@
 
 [Yandex Карта](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_map.ms "Скачать эту карту")
 
-[Yandex Пробки](https://anygis.herokuapp.com/download/galileo_ru/Global-City-Yandex_traffic.ms "Скачать эту карту")
-
 
 
 ### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Google_with_labels_ru.ms "Скачать эту карту")
 
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
+[Yandex Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 
 
@@ -59,6 +57,8 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Перевалы Вестра](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Westra_Passes.ms "Скачать эту карту")
+
 [Wikimapia.org](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia.ms "Скачать эту карту")
 
 [Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Info-Wikimapia_satellite.ms "Скачать эту карту")

@@ -61,6 +61,8 @@
 
 
 ### [Глобальные - Справочные](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/_Global-Info.xml "Скачать всю группу")
+[Nakarte.me - Перевалы Вестра](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Westra_Passes.xml "Скачать эту карту")
+
 [Wikimapia.org](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Wikimapia.xml "Скачать эту карту")
 
 [Wikimapia.org + Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Info-Wikimapia_satellite.xml "Скачать эту карту")
@@ -108,6 +110,4 @@
 [Yandex Надписи](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_labels.xml "Скачать эту карту")
 
 [Yandex Пробки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Yandex_traffic.xml "Скачать эту карту")
-
-[Перевалы Вестра](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Westra_Passes.xml "Скачать эту карту")
 

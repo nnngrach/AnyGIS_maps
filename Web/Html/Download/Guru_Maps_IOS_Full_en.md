@@ -26,11 +26,9 @@
 
 [Here Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Here_traffic.ms "Download this map")
 
+[Waze](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Waze.ms "Download this map")
+
 [Yandex Map](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Yandex_map.ms "Download this map")
-
-[Yandex MapEditor](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Yandex_narodnaya.ms "Download this map")
-
-[Yandex Traffic](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-City-Yandex_traffic.ms "Download this map")
 
 
 
@@ -52,8 +50,6 @@
 [Mapbox Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Mapbox.ms "Download this map")
 
 [Yandex Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex.ms "Download this map")
-
-[Yandex Satellite + labels](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex_with_labels.ms "Download this map")
 
 
 
@@ -129,6 +125,10 @@
 
 
 ### Global-Info
+[Nakarte.me - Geocashing](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Geocashing.ms "Download this map")
+
+[Nakarte.me - Westra passes](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Westra_Passes.ms "Download this map")
+
 [Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia.ms "Download this map")
 
 [Wikimapia.org + Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia_satellite.ms "Download this map")
@@ -429,4 +429,13 @@
 [Strelbitsky 1919](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Strelbitsky_1919.ms "Download this map")
 
 [Tver Mende](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Tver_Mende.ms "Download this map")
+
+
+
+### Overpass
+[OverpassTurbo: Drinking Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-Waste.ms "Download this map")
+
+[OverpassTurbo: Gravel Running Trails](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-GravelRunTrails.ms "Download this map")
+
+[OverpassTurbo: Waste Baskets](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-Waste.ms "Download this map")
 

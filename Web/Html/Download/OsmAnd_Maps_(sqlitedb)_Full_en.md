@@ -20,6 +20,8 @@
 
 [Here Terrain](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Here_terrain.sqlitedb "Download this map")
 
+[Waze](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Waze.sqlitedb "Download this map")
+
 [Yandex Map](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Yandex_map.sqlitedb "Download this map")
 
 [Yandex Map (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-City-Yandex_map_proxy.sqlitedb "Download this map")
@@ -101,6 +103,10 @@
 
 
 ### Global-Info
+[Nakarte.me - Geocashing](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Info-Geocashing.sqlitedb "Download this map")
+
+[Nakarte.me - Westra passes](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Info-Westra_Passes.sqlitedb "Download this map")
+
 [Wikimapia.org](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Info-Wikimapia.sqlitedb "Download this map")
 
 
@@ -438,8 +444,6 @@
 
 [Waymarkedtrails.org - Hiking](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-WayMarkedTrails_Hiking.sqlitedb "Download this map")
 
-[Westra Mountain Passes](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Westra_Passes.sqlitedb "Download this map")
-
 [Wigle.net Wi-fi location](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Wiggle_wifi.sqlitedb "Download this map")
 
 [Wigle.net Wi-fi location (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Wiggle_wifi_proxy.sqlitedb "Download this map")
@@ -451,4 +455,13 @@
 [Yandex Traffic](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Yandex_traffic.sqlitedb "Download this map")
 
 [Yandex Traffic (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overlay-Yandex_traffic_proxy.sqlitedb "Download this map")
+
+
+
+### Overpass
+[OverpassTurbo: Drinking Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-Waste.sqlitedb "Download this map")
+
+[OverpassTurbo: Gravel Running Trails](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-GravelRunTrails.sqlitedb "Download this map")
+
+[OverpassTurbo: Waste Baskets](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-Waste.sqlitedb "Download this map")
 

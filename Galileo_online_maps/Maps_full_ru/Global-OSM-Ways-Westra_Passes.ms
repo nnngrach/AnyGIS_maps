@@ -13,7 +13,7 @@
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>19</maxZoom>
+    <maxZoom>18</maxZoom>
     <url>https://anygis.herokuapp.com/Osm_Mapbox_Westra/{$x}/{$y}/{$z}</url>
 </layer>
 

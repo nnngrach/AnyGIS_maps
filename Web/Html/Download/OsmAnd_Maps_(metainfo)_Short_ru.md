@@ -49,6 +49,8 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Перевалы Вестра](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Westra_Passes "Скачать эту карту")
+
 [Wikimapia.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Wikimapia "Скачать эту карту")
 
 

@@ -26,11 +26,9 @@
 
 [Here Пробки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Here_traffic.ms "Скачать эту карту")
 
+[Waze](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Waze.ms "Скачать эту карту")
+
 [Yandex Карта](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_map.ms "Скачать эту карту")
-
-[Yandex Народная](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_narodnaya.ms "Скачать эту карту")
-
-[Yandex Пробки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-City-Yandex_traffic.ms "Скачать эту карту")
 
 
 
@@ -50,8 +48,6 @@
 [Mapbox Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
 [Yandex Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex_with_labels.ms "Скачать эту карту")
 
 [Космоснимки.ру](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
 
@@ -131,6 +127,10 @@
 
 
 ### Глобальные - Справочные
+[Nakarte.me - Геокэшинг](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Geocashing.ms "Скачать эту карту")
+
+[Nakarte.me - Перевалы Вестра](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Westra_Passes.ms "Скачать эту карту")
+
 [Wikimapia.org](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Wikimapia.ms "Скачать эту карту")
 
 [Wikimapia.org + Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Info-Wikimapia_satellite.ms "Скачать эту карту")
@@ -428,4 +428,13 @@
 
 ### Прочее
 [New-Zealand Topomaps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Other-NewZeland_Topo.ms "Скачать эту карту")
+
+
+
+### Overpass
+[OverpassTurbo: Гравийные дорожки для бега](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-GravelRunTrails.ms "Скачать эту карту")
+
+[OverpassTurbo: Мусорные баки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
+
+[OverpassTurbo: Питьевая вода](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
 

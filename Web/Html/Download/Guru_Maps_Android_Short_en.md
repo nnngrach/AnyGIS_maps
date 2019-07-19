@@ -14,6 +14,8 @@
 
 [Google Terrain](https://anygis.herokuapp.com/download/galileo_en/Global-City-Google_terrain.ms "Download this map")
 
+[Waze](https://anygis.herokuapp.com/download/galileo_en/Global-City-Waze.ms "Download this map")
+
 
 
 ### Global - Satellites
@@ -26,8 +28,6 @@
 [Here Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Here.ms "Download this map")
 
 [Mapbox Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
-
-[Yandex Satellite + labels](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Yandex_with_labels.ms "Download this map")
 
 
 
