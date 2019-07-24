@@ -29,6 +29,8 @@
 
 [Yandex Satellite](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex "Download this map")
 
+[Yandex Satellite (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex_proxy "Download this map")
+
 
 
 ### Global - OSM

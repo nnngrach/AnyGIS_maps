@@ -49,6 +49,10 @@
 
 [Mapbox Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Mapbox.ms "Download this map")
 
+[Maxar Premium Imagery](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Maxar_Premium_Imagery.ms "Download this map")
+
+[Maxar Standard Imagery](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Maxar_Standard_Imagery.ms "Download this map")
+
 [Yandex Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Yandex.ms "Download this map")
 
 
@@ -433,7 +437,7 @@
 
 
 ### Overpass
-[OverpassTurbo: Drinking Water](https://anygis.herokuapp.com/download/galileo_en/Overpass-Waste.ms "Download this map")
+[OverpassTurbo: Drinking Water](https://anygis.herokuapp.com/download/galileo_en/Overpass-Drinking_Water.ms "Download this map")
 
 [OverpassTurbo: Gravel Running Trails](https://anygis.herokuapp.com/download/galileo_en/Overpass-GravelRunTrails.ms "Download this map")
 

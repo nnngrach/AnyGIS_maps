@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Mapshoter_Water/{1}/{2}/{0}
+https://anygis.herokuapp.com/Mapshoter_Waste/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

@@ -47,6 +47,10 @@
 
 [Mapbox Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
+[Maxar Premium Imagery](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Maxar_Premium_Imagery.ms "Скачать эту карту")
+
+[Maxar Standard Imagery](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
+
 [Yandex Спутник](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 [Космоснимки.ру](https://anygis.herokuapp.com/download/galileo_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
@@ -434,5 +438,5 @@
 
 [OverpassTurbo: Мусорные баки](https://anygis.herokuapp.com/download/galileo_ru/Overpass-Waste.ms "Скачать эту карту")
 
-[OverpassTurbo: Питьевая вода](https://anygis.herokuapp.com/download/galileo_ru/Overpass-Waste.ms "Скачать эту карту")
+[OverpassTurbo: Питьевая вода](https://anygis.herokuapp.com/download/galileo_ru/Overpass-Drinking_Water.ms "Скачать эту карту")
 

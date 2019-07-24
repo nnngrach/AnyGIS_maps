@@ -47,6 +47,10 @@
 
 [Mapbox Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Mapbox.ms "Скачать эту карту")
 
+[Maxar Premium Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.ms "Скачать эту карту")
+
+[Maxar Standard Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
+
 [Yandex Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 [Космоснимки.ру](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
@@ -434,5 +438,5 @@
 
 [OverpassTurbo: Мусорные баки](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
 
-[OverpassTurbo: Питьевая вода](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Waste.ms "Скачать эту карту")
+[OverpassTurbo: Питьевая вода](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overpass-Drinking_Water.ms "Скачать эту карту")
 

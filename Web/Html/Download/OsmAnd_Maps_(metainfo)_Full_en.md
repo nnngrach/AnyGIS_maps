@@ -45,7 +45,13 @@
 
 [Mapbox Satellite](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Mapbox "Download this map")
 
+[Maxar Premium Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery "Download this map")
+
+[Maxar Standard Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery "Download this map")
+
 [Yandex Satellite](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex "Download this map")
+
+[Yandex Satellite (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex_proxy "Download this map")
 
 
 
@@ -438,10 +444,12 @@
 
 [Yandex Traffic](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic "Download this map")
 
+[Yandex Traffic (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Yandex_traffic_proxy "Download this map")
+
 
 
 ### Overpass
-[OverpassTurbo: Drinking Water](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-Waste "Download this map")
+[OverpassTurbo: Drinking Water](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-Drinking_Water "Download this map")
 
 [OverpassTurbo: Gravel Running Trails](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overpass-GravelRunTrails "Download this map")
 

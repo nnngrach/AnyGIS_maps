@@ -53,6 +53,10 @@
 
 [Mapbox Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Mapbox.xml "Скачать эту карту")
 
+[Maxar Premium Imagery](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Premium_Imagery.xml "Скачать эту карту")
+
+[Maxar Standard Imagery](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Standard_Imagery.xml "Скачать эту карту")
+
 [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
 [Yandex Спутник (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_proxy.xml "Скачать эту карту")
@@ -519,5 +523,5 @@
 
 [OverpassTurbo: Мусорные баки](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
 
-[OverpassTurbo: Питьевая вода](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Waste.xml "Скачать эту карту")
+[OverpassTurbo: Питьевая вода](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overpass-Drinking_Water.xml "Скачать эту карту")
 

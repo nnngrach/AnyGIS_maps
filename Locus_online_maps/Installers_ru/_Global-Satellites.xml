@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 19-07-2019 23:40
+Файл обновлен: 24-07-2019 19:53
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -86,6 +86,24 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Premium_Imagery.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Standard_Imagery.xml]]>
 </dest>
 </download>
 

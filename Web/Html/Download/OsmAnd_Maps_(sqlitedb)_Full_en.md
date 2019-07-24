@@ -45,6 +45,10 @@
 
 [Mapbox Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Mapbox.sqlitedb "Download this map")
 
+[Maxar Premium Imagery](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.sqlitedb "Download this map")
+
+[Maxar Standard Imagery](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery.sqlitedb "Download this map")
+
 [Yandex Satellite](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex.sqlitedb "Download this map")
 
 [Yandex Satellite (proxy)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Global-Satellites-Yandex_proxy.sqlitedb "Download this map")
@@ -459,7 +463,7 @@
 
 
 ### Overpass
-[OverpassTurbo: Drinking Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-Waste.sqlitedb "Download this map")
+[OverpassTurbo: Drinking Water](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-Drinking_Water.sqlitedb "Download this map")
 
 [OverpassTurbo: Gravel Running Trails](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_en/Overpass-GravelRunTrails.sqlitedb "Download this map")
 

@@ -43,7 +43,13 @@
 
 [Mapbox Спутник](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Mapbox "Скачать эту карту")
 
+[Maxar Premium Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Maxar_Premium_Imagery "Скачать эту карту")
+
+[Maxar Standard Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery "Скачать эту карту")
+
 [Yandex Спутник](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex "Скачать эту карту")
+
+[Yandex Спутник (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex_proxy "Скачать эту карту")
 
 [Космоснимки.ру](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Kosmosnimki "Скачать эту карту")
 
@@ -427,6 +433,8 @@
 
 [Yandex Пробки](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_traffic "Скачать эту карту")
 
+[Yandex Пробки (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_traffic_proxy "Скачать эту карту")
+
 [Рельеф Mapbox](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Hillshade_mapbox "Скачать эту карту")
 
 [Рельеф Waymarkedtrails.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Hillshade_Waymarkedtrails "Скачать эту карту")
@@ -442,5 +450,5 @@
 
 [OverpassTurbo: Мусорные баки](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-Waste "Скачать эту карту")
 
-[OverpassTurbo: Питьевая вода](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-Waste "Скачать эту карту")
+[OverpassTurbo: Питьевая вода](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overpass-Drinking_Water "Скачать эту карту")
 

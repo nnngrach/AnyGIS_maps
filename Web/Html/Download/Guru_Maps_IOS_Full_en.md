@@ -49,6 +49,10 @@
 
 [Mapbox Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Mapbox.ms "Download this map")
 
+[Maxar Premium Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.ms "Download this map")
+
+[Maxar Standard Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery.ms "Download this map")
+
 [Yandex Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex.ms "Download this map")
 
 
@@ -433,7 +437,7 @@
 
 
 ### Overpass
-[OverpassTurbo: Drinking Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-Waste.ms "Download this map")
+[OverpassTurbo: Drinking Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-Drinking_Water.ms "Download this map")
 
 [OverpassTurbo: Gravel Running Trails](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overpass-GravelRunTrails.ms "Download this map")
 
