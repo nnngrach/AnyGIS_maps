@@ -3,7 +3,7 @@ https://anygis.herokuapp.com/Sentinel/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]
-17
+15
 [ellipsoid]
 false
 [tile_size]
