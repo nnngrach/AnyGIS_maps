@@ -53,6 +53,8 @@
 
 [Maxar Standard Imagery](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Maxar_Standard_Imagery.ms "Download this map")
 
+[Sentinel](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Sentinel.ms "Download this map")
+
 [Yandex Satellite](https://anygis.herokuapp.com/download/galileo_en/Global-Satellites-Yandex.ms "Download this map")
 
 
@@ -433,6 +435,29 @@
 [Strelbitsky 1919](https://anygis.herokuapp.com/download/galileo_en/Hystoric-Strelbitsky_1919.ms "Download this map")
 
 [Tver Mende](https://anygis.herokuapp.com/download/galileo_en/Hystoric-Tver_Mende.ms "Download this map")
+
+
+
+### Overlay
+[Strava Heatmap - All](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_All_SD.ms "Download this map")
+
+[Strava Heatmap - All (Bluered)](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_All_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Ride_SD.ms "Download this map")
+
+[Strava Heatmap - Ride (Bluered)](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Ride_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Run](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Run_SD.ms "Download this map")
+
+[Strava Heatmap - Run (Bluered)](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Run_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Water](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Water_SD.ms "Download this map")
+
+[Strava Heatmap - Water (Bluered)](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Water_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Winter](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Winter_SD.ms "Download this map")
+
+[Strava Heatmap - Winter (Bluered)](https://anygis.herokuapp.com/download/galileo_en/Overlay-Strava_Winter_Bluered_SD.ms "Download this map")
 
 
 

@@ -53,6 +53,8 @@
 
 [Maxar Standard Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery.ms "Download this map")
 
+[Sentinel](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Sentinel.ms "Download this map")
+
 [Yandex Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Satellites-Yandex.ms "Download this map")
 
 
@@ -433,6 +435,29 @@
 [Strelbitsky 1919](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Strelbitsky_1919.ms "Download this map")
 
 [Tver Mende](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Hystoric-Tver_Mende.ms "Download this map")
+
+
+
+### Overlay
+[Strava Heatmap - All](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_All_SD.ms "Download this map")
+
+[Strava Heatmap - All (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_All_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Ride_SD.ms "Download this map")
+
+[Strava Heatmap - Ride (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Ride_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Run_SD.ms "Download this map")
+
+[Strava Heatmap - Run (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Run_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Water_SD.ms "Download this map")
+
+[Strava Heatmap - Water (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Water_Bluered_SD.ms "Download this map")
+
+[Strava Heatmap - Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Winter_SD.ms "Download this map")
+
+[Strava Heatmap - Winter (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Winter_Bluered_SD.ms "Download this map")
 
 
 

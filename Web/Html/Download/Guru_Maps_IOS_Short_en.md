@@ -69,3 +69,16 @@
 
 [Wikimapia.org + Satellite](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-Info-Wikimapia_satellite.ms "Download this map")
 
+
+
+### Overlay
+[Strava Heatmap - All](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_All_SD.ms "Download this map")
+
+[Strava Heatmap - Ride](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Ride_SD.ms "Download this map")
+
+[Strava Heatmap - Run](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Run_SD.ms "Download this map")
+
+[Strava Heatmap - Water](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Water_SD.ms "Download this map")
+
+[Strava Heatmap - Winter](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Overlay-Strava_Winter_SD.ms "Download this map")
+

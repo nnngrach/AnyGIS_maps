@@ -57,6 +57,8 @@
 
 [Maxar Standard Imagery](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Maxar_Standard_Imagery.xml "Скачать эту карту")
 
+[Sentinel](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Sentinel.xml "Скачать эту карту")
+
 [Yandex Спутник](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex.xml "Скачать эту карту")
 
 [Yandex Спутник (proxy)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-Satellites-Yandex_proxy.xml "Скачать эту карту")
@@ -474,25 +476,25 @@
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-OpenSreetMaps_Tracks.xml "Скачать эту карту")
 
-[Strava Heatmap - All 512](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All_HD.xml "Скачать эту карту")
+[Strava Heatmap - All 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - All 512 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All_Bluered_HD.xml "Скачать эту карту")
+[Strava Heatmap - All 256 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_All_Bluered_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Ride 512](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride_HD.xml "Скачать эту карту")
+[Strava Heatmap - Ride 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Ride 512 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride_Bluered_HD.xml "Скачать эту карту")
+[Strava Heatmap - Ride 256 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Ride_Bluered_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Run 512](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run_HD.xml "Скачать эту карту")
+[Strava Heatmap - Run 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Run 512 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run_Bluered_HD.xml "Скачать эту карту")
+[Strava Heatmap - Run 256 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Run_Bluered_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Water 512](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water_HD.xml "Скачать эту карту")
+[Strava Heatmap - Water 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Water 512 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water_Bluered_HD.xml "Скачать эту карту")
+[Strava Heatmap - Water 256 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Water_Bluered_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Winter 512](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter_HD.xml "Скачать эту карту")
+[Strava Heatmap - Winter 256](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter_SD.xml "Скачать эту карту")
 
-[Strava Heatmap - Winter 512 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter_Bluered_HD.xml "Скачать эту карту")
+[Strava Heatmap - Winter 256 (Bluered)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-Strava_Winter_Bluered_SD.xml "Скачать эту карту")
 
 [Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Overlay-WayMarkedTrails_Cycling.xml "Скачать эту карту")
 

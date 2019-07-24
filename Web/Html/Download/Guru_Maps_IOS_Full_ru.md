@@ -51,6 +51,8 @@
 
 [Maxar Standard Imagery](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery.ms "Скачать эту карту")
 
+[Sentinel](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Sentinel.ms "Скачать эту карту")
+
 [Yandex Спутник](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Yandex.ms "Скачать эту карту")
 
 [Космоснимки.ру](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.ms "Скачать эту карту")
@@ -430,6 +432,29 @@
 
 ### Прочее
 [New-Zealand Topomaps](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Other-NewZeland_Topo.ms "Скачать эту карту")
+
+
+
+### Overlay
+[Strava Heatmap - All 256](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_All_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - All 256 (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_All_Bluered_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Ride 256](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Ride_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Ride 256 (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Ride_Bluered_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Run 256](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Run_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Run 256 (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Run_Bluered_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Water 256](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Water_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Water 256 (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Water_Bluered_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Winter 256](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Winter_SD.ms "Скачать эту карту")
+
+[Strava Heatmap - Winter 256 (Bluered)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Overlay-Strava_Winter_Bluered_SD.ms "Скачать эту карту")
 
 
 

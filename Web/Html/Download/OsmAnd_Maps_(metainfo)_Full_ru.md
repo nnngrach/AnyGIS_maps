@@ -47,6 +47,8 @@
 
 [Maxar Standard Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Maxar_Standard_Imagery "Скачать эту карту")
 
+[Sentinel](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Sentinel "Скачать эту карту")
+
 [Yandex Спутник](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex "Скачать эту карту")
 
 [Yandex Спутник (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex_proxy "Скачать эту карту")
@@ -401,25 +403,35 @@
 
 [OpenSnowMap Лыжные трассы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-OpenSnowMap_pistes "Скачать эту карту")
 
+[Strava Heatmap - All 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_SD "Скачать эту карту")
+
+[Strava Heatmap - All 256 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_Bluered_SD "Скачать эту карту")
+
 [Strava Heatmap - All 512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_HD "Скачать эту карту")
 
-[Strava Heatmap - All 512 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_Bluered_HD "Скачать эту карту")
+[Strava Heatmap - Ride 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_SD "Скачать эту карту")
+
+[Strava Heatmap - Ride 256 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_Bluered_SD "Скачать эту карту")
 
 [Strava Heatmap - Ride 512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_HD "Скачать эту карту")
 
-[Strava Heatmap - Ride 512 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_Bluered_HD "Скачать эту карту")
+[Strava Heatmap - Run 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_SD "Скачать эту карту")
+
+[Strava Heatmap - Run 256 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_Bluered_SD "Скачать эту карту")
 
 [Strava Heatmap - Run 512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_HD "Скачать эту карту")
 
-[Strava Heatmap - Run 512 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_Bluered_HD "Скачать эту карту")
+[Strava Heatmap - Water 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_SD "Скачать эту карту")
+
+[Strava Heatmap - Water 256 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_Bluered_SD "Скачать эту карту")
 
 [Strava Heatmap - Water 512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_HD "Скачать эту карту")
 
-[Strava Heatmap - Water 512 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_Bluered_HD "Скачать эту карту")
+[Strava Heatmap - Winter 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_SD "Скачать эту карту")
+
+[Strava Heatmap - Winter 256 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_Bluered_SD "Скачать эту карту")
 
 [Strava Heatmap - Winter 512](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_HD "Скачать эту карту")
-
-[Strava Heatmap - Winter 512 (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_Bluered_HD "Скачать эту карту")
 
 [Waymarkedtrails.org - Cycling](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-WayMarkedTrails_Cycling "Скачать эту карту")
 

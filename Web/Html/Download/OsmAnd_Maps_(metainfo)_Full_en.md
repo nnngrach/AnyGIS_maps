@@ -49,6 +49,8 @@
 
 [Maxar Standard Imagery](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery "Download this map")
 
+[Sentinel](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Sentinel "Download this map")
+
 [Yandex Satellite](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex "Download this map")
 
 [Yandex Satellite (proxy)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Global-Satellites-Yandex_proxy "Download this map")
@@ -412,25 +414,35 @@
 
 [RosReestr](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-RosReestr "Download this map")
 
+[Strava Heatmap - All](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_All_SD "Download this map")
+
 [Strava Heatmap - All](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_All_HD "Download this map")
 
-[Strava Heatmap - All (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_All_Bluered_HD "Download this map")
+[Strava Heatmap - All (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_All_Bluered_SD "Download this map")
+
+[Strava Heatmap - Ride](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Ride_SD "Download this map")
 
 [Strava Heatmap - Ride](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Ride_HD "Download this map")
 
-[Strava Heatmap - Ride (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Ride_Bluered_HD "Download this map")
+[Strava Heatmap - Ride (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Ride_Bluered_SD "Download this map")
+
+[Strava Heatmap - Run](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Run_SD "Download this map")
 
 [Strava Heatmap - Run](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Run_HD "Download this map")
 
-[Strava Heatmap - Run (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Run_Bluered_HD "Download this map")
+[Strava Heatmap - Run (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Run_Bluered_SD "Download this map")
+
+[Strava Heatmap - Water](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Water_SD "Download this map")
 
 [Strava Heatmap - Water](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Water_HD "Download this map")
 
-[Strava Heatmap - Water (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Water_Bluered_HD "Download this map")
+[Strava Heatmap - Water (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Water_Bluered_SD "Download this map")
+
+[Strava Heatmap - Winter](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Winter_SD "Download this map")
 
 [Strava Heatmap - Winter](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Winter_HD "Download this map")
 
-[Strava Heatmap - Winter (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Winter_Bluered_HD "Download this map")
+[Strava Heatmap - Winter (Bluered)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-Strava_Winter_Bluered_SD "Download this map")
 
 [Waymarkedtrails.org - Cycling](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_en/Overlay-WayMarkedTrails_Cycling "Download this map")
 

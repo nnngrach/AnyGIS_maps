@@ -79,6 +79,8 @@
 
 [OpenStreetMap GPS Tracks](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-OpenSreetMaps_Tracks.sqlitedb "Скачать эту карту")
 
+[Strava Heatmap - All 256](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Strava_All_SD.sqlitedb "Скачать эту карту")
+
 [Strava Heatmap - Ride 256](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Strava_Ride_SD.sqlitedb "Скачать эту карту")
 
 [Strava Heatmap - Run 256](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Overlay-Strava_Run_SD.sqlitedb "Скачать эту карту")

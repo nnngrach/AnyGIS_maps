@@ -90,13 +90,15 @@
 
 [OpenStreetMap GPS Tracks](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-OpenSreetMaps_Tracks.xml "Download this map")
 
-[Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Ride_HD.xml "Download this map")
+[Strava Heatmap - All](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_All_SD.xml "Download this map")
 
-[Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Run_HD.xml "Download this map")
+[Strava Heatmap - Ride](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Ride_SD.xml "Download this map")
 
-[Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Water_HD.xml "Download this map")
+[Strava Heatmap - Run](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Run_SD.xml "Download this map")
 
-[Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Winter_HD.xml "Download this map")
+[Strava Heatmap - Water](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Water_SD.xml "Download this map")
+
+[Strava Heatmap - Winter](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-Strava_Winter_SD.xml "Download this map")
 
 [Waymarkedtrails.org - Cycling](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Overlay-WayMarkedTrails_Cycling.xml "Download this map")
 
