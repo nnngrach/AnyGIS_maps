@@ -294,7 +294,7 @@
 
 
 
-### Евразия - Справочнные
+### Евразия - Справочные
 [Tele2](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-Tele2.ms "Скачать эту карту")
 
 [Yota](https://anygis.herokuapp.com/download/galileo_ru/Eurasia-Info-Yota.ms "Скачать эту карту")

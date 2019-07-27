@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <aqx version="6">
 
-<name>Евразия - Справочнные</name>
-<description>Евразия - Справочнные</description>
+<name>Евразия - Справочные</name>
+<description>Евразия - Справочные</description>
 
     <source id="329999042" layer="true">
         <name>РосРеестр - Кадастровые границы</name>
@@ -25,8 +25,8 @@
 </aqx><?xml version="1.0" encoding="utf-8" ?>
 <aqx version="6">
 
-<name>Евразия - Справочнные</name>
-<description>Евразия - Справочнные</description>
+<name>Евразия - Справочные</name>
+<description>Евразия - Справочные</description>
 
     <source id="10732" layer="true">
         <name>РосРеестр - Кадастровые границы</name>

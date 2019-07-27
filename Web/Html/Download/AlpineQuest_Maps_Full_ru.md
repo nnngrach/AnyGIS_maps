@@ -334,7 +334,7 @@
 
 
 
-### Евразия - Справочнные
+### Евразия - Справочные
 [Tele2](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
 
 [Tele2](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
