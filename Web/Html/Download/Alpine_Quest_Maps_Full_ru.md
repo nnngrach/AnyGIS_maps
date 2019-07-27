@@ -6,7 +6,7 @@
 [03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-# Скачать карты для AlpineQuest Maps
+# Скачать карты для Alpine Quest Maps
 
 
 ### Глобальные - Городские
@@ -14,23 +14,15 @@
 
 [Bing Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Bing_map.AQX "Скачать эту карту")
 
-[Bing Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Bing_map.AQX "Скачать эту карту")
-
 [Google Карта RU](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Google_map_ru.AQX "Скачать эту карту")
 
 [Google Ландшафт RU](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Google_terrain_ru.AQX "Скачать эту карту")
-
-[Google Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Google_traffic.AQX "Скачать эту карту")
 
 [Here Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Here_map.AQX "Скачать эту карту")
 
 [Here Ландшафт](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Here_terrain.AQX "Скачать эту карту")
 
-[Here Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Here_traffic.AQX "Скачать эту карту")
-
 [Waze Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Waze.AQX "Скачать эту карту")
-
-[Yandex Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
 [Yandex Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
@@ -38,18 +30,10 @@
 
 [Yandex Народная](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_narodnaya.AQX "Скачать эту карту")
 
-[Yandex Народная](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_narodnaya.AQX "Скачать эту карту")
-
-[Yandex Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_traffic.AQX "Скачать эту карту")
-
-[Yandex Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_traffic.AQX "Скачать эту карту")
-
 
 
 ### Глобальные - Спутниковые
 [AnyGIS Спутниковый сборник](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-All.AQX "Скачать эту карту")
-
-[Bing Bird's Eye](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Bing_birds_eye.AQX "Скачать эту карту")
 
 [Bing Bird's Eye](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Bing_birds_eye.AQX "Скачать эту карту")
 
@@ -71,15 +55,7 @@
 
 [Yandex Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
 
-[Yandex Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
-
 [Yandex Спутник (proxy)](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex_proxy.AQX "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex_with_labels.AQX "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex_with_labels.AQX "Скачать эту карту")
-
-[Космоснимки.ру](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
 [Космоснимки.ру](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Kosmosnimki.AQX "Скачать эту карту")
 
@@ -98,19 +74,9 @@
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapnik_Proxy.AQX "Скачать эту карту")
 
-[Mapnik + Рельеф](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapnik_Hillshade.AQX "Скачать эту карту")
-
-[Mapsurfer](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapsurfer.AQX "Скачать эту карту")
-
-[Mapy Tourists](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapy_Tourists.AQX "Скачать эту карту")
-
 [Michelin transport](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Michelin.AQX "Скачать эту карту")
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
-
-[OpenTopoMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
-
-[OpenTopoMap proxy](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap_proxy.AQX "Скачать эту карту")
 
 [Opnvkarte.de](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Opnvkarte.AQX "Скачать эту карту")
 
@@ -123,46 +89,22 @@
 
 
 ### Глобальные - OSM - Ways
-[Mapnik + GPS треки](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.AQX "Скачать эту карту")
-
 [Mapy Winter](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Mapy_Winter.AQX "Скачать эту карту")
 
 [Mtbmap.cz](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-MTB_Map_Europe.AQX "Скачать эту карту")
 
-[OpenSnowMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-OpenSnowMap.AQX "Скачать эту карту")
-
-[Strava Heatmap - All](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_All.AQX "Скачать эту карту")
-
-[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Ride.AQX "Скачать эту карту")
-
-[Strava Heatmap - Run](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Run.AQX "Скачать эту карту")
-
-[Strava Heatmap - Water](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Water.AQX "Скачать эту карту")
-
-[Strava Heatmap - Winter](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Winter.AQX "Скачать эту карту")
-
 [Thunderforest Cycle](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Thunderforest_Cycle.AQX "Скачать эту карту")
 
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Скачать эту карту")
-
-[Перевалы Вестра + Ourdoor](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Westra_Passes.AQX "Скачать эту карту")
 
 
 
 ### Глобальные - Водные
 [ESRI Ocean](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-ERSI_ocean.AQX "Скачать эту карту")
 
-[Navionics + OSM](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-Navionics_OSM.AQX "Скачать эту карту")
-
 [Navionics Marine Charts](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
 [Navionics Sonar Charts](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-Navionics_Sonar_Charts.AQX "Скачать эту карту")
-
-[Open Sea Map](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-OpenSeaMap.AQX "Скачать эту карту")
-
-[Open Sea Map + Карта глубин](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-OpenSeaMap_deep.AQX "Скачать эту карту")
-
-[Open Sea Map + Морской траффик](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-OpenSeaMap_traffic.AQX "Скачать эту карту")
 
 
 
@@ -171,11 +113,7 @@
 
 [Nakarte.me - Перевалы Вестра](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Westra_Passes.AQX "Скачать эту карту")
 
-[Wigle.net Wi-fi location (proxy)](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Wigle_wifi.AQX "Скачать эту карту")
-
 [Wikimapia.org](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Wikimapia.AQX "Скачать эту карту")
-
-[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Wikimapia_satellite.AQX "Скачать эту карту")
 
 
 
@@ -233,8 +171,6 @@
 
 
 ### Евразия - Туристические - Многослойные
-[RusOutdoor maps](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
-
 [RusOutdoor maps](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
 
 [RusOutdoor maps (lite)](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.AQX "Скачать эту карту")
@@ -337,23 +273,11 @@
 ### Евразия - Справочные
 [Tele2](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
 
-[Tele2](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Tele2.AQX "Скачать эту карту")
-
 [Yota](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
-
-[Yota](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Yota.AQX "Скачать эту карту")
-
-[Карта уклонов](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Slopemap.AQX "Скачать эту карту")
-
-[МТС](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
 
 [МТС](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-MTS.AQX "Скачать эту карту")
 
 [Мегафон](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
-
-[Мегафон](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-Megafon.AQX "Скачать эту карту")
-
-[РосРеестр - Кадастровые границы](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Info-RosReestr.AQX "Скачать эту карту")
 
 
 
@@ -415,18 +339,12 @@
 
 [Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/alpine_ru/Europe-Eastern-CadastrUA_overlay.AQX "Скачать эту карту")
 
-[Ukraine - Кадастровая карта](https://anygis.herokuapp.com/download/alpine_ru/Europe-Eastern-CadastrUA_overlay.AQX "Скачать эту карту")
-
 [Беларусь Генштаб](https://anygis.herokuapp.com/download/alpine_ru/Europe-Eastern-Belarus_Genshtab.AQX "Скачать эту карту")
 
 
 
 ### Европа - Северная
 [Eniro](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Eniro.AQX "Скачать эту карту")
-
-[Eniro + Navionics](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Eniro_Navionics.AQX "Скачать эту карту")
-
-[Eniro Hybrid](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Eniro_hybrid.AQX "Скачать эту карту")
 
 [Eniro Satellite](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Eniro_satellite.AQX "Скачать эту карту")
 
@@ -441,10 +359,6 @@
 [Hitta](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Hitta.AQX "Скачать эту карту")
 
 [Hitta Frilufts](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Hitta_Frilufts.AQX "Скачать эту карту")
-
-[Skoterleder](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Skoterleder.AQX "Скачать эту карту")
-
-[Hitta Frilufts + Skoterleder](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Hitta_Frilufts_Skoterleder.AQX "Скачать эту карту")
 
 [Hitta Satellit](https://anygis.herokuapp.com/download/alpine_ru/Europe-Northern-Hitta_Satellit.AQX "Скачать эту карту")
 
@@ -466,8 +380,6 @@
 
 ### Европа - Западная
 [France Topo IGN.fr](https://anygis.herokuapp.com/download/alpine_ru/Europe-Western-France_topo.AQX "Скачать эту карту")
-
-[Great Britain Topo](https://anygis.herokuapp.com/download/alpine_ru/Europe-Western-GB_topo.AQX "Скачать эту карту")
 
 [Great Britain Topo](https://anygis.herokuapp.com/download/alpine_ru/Europe-Western-GB_topo.AQX "Скачать эту карту")
 
@@ -508,8 +420,6 @@
 
 [Google Пробки](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Google_traffic.AQX "Скачать эту карту")
 
-[Google Пробки](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Google_traffic_proxy.AQX "Скачать эту карту")
-
 [Here Пробки](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Here_traffic.AQX "Скачать эту карту")
 
 [Hillshade Карта уклонов](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Hillshade_Slopemap.AQX "Скачать эту карту")
@@ -530,49 +440,27 @@
 
 [Strava Heatmap - All 256 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_All_Bluered_SD.AQX "Скачать эту карту")
 
-[Strava Heatmap - All 512](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_All_HD.AQX "Скачать эту карту")
-
-[Strava Heatmap - All 512 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_All_Bluered_HD.AQX "Скачать эту карту")
-
 [Strava Heatmap - Ride 256](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Ride_SD.AQX "Скачать эту карту")
 
 [Strava Heatmap - Ride 256 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Ride_Bluered_SD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Ride 512](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Ride_HD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Ride 512 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Ride_Bluered_HD.AQX "Скачать эту карту")
 
 [Strava Heatmap - Run 256](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Run_SD.AQX "Скачать эту карту")
 
 [Strava Heatmap - Run 256 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Run_Bluered_SD.AQX "Скачать эту карту")
 
-[Strava Heatmap - Run 512](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Run_HD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Run 512 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Run_Bluered_HD.AQX "Скачать эту карту")
-
 [Strava Heatmap - Water 256](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Water_SD.AQX "Скачать эту карту")
 
 [Strava Heatmap - Water 256 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Water_Bluered_SD.AQX "Скачать эту карту")
 
-[Strava Heatmap - Water 512](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Water_HD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Water 512 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Water_Bluered_HD.AQX "Скачать эту карту")
-
 [Strava Heatmap - Winter 256](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Winter_SD.AQX "Скачать эту карту")
 
 [Strava Heatmap - Winter 256 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Winter_Bluered_SD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Winter 512](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Winter_HD.AQX "Скачать эту карту")
-
-[Strava Heatmap - Winter 512 (Bluered)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Strava_Winter_Bluered_HD.AQX "Скачать эту карту")
 
 [Waymarkedtrails.org - Cycling](https://anygis.herokuapp.com/download/alpine_ru/Overlay-WayMarkedTrails_Cycling.AQX "Скачать эту карту")
 
 [Waymarkedtrails.org - Hiking](https://anygis.herokuapp.com/download/alpine_ru/Overlay-WayMarkedTrails_Hiking.AQX "Скачать эту карту")
 
 [Wigle.net Wi-fi location](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Wiggle_wifi.AQX "Скачать эту карту")
-
-[Wigle.net Wi-fi location (proxy)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Wiggle_wifi_proxy.AQX "Скачать эту карту")
 
 [Wikimapia.org](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Wikimapia.AQX "Скачать эту карту")
 
@@ -581,8 +469,6 @@
 [Yandex Пробки](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Yandex_traffic.AQX "Скачать эту карту")
 
 [Yandex Пробки (proxy)](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Yandex_traffic_proxy.AQX "Скачать эту карту")
-
-[Перевалы Вестра](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Westra_Passes.AQX "Скачать эту карту")
 
 [Рельеф Mapbox](https://anygis.herokuapp.com/download/alpine_ru/Overlay-Hillshade_mapbox.AQX "Скачать эту карту")
 
@@ -601,6 +487,3 @@
 
 [OverpassTurbo: Питьевая вода](https://anygis.herokuapp.com/download/alpine_ru/Overpass-Drinking_Water.AQX "Скачать эту карту")
 
-
-
-### Background

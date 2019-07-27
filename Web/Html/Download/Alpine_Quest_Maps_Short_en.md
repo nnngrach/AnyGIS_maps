@@ -6,7 +6,7 @@
 [03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
-# Download maps for AlpineQuest Maps
+# Download maps for Alpine Quest Maps
 
 
 ### Global - City
@@ -21,8 +21,6 @@
 ### Global - Satellites
 [Bing Bird's Eye](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Bing_birds_eye.AQX "Download this map")
 
-[Bing Bird's Eye](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Bing_birds_eye.AQX "Download this map")
-
 [ESRI World Imagenary](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-ESRI_Imagenary.AQX "Download this map")
 
 [Google Satellite + labels](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Google_with_labels.AQX "Download this map")
@@ -35,10 +33,6 @@
 
 [Yandex Satellite (proxy)](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Yandex_proxy.AQX "Download this map")
 
-[Yandex Satellite + labels](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Yandex_with_labels.AQX "Download this map")
-
-[Yandex Satellite + labels](https://anygis.herokuapp.com/download/alpine_en/Global-Satellites-Yandex_with_labels.AQX "Download this map")
-
 
 
 ### Global - OSM
@@ -48,22 +42,12 @@
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-OpenTopoMap.AQX "Download this map")
 
-[OpenTopoMap](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-OpenTopoMap.AQX "Download this map")
-
-[OpenTopoMap proxy](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-OpenTopoMap_proxy.AQX "Download this map")
-
 [Opnvkarte.de](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Opnvkarte.AQX "Download this map")
 
 
 
 ### Global - OSM - Ways
 [Mtbmap.cz](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Ways-MTB_Map_Europe.AQX "Download this map")
-
-[OpenSnowMap](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Ways-OpenSnowMap.AQX "Download this map")
-
-[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Ways-Strava_Ride.AQX "Download this map")
-
-[Strava Heatmap - Run](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Ways-Strava_Run.AQX "Download this map")
 
 [Thunderforest Cycle](https://anygis.herokuapp.com/download/alpine_en/Global-OSM-Ways-Thunderforest_Cycle.AQX "Download this map")
 
@@ -74,14 +58,10 @@
 ### Global - Nautical
 [Navionics Marine Charts](https://anygis.herokuapp.com/download/alpine_en/Global-Water-Navionics_Marine_Charts.AQX "Download this map")
 
-[Open Sea Map](https://anygis.herokuapp.com/download/alpine_en/Global-Water-OpenSeaMap.AQX "Download this map")
-
 
 
 ### Global-Info
 [Wikimapia.org](https://anygis.herokuapp.com/download/alpine_en/Global-Info-Wikimapia.AQX "Download this map")
-
-[Wikimapia.org + Satellite](https://anygis.herokuapp.com/download/alpine_en/Global-Info-Wikimapia_satellite.AQX "Download this map")
 
 
 
@@ -102,19 +82,11 @@
 
 [Strava Heatmap - Ride](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Ride_SD.AQX "Download this map")
 
-[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Ride_HD.AQX "Download this map")
-
 [Strava Heatmap - Run](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Run_SD.AQX "Download this map")
-
-[Strava Heatmap - Run](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Run_HD.AQX "Download this map")
 
 [Strava Heatmap - Water](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Water_SD.AQX "Download this map")
 
-[Strava Heatmap - Water](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Water_HD.AQX "Download this map")
-
 [Strava Heatmap - Winter](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Winter_SD.AQX "Download this map")
-
-[Strava Heatmap - Winter](https://anygis.herokuapp.com/download/alpine_en/Overlay-Strava_Winter_HD.AQX "Download this map")
 
 [Waymarkedtrails.org - Cycling](https://anygis.herokuapp.com/download/alpine_en/Overlay-WayMarkedTrails_Cycling.AQX "Download this map")
 

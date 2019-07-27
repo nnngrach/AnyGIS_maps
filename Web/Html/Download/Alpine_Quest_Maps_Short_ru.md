@@ -6,7 +6,7 @@
 [03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-# Скачать карты для AlpineQuest Maps
+# Скачать карты для Alpine Quest Maps
 
 
 ### Глобальные - Городские
@@ -18,20 +18,12 @@
 
 [Yandex Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
 
-[Yandex Карта](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_map.AQX "Скачать эту карту")
-
-[Yandex Пробки](https://anygis.herokuapp.com/download/alpine_ru/Global-City-Yandex_traffic.AQX "Скачать эту карту")
-
 
 
 ### Глобальные - Спутниковые
 [Google Спутник (гибрид) RU](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Google_with_labels_ru.AQX "Скачать эту карту")
 
 [Yandex Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
-
-[Yandex Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex.AQX "Скачать эту карту")
-
-[Yandex Спутник (гибрид)](https://anygis.herokuapp.com/download/alpine_ru/Global-Satellites-Yandex_with_labels.AQX "Скачать эту карту")
 
 
 
@@ -42,17 +34,9 @@
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
 
-[OpenTopoMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")
-
 
 
 ### Глобальные - OSM - Ways
-[OpenSnowMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-OpenSnowMap.AQX "Скачать эту карту")
-
-[Strava Heatmap - Ride](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Ride.AQX "Скачать эту карту")
-
-[Strava Heatmap - Run](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Strava_Run.AQX "Скачать эту карту")
-
 [Thunderforest Cycle](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Thunderforest_Cycle.AQX "Скачать эту карту")
 
 [Thunderforest Outdoor](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Ways-Thunderforest_Outdoor.AQX "Скачать эту карту")
@@ -62,16 +46,12 @@
 ### Глобальные - Водные
 [Navionics Marine Charts](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-Navionics_Marine_Charts.AQX "Скачать эту карту")
 
-[Open Sea Map](https://anygis.herokuapp.com/download/alpine_ru/Global-Water-OpenSeaMap.AQX "Скачать эту карту")
-
 
 
 ### Глобальные - Справочные
 [Nakarte.me - Перевалы Вестра](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Westra_Passes.AQX "Скачать эту карту")
 
 [Wikimapia.org](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Wikimapia.AQX "Скачать эту карту")
-
-[Wikimapia.org + Спутник](https://anygis.herokuapp.com/download/alpine_ru/Global-Info-Wikimapia_satellite.AQX "Скачать эту карту")
 
 
 
@@ -86,8 +66,6 @@
 
 
 ### Евразия - Туристические - Многослойные
-[RusOutdoor maps](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
-
 [RusOutdoor maps](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.AQX "Скачать эту карту")
 
 [RusOutdoor maps (lite)](https://anygis.herokuapp.com/download/alpine_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.AQX "Скачать эту карту")
