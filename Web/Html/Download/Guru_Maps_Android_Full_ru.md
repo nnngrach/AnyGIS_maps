@@ -415,7 +415,7 @@
 
 [Чехия - Географическая](https://anygis.herokuapp.com/download/galileo_ru/Europe-Central-Czech_geo.ms "Скачать эту карту")
 
-[Чехия - Зимниие тропы](https://anygis.herokuapp.com/download/galileo_ru/Europe-Central-Czech_winter.ms "Скачать эту карту")
+[Чехия - Зимние тропы](https://anygis.herokuapp.com/download/galileo_ru/Europe-Central-Czech_winter.ms "Скачать эту карту")
 
 [Чехия - Тропы](https://anygis.herokuapp.com/download/galileo_ru/Europe-Central-Czech_tourist.ms "Скачать эту карту")
 

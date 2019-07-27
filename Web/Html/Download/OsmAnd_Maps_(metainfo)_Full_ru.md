@@ -368,7 +368,7 @@
 
 [Чехия - Географическая](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Central-Czech_geo "Скачать эту карту")
 
-[Чехия - Зимниие тропы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Central-Czech_winter "Скачать эту карту")
+[Чехия - Зимние тропы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Central-Czech_winter "Скачать эту карту")
 
 [Чехия - Тропы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Europe-Central-Czech_tourist "Скачать эту карту")
 

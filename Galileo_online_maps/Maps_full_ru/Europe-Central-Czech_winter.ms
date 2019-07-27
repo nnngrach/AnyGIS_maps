@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <customMapSource>
-<name>Чехия - Зимниие тропы</name>
+<name>Чехия - Зимние тропы</name>
 <layers>
 
 <layer>

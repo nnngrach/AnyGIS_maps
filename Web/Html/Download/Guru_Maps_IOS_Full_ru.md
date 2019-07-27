@@ -415,7 +415,7 @@
 
 [Чехия - Географическая](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Central-Czech_geo.ms "Скачать эту карту")
 
-[Чехия - Зимниие тропы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Central-Czech_winter.ms "Скачать эту карту")
+[Чехия - Зимние тропы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Central-Czech_winter.ms "Скачать эту карту")
 
 [Чехия - Тропы](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_ru/Europe-Central-Czech_tourist.ms "Скачать эту карту")
 

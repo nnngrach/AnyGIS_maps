@@ -483,7 +483,7 @@
 
 [Чехия - Географическая](https://anygis.herokuapp.com/download/alpine_ru/Europe-Central-Czech_geo.AQX "Скачать эту карту")
 
-[Чехия - Зимниие тропы](https://anygis.herokuapp.com/download/alpine_ru/Europe-Central-Czech_winter.AQX "Скачать эту карту")
+[Чехия - Зимние тропы](https://anygis.herokuapp.com/download/alpine_ru/Europe-Central-Czech_winter.AQX "Скачать эту карту")
 
 [Чехия - Тропы](https://anygis.herokuapp.com/download/alpine_ru/Europe-Central-Czech_tourist.AQX "Скачать эту карту")
 

@@ -435,7 +435,7 @@
 
 [Чехия - Географическая](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_geo.xml "Скачать эту карту")
 
-[Чехия - Зимниие тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_winter.xml "Скачать эту карту")
+[Чехия - Зимние тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_winter.xml "Скачать эту карту")
 
 [Чехия - Тропы](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Europe-Central-Czech_tourist.xml "Скачать эту карту")
 

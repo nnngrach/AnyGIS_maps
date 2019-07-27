@@ -374,7 +374,7 @@
 
 [Чехия - Географическая](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_geo.sqlitedb "Скачать эту карту")
 
-[Чехия - Зимниие тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_winter.sqlitedb "Скачать эту карту")
+[Чехия - Зимние тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_winter.sqlitedb "Скачать эту карту")
 
 [Чехия - Тропы](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Europe-Central-Czech_tourist.sqlitedb "Скачать эту карту")
 
