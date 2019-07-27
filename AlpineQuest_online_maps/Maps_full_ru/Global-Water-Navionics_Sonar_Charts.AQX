@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Глобальные - Водные</name>
+<description>Глобальные - Водные</description>
+
+    <source id="190008" layer="true">
+        <name>Navionics Sonar Charts</name>
+        <copyright>Navionics Sonar Charts</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+
+            <servers>
+                <referer><![CDATA[http://webapp.navionics.com/]]></referer>
+                <server><![CDATA[http://anygis.herokuapp.com/Navionics_Sonar_Charts/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

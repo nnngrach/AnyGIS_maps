@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Евразия - Туристические - Московская область</name>
+<description>Евразия - Туристические - Московская область</description>
+
+    <source id="101001" layer="true">
+        <name>Атлас издательства "Арбалет"</name>
+        <copyright>Атлас издательства "Арбалет"</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            <expression set="invY" type="int">0-y</expression>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+
+            <servers>
+                <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
+                <server><![CDATA[http://tiles.nakarte.me/ArbaletMO/{z}/{x}/{invY}]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

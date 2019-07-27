@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Global - Satellites</name>
+<description>Global - Satellites</description>
+
+    <source id="468334" layer="true">
+        <name>Maxar Premium Imagery</name>
+        <copyright>Maxar Premium Imagery</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            <expression set="invY" type="int">0-y</expression>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{z}/{x}/{invY}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Европа - Восточная</name>
+<description>Европа - Восточная</description>
+
+    <source id="5555021" layer="true">
+        <name>Беларусь Генштаб</name>
+        <copyright>Беларусь Генштаб</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>5,6,7,8,9,10,11,12,13,14</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

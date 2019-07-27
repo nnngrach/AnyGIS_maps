@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Евразия - Лётные</name>
+<description>Евразия - Лётные</description>
+
+    <source id="428001" layer="true">
+        <name>Лётные карты МВЛ</name>
+        <copyright>Лётные карты МВЛ</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10</zoom-values>
+
+            <servers>
+                <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
+                <server><![CDATA[http://anygis.herokuapp.com/Local_Avia_Mvl/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

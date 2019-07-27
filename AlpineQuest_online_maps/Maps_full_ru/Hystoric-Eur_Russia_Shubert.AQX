@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Евразия - Исторические</name>
+<description>Евразия - Исторические</description>
+
+    <source id="5555017" layer="true">
+        <name>Европейская Россия Шуберт 3-х верстовая</name>
+        <copyright>Европейская Россия Шуберт 3-х верстовая</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+
+            <servers>
+                <referer><![CDATA[http://boxpis.ru/]]></referer>
+                <server><![CDATA[http://boxpis.ru/sas/SVG_3v_all/z{z}/{y}/{x}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

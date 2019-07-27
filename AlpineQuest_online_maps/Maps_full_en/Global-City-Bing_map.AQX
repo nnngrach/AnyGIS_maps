@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Global - City</name>
+<description>Global - City</description>
+
+    <source id="468324" layer="true">
+        <name>Bing Map</name>
+        <copyright>Bing Map</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+
+            <servers>
+                <referer><![CDATA[https://www.bing.com/mapspreview]]></referer>
+                <server><![CDATA[http://ecn.dynamic.t0.tiles.virtualearth.net/comp/ch/{c}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

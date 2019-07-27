@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Глобальные - Водные</name>
+<description>Глобальные - Водные</description>
+
+    <source id="190000" layer="true">
+        <name>ESRI Ocean</name>
+        <copyright>ESRI Ocean</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

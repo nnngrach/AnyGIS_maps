@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Глобальные - OSM</name>
+<description>Глобальные - OSM</description>
+
+    <source id="6666018" layer="true">
+        <name>Michelin transport</name>
+        <copyright>Michelin transport</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+
+            <servers>
+                
+                
+                <server><![CDATA[http://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
+                <server><![CDATA[http://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
+                <server><![CDATA[http://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
+                <server><![CDATA[http://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
+
+            </servers>
+        </level>
+    </source>
+</aqx>

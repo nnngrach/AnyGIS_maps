@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Евразия - Исторические</name>
+<description>Евразия - Исторические</description>
+
+    <source id="5555019" layer="true">
+        <name>Беларусь 3-х верстовая+</name>
+        <copyright>Беларусь 3-х верстовая+</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>10,11,12,13,14</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<name>Eurasia - Aviation</name>
+<description>Eurasia - Aviation</description>
+
+    <source id="428002" layer="true">
+        <name>ERSI World Navigation Charts</name>
+        <copyright>ERSI World Navigation Charts</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>
