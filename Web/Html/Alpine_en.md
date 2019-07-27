@@ -33,9 +33,9 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/AlpineQuest_online_maps/Maps_short_en
+[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Alpine_Quest_online_maps/Maps_short_en
 
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/AlpineQuest_Maps_Short_en
+[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Short_en
 
 
 
@@ -60,9 +60,9 @@ If you already know what kind of maps you need, then this set is for you. Note t
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/AlpineQuest_online_maps/Maps_full_ru
+[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Alpine_Quest_online_maps/Maps_full_ru
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/AlpineQuest_Maps_Full_ru
+[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
 
 
