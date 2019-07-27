@@ -20,7 +20,7 @@
 
 | <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_orux.png" width="100"/> | **[Скачать карты для Orux Maps][13]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_alpine.png" width="100"/> | **[Скачать карты для Alpine Quest][13]** |
+| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_alpine.png" width="100"/> | **[Скачать карты для Alpine Quest][15]** |
 
 
 
