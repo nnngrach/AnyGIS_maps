@@ -4,12 +4,12 @@
 <name>Глобальные - OSM</name>
 <description>Глобальные - OSM</description>
 
-    <source id="6666006" layer="true">
+    <source id="6666006">
         <name>Thunderforest Transport Dark</name>
         <copyright>Thunderforest Transport Dark</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

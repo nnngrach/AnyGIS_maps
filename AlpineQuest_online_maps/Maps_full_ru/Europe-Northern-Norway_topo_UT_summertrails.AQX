@@ -4,11 +4,11 @@
 <name>Европа - Северная</name>
 <description>Европа - Северная</description>
 
-    <source id="11016" layer="true">
+    <source id="11016">
         <name>Norway topomap UT.no Summer trails</name>
         <copyright>Norway topomap UT.no Summer trails</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

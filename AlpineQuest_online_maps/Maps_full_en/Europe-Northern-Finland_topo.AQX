@@ -4,12 +4,12 @@
 <name>Europe - Northern</name>
 <description>Europe - Northern</description>
 
-    <source id="11014" layer="true">
+    <source id="11014">
         <name>Finland Topo Retkikartta.fi</name>
         <copyright>Finland Topo Retkikartta.fi</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

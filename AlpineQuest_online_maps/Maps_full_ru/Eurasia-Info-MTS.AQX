@@ -4,11 +4,11 @@
 <name>Евразия - Справочные</name>
 <description>Евразия - Справочные</description>
 
-    <source id="10700" layer="true">
+    <source id="10700">
         <name>МТС</name>
         <copyright>МТС</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

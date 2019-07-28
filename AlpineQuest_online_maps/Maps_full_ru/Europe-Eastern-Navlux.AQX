@@ -4,11 +4,11 @@
 <name>Европа - Восточная</name>
 <description>Европа - Восточная</description>
 
-    <source id="10805" layer="true">
+    <source id="10805">
         <name>Ukraine - Navlux</name>
         <copyright>Ukraine - Navlux</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

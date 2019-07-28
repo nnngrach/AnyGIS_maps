@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Other</name>
 <description>Eurasia - Hiking - Other</description>
 
-    <source id="720007" layer="true">
+    <source id="720007">
         <name>Carpathians</name>
         <copyright>Carpathians</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

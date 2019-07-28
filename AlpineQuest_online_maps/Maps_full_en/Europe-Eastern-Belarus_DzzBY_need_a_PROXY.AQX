@@ -4,12 +4,12 @@
 <name>Europe - Eastern</name>
 <description>Europe - Eastern</description>
 
-    <source id="220039" layer="true">
+    <source id="220039">
         <name>Belarus - DZZ.by (need a proxy!)</name>
         <copyright>Belarus - DZZ.by (need a proxy!)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>SATE</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Global - Nautical</name>
 <description>Global - Nautical</description>
 
-    <source id="190007" layer="true">
+    <source id="190007">
         <name>Navionics Marine Charts</name>
         <copyright>Navionics Marine Charts</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>NAUT</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

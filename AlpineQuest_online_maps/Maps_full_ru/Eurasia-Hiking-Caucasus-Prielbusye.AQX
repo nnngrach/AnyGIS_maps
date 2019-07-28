@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Кавказ</name>
 <description>Евразия - Туристические - Кавказ</description>
 
-    <source id="354008" layer="true">
+    <source id="354008">
         <name>Хребтовка Приэльбрусья (Ляпин В.Г.)</name>
         <copyright>Хребтовка Приэльбрусья (Ляпин В.Г.)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

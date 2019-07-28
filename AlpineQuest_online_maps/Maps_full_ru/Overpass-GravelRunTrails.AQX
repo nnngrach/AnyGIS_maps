@@ -4,12 +4,12 @@
 <name>Overpass</name>
 <description>Overpass</description>
 
-    <source id="8899000" layer="true">
+    <source id="8899000">
         <name>OverpassTurbo: Гравийные дорожки для бега</name>
         <copyright>OverpassTurbo: Гравийные дорожки для бега</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

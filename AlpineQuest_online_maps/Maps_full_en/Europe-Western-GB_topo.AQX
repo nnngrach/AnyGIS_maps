@@ -4,12 +4,12 @@
 <name>Europe - Western</name>
 <description>Europe - Western</description>
 
-    <source id="13002" layer="true">
+    <source id="13002">
         <name>Great Britain Topo</name>
         <copyright>Great Britain Topo</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

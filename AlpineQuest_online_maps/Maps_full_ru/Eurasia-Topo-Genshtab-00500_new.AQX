@@ -4,12 +4,12 @@
 <name>Евразия - Топокарты - Генштаб</name>
 <description>Евразия - Топокарты - Генштаб</description>
 
-    <source id="420007" layer="true">
+    <source id="420007">
         <name>Генштаб 500 м v2</name>
         <copyright>Генштаб 500 м v2</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

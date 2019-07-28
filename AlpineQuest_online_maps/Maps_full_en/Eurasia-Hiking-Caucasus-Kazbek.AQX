@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Caucasus</name>
 <description>Eurasia - Hiking - Caucasus</description>
 
-    <source id="354006" layer="true">
+    <source id="354006">
         <name>Caucasus Kazbek</name>
         <copyright>Caucasus Kazbek</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

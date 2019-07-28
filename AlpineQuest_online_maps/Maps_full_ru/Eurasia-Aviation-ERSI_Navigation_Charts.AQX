@@ -4,12 +4,12 @@
 <name>Евразия - Лётные</name>
 <description>Евразия - Лётные</description>
 
-    <source id="428002" layer="true">
+    <source id="428002">
         <name>ERSI World Navigation Charts</name>
         <copyright>ERSI World Navigation Charts</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>AERO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

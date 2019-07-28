@@ -4,12 +4,12 @@
 <name>Глобальные - OSM</name>
 <description>Глобальные - OSM</description>
 
-    <source id="10015" layer="true">
+    <source id="10015">
         <name>4U maps</name>
         <copyright>4U maps</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

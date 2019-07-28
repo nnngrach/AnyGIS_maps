@@ -4,11 +4,11 @@
 <name>Европа - Северная</name>
 <description>Европа - Северная</description>
 
-    <source id="8888021" layer="true">
+    <source id="8888021">
         <name>Eniro labels layer</name>
         <copyright>Eniro labels layer</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

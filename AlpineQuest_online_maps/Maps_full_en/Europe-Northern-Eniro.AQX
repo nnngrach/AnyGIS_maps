@@ -4,12 +4,12 @@
 <name>Europe - Northern</name>
 <description>Europe - Northern</description>
 
-    <source id="11001" layer="true">
+    <source id="11001">
         <name>Eniro</name>
         <copyright>Eniro</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

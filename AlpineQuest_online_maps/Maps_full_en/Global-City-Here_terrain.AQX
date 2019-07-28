@@ -4,12 +4,12 @@
 <name>Global - City</name>
 <description>Global - City</description>
 
-    <source id="117595" layer="true">
+    <source id="117595">
         <name>Here Terrain</name>
         <copyright>Here Terrain</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

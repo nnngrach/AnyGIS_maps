@@ -4,12 +4,12 @@
 <name>Евразия - Водные</name>
 <description>Евразия - Водные</description>
 
-    <source id="190006" layer="true">
+    <source id="190006">
         <name>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</name>
         <copyright>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>NAUT</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

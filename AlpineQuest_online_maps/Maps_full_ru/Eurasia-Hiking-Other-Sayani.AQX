@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Разное</name>
 <description>Евразия - Туристические - Разное</description>
 
-    <source id="720002" layer="true">
+    <source id="720002">
         <name>Саяны. Ергаки - Арадан</name>
         <copyright>Саяны. Ергаки - Арадан</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Europe - Eastern</name>
 <description>Europe - Eastern</description>
 
-    <source id="10804" layer="true">
+    <source id="10804">
         <name>Ukraine - Meta.ua</name>
         <copyright>Ukraine - Meta.ua</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

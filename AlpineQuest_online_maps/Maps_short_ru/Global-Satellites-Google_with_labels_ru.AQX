@@ -4,12 +4,12 @@
 <name>Глобальные - Спутниковые</name>
 <description>Глобальные - Спутниковые</description>
 
-    <source id="10022" layer="true">
+    <source id="10022">
         <name>Google Спутник (гибрид) RU</name>
         <copyright>Google Спутник (гибрид) RU</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>SATE</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

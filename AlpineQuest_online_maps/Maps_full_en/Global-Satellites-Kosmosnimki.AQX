@@ -4,12 +4,12 @@
 <name>Global - Satellites</name>
 <description>Global - Satellites</description>
 
-    <source id="468326" layer="true">
+    <source id="468326">
         <name>Kosmosnimki.ru</name>
         <copyright>Kosmosnimki.ru</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>SATE</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

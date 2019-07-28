@@ -4,12 +4,12 @@
 <name>Глобальные - Спутниковые</name>
 <description>Глобальные - Спутниковые</description>
 
-    <source id="468333" layer="true">
+    <source id="468333">
         <name>Maxar Standard Imagery</name>
         <copyright>Maxar Standard Imagery</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>SATE</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Europe - Northern</name>
 <description>Europe - Northern</description>
 
-    <source id="11013" layer="true">
+    <source id="11013">
         <name>Topografisk Norgeskart 4</name>
         <copyright>Topografisk Norgeskart 4</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

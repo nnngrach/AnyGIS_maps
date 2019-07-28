@@ -4,12 +4,12 @@
 <name>Евразия - Исторические</name>
 <description>Евразия - Исторические</description>
 
-    <source id="5555004" layer="true">
+    <source id="5555004">
         <name>РККА 1932-1942 2км</name>
         <copyright>РККА 1932-1942 2км</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

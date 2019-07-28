@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Other</name>
 <description>Eurasia - Hiking - Other</description>
 
-    <source id="720003" layer="true">
+    <source id="720003">
         <name>Terskey Alatau</name>
         <copyright>Terskey Alatau</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

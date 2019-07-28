@@ -4,12 +4,12 @@
 <name>Global-Info</name>
 <description>Global-Info</description>
 
-    <source id="12043" layer="true">
+    <source id="12043">
         <name>Nakarte.me - Westra passes</name>
         <copyright>Nakarte.me - Westra passes</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

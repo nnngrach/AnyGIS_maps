@@ -4,7 +4,7 @@
 <name>Глобальные - OSM</name>
 <description>Глобальные - OSM</description>
 
-    <source id="10201" layer="true">
+    <source id="10201">
         <name>Mapnik</name>
         <copyright>Mapnik</copyright>
         <data-source></data-source>

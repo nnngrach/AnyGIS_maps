@@ -4,12 +4,12 @@
 <name>Eurasia - Rivers</name>
 <description>Eurasia - Rivers</description>
 
-    <source id="190006" layer="true">
+    <source id="190006">
         <name>Volga and Kama rivers location</name>
         <copyright>Volga and Kama rivers location</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>NAUT</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

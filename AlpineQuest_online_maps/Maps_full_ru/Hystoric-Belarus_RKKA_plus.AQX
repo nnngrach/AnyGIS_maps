@@ -4,12 +4,12 @@
 <name>Евразия - Исторические</name>
 <description>Евразия - Исторические</description>
 
-    <source id="5555020" layer="true">
+    <source id="5555020">
         <name>Беларусь РККА 500м</name>
         <copyright>Беларусь РККА 500м</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

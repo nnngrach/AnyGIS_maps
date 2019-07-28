@@ -4,11 +4,11 @@
 <name>Евразия - Справочные</name>
 <description>Евразия - Справочные</description>
 
-    <source id="10710" layer="true">
+    <source id="10710">
         <name>Мегафон</name>
         <copyright>Мегафон</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

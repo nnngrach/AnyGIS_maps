@@ -4,7 +4,7 @@
 <name>Global - OSM</name>
 <description>Global - OSM</description>
 
-    <source id="6666008" layer="true">
+    <source id="6666008">
         <name>Kosmosnimki</name>
         <copyright>Kosmosnimki</copyright>
         <data-source></data-source>

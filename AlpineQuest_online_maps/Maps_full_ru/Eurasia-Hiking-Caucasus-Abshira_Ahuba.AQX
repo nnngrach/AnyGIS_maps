@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Кавказ</name>
 <description>Евразия - Туристические - Кавказ</description>
 
-    <source id="354009" layer="true">
+    <source id="354009">
         <name>Абишира-Ахуба (Ляпин В.Г.)</name>
         <copyright>Абишира-Ахуба (Ляпин В.Г.)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

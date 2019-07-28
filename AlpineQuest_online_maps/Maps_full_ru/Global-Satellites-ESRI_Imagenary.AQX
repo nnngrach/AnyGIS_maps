@@ -4,12 +4,12 @@
 <name>Глобальные - Спутниковые</name>
 <description>Глобальные - Спутниковые</description>
 
-    <source id="10610" layer="true">
+    <source id="10610">
         <name>ESRI World Imagenary</name>
         <copyright>ESRI World Imagenary</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>SATE</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

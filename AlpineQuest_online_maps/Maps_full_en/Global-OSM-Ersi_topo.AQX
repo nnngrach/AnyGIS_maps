@@ -4,12 +4,12 @@
 <name>Global - OSM</name>
 <description>Global - OSM</description>
 
-    <source id="6666000" layer="true">
+    <source id="6666000">
         <name>ERSI Topomap</name>
         <copyright>ERSI Topomap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

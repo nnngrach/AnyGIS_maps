@@ -4,12 +4,12 @@
 <name>Eurasia - Hystoric</name>
 <description>Eurasia - Hystoric</description>
 
-    <source id="5555014" layer="true">
+    <source id="5555014">
         <name>Strelbitsky 1882</name>
         <copyright>Strelbitsky 1882</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

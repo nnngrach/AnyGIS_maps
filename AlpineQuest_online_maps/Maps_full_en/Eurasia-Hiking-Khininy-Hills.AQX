@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Khibiny</name>
 <description>Eurasia - Hiking - Khibiny</description>
 
-    <source id="185003" layer="true">
+    <source id="185003">
         <name>Khibiny's Mountains</name>
         <copyright>Khibiny's Mountains</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

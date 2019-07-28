@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Московская область</name>
 <description>Евразия - Туристические - Московская область</description>
 
-    <source id="101000" layer="true">
+    <source id="101000">
         <name>Карты Завьялова "ММБ"</name>
         <copyright>Карты Завьялова "ММБ"</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

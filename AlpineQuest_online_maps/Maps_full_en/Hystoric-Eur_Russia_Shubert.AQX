@@ -4,12 +4,12 @@
 <name>Eurasia - Hystoric</name>
 <description>Eurasia - Hystoric</description>
 
-    <source id="5555017" layer="true">
+    <source id="5555017">
         <name>European Russia - Shubert</name>
         <copyright>European Russia - Shubert</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

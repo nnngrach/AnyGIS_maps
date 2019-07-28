@@ -4,11 +4,11 @@
 <name>Европа - Северная</name>
 <description>Европа - Северная</description>
 
-    <source id="11017" layer="true">
+    <source id="11017">
         <name>Norway topomap UT.no Winter trails</name>
         <copyright>Norway topomap UT.no Winter trails</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

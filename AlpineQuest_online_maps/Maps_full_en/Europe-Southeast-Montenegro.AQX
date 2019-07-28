@@ -4,11 +4,11 @@
 <name>Europe - Southeast</name>
 <description>Europe - Southeast</description>
 
-    <source id="14000" layer="true">
+    <source id="14000">
         <name>Montenecro 250</name>
         <copyright>Montenecro 250</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

@@ -4,11 +4,11 @@
 <name>Европа - Юго-восточная</name>
 <description>Европа - Юго-восточная</description>
 
-    <source id="14000" layer="true">
+    <source id="14000">
         <name>Черногория 250м 1970-72</name>
         <copyright>Черногория 250м 1970-72</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>OTHE</type>
         <preview-location>5.90,44.80,10</preview-location>
 

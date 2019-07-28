@@ -4,12 +4,12 @@
 <name>Евразия - Топокарты - Советские</name>
 <description>Евразия - Топокарты - Советские</description>
 
-    <source id="424006" layer="true">
+    <source id="424006">
         <name>Топокарты (Все масштабы)</name>
         <copyright>Топокарты (Все масштабы)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

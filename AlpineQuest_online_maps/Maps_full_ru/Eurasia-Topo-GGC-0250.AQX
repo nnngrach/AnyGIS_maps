@@ -4,12 +4,12 @@
 <name>Евразия - Топокарты - ГГЦ</name>
 <description>Евразия - Топокарты - ГГЦ</description>
 
-    <source id="603003" layer="true">
+    <source id="603003">
         <name>ГосГисЦентр 250 м</name>
         <copyright>ГосГисЦентр 250 м</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

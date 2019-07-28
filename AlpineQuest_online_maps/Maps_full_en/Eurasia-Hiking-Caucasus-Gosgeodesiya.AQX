@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Caucasus</name>
 <description>Eurasia - Hiking - Caucasus</description>
 
-    <source id="354003" layer="true">
+    <source id="354003">
         <name>GosGeodesya 1991</name>
         <copyright>GosGeodesya 1991</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Overpass</name>
 <description>Overpass</description>
 
-    <source id="8899002" layer="true">
+    <source id="8899002">
         <name>OverpassTurbo: Питьевая вода</name>
         <copyright>OverpassTurbo: Питьевая вода</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

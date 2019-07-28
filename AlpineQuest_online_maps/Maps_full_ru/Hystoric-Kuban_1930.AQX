@@ -4,12 +4,12 @@
 <name>Евразия - Исторические</name>
 <description>Евразия - Исторические</description>
 
-    <source id="5555000" layer="true">
+    <source id="5555000">
         <name>Кубанский округ 1930</name>
         <copyright>Кубанский округ 1930</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

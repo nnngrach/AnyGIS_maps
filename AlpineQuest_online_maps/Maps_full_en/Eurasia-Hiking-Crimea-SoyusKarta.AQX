@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Crimea</name>
 <description>Eurasia - Hiking - Crimea</description>
 
-    <source id="295000" layer="true">
+    <source id="295000">
         <name>Crimea Souskarta 2011</name>
         <copyright>Crimea Souskarta 2011</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

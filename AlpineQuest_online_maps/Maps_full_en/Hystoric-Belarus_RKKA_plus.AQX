@@ -4,12 +4,12 @@
 <name>Eurasia - Hystoric</name>
 <description>Eurasia - Hystoric</description>
 
-    <source id="5555020" layer="true">
+    <source id="5555020">
         <name>Belarus RKKA 500m</name>
         <copyright>Belarus RKKA 500m</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

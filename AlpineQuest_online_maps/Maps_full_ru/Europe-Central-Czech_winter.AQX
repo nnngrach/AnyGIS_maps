@@ -4,12 +4,12 @@
 <name>Европа - Центральная</name>
 <description>Европа - Центральная</description>
 
-    <source id="12003" layer="true">
+    <source id="12003">
         <name>Чехия - Зимние тропы</name>
         <copyright>Чехия - Зимние тропы</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

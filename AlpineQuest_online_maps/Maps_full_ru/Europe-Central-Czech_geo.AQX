@@ -4,12 +4,12 @@
 <name>Европа - Центральная</name>
 <description>Европа - Центральная</description>
 
-    <source id="12004" layer="true">
+    <source id="12004">
         <name>Чехия - Географическая</name>
         <copyright>Чехия - Географическая</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

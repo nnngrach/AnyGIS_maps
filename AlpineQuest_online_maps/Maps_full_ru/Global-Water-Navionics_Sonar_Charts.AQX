@@ -4,12 +4,12 @@
 <name>Глобальные - Водные</name>
 <description>Глобальные - Водные</description>
 
-    <source id="190008" layer="true">
+    <source id="190008">
         <name>Navionics Sonar Charts</name>
         <copyright>Navionics Sonar Charts</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>NAUT</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

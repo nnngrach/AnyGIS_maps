@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Разное</name>
 <description>Евразия - Туристические - Разное</description>
 
-    <source id="720005" layer="true">
+    <source id="720005">
         <name>Тянь-Шань и Памир</name>
         <copyright>Тянь-Шань и Памир</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Евразия - Исторические</name>
 <description>Евразия - Исторические</description>
 
-    <source id="5555017" layer="true">
+    <source id="5555017">
         <name>Европейская Россия Шуберт 3-х верстовая</name>
         <copyright>Европейская Россия Шуберт 3-х верстовая</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

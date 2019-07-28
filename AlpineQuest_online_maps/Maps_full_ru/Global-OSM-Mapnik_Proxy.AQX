@@ -4,7 +4,7 @@
 <name>Глобальные - OSM</name>
 <description>Глобальные - OSM</description>
 
-    <source id="6666003" layer="true">
+    <source id="6666003">
         <name>Mapnik (PROXY)</name>
         <copyright>Mapnik (PROXY)</copyright>
         <data-source></data-source>

@@ -4,12 +4,12 @@
 <name>Global-Info</name>
 <description>Global-Info</description>
 
-    <source id="12044" layer="true">
+    <source id="12044">
         <name>Nakarte.me - Geocashing</name>
         <copyright>Nakarte.me - Geocashing</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

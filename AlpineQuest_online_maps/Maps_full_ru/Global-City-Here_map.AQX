@@ -4,12 +4,12 @@
 <name>Глобальные - Городские</name>
 <description>Глобальные - Городские</description>
 
-    <source id="117594" layer="true">
+    <source id="117594">
         <name>Here Карта</name>
         <copyright>Here Карта</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

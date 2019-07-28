@@ -4,12 +4,12 @@
 <name>Eurasia - Hiking - Other</name>
 <description>Eurasia - Hiking - Other</description>
 
-    <source id="720005" layer="true">
+    <source id="720005">
         <name>Tien Shan and Pamirs</name>
         <copyright>Tien Shan and Pamirs</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

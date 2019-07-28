@@ -4,12 +4,12 @@
 <name>Европа - Восточная</name>
 <description>Европа - Восточная</description>
 
-    <source id="5555021" layer="true">
+    <source id="5555021">
         <name>Беларусь Генштаб</name>
         <copyright>Беларусь Генштаб</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

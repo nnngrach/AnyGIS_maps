@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Разное</name>
 <description>Евразия - Туристические - Разное</description>
 
-    <source id="720003" layer="true">
+    <source id="720003">
         <name>Хребтовка Терскей-Алатау (А.Цветков)</name>
         <copyright>Хребтовка Терскей-Алатау (А.Цветков)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

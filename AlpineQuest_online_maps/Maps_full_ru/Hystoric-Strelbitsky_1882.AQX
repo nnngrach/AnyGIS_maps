@@ -4,12 +4,12 @@
 <name>Евразия - Исторические</name>
 <description>Евразия - Исторические</description>
 
-    <source id="5555014" layer="true">
+    <source id="5555014">
         <name>Стрельбицкого 1882 10-верстовая</name>
         <copyright>Стрельбицкого 1882 10-верстовая</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Многослойные</name>
 <description>Евразия - Туристические - Многослойные</description>
 
-    <source id="424007" layer="true">
+    <source id="424007">
         <name>RusOutdoor maps (lite)</name>
         <copyright>RusOutdoor maps (lite)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

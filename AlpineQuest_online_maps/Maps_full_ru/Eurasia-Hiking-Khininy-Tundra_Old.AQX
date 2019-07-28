@@ -4,12 +4,12 @@
 <name>Евразия - Туристические - Хибины</name>
 <description>Евразия - Туристические - Хибины</description>
 
-    <source id="185002" layer="true">
+    <source id="185002">
         <name>Хибинские и ловоозерские тундры (СССР)</name>
         <copyright>Хибинские и ловоозерские тундры (СССР)</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
+        <region>OTHE</region>
+        <type>TOPO</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>

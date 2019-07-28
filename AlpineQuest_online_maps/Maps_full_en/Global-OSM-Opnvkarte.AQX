@@ -4,12 +4,12 @@
 <name>Global - OSM</name>
 <description>Global - OSM</description>
 
-    <source id="10016" layer="true">
+    <source id="10016">
         <name>Opnvkarte.de</name>
         <copyright>Opnvkarte.de</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>OTHE</type>
+        <type>ROAD</type>
         <preview-location>5.90,44.80,10</preview-location>
 
         <level>
