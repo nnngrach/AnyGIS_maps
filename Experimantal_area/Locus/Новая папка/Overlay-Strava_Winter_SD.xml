@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<providers>
+
+<provider id="8888035" type="0" visible="true" background="-1">
+<name>Overlay</name>
+<mode>Strava Heatmap - Winter</mode>
+<countries>World</countries>
+<usage>overlay</usage>
+<url><![CDATA[http://anygis.herokuapp.com/Tracks_Strava_Winter/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>24</zoomMax>   <!-- 16 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+</provider>
+
+</providers>
