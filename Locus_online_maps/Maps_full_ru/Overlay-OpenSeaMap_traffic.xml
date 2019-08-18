@@ -5,7 +5,7 @@
 https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 27-07-2019 22:19
+Файл обновлен: 18-08-2019 22:14
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>OpenSeaMap Морской траффик</mode>
 <countries>World</countries>
 <usage>overlay</usage>
-<url><![CDATA[http://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></url>
+<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

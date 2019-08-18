@@ -19,10 +19,10 @@
             <servers>
                 <referer><![CDATA[https://2gis.ru/]]></referer>
                 
-                <server><![CDATA[http://tile0.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
-                <server><![CDATA[http://tile1.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
-                <server><![CDATA[http://tile2.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
-                <server><![CDATA[http://tile3.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
+                <server><![CDATA[https://tile0.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
+                <server><![CDATA[https://tile1.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
+                <server><![CDATA[https://tile2.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
+                <server><![CDATA[https://tile3.maps.2gis.com/tiles?x={x}&y={y}&z={z}&v=1.5&r=g&ts=online_sd]]></server>
 
             </servers>
         </level>

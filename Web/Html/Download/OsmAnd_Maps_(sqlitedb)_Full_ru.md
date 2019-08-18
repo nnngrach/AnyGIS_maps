@@ -70,6 +70,8 @@
 
 [Mapnik (PROXY)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Mapnik_Proxy.sqlitedb "Скачать эту карту")
 
+[Mapnik (no labels)](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Mapnik_No_labels.sqlitedb "Скачать эту карту")
+
 [Mapy Tourists](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Mapy_Tourists.sqlitedb "Скачать эту карту")
 
 [Michelin transport](https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Sqlitedb/Maps_full_ru/Global-OSM-Michelin.sqlitedb "Скачать эту карту")

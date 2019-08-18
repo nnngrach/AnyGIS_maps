@@ -20,7 +20,7 @@
 
             <servers>
                 <referer><![CDATA[http://kosmosnimki.ru/]]></referer>
-                <server><![CDATA[http://anygis.herokuapp.com/Kosmosnimki_WGS84/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.herokuapp.com/Kosmosnimki_WGS84/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

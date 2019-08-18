@@ -19,9 +19,9 @@
             <servers>
                 
                 
-                <server><![CDATA[http://a.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://b.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://c.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://a.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://b.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://c.tile.opentopomap.org/{z}/{x}/{y}.png]]></server>
 
             </servers>
         </level>

@@ -20,7 +20,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/yota/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://maps.melda.ru/mobile/yota/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

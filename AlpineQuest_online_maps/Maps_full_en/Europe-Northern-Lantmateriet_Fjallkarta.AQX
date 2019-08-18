@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg]]></server>
+                <server><![CDATA[https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg]]></server>
             </servers>
         </level>
     </source>

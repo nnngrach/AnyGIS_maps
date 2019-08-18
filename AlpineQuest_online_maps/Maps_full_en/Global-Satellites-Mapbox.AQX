@@ -19,9 +19,9 @@
             <servers>
                 
                 
-                <server><![CDATA[http://a.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://b.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://a.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://b.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
 
             </servers>
         </level>

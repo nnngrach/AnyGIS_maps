@@ -19,10 +19,10 @@
             <servers>
                 
                 
-                <server><![CDATA[http://m1.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m2.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m3.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m4.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[https://m1.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[https://m2.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[https://m3.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[https://m4.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></server>
 
             </servers>
         </level>

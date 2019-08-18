@@ -7,6 +7,10 @@
 [04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
 [05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
 
+### Август 2019
+
+Часть ссылок переведена с протокола HTTP на HTTPS
+
 
 ### Июль 2019
 

@@ -72,6 +72,8 @@
 
 [Mapnik (PROXY)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik_Proxy.ms "Download this map")
 
+[Mapnik (no labels)](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik_No_labels.ms "Download this map")
+
 [Mapnik + Hillshade](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Mapnik_Hillshade.ms "Download this map")
 
 [Michelin transport](guru://open?path=https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Galileo_online_maps/Maps_full_en/Global-OSM-Michelin.ms "Download this map")

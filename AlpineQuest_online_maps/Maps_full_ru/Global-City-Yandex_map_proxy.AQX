@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://anygis.herokuapp.com/Yandex_map/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.herokuapp.com/Yandex_map/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

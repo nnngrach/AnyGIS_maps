@@ -74,6 +74,8 @@
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapnik_Proxy.AQX "Скачать эту карту")
 
+[Mapnik (no labels)](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Mapnik_No_labels.AQX "Скачать эту карту")
+
 [Michelin transport](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-Michelin.AQX "Скачать эту карту")
 
 [OpenTopoMap](https://anygis.herokuapp.com/download/alpine_ru/Global-OSM-OpenTopoMap.AQX "Скачать эту карту")

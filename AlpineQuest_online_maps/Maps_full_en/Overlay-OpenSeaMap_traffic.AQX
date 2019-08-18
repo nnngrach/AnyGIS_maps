@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></server>
+                <server><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></server>
             </servers>
         </level>
     </source>

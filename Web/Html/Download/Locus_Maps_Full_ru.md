@@ -82,6 +82,8 @@
 
 [Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik_Proxy.xml "Скачать эту карту")
 
+[Mapnik (no labels)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik_No_labels.xml "Скачать эту карту")
+
 [Mapnik + Рельеф](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Mapnik_Hillshade.xml "Скачать эту карту")
 
 [Michelin transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_ru/__Global-OSM-Michelin.xml "Скачать эту карту")

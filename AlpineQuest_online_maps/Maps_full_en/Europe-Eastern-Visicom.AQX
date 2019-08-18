@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://maps.visicom.ua/]]></referer>
-                <server><![CDATA[http://tms0.visicom.ua/2.0.0/planet3/base/{z}/{x}/{invY}.png]]></server>
+                <server><![CDATA[https://tms0.visicom.ua/2.0.0/planet3/base/{z}/{x}/{invY}.png]]></server>
             </servers>
         </level>
     </source>

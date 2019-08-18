@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://anygis.herokuapp.com/Sentinel/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.herokuapp.com/Sentinel/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
+                <server><![CDATA[https://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
             </servers>
         </level>
     </source>

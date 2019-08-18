@@ -72,6 +72,8 @@
 
 [Mapnik (PROXY)](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_Proxy.ms "Скачать эту карту")
 
+[Mapnik (no labels)](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_No_labels.ms "Скачать эту карту")
+
 [Mapnik + Рельеф](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Mapnik_Hillshade.ms "Скачать эту карту")
 
 [Michelin transport](https://anygis.herokuapp.com/download/galileo_ru/Global-OSM-Michelin.ms "Скачать эту карту")

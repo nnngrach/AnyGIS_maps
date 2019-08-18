@@ -82,6 +82,8 @@
 
 [Mapnik (PROXY)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapnik_Proxy.xml "Download this map")
 
+[Mapnik (no labels)](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapnik_No_labels.xml "Download this map")
+
 [Mapnik + Hillshade](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Mapnik_Hillshade.xml "Download this map")
 
 [Michelin transport](locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/__Global-OSM-Michelin.xml "Download this map")

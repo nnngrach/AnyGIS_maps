@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.herokuapp.com/Tracks_Strava_Winter_Bluered/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.herokuapp.com/Tracks_Strava_Winter_Bluered/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

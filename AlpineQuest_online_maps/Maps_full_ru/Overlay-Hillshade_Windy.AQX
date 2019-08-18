@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

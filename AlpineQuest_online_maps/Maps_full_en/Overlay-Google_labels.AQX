@@ -19,10 +19,10 @@
             <servers>
                 <referer><![CDATA[https://maps.google.com/]]></referer>
                 
-                <server><![CDATA[http://mt0.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://mt1.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://mt2.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://mt3.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://mt0.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://mt1.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://mt2.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://mt3.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></server>
 
             </servers>
         </level>

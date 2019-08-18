@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></server>
+                <server><![CDATA[https://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>
     </source>

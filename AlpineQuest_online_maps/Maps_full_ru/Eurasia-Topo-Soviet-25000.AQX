@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/eurasia25km/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[https://tiles.nakarte.me/eurasia25km/{z}/{x}/{invY}]]></server>
             </servers>
         </level>
     </source>

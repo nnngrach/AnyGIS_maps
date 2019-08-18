@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg]]></server>
+                <server><![CDATA[https://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>
     </source>

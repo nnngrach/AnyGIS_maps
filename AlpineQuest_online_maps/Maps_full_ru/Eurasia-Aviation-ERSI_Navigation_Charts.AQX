@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}]]></server>
+                <server><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}]]></server>
             </servers>
         </level>
     </source>

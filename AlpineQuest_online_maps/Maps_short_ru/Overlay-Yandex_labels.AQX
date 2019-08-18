@@ -21,10 +21,10 @@
             <servers>
                 <referer><![CDATA[https://maps.yandex.ru/]]></referer>
                 
-                <server><![CDATA[http://vec01.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://vec02.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://vec03.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[http://vec04.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://vec01.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://vec02.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://vec03.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[https://vec04.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></server>
 
             </servers>
         </level>

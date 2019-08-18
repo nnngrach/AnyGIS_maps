@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[https://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

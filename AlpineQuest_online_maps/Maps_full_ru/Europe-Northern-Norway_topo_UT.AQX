@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://tilesprod.ut.no/tilestache/ut_topo_light/{z}/{x}/{y}.jpg]]></server>
+                <server><![CDATA[https://tilesprod.ut.no/tilestache/ut_topo_light/{z}/{x}/{y}.jpg]]></server>
             </servers>
         </level>
     </source>

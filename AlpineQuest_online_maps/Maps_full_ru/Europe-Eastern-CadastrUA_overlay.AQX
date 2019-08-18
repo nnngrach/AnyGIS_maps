@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://map.land.gov.ua/kadastrova-karta]]></referer>
-                <server><![CDATA[http://anygis.herokuapp.com/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.herokuapp.com/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
