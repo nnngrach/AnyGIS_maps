@@ -33,7 +33,7 @@
 
 [1]: https://shuriktravel.ru/maps/
 
-[2]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/AlpineQuest_online_maps/Maps_short_ru
+[2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_ru.zip
 
 [3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Short_ru
 
@@ -62,7 +62,7 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/AlpineQuest_online_maps/Maps_full_ru
+[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_ru.zip
 
 [12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
