@@ -10,83 +10,83 @@
 
 
 ### Глобальные - Городские
-[2Gis](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-2gis "Скачать эту карту")
+[2Gis](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-2gis.zip "Скачать эту карту")
 
-[Google Карта RU](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Google_map_ru "Скачать эту карту")
+[Google Карта RU](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Google_map_ru.zip "Скачать эту карту")
 
-[Google Ландшафт RU](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Google_terrain_ru "Скачать эту карту")
+[Google Ландшафт RU](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Google_terrain_ru.zip "Скачать эту карту")
 
-[Yandex Карта](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map "Скачать эту карту")
+[Yandex Карта](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-City-Yandex_map.zip "Скачать эту карту")
 
 
 
 ### Глобальные - Спутниковые
-[Google Спутник (гибрид) RU](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Google_with_labels_ru "Скачать эту карту")
+[Google Спутник (гибрид) RU](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Google_with_labels_ru.zip "Скачать эту карту")
 
-[Yandex Спутник](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex "Скачать эту карту")
+[Yandex Спутник](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Satellites-Yandex.zip "Скачать эту карту")
 
 
 
 ### Глобальные - OSM
-[Mapnik](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Mapnik "Скачать эту карту")
+[Mapnik](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Mapnik.zip "Скачать эту карту")
 
-[Mapnik (PROXY)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Mapnik_Proxy "Скачать эту карту")
+[Mapnik (PROXY)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Mapnik_Proxy.zip "Скачать эту карту")
 
-[OpenTopoMap](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-OpenTopoMap "Скачать эту карту")
+[OpenTopoMap](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-OpenTopoMap.zip "Скачать эту карту")
 
 
 
 ### Глобальные - OSM - Ways
-[Thunderforest Cycle](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle "Скачать эту карту")
+[Thunderforest Cycle](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.zip "Скачать эту карту")
 
-[Thunderforest Outdoor](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor "Скачать эту карту")
+[Thunderforest Outdoor](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.zip "Скачать эту карту")
 
 
 
 ### Глобальные - Водные
-[Navionics Marine Charts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Water-Navionics_Marine_Charts "Скачать эту карту")
+[Navionics Marine Charts](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Water-Navionics_Marine_Charts.zip "Скачать эту карту")
 
 
 
 ### Глобальные - Справочные
-[Nakarte.me - Перевалы Вестра](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Westra_Passes "Скачать эту карту")
+[Nakarte.me - Перевалы Вестра](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Westra_Passes.zip "Скачать эту карту")
 
-[Wikimapia.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Wikimapia "Скачать эту карту")
+[Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Global-Info-Wikimapia.zip "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - ГГЦ
-[ГосГисЦентр (Все масштабы)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-GGC-All "Скачать эту карту")
+[ГосГисЦентр (Все масштабы)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-GGC-All.zip "Скачать эту карту")
 
 
 
 ### Евразия - Топокарты - Генштаб
-[Генштаб (Все масштабы)](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Genshtab-All "Скачать эту карту")
+[Генштаб (Все масштабы)](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Eurasia-Topo-Genshtab-All.zip "Скачать эту карту")
 
 
 
 ### Overlay
-[Navionics Marine Charts](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Navionics_Marine_Charts "Скачать эту карту")
+[Navionics Marine Charts](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Navionics_Marine_Charts.zip "Скачать эту карту")
 
-[OpenSnowMap Лыжные трассы](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-OpenSnowMap_pistes "Скачать эту карту")
+[OpenSnowMap Лыжные трассы](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-OpenSnowMap_pistes.zip "Скачать эту карту")
 
-[Strava Heatmap - All 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_SD "Скачать эту карту")
+[Strava Heatmap - All 256](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_All_SD.zip "Скачать эту карту")
 
-[Strava Heatmap - Ride 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_SD "Скачать эту карту")
+[Strava Heatmap - Ride 256](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Ride_SD.zip "Скачать эту карту")
 
-[Strava Heatmap - Run 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_SD "Скачать эту карту")
+[Strava Heatmap - Run 256](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Run_SD.zip "Скачать эту карту")
 
-[Strava Heatmap - Water 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_SD "Скачать эту карту")
+[Strava Heatmap - Water 256](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Water_SD.zip "Скачать эту карту")
 
-[Strava Heatmap - Winter 256](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_SD "Скачать эту карту")
+[Strava Heatmap - Winter 256](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Strava_Winter_SD.zip "Скачать эту карту")
 
-[Waymarkedtrails.org - Cycling](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-WayMarkedTrails_Cycling "Скачать эту карту")
+[Waymarkedtrails.org - Cycling](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.zip "Скачать эту карту")
 
-[Waymarkedtrails.org - Hiking](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-WayMarkedTrails_Hiking "Скачать эту карту")
+[Waymarkedtrails.org - Hiking](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.zip "Скачать эту карту")
 
-[Wikimapia.org](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Wikimapia "Скачать эту карту")
+[Wikimapia.org](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Wikimapia.zip "Скачать эту карту")
 
-[Yandex Надписи](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_labels "Скачать эту карту")
+[Yandex Надписи](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_labels.zip "Скачать эту карту")
 
-[Yandex Пробки](https://minhaskamal.github.io/DownGit/#/home?url=https://github.com/nnngrach/AnyGIS_maps/tree/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_traffic "Скачать эту карту")
+[Yandex Пробки](https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Maps_full_ru/Overlay-Yandex_traffic.zip "Скачать эту карту")
 
