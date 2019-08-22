@@ -62,7 +62,7 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 
-[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_ru.zip
+[11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_ru.zip
 
 [12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
