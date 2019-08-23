@@ -9,6 +9,12 @@
 [07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
 
 
+# Внимание!
+
+### У меня проблемы с хостингом. Видимо, пару дней карты не будут работать. 
+
+***
+
 
 
 # Карты для OsmAnd
