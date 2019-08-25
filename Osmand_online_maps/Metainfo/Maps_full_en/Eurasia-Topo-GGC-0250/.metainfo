@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Locals_Ggc_00250/{1}/{2}/{0}
+http://server.anygis.ru/Locals_Ggc_00250/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

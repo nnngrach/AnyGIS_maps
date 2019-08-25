@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -15,9 +15,9 @@
 
 [Changelog][16]
 
-[16]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
+[16]: http://www.anygis.ru/Web/Html/Changelog_en
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsLocus.png)
+![](http://www.anygis.ru/Web/Img/4mapsLocus.png)
 
 
 
@@ -39,7 +39,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [3]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_short_en.zip
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Short_en
+[0]: http://www.anygis.ru/Web/Html/Download/Locus_Maps_Short_en
 
 
 
@@ -70,7 +70,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: locus-actions://https/raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Installers_en/AnyGIS_full_set.xml
 
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Locus_Maps_Full_en
+[13]: http://www.anygis.ru/Web/Html/Download/Locus_Maps_Full_en
 
 
 ### Preparing for installation

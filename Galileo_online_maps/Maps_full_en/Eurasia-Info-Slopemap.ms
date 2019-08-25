@@ -14,7 +14,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>13</maxZoom>
-    <url>https://anygis.herokuapp.com/Hillshade_VotEtoVid/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Hillshade_VotEtoVid/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

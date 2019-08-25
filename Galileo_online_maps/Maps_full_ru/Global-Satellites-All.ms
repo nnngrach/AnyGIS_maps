@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>https://anygis.herokuapp.com/Combo_All_Satellites/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Combo_All_Satellites/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

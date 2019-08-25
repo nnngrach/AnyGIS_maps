@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[https://anygis.herokuapp.com/Mapshoter_GravelRunTrails/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Mapshoter_GravelRunTrails/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

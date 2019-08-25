@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://anygis.herokuapp.com/Local_Kavkaz_03/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Local_Kavkaz_03/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

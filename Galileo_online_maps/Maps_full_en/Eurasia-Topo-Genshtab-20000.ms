@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>9</maxZoom>
-    <url>https://anygis.herokuapp.com/Locals_Genshtab_20000/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Locals_Genshtab_20000/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

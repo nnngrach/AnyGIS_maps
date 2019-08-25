@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[https://anygis.herokuapp.com/Nakarte_Geocashing/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Nakarte_Geocashing/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

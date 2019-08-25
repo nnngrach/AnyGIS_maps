@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -19,13 +19,13 @@
 
 # Туристические карты для смартфонов
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/smartphone.png)
+![](http://www.anygis.ru/Web/Img/smartphone.png)
 
 В наши дни практически у каждого при себе есть смартфон. И раз уж мы его все равно носим, хочется, чтобы он приносил нам как можно больше пользы. Например, чтобы навигатор в телефоне стал по-настоящему полезным.
 
 Этот сайт предоставляет комплект карт для загородного отдыха: туристические, горные, морские и много какие ещё. Чтобы ими было удобно пользоваться, вам потребуется специальное приложение "картографический агрегатор". От обычных навигационных приложений они отличаются тем, что умеют показывать много карт, а не только какую-то одну. Для Android можно порекомендовать [Locus][1] или [OsmAnd][6], для iOS - [Guru Maps][2] (раньше он назывался Galileo Pro).
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/locus_maplist.png)
+![](http://www.anygis.ru/Web/Img/locus_maplist.png)
 
 Эти приложения позволяют загружать специализированные [растровые][07] карты прямо со смартфона и пользоваться ими без интернета. При желании, это избавляет от необходимости, каждый раз заблаговременно загружать в телефон карту с помощью компьютера. Более того, если вдруг потребуется (всякое бывает), вы сможете загружать карту прямо во время маршрута, ведь мобильный интернет сегодня вполне можно поймать и в лесу, и в горах. Хотя и довольно медленный.
 
@@ -60,7 +60,7 @@
 [4]: https://nakarte.me
 [5]: https://melda.ru/2017/07/%D0%BD%D0%B0%D0%B2%D0%B8%D0%B3%D0%B0%D1%86%D0%B8%D1%8F-%D0%B2-%D0%BF%D0%BE%D1%85%D0%BE%D0%B4%D0%B5-%D1%82%D0%B5%D0%BB%D0%B5%D1%84%D0%BE%D0%BD-vs-garmin/
 [6]: http://osmand.net/
-[10]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus_ru
-[11]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Osmand_ru
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Galileo_ru
+[10]: http://www.anygis.ru/Web/Html/Locus_ru
+[11]: http://www.anygis.ru/Web/Html/Osmand_ru
+[12]: http://www.anygis.ru/Web/Html/Galileo_ru
 

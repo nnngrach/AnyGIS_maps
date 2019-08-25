@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -21,9 +21,9 @@
 
 [Список изменений][0]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
+[0]: http://www.anygis.ru/Web/Html/Changelog_ru
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsOrux.png)
+![](http://www.anygis.ru/Web/Img/4mapsOrux.png)
 
 
 
@@ -75,11 +75,11 @@
 * Перезапустите Orux или нажмите на кнопку Обновить. 
 * Новые карты должны появиться в разеле `Online` в папке `Layers`
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapUpdater.png)
+![](http://www.anygis.ru/Web/Img/oruxMapUpdater.png)
 
 * Если какие-то из карт покажутся вам лишними, то вы можете удалить их из списка. Для этого нужно просто нажать и удерживать на названии карты. Через некоторое время она исчезнет из списка.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapDeleter.png)
+![](http://www.anygis.ru/Web/Img/oruxMapDeleter.png)
 
 
 На этом всё. Если у вас есть предложения, какие еще источники карт стоит добавить в подборку (а какие удалить), то пишите мне на электронную почту. Желательно, приложить к письму ссылку на страницу с интересующей картой. Ну и, конечно же, сообщайте об ошибках и неточностях на сайте.

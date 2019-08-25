@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
-                <server><![CDATA[https://anygis.herokuapp.com/Historic_Kavkaz_1948_eng/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Historic_Kavkaz_1948_eng/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

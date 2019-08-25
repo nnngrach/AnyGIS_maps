@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://gmap.camapka.ru/]]></referer>
-                <server><![CDATA[https://anygis.herokuapp.com/Local_River_Volga/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Local_River_Volga/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

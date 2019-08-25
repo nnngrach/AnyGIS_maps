@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Local_Kavkaz_11/{1}/{2}/{0}
+http://server.anygis.ru/Local_Kavkaz_11/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

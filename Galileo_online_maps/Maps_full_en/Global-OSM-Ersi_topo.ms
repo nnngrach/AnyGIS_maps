@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>https://anygis.herokuapp.com/Ersi_Topomap/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Ersi_Topomap/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

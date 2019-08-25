@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Local_Sayany1/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Local_Sayany1/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

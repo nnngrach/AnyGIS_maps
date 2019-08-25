@@ -1,16 +1,16 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
 
 
 # Как это работает?
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Tiles.png)
+![](http://www.anygis.ru/Web/Img/Tiles.png)
 
 ### Поговорим о мобильных навигаторах
 
@@ -95,15 +95,15 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Для начала, вычисляются координаты четырех ближайших к требуемому месту кусочков WGS84 карты. Все четыре кусочка загружаются и "склеиваются" в один большой квадрат.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs4.jpg)
+![](http://www.anygis.ru/Web/Img/wgs4.jpg)
 
 Вычисляется, на какое расстояние требуется "cместить" новую карту. На большом квадрате делаются соответствующие отступы и вырезается кусок стандартного размера. 
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_offset.jpg)
+![](http://www.anygis.ru/Web/Img/wgs_offset.jpg)
 
 Получаем довольно похожий кусочек карты на то, что требуется. В принципе, для большинства задач такой грубой подгонки будет вполне достаточно. Однако стоит отметить, что небольшие расхождения все-таки будут присутствовать. Особенно они будут заметны ближе к полюсам.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wgs_osm.jpg)
+![](http://www.anygis.ru/Web/Img/wgs_osm.jpg)
 
 Кроме того, на то, чтобы "отфотошопить" карту на лету, потребуется некоторое время. То есть, карта с подобными преобразованиями будет загружаться не столь быстро, как остальные карты без каких-либо обработок. 
 
@@ -114,7 +114,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Для этого формируется список карт, отсортированных в порядке их приоритета. Сначала AnyGIS проверяет первую карту: есть ли на сервере с ней файл с интересующим нас кусочком местности? Если нет, то проверяется вторая карта и так далее по списку. 
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/slazav.png)
+![](http://www.anygis.ru/Web/Img/slazav.png)
 
 Подобный режим позволяет склеить мелкие разрозненные кусочки с разных серверов в цельную неразрывную карту, которой сравнительно удобно пользоваться. Не требуется вручную переключаться между десятком различных карт, пока не отыщется хотя бы одна, которая будет пригодна для этой местности.
 
@@ -130,7 +130,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Когда навигатор подключится к нашему серверу, то сервер зайдет на сайт с картой, введет туда мой личный логин и пароль, загрузит требуемое изображение, а затем перешлет его обратно к навигатору пользователя. Как видите, все довольно просто. Хотя и требует некоторго дополнительного времени на работу этого промежуточного компонента. Более подробно о технической реализации данного скрипта вы можете прочитать в моей статье на [Habr.com][3].
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/strava-heatmap.png)
+![](http://www.anygis.ru/Web/Img/strava-heatmap.png)
 
 
 
@@ -142,7 +142,7 @@ www.funmap.com / Folder_1 / X / Folder_2 / Y / Z.png
 
 Кстати, одной из карт, которую теперь можно отображать, стала интерактивная карта с сайта OverpassTurbo.eu. В [этой статье][4] написал инструкцию, как стедать так, чтобы навигатор смог показывать карту с сайта Overpass, на которой будут отображаться результаты вашего скрипта. На скриншоте ниже - мой скрипт подкрашивающий гравийные дорожки в парках.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/overpass.png)
+![](http://www.anygis.ru/Web/Img/overpass.png)
 
 
 [1]: https://cloudinary.com/

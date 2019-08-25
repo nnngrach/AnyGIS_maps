@@ -32,16 +32,16 @@
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
 
-    <link rel="shortcut icon" type="image/x-icon" href="https://nnngrach.github.io/AnyGIS_maps/Web/Img/favicon.ico">
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.anygis.ru/Web/Img/favicon.ico">
 
     <script> 
       function redirectToIndexPage() {
           var url = String(location);
 
           if (url.indexOf("_en") == -1) {
-            url = "https://nnngrach.github.io/AnyGIS_maps/index";
+            url = "http://www.anygis.ru/index";
           } else {
-            url = "https://nnngrach.github.io/AnyGIS_maps/index_en";
+            url = "http://www.anygis.ru/index_en";
           }
 
           window.location.replace(url);
@@ -51,9 +51,9 @@
           var url = String(location);
 
           if (url.indexOf("_en") == -1) {
-            url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_ru";
+            url = "http://www.anygis.ru/Web/Html/Contacts_ru";
           } else {
-            url = "https://nnngrach.github.io/AnyGIS_maps/Web/Html/Contacts_en";
+            url = "http://www.anygis.ru/AnyGIS_maps/Web/Html/Contacts_en";
           }
 
           window.location.replace(url);
@@ -81,8 +81,8 @@
     <div class="wrapper">
       <header {% unless site.description or site.github.project_tagline %} class="without-description" {% endunless %}>
 
-        <a href="javascript:redirectToIndexPage()"><img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
-        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
+        <a href="javascript:redirectToIndexPage()"><img src="http://www.anygis.ru/Web/Img/AnyGIS_logo_50.png" style="float:left;width:45px;height:45px;"></a>
+        <a href="javascript:redirectToPageWithAnotherLanguage()"><img src="http://www.anygis.ru/Web/Img/changeLanguage.png" style="float:right;height:25px;padding-top:10px;"></a>
 
         <h1>{{ site.title | default: site.github.repository_name }}</h1>
         {% if site.description or site.github.project_tagline %}

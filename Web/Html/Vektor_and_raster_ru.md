@@ -1,14 +1,14 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
 
 # Векторные и растровые карты
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_img.png)
+![](http://www.anygis.ru/Web/Img/rastr_vector_img.png)
 
 ### Немного теории
 
@@ -20,7 +20,7 @@
 
 Для нас сейчас важнее всего то, что векторные файлы значительно меньше, чем растровые. Они занимают меньше места и быстрее скачиваются. С другой стороны, растровые изображения обычно выглядят более естественными. Менее "рисованными", что-ли.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_img_compilation.png)
+![](http://www.anygis.ru/Web/Img/rastr_vector_img_compilation.png)
 
 
 ### Как обстоят дела на практике?
@@ -28,13 +28,13 @@
 Вы спросите, как всё это относится к картам?  Дело в том, что разработчики мобильных навигационных приложений обычно разрешают скачивать именно векторные карты. Среди них Maps.me, GuruMaps, OsmAnd и многие другие. Все эти векторные карты занимают очень мало места. Более того: для удобства пользователей они даже разделены на части, чтобы можно было скачать лишь какой-то конкретный город или регион. Вполне естественно, что именно этот вариант наиболее прост, быстр и удобен для большинства пользователей.
 
 <p align="center">
-<img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/vector_maps_list.png" width="200"/>
+<img src="http://www.anygis.ru/Web/Img/vector_maps_list.png" width="200"/>
 </p>
 
 
 Однако, некоторым не нравится отрисовка стандартных векторных карт. Что ж, существуют сайты, которые уже сделали более сложную и приятную глазу отрисовку тех же векторных карт, сохранили их в растровый формат и выложили для скачивания. На таких картах часто бывает рельеф местности, изолинии и прочие приятные детализированные текстуры. Просто сравните: 
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/rastr_vector_map.png)
+![](http://www.anygis.ru/Web/Img/rastr_vector_map.png)
 
 Увы, такие карты занимают много места, как и все растровые изображения. Для сравнения: векторная всей России занимает примерно 2 гигабайта. Растровая - 400 гигабайт. Вероятно, поэтому навигаторы на смартфонах обычно не предлагают скачивать такие карты по целыми регионами, ведь они попросту не поместятся на смартфоне. Но некоторые из них дают возможность выделить рамочкой небольшой участок местности и и скачать только его. То есть, скачать не всю Нижегородскую область, а только конкретный кусок леса, в который вы собираетесь идти в поход. Однако, даже несмотря на это скачивание может занять несколько часов и несколько гигабайт.
 

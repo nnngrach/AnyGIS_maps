@@ -1,11 +1,11 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
 
 
 
@@ -16,7 +16,7 @@
 
 *last update: 19.02.19*
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/nnngrach_zagedan.jpg)
+![](http://www.anygis.ru/Web/Img/nnngrach_zagedan.jpg)
 
 Despite the fact that I have already written that there is no ideal and universal map and can not be, I still tried to do it. As a model, I chose a map from the site [Matshruty.ru][1] - when changing the scale it changing the displayed map.
 
@@ -36,7 +36,7 @@ Google Terrain
 
 This group of layers should be used to select the desired continent, country, and region of interest in this country. For convenience, the map is marked relief, so find the mountain areas will be relatively easy.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/google_terrain.png)
+![](http://www.anygis.ru/Web/Img/google_terrain.png)
 
 
 ***
@@ -50,7 +50,7 @@ OSM Sputnik.ru
 
 This and the next layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Sputnik that it loads quickly and that it displays the terrain. Minus - not the most visual drawing of roads.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/sputnik_ru.png)
+![](http://www.anygis.ru/Web/Img/sputnik_ru.png)
 
 
 ### Layer 3 - Cities and highways
@@ -61,7 +61,7 @@ Yandex Map
 
 This and the previous layer should be used to find the region of interest, focusing on city names and highway lines. Plus maps from the site Yandex in a more detailed and visual rendering of roads. There is a display of wetlands. Cons - a map in a non-standard projection. To convert it takes extra time and the map is loaded not so fast. Very often I just slip through this layer.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ya_map.png)
+![](http://www.anygis.ru/Web/Img/ya_map.png)
 
 ***
 
@@ -88,7 +88,7 @@ Zoom: 12
 
 Maps with local coverage, Genshtab 1km, Genshtab 2km, OSM Outdoors
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/genshtab.png)
+![](http://www.anygis.ru/Web/Img/genshtab.png)
 
 
 
@@ -98,7 +98,7 @@ Zoom: 13
 
 Maps with local coverage, GGC 1km, Genshtab 500m
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/kavkaz_1000.png)
+![](http://www.anygis.ru/Web/Img/kavkaz_1000.png)
 
 
 
@@ -108,7 +108,7 @@ Zoom: 14
 
 Maps with local coverage, GGC 500m, OSM Outdoors
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/ggc.png)
+![](http://www.anygis.ru/Web/Img/ggc.png)
 
 
 
@@ -129,7 +129,7 @@ If we talk specifically about the map Thunderforest Outdoors, there is quite a c
 
 In addition to this map, I added a layer with POI icons: springs, camping lots, etc. According to the OSM standard, many of these icons are only displayed at scale 16 or even 17. But, in my opinion, when planning a route, it is convenient to see such important objects "from afar".  Unfortunately, this additional operation slightly reduced the loading speed of the map. 
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/osm_outdoors.png)
+![](http://www.anygis.ru/Web/Img/osm_outdoors.png)
 
 
 
@@ -143,7 +143,7 @@ This is the basic version of OSM maps. It has the same pros and cons as all OSM 
 
 To compensate, I added an additional semi-transparent layer with relief to this map. Not too noticeable, so as not to distract attention and not to paint over small objects on the map. But at the same time, to areas with a strong height difference immediately caught the eye. As in the previous case, you have to pay for loading an additional layer with increased loading time.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/mapnik.png)
+![](http://www.anygis.ru/Web/Img/mapnik.png)
 
 ***
 
@@ -164,7 +164,7 @@ OpenStreetMaps Mapnik
 
 Wikimapia layer
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_mapnik.png)
+![](http://www.anygis.ru/Web/Img/wiki_mapnik.png)
 
 
 
@@ -177,7 +177,7 @@ Google Satellite
 
 Wikimapia layer
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_google.png)
+![](http://www.anygis.ru/Web/Img/wiki_google.png)
 
 
 
@@ -190,7 +190,7 @@ Yandex Satellite
 
 Wikimapia layer
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/wiki_ya.png)
+![](http://www.anygis.ru/Web/Img/wiki_ya.png)
 
 
 

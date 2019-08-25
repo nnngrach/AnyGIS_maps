@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Navionics_Marine_Charts/{1}/{2}/{0}
+http://server.anygis.ru/Navionics_Marine_Charts/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

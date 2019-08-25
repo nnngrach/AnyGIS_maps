@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>https://anygis.herokuapp.com/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

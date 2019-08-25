@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -20,9 +20,9 @@
 
 [Список изменений][16]
 
-[16]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
+[16]: http://www.anygis.ru/Web/Html/Changelog_ru
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsAlpine.png)
+![](http://www.anygis.ru/Web/Img/4mapsAlpine.png)
 
 
 
@@ -40,7 +40,7 @@
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_ru.zip
 
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Short_ru
+[3]: http://www.anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_ru
 
 
 
@@ -69,7 +69,7 @@
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_ru.zip
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Full_ru
+[12]: http://www.anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
 
 

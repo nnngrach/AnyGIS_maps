@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [Как это работает?][02] | [RusOutdoor Maps][03] | [Скачать карты][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_ru
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_ru
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_ru
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_ru
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_ru
+[01]: http://www.anygis.ru/index
+[02]: http://www.anygis.ru/Web/Html/Description_ru
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_ru
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_ru
+[05]: http://www.anygis.ru/Web/Html/Api_ru
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_ru
 
 
 # Внимание!
@@ -21,9 +21,9 @@
 
 [Список изменений][0]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_ru
+[0]: http://www.anygis.ru/Web/Html/Changelog_ru
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsGuru.png)
+![](http://www.anygis.ru/Web/Img/4mapsGuru.png)
 
 
 Не секрет, что базового комплекта карт, с которым поставляется приложение, часто не хватает. Однако существует возможность добавлять их самостоятельно. Представляю вашему вниманию два набора [растровых][07] онлайн-карт:
@@ -39,8 +39,8 @@
 
 [1]: https://shuriktravel.ru/maps/
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_short_ru.zip
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_IOS_Short_ru
-[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_Android_Short_ru
+[3]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_IOS_Short_ru
+[4]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_Android_Short_ru
 
 
 ### Полный набор
@@ -70,8 +70,8 @@
 [9]: https://custom-map-source.appspot.com/
 [10]: http://www.sasgis.org/
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Galileo_online_maps/Zip/Maps_full_ru.zip
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_IOS_Full_ru
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Guru_Maps_Android_Full_ru
+[12]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_IOS_Full_ru
+[13]: http://www.anygis.ru/Web/Html/Download/Guru_Maps_Android_Full_ru
 
 ---
 
@@ -134,7 +134,7 @@
 
 ![](https://gurumaps.app/manuals/ios/assets/file_sharing_itunes.png)
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/guru_itunes.png)
+![](http://www.anygis.ru/Web/Img/guru_itunes.png)
 
 ---
 

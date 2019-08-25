@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>16</maxZoom>
-    <url>https://anygis.herokuapp.com/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

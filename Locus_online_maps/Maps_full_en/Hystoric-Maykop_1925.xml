@@ -2,10 +2,10 @@
 
 <!--
 Комплект карт "AnyGIS" для навигатора Locus Maps.
-https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
+http://www.anygis.ru/Web/Html/Locus
 
 Составитель: AnyGIS (anygis@bk.ru).
-Файл обновлен: 21-08-2019 23:51
+Файл обновлен: 25-08-2019 19:14
 
 Сделан на основе наборов карт от:
 - SAS.planet (http://www.sasgis.org/)
@@ -23,7 +23,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <mode>Maykop 1925</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
-<url><![CDATA[https://anygis.herokuapp.com/Historic_Maykop_1925/{x}/{y}/{z}]]></url>
+<url><![CDATA[http://server.anygis.ru/Historic_Maykop_1925/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
@@ -31,7 +31,7 @@ https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus
 <tileSize>256</tileSize>
 <extraHeader><![CDATA[Referer#https://anygis.herokuapp.com/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://nnngrach.github.io/AnyGIS_maps/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+<attribution><![CDATA[Сборник карт AnyGIS. <a href="http://www.anygis.ru/Web/Html/Locus">Проверить обновления</a>]]></attribution>
 </provider>
 
 </providers>

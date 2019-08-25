@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
-                <server><![CDATA[https://anygis.herokuapp.com/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

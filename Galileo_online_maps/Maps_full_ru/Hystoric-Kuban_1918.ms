@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://anygis.herokuapp.com/Historic_Kuban_1918/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Historic_Kuban_1918/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

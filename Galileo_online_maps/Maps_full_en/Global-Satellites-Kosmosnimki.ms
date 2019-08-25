@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://anygis.herokuapp.com/Kosmosnimki/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Kosmosnimki/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Tracks_Strava_Ride_HD/{1}/{2}/{0}
+http://server.anygis.ru/Tracks_Strava_Ride_HD/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

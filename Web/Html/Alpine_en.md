@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -15,9 +15,9 @@
 
 [Changelog][16]
 
-[16]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
+[16]: http://www.anygis.ru/Web/Html/Changelog_en
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsAlpine.png)
+![](http://www.anygis.ru/Web/Img/4mapsAlpine.png)
 
 
 
@@ -35,7 +35,7 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_short_en.zip
 
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Short_en
+[3]: http://www.anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Short_en
 
 
 
@@ -62,7 +62,7 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [11]: https://github.com/nnngrach/AnyGIS_maps/raw/master/AlpineQuest_online_maps/Zip/Maps_full_en.zip
 
-[12]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/Alpine_Quest_Maps_Full_ru
+[12]: http://www.anygis.ru/Web/Html/Download/Alpine_Quest_Maps_Full_ru
 
 
 

@@ -1,23 +1,23 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
 
 
 
 # Contacts
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
+| <img src="http://www.anygis.ru/Web/Img/icon_fb.png" width="60"/> | **[Fb.com/anygismaps][10]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
+| <img src="http://www.anygis.ru/Web/Img/icon_vk.png" width="60"/> | **[Vk.com/anygis][11]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
+| <img src="http://www.anygis.ru/Web/Img/icon_email.png" width="60"/> | **[Anygis@bk.ru][12]** |
 
-| <img src="https://nnngrach.github.io/AnyGIS_maps/Web/Img/icon_git.png" width="60"/> | **[Fork on GitHub][13]** |
+| <img src="http://www.anygis.ru/Web/Img/icon_git.png" width="60"/> | **[Fork on GitHub][13]** |
 
 
 

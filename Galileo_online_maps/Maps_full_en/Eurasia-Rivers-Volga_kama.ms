@@ -7,7 +7,7 @@
 <layer>
     <minZoom>7</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Local_River_Volga/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Local_River_Volga/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

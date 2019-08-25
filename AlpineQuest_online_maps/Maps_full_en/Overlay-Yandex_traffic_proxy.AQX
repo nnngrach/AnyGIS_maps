@@ -20,7 +20,7 @@
 
             <servers>
                 <referer><![CDATA[https://maps.yandex.ru/]]></referer>
-                <server><![CDATA[https://anygis.herokuapp.com/Yandex_traffic_layer_WGS84_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Yandex_traffic_layer_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

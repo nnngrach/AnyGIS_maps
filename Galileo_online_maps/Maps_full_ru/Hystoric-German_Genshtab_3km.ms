@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://anygis.herokuapp.com/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

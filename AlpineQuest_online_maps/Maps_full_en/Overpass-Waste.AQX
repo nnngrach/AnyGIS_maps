@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[https://anygis.herokuapp.com/Mapshoter_Waste/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://server.anygis.ru/Mapshoter_Waste/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

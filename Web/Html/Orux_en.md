@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -15,9 +15,9 @@
 
 [Changelog][0]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
+[0]: http://www.anygis.ru/Web/Html/Changelog_en
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsOrux.png)
+![](http://www.anygis.ru/Web/Img/4mapsOrux.png)
 
 
 
@@ -68,11 +68,11 @@ If you already know what kind of maps you need, then this set is for you. Note t
 * Open Map list and press Refresh button. 
 * New maps should appear in the application in the section `Online` of the folder `Layers`
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapUpdater.png)
+![](http://www.anygis.ru/Web/Img/oruxMapUpdater.png)
 
 * If any of the cards seem superfluous to you, you can remove them from the list. To do this, simply click and hold on the name of the card. After a while, it will disappear from the list.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/oruxMapDeleter.png)
+![](http://www.anygis.ru/Web/Img/oruxMapDeleter.png)
 
 
 That's all. If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then send me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.

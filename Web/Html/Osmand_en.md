@@ -1,12 +1,12 @@
 | [AnyGIS][01] | [How it works?][02] | [RusOutdoor Maps][03] | [Download][04] | [API][05] |
 
 
-[01]: https://nnngrach.github.io/AnyGIS_maps/index_en
-[02]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Description_en
-[03]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/RusOutdoor_en
-[04]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/DownloadPage_en
-[05]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Api_en
-[07]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Vektor_and_raster_en
+[01]: http://www.anygis.ru/index_en
+[02]: http://www.anygis.ru/Web/Html/Description_en
+[03]: http://www.anygis.ru/Web/Html/RusOutdoor_en
+[04]: http://www.anygis.ru/Web/Html/DownloadPage_en
+[05]: http://www.anygis.ru/Web/Html/Api_en
+[07]: http://www.anygis.ru/Web/Html/Vektor_and_raster_en
 
 
 
@@ -15,9 +15,9 @@
 
 [Changelog][0]
 
-[0]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Changelog_en
+[0]: http://www.anygis.ru/Web/Html/Changelog_en
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/4mapsOsmand.png)
+![](http://www.anygis.ru/Web/Img/4mapsOsmand.png)
 
 
 
@@ -39,9 +39,9 @@ A great option for beginners. If you still not sure what cards you should upload
 
 [2]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_short_en.zip
 
-[3]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Short_en
+[3]: http://www.anygis.ru/Web/Html/Download/OsmAnd_Maps_Short_en
 
-[4]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en
+[4]: http://www.anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Short_en
 
 
 
@@ -75,9 +75,9 @@ If you already know what kind of maps you need, then this set is for you. Note t
 
 [12]: https://github.com/nnngrach/AnyGIS_maps/raw/master/Osmand_online_maps/Metainfo/Zip/Maps_full_en.zip
 
-[13]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_Full_en
+[13]: http://www.anygis.ru/Web/Html/Download/OsmAnd_Maps_Full_en
 
-[14]: https://nnngrach.github.io/AnyGIS_maps/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
+[14]: http://www.anygis.ru/Web/Html/Download/OsmAnd_Maps_(metainfo)_Full_en
 
 
 
@@ -90,12 +90,12 @@ Maps are presented in two formats. Theoretically, the maps are in the `sqlitedb`
 * If you want to download map in `.metainfo` format, then you'll get zip archive. Unpack it. Copy unpacked folder to the `Android\data\net.osmand\files\tiles` 
 * If for some reason you do not have such a folder (for example, Osmand is installed on the SD-card), then you need to know in which directory it is located. To do this, launch the application, open `Settings`, select `Basic settings` and scroll down to `Storage Directory`. Here you will find the address. Card you want to copy to the subfolder `tiles`
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Osmand_patch.png)
+![](http://www.anygis.ru/Web/Img/Osmand_patch.png)
 
 * New maps should appear in the application in the tabs `map Source`, `Coverage maps`, `substrate Map`
 * If you need to remove any map from this list, you need to remove it from the storage of your phone using the File Manager app.
 
-![](https://nnngrach.github.io/AnyGIS_maps/Web/Img/Osmand_maplist.png)
+![](http://www.anygis.ru/Web/Img/Osmand_maplist.png)
 
 
 ### How to install maps (IOS)

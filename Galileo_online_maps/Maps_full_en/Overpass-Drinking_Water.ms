@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>https://anygis.herokuapp.com/Mapshoter_Water/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Mapshoter_Water/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

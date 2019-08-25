@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Historic_Krim_1v/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Historic_Krim_1v/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

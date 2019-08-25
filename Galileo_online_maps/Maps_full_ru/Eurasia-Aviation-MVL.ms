@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>10</maxZoom>
-    <url>https://anygis.herokuapp.com/Local_Avia_Mvl/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Local_Avia_Mvl/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

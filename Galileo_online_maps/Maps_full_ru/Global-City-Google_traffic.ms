@@ -14,7 +14,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>https://anygis.herokuapp.com/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

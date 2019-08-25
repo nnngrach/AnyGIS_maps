@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.herokuapp.com/Yandex_traffic_layer_WGS84/{1}/{2}/{0}
+http://server.anygis.ru/Yandex_traffic_layer_WGS84/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

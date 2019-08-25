@@ -14,7 +14,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://anygis.herokuapp.com/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

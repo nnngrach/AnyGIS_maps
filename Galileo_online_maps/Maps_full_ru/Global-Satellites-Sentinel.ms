@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Sentinel/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Sentinel/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

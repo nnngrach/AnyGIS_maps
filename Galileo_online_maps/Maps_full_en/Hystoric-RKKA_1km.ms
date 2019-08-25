@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Historic_RKKA_1km/{$x}/{$y}/{$z}</url>
+    <url>http://server.anygis.ru/Historic_RKKA_1km/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>
