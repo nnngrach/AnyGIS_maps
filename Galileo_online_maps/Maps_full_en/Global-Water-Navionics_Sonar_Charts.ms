@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>http://server.anygis.ru/Navionics_Sonar_Charts/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Navionics_Sonar_Charts/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

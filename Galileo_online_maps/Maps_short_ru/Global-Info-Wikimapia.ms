@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>http://server.anygis.ru/Wikimapia/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Wikimapia/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

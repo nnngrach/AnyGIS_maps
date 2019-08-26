@@ -1,5 +1,5 @@
 [url_template]
-http://server.anygis.ru/Other_Eu_Montenegro/{1}/{2}/{0}
+http://anygis.ru/server/Other_Eu_Montenegro/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
-                <server><![CDATA[http://server.anygis.ru/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

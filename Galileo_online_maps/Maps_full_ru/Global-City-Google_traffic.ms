@@ -14,7 +14,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>http://server.anygis.ru/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

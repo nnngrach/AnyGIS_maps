@@ -1,5 +1,5 @@
 [url_template]
-http://server.anygis.ru/Hillshade_Waymarkedtrails/{1}/{2}/{0}
+http://anygis.ru/server/Hillshade_Waymarkedtrails/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

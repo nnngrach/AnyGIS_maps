@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>16</maxZoom>
-    <url>http://server.anygis.ru/Tracks_Strava_All/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Tracks_Strava_All/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

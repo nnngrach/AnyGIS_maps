@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://server.anygis.ru/Mapshoter_GravelRunTrails/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Mapshoter_GravelRunTrails/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

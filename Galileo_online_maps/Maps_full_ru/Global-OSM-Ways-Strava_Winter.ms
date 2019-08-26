@@ -14,7 +14,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>http://server.anygis.ru/Tracks_Strava_Winter_HD/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Tracks_Strava_Winter_HD/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

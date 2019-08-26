@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>15</maxZoom>
-    <url>http://server.anygis.ru/Sentinel/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Sentinel/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

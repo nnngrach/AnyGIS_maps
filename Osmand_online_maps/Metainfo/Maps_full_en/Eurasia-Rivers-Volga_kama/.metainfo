@@ -1,5 +1,5 @@
 [url_template]
-http://server.anygis.ru/Local_River_Volga/{1}/{2}/{0}
+http://anygis.ru/server/Local_River_Volga/{1}/{2}/{0}
 [min_zoom]
 7
 [max_zoom]

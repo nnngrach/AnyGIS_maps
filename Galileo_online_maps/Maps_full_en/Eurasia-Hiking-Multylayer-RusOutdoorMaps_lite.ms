@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>http://server.anygis.ru/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

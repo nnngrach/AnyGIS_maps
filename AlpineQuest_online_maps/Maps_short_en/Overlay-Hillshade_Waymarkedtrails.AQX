@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://server.anygis.ru/Hillshade_Waymarkedtrails/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Hillshade_Waymarkedtrails/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://server.anygis.ru/Yandex_sat_clean/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Yandex_sat_clean/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

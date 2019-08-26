@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>10</maxZoom>
-    <url>http://server.anygis.ru/Local_Avia_Mvl/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Local_Avia_Mvl/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

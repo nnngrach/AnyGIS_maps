@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>http://server.anygis.ru/Historic_RKKA_2km/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Historic_RKKA_2km/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

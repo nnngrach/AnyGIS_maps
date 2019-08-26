@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.dzz.by/izuchdzz/]]></referer>
-                <server><![CDATA[http://server.anygis.ru/Other_Belarus_DDZ/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Other_Belarus_DDZ/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

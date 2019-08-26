@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://server.anygis.ru/Tracks_Strava_Water/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Tracks_Strava_Water/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

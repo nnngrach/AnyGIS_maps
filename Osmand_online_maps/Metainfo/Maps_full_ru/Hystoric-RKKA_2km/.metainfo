@@ -1,5 +1,5 @@
 [url_template]
-http://server.anygis.ru/Historic_RKKA_2km/{1}/{2}/{0}
+http://anygis.ru/server/Historic_RKKA_2km/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

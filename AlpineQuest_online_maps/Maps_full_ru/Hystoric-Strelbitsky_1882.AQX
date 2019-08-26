@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
-                <server><![CDATA[http://server.anygis.ru/Historic_Strelbitsky_1882/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Historic_Strelbitsky_1882/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[http://server.anygis.ru/Sentinel/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/server/Sentinel/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

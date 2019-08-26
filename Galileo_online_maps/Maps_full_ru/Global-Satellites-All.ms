@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>http://server.anygis.ru/Combo_All_Satellites/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Combo_All_Satellites/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

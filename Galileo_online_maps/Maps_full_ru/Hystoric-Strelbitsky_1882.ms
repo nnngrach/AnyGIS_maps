@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>12</maxZoom>
-    <url>http://server.anygis.ru/Historic_Strelbitsky_1882/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Historic_Strelbitsky_1882/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

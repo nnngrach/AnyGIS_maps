@@ -1,5 +1,5 @@
 [url_template]
-http://server.anygis.ru/Kosmosnimki_WGS84/{1}/{2}/{0}
+http://anygis.ru/server/Kosmosnimki_WGS84/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

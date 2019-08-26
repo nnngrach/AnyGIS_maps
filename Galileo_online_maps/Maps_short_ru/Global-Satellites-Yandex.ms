@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>http://server.anygis.ru/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
+    <url>http://anygis.ru/server/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>
