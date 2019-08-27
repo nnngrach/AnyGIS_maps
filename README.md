@@ -1,6 +1,6 @@
-![AnyGIS - Onlime maps pack](https://github.com/nnngrach/AnyGIS_maps/raw/master/Web/Img/AnyGIS_logo_and_text.png)
+![AnyGIS - Onlime maps pack](https://github.com/nnngrach/AnyGIS_maps/raw/master/AnyGIS_logo_and_text.png)
 
-This is a web-site for downloading preset files for mobile navigation apps. It supporting most popular client apps: Locus, Osmand, Orux, GuruMaps. This files allows to connect new raster online-maps to moblie navigation apps.
+This is a my collection with many interesting preset files for mobile navigation apps. It supporting most popular client apps: Locus, Osmand, Orux, GuruMaps. This files allows to connect new raster online-maps to moblie navigation apps.
 
 For online data processing it uses the [AnyGIS Server](https://github.com/nnngrach/AnyGIS_server) utility.
 
