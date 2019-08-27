@@ -18,7 +18,7 @@
 
             <servers>
                 
-                <server><![CDATA[https://anygis.ru/server/Mapshoter_Waste/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/server/Mapshooter_Waste/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -1,5 +1,5 @@
 [url_template]
-http://anygis.ru/server/Mapshoter_Water/{1}/{2}/{0}
+http://anygis.ru/server/Mapshooter_Water/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

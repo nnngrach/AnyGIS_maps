@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>https://anygis.ru/server/Mapshoter_Waste/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Mapshooter_Waste/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

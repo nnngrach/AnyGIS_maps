@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>https://anygis.ru/server/Mapshoter_GravelRunTrails/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Mapshooter_GravelRunTrails/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>
