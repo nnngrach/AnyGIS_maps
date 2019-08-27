@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>17</maxZoom>
-    <url>http://anygis.ru/server/Local_Taganay/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Local_Taganay/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

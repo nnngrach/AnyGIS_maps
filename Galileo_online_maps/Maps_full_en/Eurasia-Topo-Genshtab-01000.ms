@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>13</maxZoom>
-    <url>http://anygis.ru/server/Locals_Genshtab_01000/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Locals_Genshtab_01000/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

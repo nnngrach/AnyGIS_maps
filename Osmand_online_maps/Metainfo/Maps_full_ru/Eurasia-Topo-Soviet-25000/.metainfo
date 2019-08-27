@@ -1,5 +1,5 @@
 [url_template]
-http://anygis.ru/server/Locals_Topo_25000/{1}/{2}/{0}
+https://anygis.ru/server/Locals_Topo_25000/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

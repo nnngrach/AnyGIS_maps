@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>http://anygis.ru/server/Ersi_Topomap/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Ersi_Topomap/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

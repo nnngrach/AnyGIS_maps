@@ -7,7 +7,7 @@
 <layer>
     <minZoom>7</minZoom>
     <maxZoom>15</maxZoom>
-    <url>http://anygis.ru/server/Local_River_Volga/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Local_River_Volga/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

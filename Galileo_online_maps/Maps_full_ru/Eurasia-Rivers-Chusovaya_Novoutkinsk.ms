@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>http://anygis.ru/server/Local_River_Chusovaya/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Local_River_Chusovaya/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

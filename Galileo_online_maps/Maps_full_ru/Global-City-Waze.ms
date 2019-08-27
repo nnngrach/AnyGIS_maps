@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>http://anygis.ru/server/Waze/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Waze/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

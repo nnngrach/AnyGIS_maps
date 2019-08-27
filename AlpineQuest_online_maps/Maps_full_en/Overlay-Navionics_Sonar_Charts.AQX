@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[http://webapp.navionics.com/]]></referer>
-                <server><![CDATA[http://anygis.ru/server/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/server/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

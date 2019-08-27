@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.openstreetmap.org/]]></referer>
-                <server><![CDATA[http://anygis.ru/server/Osm_Mapnik_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/server/Osm_Mapnik_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

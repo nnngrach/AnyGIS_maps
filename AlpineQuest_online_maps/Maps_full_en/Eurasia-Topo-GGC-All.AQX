@@ -18,7 +18,7 @@
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://anygis.ru/server/Combo_Best_GGC/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/server/Combo_Best_GGC/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

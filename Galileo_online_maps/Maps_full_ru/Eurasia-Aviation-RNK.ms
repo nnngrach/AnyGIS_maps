@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>9</maxZoom>
-    <url>http://anygis.ru/server/Local_Avia_Rnk/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Local_Avia_Rnk/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

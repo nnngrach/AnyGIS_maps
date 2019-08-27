@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>http://anygis.ru/server/Osm_OpenSnowMap_base/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Osm_OpenSnowMap_base/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>

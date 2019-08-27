@@ -1,5 +1,5 @@
 [url_template]
-http://anygis.ru/server/Tracks_Strava_All_HD/{1}/{2}/{0}
+https://anygis.ru/server/Tracks_Strava_All_HD/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

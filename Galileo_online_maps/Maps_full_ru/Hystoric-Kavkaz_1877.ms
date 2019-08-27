@@ -7,7 +7,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>http://anygis.ru/server/Historic_Kavkaz_1877/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/server/Historic_Kavkaz_1877/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>
