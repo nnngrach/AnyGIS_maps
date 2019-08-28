@@ -4,7 +4,7 @@
 <name>Overlay</name>
 <description>Overlay</description>
 
-    <source id="10650" layer="true">
+    <source id="8888650" layer="true">
         <name>OpenStreetMap GPS Tracks</name>
         <copyright>OpenStreetMap GPS Tracks</copyright>
         <data-source></data-source>
