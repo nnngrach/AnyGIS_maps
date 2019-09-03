@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 17:19
+Updated: 03-09-2019 18:39
 -->
 
 <onlinemapsource uid="468327">
@@ -147,7 +147,7 @@ Updated: 03-09-2019 17:19
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
+<projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>

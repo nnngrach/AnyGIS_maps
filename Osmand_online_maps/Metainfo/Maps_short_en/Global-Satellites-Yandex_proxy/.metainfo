@@ -5,7 +5,7 @@ http://anygis.ru/server/Yandex_sat_clean_WGS84_referer/{1}/{2}/{0}
 [max_zoom]
 19
 [ellipsoid]
-false
+true
 [tile_size]
 256
 [img_density]

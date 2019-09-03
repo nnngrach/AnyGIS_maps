@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 17:19
+Updated: 03-09-2019 18:39
 -->
 
 
@@ -20,11 +20,13 @@ Updated: 03-09-2019 17:19
 
         <level>
             
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
 
             <servers>
-                
-                <server><![CDATA[https://anygis.ru/server/Yandex_map/{x}/{y}/{z}]]></server>
+                <referer><![CDATA[https://maps.yandex.ru/]]></referer>
+                <server><![CDATA[https://anygis.ru/server/Yandex_map_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

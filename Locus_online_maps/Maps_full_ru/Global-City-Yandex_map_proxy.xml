@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 17:19
+Updated: 03-09-2019 18:39
 -->
 
 
@@ -10,17 +10,18 @@ Updated: 03-09-2019 17:19
 
 <providers>
 
-<provider id="468330" type="0" visible="true" background="-1">
+<provider id="468330" type="2" visible="true" background="-1">
 <name>Глобальные - Городские</name>
 <mode>Yandex Карта (proxy)</mode>
 <countries>World</countries>
 <usage>city</usage>
-<url><![CDATA[https://anygis.ru/server/Yandex_map/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/server/Yandex_map_WGS84_proxy/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>26</zoomMax>   <!-- 18 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
+<extraHeader><![CDATA[Referer#https://maps.yandex.ru/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[Map pack from AnyGIS.r. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
