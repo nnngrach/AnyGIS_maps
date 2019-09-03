@@ -2,8 +2,9 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 16:41
+Updated: 03-09-2019 17:05
 -->
+
 
 <customMapSource>
 <name>Кавказ 1941-48 5-верстовая (ENG)</name>

@@ -2,8 +2,9 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 16:41
+Updated: 03-09-2019 17:05
 -->
+
 
 <customMapSource>
 <name>Soviet military map 1km (planet)</name>
