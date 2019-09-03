@@ -1,5 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
+<!--
+Map pack from AnyGIS.ru
+Updated: 03-09-2019 16:41
+-->
+
 <customMapSource>
 <name>Река Кубань 1985 (От Краснодрского гидроузла до устья)</name>
 <layers>
