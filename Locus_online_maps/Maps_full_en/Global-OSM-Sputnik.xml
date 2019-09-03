@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 17:05
+Updated: 03-09-2019 17:15
 -->
 
 
@@ -22,7 +22,7 @@ Updated: 03-09-2019 17:05
 <zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Сборник карт AnyGIS. <a href="https://anygis.ru/Web/Html/Locus">Проверить обновления</a>]]></attribution>
+<attribution><![CDATA[Map pack from AnyGIS.r. <a href="https://anygis.ru/Web/Html/Description_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>
