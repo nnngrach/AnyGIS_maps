@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 03-09-2019 18:39
 <mode>Volga and Kama rivers location</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
-<url><![CDATA[https://anygis.ru/server/Local_River_Volga/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_River_Volga/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>15</zoomMin>    <!-- 7 -->

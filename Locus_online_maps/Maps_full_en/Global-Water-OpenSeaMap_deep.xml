@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 03-09-2019 18:39
 <mode>Open Sea Map + Deep Map</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
-<url><![CDATA[https://anygis.ru/server/Osm_Mapnik_proxy/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Mapnik_proxy/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

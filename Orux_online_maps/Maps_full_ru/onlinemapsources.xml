@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 <onlinemapsource uid="468060">
@@ -98,7 +98,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468332">
 <name>Waze Пробки (GLOBALCITY)</name>
-<url><![CDATA[https://anygis.ru/server/Waze/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Waze/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -128,7 +128,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468330">
 <name>Yandex Карта (proxy) (GLOBALCITY)</name>
-<url><![CDATA[https://anygis.ru/server/Yandex_map_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_map_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -158,7 +158,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468001">
 <name>AnyGIS Спутниковый сборник (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -293,7 +293,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468335">
 <name>Sentinel (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/server/Sentinel/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -323,7 +323,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468331">
 <name>Yandex Спутник (proxy) (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/server/Yandex_sat_clean_WGS84_referer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_referer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -338,7 +338,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="468326">
 <name>Космоснимки.ру (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/server/Kosmosnimki_WGS84/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Kosmosnimki_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -368,7 +368,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="6666000">
 <name>ERSI Topomap (GLOBALOSM)</name>
-<url><![CDATA[https://anygis.ru/server/Ersi_Topomap/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Ersi_Topomap/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -428,7 +428,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="6666003">
 <name>Mapnik (PROXY) (GLOBALOSM)</name>
-<url><![CDATA[https://anygis.ru/server/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -623,7 +623,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190007">
 <name>Navionics Marine Charts (GLOBALNAUTICAL)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -638,7 +638,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190008">
 <name>Navionics Sonar Charts (GLOBALNAUTICAL)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Sonar_Charts/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Sonar_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -653,7 +653,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="412044">
 <name>Nakarte.me - Геокэшинг (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/server/Nakarte_Geocashing/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Geocashing/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -668,7 +668,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="412043">
 <name>Nakarte.me - Перевалы Вестра (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/server/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -683,7 +683,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="412040">
 <name>Wikimapia.org (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/server/Wikimapia/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Wikimapia/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -698,7 +698,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424002">
 <name>ГосГисЦентр (Все масштабы) (EURASIATOPOGGC)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -773,7 +773,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424003">
 <name>Генштаб (Все масштабы) (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -788,7 +788,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420005">
 <name>Генштаб 1 000 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_01000/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_01000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
 <minzoom>0</minzoom>
@@ -803,7 +803,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420001">
 <name>Генштаб 10 000 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_10000/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_10000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>10</maxzoom>
 <minzoom>0</minzoom>
@@ -818,7 +818,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420003">
 <name>Генштаб 2 000 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_02000/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_02000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>0</minzoom>
@@ -833,7 +833,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420004">
 <name>Генштаб 2 000 м v2 (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_02000_new/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_02000_new/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>0</minzoom>
@@ -848,7 +848,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420000">
 <name>Генштаб 20 000 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_20000/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_20000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>9</maxzoom>
 <minzoom>0</minzoom>
@@ -863,7 +863,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420008">
 <name>Генштаб 250 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_00250/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00250/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -878,7 +878,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420002">
 <name>Генштаб 5 000 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_05000/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_05000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>11</maxzoom>
 <minzoom>0</minzoom>
@@ -893,7 +893,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420006">
 <name>Генштаб 500 м (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_00500/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00500/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -908,7 +908,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420007">
 <name>Генштаб 500 м v2 (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Locals_Genshtab_00500_new/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00500_new/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -923,7 +923,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="420009">
 <name>Советские военные карты 1км (вся планета) (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Other_Ru_Topomapper/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Topomapper/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
 <minzoom>0</minzoom>
@@ -938,7 +938,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424006">
 <name>Топокарты (Все масштабы) (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1028,7 +1028,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424000">
 <name>RusOutdoor maps (EURASIAHIKINGMULTYLAYER)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -1043,7 +1043,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424007">
 <name>RusOutdoor maps (lite) (EURASIAHIKINGMULTYLAYER)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -1133,7 +1133,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354009">
 <name>Абишира-Ахуба (Ляпин В.Г.) (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_09/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_09/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1148,7 +1148,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354005">
 <name>Западный Кавказ (КОТ ОРИЕНТ) (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_05/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_05/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1163,7 +1163,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354006">
 <name>Казбек (Geoland) (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_06/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_06/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1178,7 +1178,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354004">
 <name>Перевалы Западного Кавказа   2014 (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_04/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_04/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1193,7 +1193,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354007">
 <name>Перевалы Центрального Кавказа 2014 (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_07/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_07/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1208,7 +1208,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354002">
 <name>Перевалы Южного Кавказа 2014 (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_02/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_02/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1223,7 +1223,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354003">
 <name>Сводная Госгеодезия 1991г (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_03/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_03/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1238,7 +1238,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354001">
 <name>Сводная ФГУ СК АГП (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_01/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_01/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1283,7 +1283,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="354008">
 <name>Хребтовка Приэльбрусья (Ляпин В.Г.) (EURASIAHIKINGCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kavkaz_08/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_08/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1298,7 +1298,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="295001">
 <name>Горный Крым (Картография2010) (EURASIAHIKINGCRIMEA)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Krim2/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1313,7 +1313,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="295000">
 <name>Горный Крым (Союзкарта2011) (EURASIAHIKINGCRIMEA)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Krim1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1328,7 +1328,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="185003">
 <name>Горы Хибинской тундры (EURASIAHIKINGKHIBINY)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Karelia3/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Karelia3/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1343,7 +1343,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="185000">
 <name>Хибинские и ловоозерские тундры (Аэрогеодезия 2008) (EURASIAHIKINGKHIBINY)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Karelia1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Karelia1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1358,7 +1358,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="185002">
 <name>Хибинские и ловоозерские тундры (СССР) (EURASIAHIKINGKHIBINY)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Karelia2/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Karelia2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1373,7 +1373,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720007">
 <name>Карпаты (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Karpaty/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Karpaty/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1388,7 +1388,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720001">
 <name>Катунский Чуйский хребты.  Алтай (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Altay1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Altay1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1403,7 +1403,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720004">
 <name>Киргизский хребет (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Kyrgiz1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kyrgiz1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1418,7 +1418,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720008">
 <name>Национальный парк Таганай (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Taganay/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Taganay/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
@@ -1433,7 +1433,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720002">
 <name>Саяны. Ергаки - Арадан (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Sayany1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Sayany1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1448,7 +1448,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720005">
 <name>Тянь-Шань и Памир (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Tyan_shan1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Tyan_shan1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1463,7 +1463,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="720006">
 <name>Хребет Аладаглар 2014 (EURASIAHIKINGOTHER)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Turk1/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Turk1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1508,7 +1508,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190005">
 <name>Река Кубань 1985 (От Краснодрского гидроузла до устья) (EURASIARIVERS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_River_Kuban/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_River_Kuban/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1523,7 +1523,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190006">
 <name>Речная лоция Волги и Камы 1996 (gmap.camapka.ru) (EURASIARIVERS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_River_Volga/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_River_Volga/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>7</minzoom>
@@ -1538,7 +1538,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190004">
 <name>Схема реки Чусовой (Пермь. Чусовой-Новоуткинск) (EURASIARIVERS)</name>
-<url><![CDATA[https://anygis.ru/server/Local_River_Chusovaya/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_River_Chusovaya/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1568,7 +1568,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="428000">
 <name>Лётные карты RNK (EURASIAAVIA)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Avia_Rnk/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Rnk/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>9</maxzoom>
 <minzoom>0</minzoom>
@@ -1583,7 +1583,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="428001">
 <name>Лётные карты МВЛ (EURASIAAVIA)</name>
-<url><![CDATA[https://anygis.ru/server/Local_Avia_Mvl/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Mvl/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>10</maxzoom>
 <minzoom>0</minzoom>
@@ -1658,7 +1658,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555010">
 <name>Кавказ 1877 5-верстовая (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kavkaz_1877/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kavkaz_1877/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1673,7 +1673,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555011">
 <name>Кавказ 1926 5-верстовая (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kavkaz_1926/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kavkaz_1926/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1688,7 +1688,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555012">
 <name>Кавказ 1941-48 5-верстовая (ENG) (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kavkaz_1948_eng/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kavkaz_1948_eng/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
 <minzoom>0</minzoom>
@@ -1703,7 +1703,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555009">
 <name>Крым 1880 1-верстовая (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1718,7 +1718,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555006">
 <name>Кубанская область 1902 (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kuban_1902/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1902/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1733,7 +1733,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555000">
 <name>Кубанский округ 1930 (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kuban_1930/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1930/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1748,7 +1748,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555003">
 <name>Кубанский р-н геологическая 1908-16 1 верста (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kuban_1916/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1916/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1763,7 +1763,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555007">
 <name>Кубань Стрельбицкого 1918 10 верст (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Kuban_1918/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1918/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1778,7 +1778,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555008">
 <name>Майкопский округ 1925 (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Maykop_1925/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Maykop_1925/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1793,7 +1793,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555002">
 <name>Немецкий Генштаб 1941 2км (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_German_Genshtab_2km/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_2km/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1808,7 +1808,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555001">
 <name>Немецкий Генштаб 1942 3км (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1823,7 +1823,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555004">
 <name>РККА 1932-1942 2км (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_RKKA_2km/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_RKKA_2km/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1853,7 +1853,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555014">
 <name>Стрельбицкого 1882 10-верстовая (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Strelbitsky_1882/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Strelbitsky_1882/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>0</minzoom>
@@ -1868,7 +1868,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="5555005">
 <name>Стрельбицкого 1919 10 верст (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://anygis.ru/server/Historic_Strelbitsky_1919/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Strelbitsky_1919/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>0</minzoom>
@@ -1943,7 +1943,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="10808">
 <name>Ukraine - Кадастровая карта (EUROPEEASTERN)</name>
-<url><![CDATA[https://anygis.ru/server/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2423,7 +2423,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888053">
 <name>Hillshade Карта уклонов (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Hillshade_VotEtoVid/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Hillshade_VotEtoVid/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
 <minzoom>0</minzoom>
@@ -2438,7 +2438,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888025">
 <name>Navionics Marine Charts (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2453,7 +2453,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888026">
 <name>Navionics Sonar Charts (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Sonar_Charts_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2468,7 +2468,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888022">
 <name>OSM Tile Grid (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/TILE_GRID/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -2528,7 +2528,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888031">
 <name>Strava Heatmap - All 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2543,7 +2543,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888043">
 <name>Strava Heatmap - All 256 (Bluered) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2558,7 +2558,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888032">
 <name>Strava Heatmap - Ride 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2573,7 +2573,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888044">
 <name>Strava Heatmap - Ride 256 (Bluered) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2588,7 +2588,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888033">
 <name>Strava Heatmap - Run 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2603,7 +2603,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888045">
 <name>Strava Heatmap - Run 256 (Bluered) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2618,7 +2618,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888034">
 <name>Strava Heatmap - Water 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2633,7 +2633,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888046">
 <name>Strava Heatmap - Water 256 (Bluered) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2648,7 +2648,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888035">
 <name>Strava Heatmap - Winter 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2663,7 +2663,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888047">
 <name>Strava Heatmap - Winter 256 (Bluered) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -2723,7 +2723,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888027">
 <name>Wikimapia.org (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -2753,7 +2753,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888015">
 <name>Yandex Пробки (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2768,7 +2768,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888056">
 <name>Yandex Пробки (proxy) (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2783,7 +2783,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888030">
 <name>Рельеф Mapbox (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Osm_Mapnik_Mapbox_Hillshades/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Mapnik_Mapbox_Hillshades/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2798,7 +2798,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888041">
 <name>Рельеф Waymarkedtrails.org (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Hillshade_Waymarkedtrails/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2828,7 +2828,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888028">
 <name>РосРеестр - Кадастровые границы (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -2843,7 +2843,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8899000">
 <name>OverpassTurbo: Гравийные дорожки для бега (OVERPASS)</name>
-<url><![CDATA[https://anygis.ru/server/Mapshooter_GravelRunTrails/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Mapshooter_GravelRunTrails/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -2858,7 +2858,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8899001">
 <name>OverpassTurbo: Мусорные баки (OVERPASS)</name>
-<url><![CDATA[https://anygis.ru/server/Mapshooter_Waste/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Waste/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -2873,7 +2873,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8899002">
 <name>OverpassTurbo: Питьевая вода (OVERPASS)</name>
-<url><![CDATA[https://anygis.ru/server/Mapshooter_Water/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>

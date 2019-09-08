@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.ru/server/Local_Kyrgiz1/{1}/{2}/{0}
+https://anygis.ru/api/v1/Local_Kyrgiz1/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 <onlinemapsource uid="468060">
@@ -113,7 +113,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="6666003">
 <name>Mapnik (PROXY) (GLOBALOSM)</name>
-<url><![CDATA[https://anygis.ru/server/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -173,7 +173,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="190007">
 <name>Navionics Marine Charts (GLOBALNAUTICAL)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -188,7 +188,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="412043">
 <name>Nakarte.me - Перевалы Вестра (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/server/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -203,7 +203,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="412040">
 <name>Wikimapia.org (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/server/Wikimapia/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Wikimapia/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -218,7 +218,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424002">
 <name>ГосГисЦентр (Все масштабы) (EURASIATOPOGGC)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -233,7 +233,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424003">
 <name>Генштаб (Все масштабы) (EURASIATOPOGENSHTAB)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -248,7 +248,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424000">
 <name>RusOutdoor maps (EURASIAHIKINGMULTYLAYER)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -263,7 +263,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="424007">
 <name>RusOutdoor maps (lite) (EURASIAHIKINGMULTYLAYER)</name>
-<url><![CDATA[https://anygis.ru/server/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -278,7 +278,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888025">
 <name>Navionics Marine Charts (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -323,7 +323,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888031">
 <name>Strava Heatmap - All 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -338,7 +338,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888032">
 <name>Strava Heatmap - Ride 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -353,7 +353,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888033">
 <name>Strava Heatmap - Run 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -368,7 +368,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888034">
 <name>Strava Heatmap - Water 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -383,7 +383,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888035">
 <name>Strava Heatmap - Winter 256 (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -428,7 +428,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888027">
 <name>Wikimapia.org (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
@@ -458,7 +458,7 @@ Updated: 03-09-2019 18:39
 
 <onlinemapsource uid="8888015">
 <name>Yandex Пробки (OVERLAY)</name>
-<url><![CDATA[https://anygis.ru/server/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

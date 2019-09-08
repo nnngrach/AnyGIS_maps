@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -23,7 +23,7 @@ Updated: 03-09-2019 18:39
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
 
             <servers>
-                <referer><![CDATA[https://anygis.herokuapp.com/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[https://tiles.nakarte.me/map_hr/{z}/{x}/{invY}]]></server>
             </servers>
         </level>

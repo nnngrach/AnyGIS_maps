@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.ru/server/Other_Ukr_Kadastr_layer/{1}/{2}/{0}
+https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

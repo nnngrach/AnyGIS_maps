@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -13,7 +13,7 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://anygis.ru/server/Historic_Kavkaz_1877/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Historic_Kavkaz_1877/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>https://anygis.ru/server/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Google_Trafic_Layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

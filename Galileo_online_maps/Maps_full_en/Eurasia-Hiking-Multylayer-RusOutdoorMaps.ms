@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -26,13 +26,13 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>10</minZoom>
     <maxZoom>11</maxZoom>
-    <url>https://anygis.herokuapp.com/Yandex_map/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Yandex_map/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
     <minZoom>11</minZoom>
     <maxZoom>14</maxZoom>
-    <url>https://anygis.herokuapp.com/Combo_RusOutdoor/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Combo_RusOutdoor/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
@@ -45,19 +45,19 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>14</minZoom>
     <maxZoom>15</maxZoom>
-    <url>https://anygis.herokuapp.com/Osm_Mapbox_Poi_2x_layer/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Osm_Mapbox_Poi_2x_layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
     <minZoom>15</minZoom>
     <maxZoom>17</maxZoom>
-    <url>https://anygis.herokuapp.com/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
     <minZoom>15</minZoom>
     <maxZoom>16</maxZoom>
-    <url>https://anygis.herokuapp.com/Osm_Mapnik_Mapbox_Hillshades/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Osm_Mapnik_Mapbox_Hillshades/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
@@ -70,13 +70,13 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>18</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://anygis.herokuapp.com/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
     <minZoom>16</minZoom>
     <maxZoom>22</maxZoom>
-    <url>https://anygis.herokuapp.com/Wikimapia_layer/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

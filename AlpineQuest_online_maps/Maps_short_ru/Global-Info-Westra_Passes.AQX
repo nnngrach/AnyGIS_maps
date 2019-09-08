@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -24,7 +24,7 @@ Updated: 03-09-2019 18:39
 
             <servers>
                 
-                <server><![CDATA[https://anygis.ru/server/Nakarte_Westra/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

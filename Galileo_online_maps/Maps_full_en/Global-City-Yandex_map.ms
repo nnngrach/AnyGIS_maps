@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -12,8 +12,8 @@ Updated: 03-09-2019 18:39
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>18</maxZoom>
-    <url>https://anygis.ru/server/Yandex_map/{$x}/{$y}/{$z}</url>
+    <maxZoom>19</maxZoom>
+    <url>https://anygis.ru/api/v1/Yandex_map/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

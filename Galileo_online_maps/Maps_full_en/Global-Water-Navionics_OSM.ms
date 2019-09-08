@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -13,13 +13,13 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://anygis.ru/server/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
 </layer>
 
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://anygis.ru/server/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

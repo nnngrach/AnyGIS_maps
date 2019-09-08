@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -30,7 +30,7 @@ Updated: 03-09-2019 18:39
 <mode>Eniro + Navionics</mode>
 <countries>Norway, Sweden, Denmark</countries>
 <usage>nautical</usage>
-<url><![CDATA[https://anygis.ru/server/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

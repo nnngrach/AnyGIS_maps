@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 03-09-2019 18:39
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>https://anygis.ru/server/Wikimapia_layer/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

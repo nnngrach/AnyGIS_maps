@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.ru/server/Osm_Topo_Map_proxi/{1}/{2}/{0}
+https://anygis.ru/api/v1/Osm_Topo_Map_proxi/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]

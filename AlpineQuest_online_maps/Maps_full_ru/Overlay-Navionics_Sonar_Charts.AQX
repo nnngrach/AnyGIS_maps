@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-09-2019 18:39
+Updated: 08-09-2019 21:41
 -->
 
 
@@ -24,7 +24,7 @@ Updated: 03-09-2019 18:39
 
             <servers>
                 <referer><![CDATA[http://webapp.navionics.com/]]></referer>
-                <server><![CDATA[https://anygis.ru/server/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
+                <server><![CDATA[https://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
