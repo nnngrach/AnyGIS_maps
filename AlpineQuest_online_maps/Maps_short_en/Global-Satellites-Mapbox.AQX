@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-09-2019 21:41
+Updated: 11-09-2019 23:48
 -->
 
 
@@ -25,9 +25,9 @@ Updated: 08-09-2019 21:41
             <servers>
                 
                 
-                <server><![CDATA[https://a.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[https://b.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[https://c.tiles.mapbox.com/v3/tmcw.map-j5fsp01s/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
+                <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
+                <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
 
             </servers>
         </level>

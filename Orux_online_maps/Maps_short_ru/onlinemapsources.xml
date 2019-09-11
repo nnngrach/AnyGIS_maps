@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-09-2019 21:41
+Updated: 11-09-2019 23:48
 -->
 
 <onlinemapsource uid="468060">
@@ -266,6 +266,21 @@ Updated: 08-09-2019 21:41
 <url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="720009">
+<name>Велокарта Чепецк.net (EURASIAHIKINGOTHER)</name>
+<url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

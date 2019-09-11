@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-09-2019 21:41
+Updated: 11-09-2019 23:48
 -->
 
 
@@ -1109,6 +1109,15 @@ Updated: 08-09-2019 21:41
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Chepezk.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Karpaty.xml]]>
 </source>
 <dest>
@@ -1563,6 +1572,15 @@ Updated: 08-09-2019 21:41
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_overlay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
 </dest>
 </download>
 

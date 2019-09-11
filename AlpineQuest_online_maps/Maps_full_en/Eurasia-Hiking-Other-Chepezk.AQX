@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="6">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 11-09-2019 23:48
+-->
+
+
+<name>Eurasia - Hiking - Other</name>
+<description>Eurasia - Hiking - Other</description>
+
+    <source id="720009">
+        <name>Chepezk cycle map</name>
+        <copyright>Chepezk cycle map</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+        <preview-location>5.90,44.80,10</preview-location>
+
+        <level>
+            
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+
+            <servers>
+                
+                <server><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+</aqx>
