@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:44
 -->
 
 
@@ -24,7 +24,7 @@ Updated: 14-09-2019 16:25
 
             <servers>
                 
-                <server><![CDATA[https://ecn.t0.tiles.virtualearth.net/tiles/r{c}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></server>
+                <server><![CDATA[https://ecn.t0.tiles.virtualearth.net/tiles/r{q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></server>
             </servers>
         </level>
     </source>

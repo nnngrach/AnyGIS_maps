@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:44
 -->
 
 
@@ -19,8 +19,9 @@ Updated: 14-09-2019 16:25
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>23</zoomMax>   <!-- 15 -->
+<zoomMax>22</zoomMax>   <!-- 14 -->
 <tileSize>256</tileSize>
+<extraHeader><![CDATA[Referer#https://s2maps.eu/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[Map pack from AnyGIS.r. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>

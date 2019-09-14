@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:43
 -->
 
 <onlinemapsource uid="468327">
@@ -38,7 +38,7 @@ Updated: 14-09-2019 16:25
 
 <onlinemapsource uid="468322">
 <name>Bing Bird's Eye (GLOBALSATELLITES)</name>
-<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{$q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
+<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

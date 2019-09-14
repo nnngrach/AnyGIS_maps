@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:43
 -->
 
 <onlinemapsource uid="468060">
@@ -23,7 +23,7 @@ Updated: 14-09-2019 16:25
 
 <onlinemapsource uid="468323">
 <name>Bing Карта (GLOBALCITY)</name>
-<url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{$q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
+<url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -158,7 +158,7 @@ Updated: 14-09-2019 16:25
 
 <onlinemapsource uid="468322">
 <name>Bing Bird's Eye (GLOBALSATELLITES)</name>
-<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{$q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
+<url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -280,7 +280,7 @@ Updated: 14-09-2019 16:25
 <name>Sentinel (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>15</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -2243,7 +2243,7 @@ Updated: 14-09-2019 16:25
 
 <onlinemapsource uid="13001">
 <name>Great Britain Topo (EUROPEWESTERN)</name>
-<url><![CDATA[https://ecn.t{$s}.tiles.virtualearth.net/tiles/r{$q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></url>
+<url><![CDATA[https://ecn.t{$s}.tiles.virtualearth.net/tiles/r{q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></url>
 <servers>1,2,3</servers>
 <maxzoom>15</maxzoom>
 <minzoom>11</minzoom>

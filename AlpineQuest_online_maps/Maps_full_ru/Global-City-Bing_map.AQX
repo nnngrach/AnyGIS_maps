@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:44
 -->
 
 
@@ -24,7 +24,7 @@ Updated: 14-09-2019 16:25
 
             <servers>
                 <referer><![CDATA[https://www.bing.com/mapspreview]]></referer>
-                <server><![CDATA[http://ecn.dynamic.t0.tiles.virtualearth.net/comp/ch/{c}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></server>
+                <server><![CDATA[http://ecn.dynamic.t0.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></server>
             </servers>
         </level>
     </source>

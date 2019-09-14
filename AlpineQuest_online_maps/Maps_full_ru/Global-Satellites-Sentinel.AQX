@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-09-2019 16:25
+Updated: 15-09-2019 02:44
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 14-09-2019 16:25
 
         <level>
             
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
 
             <servers>
-                
+                <referer><![CDATA[https://s2maps.eu/]]></referer>
                 <server><![CDATA[https://anygis.ru/api/v1/Sentinel/{x}/{y}/{z}]]></server>
             </servers>
         </level>
