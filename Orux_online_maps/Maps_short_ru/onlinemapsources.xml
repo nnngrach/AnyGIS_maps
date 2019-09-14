@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 11-09-2019 23:48
+Updated: 14-09-2019 16:25
 -->
 
 <onlinemapsource uid="468060">
@@ -234,6 +234,21 @@ Updated: 11-09-2019 23:48
 <onlinemapsource uid="424003">
 <name>Генштаб (Все масштабы) (EURASIATOPOGENSHTAB)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="424006">
+<name>Топокарты (Все масштабы) (EURASIATOPOSOVIETS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 11-09-2019 23:48
+Updated: 14-09-2019 16:25
 -->
 
 
@@ -285,6 +285,24 @@ Updated: 11-09-2019 23:48
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-All.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Топокарты%20-%20Советские.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Евразия - Топокарты - Советские.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-All.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-All.xml]]>
 </dest>
 </download>
 

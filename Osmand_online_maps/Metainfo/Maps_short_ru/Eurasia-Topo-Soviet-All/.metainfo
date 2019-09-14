@@ -1,9 +1,9 @@
 [url_template]
-http://anygis.ru/api/v1/Waze/{1}/{2}/{0}
+https://anygis.ru/api/v1/Combo_Best_Topo/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]
-18
+15
 [ellipsoid]
 false
 [tile_size]

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 11-09-2019 23:48
+Updated: 14-09-2019 16:25
 -->
 
 
@@ -10,17 +10,18 @@ Updated: 11-09-2019 23:48
 
 <providers>
 
-<provider id="468332" type="0" visible="true" background="-1">
-<name>Глобальные - Городские</name>
-<mode>Waze Пробки</mode>
-<countries>World</countries>
-<usage>city</usage>
-<url><![CDATA[https://anygis.ru/api/v1/Waze/{x}/{y}/{z}]]></url>
+<provider id="424006" type="0" visible="true" background="-1">
+<name>Евразия - Топокарты - Советские</name>
+<mode>Топокарты (Все масштабы)</mode>
+<countries>Russia</countries>
+<usage>hiking</usage>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>26</zoomMax>   <!-- 18 -->
+<zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
+<extraHeader><![CDATA[Referer#http://tiles.nakarte.tk/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[Map pack from AnyGIS.r. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 11-09-2019 23:48
+Updated: 14-09-2019 16:25
 -->
 
 
@@ -33,15 +33,6 @@ Updated: 11-09-2019 23:48
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-City-Google_terrain.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Waze.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-City-Waze.xml]]>
 </dest>
 </download>
 
