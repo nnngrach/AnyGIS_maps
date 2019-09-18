@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-09-2019 02:44
+Updated: 18-09-2019 10:41
 -->
 
 
@@ -321,15 +321,6 @@ Updated: 15-09-2019 02:44
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Mapnik_Hillshade.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Hillshade.xml]]>
 </dest>
 </download>
 
@@ -2148,15 +2139,6 @@ Updated: 15-09-2019 02:44
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Yandex_traffic_proxy.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Hillshade_mapbox.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay-Hillshade_mapbox.xml]]>
 </dest>
 </download>
 
