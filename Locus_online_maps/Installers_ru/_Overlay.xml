@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 17:06
+Updated: 20-09-2019 17:38
 -->
 
 
@@ -69,6 +69,24 @@ Updated: 20-09-2019 17:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Tile_grid.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-OpenSeaMap_seamark.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-OpenSeaMap_seamark.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-OpenSeaMap_deep.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 

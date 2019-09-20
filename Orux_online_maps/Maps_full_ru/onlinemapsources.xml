@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 17:05
+Updated: 20-09-2019 17:37
 -->
 
 <onlinemapsource uid="468060">
@@ -2475,6 +2475,36 @@ Updated: 20-09-2019 17:05
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888059">
+<name>OpenSeaMap (OVERLAY)</name>
+<url><![CDATA[http://tiles.openseamap.org/seamark/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888060">
+<name>OpenSeaMap Карта глубин (OVERLAY)</name>
+<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

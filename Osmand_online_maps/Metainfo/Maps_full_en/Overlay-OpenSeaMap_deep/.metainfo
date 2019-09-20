@@ -1,0 +1,16 @@
+[url_template]
+http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{0}&TileCol={1}&TileRow={2}
+[min_zoom]
+0
+[max_zoom]
+19
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png
