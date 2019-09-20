@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 20-09-2019 17:06
+-->
+
+
+
+
+<providers>
+
+<provider id="8888058" type="0" visible="true" background="-1">
+<name>Overlay</name>
+<mode>Рельеф SRTM</mode>
+<countries>World</countries>
+<usage>overlay</usage>
+<url><![CDATA[https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>23</zoomMax>   <!-- 15 -->
+<tileSize>256</tileSize>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

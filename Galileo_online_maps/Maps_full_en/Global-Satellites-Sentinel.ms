@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-09-2019 02:43
+Updated: 20-09-2019 17:05
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-09-2019 02:43
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>14</maxZoom>
+    <maxZoom>15</maxZoom>
     <url>https://anygis.ru/api/v1/Sentinel/{$x}/{$y}/{$z}</url>
 </layer>
 

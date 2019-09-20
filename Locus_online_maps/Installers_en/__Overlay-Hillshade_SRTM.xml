@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 20-09-2019 17:06
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_SRTM.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_SRTM.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay.png]]>
+</dest>
+</download>
+
+</locusActions>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-09-2019 02:44
+Updated: 20-09-2019 17:06
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 15-09-2019 02:44
 <description>Overlay</description>
 
     <source id="8888053" layer="true">
-        <name>Hillshade Карта уклонов</name>
-        <copyright>Hillshade Карта уклонов</copyright>
+        <name>Рельеф Карта уклонов</name>
+        <copyright>Рельеф Карта уклонов</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-09-2019 17:17
+Updated: 20-09-2019 17:06
 -->
 
 
@@ -42,6 +42,15 @@ Updated: 18-09-2019 17:17
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Here_traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_SRTM.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_SRTM.xml]]>
 </dest>
 </download>
 

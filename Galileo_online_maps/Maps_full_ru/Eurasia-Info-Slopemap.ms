@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-09-2019 02:43
+Updated: 20-09-2019 17:05
 -->
 
 
 <customMapSource>
-<name>Карта уклонов</name>
+<name>Рельеф Карта уклонов</name>
 <layers>
 
 <layer>
