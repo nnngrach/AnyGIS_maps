@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 17:38
+Updated: 20-09-2019 18:20
 -->
 
 
@@ -1896,6 +1896,15 @@ Updated: 20-09-2019 17:38
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Garmin_MarineImages.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Garmin_MarineImages.xml]]>
 </dest>
 </download>
 

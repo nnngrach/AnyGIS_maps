@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 17:37
+Updated: 20-09-2019 18:20
 -->
 
 <onlinemapsource uid="468060">
@@ -2387,6 +2387,21 @@ Updated: 20-09-2019 17:37
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888061">
+<name>Garmin MarineImages (Снимки сонара) (OVERLAY)</name>
+<url><![CDATA[https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
