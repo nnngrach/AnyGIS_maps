@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <aqx version="7">
+
+<name>Megafon</name>
+<description>Карта покрытия связи</description>
+
+<source id="MEGAFON2G" layer="true">
+<name>Megafon голос и интернет 2G</name>
+<data-source>http://megafon.ru</data-source>
+<copyright>Megafon</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+		  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+<server><![CDATA[https://coverage-map.megafon.ru/{$z}/{$x}/{$y}.png?layers=2g]]></server>
+</level>
+</source>
+
+<source id="MEGAFON3G" layer="true">
+<name>Megafon интернет 3G</name>
+<data-source>http://megafon.ru</data-source>
+<copyright>Megafon</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+		  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+<server><![CDATA[https://coverage-map.megafon.ru/{$z}/{$x}/{$y}.png?layers=3g]]></server>
+</level>
+</source>
+	  
+<source id="MEGAFONLTE" layer="true">
+<name>Megafon интернет 4G (LTE)</name>
+<data-source>http://megafon.ru</data-source>
+<copyright>Megafon</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+		  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+<server><![CDATA[https://coverage-map.megafon.ru/{$z}/{$x}/{$y}.png?layers=lte]]></server>
+</level>
+</source>
+
+<source id="MEGAFONLTE+" layer="true">
+<name>Megafon интернет 4G+ (LTE+)</name>
+<data-source>http://megafon.ru</data-source>
+<copyright>Megafon</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+		  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+<server><![CDATA[https://coverage-map.megafon.ru/{$z}/{$x}/{$y}.png?layers=lte_plus]]></server>
+</level>
+</source>
+ 
+</aqx>

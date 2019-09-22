@@ -1,0 +1,926 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+Erelen's Locus Maps, revision 12 (??.??.2019)
+
+Набор карт для Locus`а (https://www.locusmap.eu/)
+Автор: Erelen Laiquendi (erelen@melda.ru)
+Актуальная версия, история изменения и прочее-прочее: https://melda.ru/locus/
+
+-->
+<providers>
+
+	<!-- Схемы -->
+	<provider id="3101010" type="0" visible="true" background="-1">
+		<name>Схемы</name>
+		<mode>Google</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 22+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.google.com/maps/]]></extraHeader>
+	</provider>
+	<provider id="3101020" type="2" visible="true" background="-1">
+		<name>Схемы</name>
+		<mode>Яндекс</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://vec{s}.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}&scale={ts}&lang=ru-RU]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="1" />
+			<tileScale dpi="320" multi="2" replace="2" />
+		</tileScales>
+		<attribution><![CDATA[© Яндекс]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
+	</provider>
+	<provider id="3101030" type="2" visible="true" background="-1">
+		<name>Схемы</name>
+		<mode>Яндекс - Народная</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://{s}.core-nmaps-renderer-nmaps.maps.yandex.net/?x={x}&y={y}&z={z}&l=mpmap&sl=104,210342,210370,211777,211818,211939,211993,212015,212019,212026,212032,212081,212216,300024,300026,300198,300270,300292,300330,300337,300344,300351,300358,300365,300372,300379,300386,300393,300400,300406,300407,300468,300472,300523,300641,300651,300661,300683,300931,300939,300954,300969,300993,301050,301084,301125,301135,301155,301164,301183,301275,301383,301388,301494,301501,301520,301596,301676,301685,301700,301773,302053,302080,302089,302090,302107,302526,5300026,5400032,5400052,5400061,700010001,700010157,701302007,70300160,70300190,70300482,70300613,70300627&token=1534368522:170042125:core.1534368522:169099502:social]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>29</zoomMax> <!-- Max: 22+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="1" />
+			<tileScale dpi="320" multi="2" replace="2" />
+		</tileScales>
+		<attribution><![CDATA[Народная карта © Яндекс]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://n.maps.yandex.ru/]]></extraHeader>
+	</provider>
+	<provider id="3101040" type="0" visible="true" background="-1">
+		<name>Схемы</name>
+		<mode>Wikimapia</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[http://i{s}.wikimapia.org/?x={x}&y={y}&zoom={z}&lng=1]]></url>
+		<serverPart>{x}%4+({y}%4)*4</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>30</zoomMax> <!-- Max: 22+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://wikimapia.org/">Wikimapia CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://wikimapia.org/]]></extraHeader>
+	</provider>
+	<provider id="3101050" type="0" visible="true" background="-1">
+		<name>Схемы</name>
+		<mode>2GIS</mode>
+		<countries>Russia</countries>
+		<usage>city,road</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>26</zoomMax> <!-- Max: 18+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© 2GIS]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://2gis.ru/]]></extraHeader>
+	</provider>
+
+	<!-- OSM -->
+	<provider id="3102010" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>Mapnik</mode>
+		<countries>World</countries>
+		<usage>city,road</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://tile.osmand.net/{ts}{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="" />
+			<tileScale dpi="320" multi="2" replace="hd/" />
+		</tileScales>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://osmand.net/go.html]]></extraHeader>
+	</provider>
+	<provider id="3102020" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>Cycle</mode>
+		<countries>World</countries>
+		<usage>cycle</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://{s}.tile.thunderforest.com/cycle/{z}/{x}/{y}{ts}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="" />
+			<tileScale dpi="320" multi="2" replace="@2x" />
+		</tileScales>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+	<provider id="3102030" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>Outdoors</mode>
+		<countries>World</countries>
+		<usage>hiking,ski</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}{ts}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="" />
+			<tileScale dpi="320" multi="2" replace="@2x" />
+		</tileScales>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+	<provider id="3102040" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>OpenTopoMap</mode>
+		<countries>World</countries>
+		<usage>hiking,ski</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://opentopomap.org/]]></extraHeader>
+	</provider>
+	<provider id="3102050" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>OpenSnowMap</mode>
+		<countries>World</countries>
+		<usage>ski</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://www.opensnowmap.org/base_snow_map/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[]]>OpenSnowMap.org</attribution>
+		<extraHeader><![CDATA[Referer#https://www.opensnowmap.org/]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3102060" type="0" visible="true" background="-1">
+		<name>OSM</name>
+		<mode>Transport</mode>
+		<countries>World</countries>
+		<usage>transport</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}{ts}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="" />
+			<tileScale dpi="320" multi="2" replace="@2x" />
+		</tileScales>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
+	</provider>
+
+	<!-- Спутниковые снимки -->
+	<provider id="3103010" type="0" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Google</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=s&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 20+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.google.com/maps/]]></extraHeader>
+	</provider>
+	<provider id="3103020" type="0" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Google - Гибрид</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=y&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 20+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.google.com/maps/]]></extraHeader>
+	</provider>
+	<provider id="3103030" type="2" visible="true" required="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Яндекс</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://sat{s}.maps.yandex.net/tiles?l=sat&x={x}&y={y}&z={z}]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
+	</provider>
+	<provider id="3103040" type="2" visible="true" required="false" background="3103030">
+		<name>Спутниковые снимки</name>
+		<mode>Яндекс - Гибрид</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<url><![CDATA[https://vec{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}&scale={ts}&lang=ru_RU]]></url>
+		<validFor>2160</validFor>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="1" />
+			<tileScale dpi="320" multi="2" replace="2" />
+		</tileScales>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
+	</provider>
+	<provider id="3103050" type="5" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Bing</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://t.ssl.ak.tiles.virtualearth.net/tiles/a{c}.jpeg?g=0]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Microsoft | <a href="https://go.microsoft.com/fwlink/?LinkId=74170">Privacy</a> | <a href="https://g.msn.com/0TO_/enww">Legal</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.bing.com/maps]]></extraHeader>
+	</provider>
+	<provider id="3103060" type="0" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>ESRI</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© ESRI]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://esri.maps.arcgis.com/home/webmap/viewer.html]]></extraHeader>
+	</provider>
+	<provider id="3103070" type="0" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Here</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+		<serverPart>1;2;3;4</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© HERE]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://wego.here.com/]]></extraHeader>
+	</provider>
+	<provider id="3103080" type="0" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>MapBox</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://{s}.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.jpg?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJjaml5MjVyb3MwMWV0M3hxYmUzdGdwbzE4In0.q548FjhsSJzvXsGlPsFxAQ]]></url>
+		<serverPart>a;b;c;d</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© MapBox]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3103090" type="1" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Maxar Standard</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{z}/{x}/{y}.jpg?connectId=d9c5e3ef-6300-4cec-9562-c1f27da6b2d9]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Maxar]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3103100" type="1" visible="true" background="-1">
+		<name>Спутниковые снимки</name>
+		<mode>Maxar Premium</mode>
+		<countries>World</countries>
+		<usage>photo</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{z}/{x}/{y}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Maxar]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+	</provider>
+
+	<!-- Топокарты
+
+		Дорогой друг, читающий исходники!
+
+		Указанные ниже адреса начинающиеся на https://maps.melda.ru/l/... я завёл
+		специально для использования в Locus`е.
+
+		Если ты собираешься использовать эти карты в какой-либо ещё программе или
+		проекте - пожалуйста, используй не приведённые ниже адреса, начинающиеся
+		на https://maps.melda.ru/l/... , а те, которые используются в SASPlanet:
+		https://bitbucket.org/sas_team/sas.maps/src/tip/Genshtab/
+		https://bitbucket.org/sas_team/sas.plus.maps/src/tip/_Genshtab/
+
+		Если не очень понятно, как их использовать - связись со мной, я с
+		удовольствием всё объясню - и какие адреса надо использовать, и почему
+		именно их:
+
+			https://melda.ru/contacts/
+
+		Заранее спасибо за понимание и этичность в использовании чужих ресурсов.
+	-->
+
+	<!-- AnyGIS.ru - Многослойная карта для пешего и горного туризма по России и ближнему зарубежью. Подробнее: https://anygis.ru/Web/Html/RusOutdoor_ru -->
+	<provider id="3104010" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>RusOutdoor</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>30</zoomMax>   <!-- 22 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<attribution><![CDATA[Map pack from <a href="https://anygis.ru/">AnyGIS.ru</a>]]></attribution>
+	</provider>
+	<!-- AnyGIS.ru - Многослойная карта для пешего и горного туризма по России и ближнему зарубежью. Подробнее: https://anygis.ru/Web/Html/RusOutdoor_ru -->
+	<provider id="3104020" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>RusOutdoor (lite)</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{x}/{y}/{z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>30</zoomMax>   <!-- 22 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
+		<attribution><![CDATA[Map pack from <a href="https://anygis.ru/">AnyGIS.ru</a>]]></attribution>
+	</provider>
+	<provider id="3104030" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>ГГЦ, Генштаб</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/g/{z}/{x}/{y}.x]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104040" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Маршруты.ru</mode>
+		<countries>World</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>16</zoomMin>
+		<zoomMax>23</zoomMax> <!-- Max: 15+8 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://maps.marshruty.ru/]]></extraHeader>
+	</provider>
+	<provider id="3104050" type="1" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Slazav</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://tiles.nakarte.me/map_podm/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>13</zoomMin>
+		<zoomMax>22</zoomMax> <!-- Max: 14+8 -->
+		<tileSize>256</tileSize>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://nakarte.me/]]></extraHeader>
+	</provider>
+	<provider id="3104060" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>ГосГисЦентр 250м</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/ggc.250m/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104070" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>ГосГисЦентр 500м</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/ggc.500m/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>22</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104080" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>ГосГисЦентр 1км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/ggc.1km/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>21</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104090" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>ГосГисЦентр 2км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/ggc.2km/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104100" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 250м</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.250m/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>24</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104110" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 500м</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.500m/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>24</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104120" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 500м (нов.)</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.500m.new/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>23</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104130" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 1км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.1km/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>21</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104140" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 2км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.2km/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104150" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 2км (нов.)</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.2km.new/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104160" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 5км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.5km/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>19</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104170" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 10км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.10km/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>18</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3104180" type="0" visible="true" background="-1">
+		<name>Топокарты</name>
+		<mode>Генштаб 20км</mode>
+		<countries>Russia</countries>
+		<usage>hiking</usage>
+		<url><![CDATA[https://maps.melda.ru/l/gs.20km/{z}/{x}/{y}.jpg]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>17</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+
+	<!-- Слои -->
+	<provider id="3105010" type="0" visible="true" background="-1">
+		<name>Слои</name>
+		<mode>Google</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://mt{s}.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 20+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Google & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://www.google.com/maps/]]></extraHeader>
+	</provider>
+	<provider id="3105020" type="2" visible="true" background="-1">
+		<name>Слои</name>
+		<mode>Яндекс</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://vec{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}&scale={ts}&lang=ru_RU]]></url>
+		<serverPart>01;02;03;04</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="1" replace="1" />
+			<tileScale dpi="320" multi="2" replace="2" />
+		</tileScales>
+		<attribution><![CDATA[© Яндекс & others]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
+	</provider>
+	<provider id="3105030" type="0" visible="true" background="-1">
+		<name>Слои</name>
+		<mode>Wikimapia</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[http://i{s}.wikimapia.org/?x={x}&y={y}&zoom={z}&lng=1&type=hybrid]]></url>
+		<serverPart>{x}%4+({y}%4)*4</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>30</zoomMax> <!-- Max: 22+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://wikimapia.org/">Wikimapia CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#http://wikimapia.org/]]></extraHeader>
+	</provider>
+
+	<!-- Треки -->
+	<provider id="3106010" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>OSM</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>27</zoomMax> <!-- Max: 19+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[Map Data <a href="https://www.openstreetmap.org/">OpenStreetMap</a>, <a href="https://creativecommons.org/licenses/by-sa/2.0/">CC-BY-SA</a>]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106020" type="2" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Яндекс: интенсивность</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://core-gpstiles.maps.yandex.net/tiles?style=point&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>18</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://n.maps.yandex.ru/]]></extraHeader>
+	</provider>
+	<provider id="3106030" type="2" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Яндекс: направления</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://core-gpstiles.maps.yandex.net/tiles?style=red_combined&x={x}&y={y}&z={z}]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>18</zoomMin>
+		<zoomMax>25</zoomMax> <!-- Max: 17+8 -->
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[© Яндекс]]></attribution>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36]]></extraHeader>
+		<extraHeader><![CDATA[Referer#https://n.maps.yandex.ru/]]></extraHeader>
+	</provider>
+	<provider id="3106040" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Strava</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_All_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106050" type="0" visible="true" required="false" background="3106070">
+		<name>Треки</name>
+		<mode>Strava - Бег+Вело</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Ride_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106060" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Strava - Вело</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Ride_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106070" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Strava - Бег</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Run_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106080" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Strava - Вода</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Water_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+	<provider id="3106090" type="0" visible="true" background="-1">
+		<name>Треки</name>
+		<mode>Strava - Зима</mode>
+		<countries>World</countries>
+		<usage>overlay</usage>
+		<validFor>720</validFor>
+		<url><![CDATA[https://anygis.ru/server/Tracks_Strava_Winter_HD/{x}/{y}/{z}{ts}]]></url>
+		<serverPart></serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>    <!-- 0 -->
+		<zoomMax>23</zoomMax>   <!-- 15 -->
+		<tileSize>256</tileSize>
+		<tileScales>
+			<tileScale dpi="0" multi="2" replace="" />
+		</tileScales>
+		<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+		<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36]]></extraHeader>
+	</provider>
+
+	<!-- Покрытие сотовых операторов
+
+		Дорогой друг, читающий исходники!
+
+		Если ты собираешься использовать эти карты сотового покрытия в какой-либо
+		ещё программе, проекте, или каким-либо другим образом планируешь их выкачивать
+		в больших объёмах - очень тебя прошу, свяжись, пожалуйста, сначала со мной:
+
+			https://melda.ru/contacts/
+
+		Массовая генерация этих карт создаёт ощутимую нагрузку на мой сервер. И если эта
+		нагрузка будет создавать мне сложности - я очень расстроюсь. Но если сперва всё
+		обсудить - мы обязательно найдём устраивающее всех решение.
+
+		Заранее спасибо за понимание и этичность в использовании чужих ресурсов.
+	-->
+	<provider id="3107010" type="2" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>МТС</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/mts/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set">МТС</a>]]></attribution>
+	</provider>
+	<provider id="3107020" type="2" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Мегафон</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/megafon/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://megafon.ru/help/offices/#coverage">Мегафон</a>]]></attribution>
+	</provider>
+	<provider id="3107030" type="2" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Yota</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/yota/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://www.yota.ru/map?mode=cover&filter=2g,3g,4g">Yota</a>]]></attribution>
+	</provider>
+	<provider id="3107040" type="0" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Билайн</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/beeline/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+	</provider>
+	<provider id="3107050" type="0" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Tele2</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/tele2/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://tele2.ru/coverage">Tele2</a>]]></attribution>
+	</provider>
+	<provider id="3107060" type="0" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Tinkoff</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/tinkoff/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://www.tinkoff.ru/mobile-operator/coverage/">Tinkoff</a>]]></attribution>
+	</provider>
+	<provider id="3107070" type="0" visible="true" background="-1" required="false">
+		<name>Покрытие сотовых операторов</name>
+		<mode>Ростелеком</mode>
+		<countries>Russia</countries>
+		<usage>overlay</usage>
+		<validFor>2160</validFor>
+		<url><![CDATA[https://maps.melda.ru/mobile/rt/{z}/{x}/{y}.png]]></url>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>8</zoomMin>
+		<zoomMax>20</zoomMax>
+		<tileSize>256</tileSize>
+		<attribution><![CDATA[<a href="https://moscow.rt.ru/mobile/mobile_tariff">Tele2</a>]]></attribution>
+	</provider>
+
+</providers>

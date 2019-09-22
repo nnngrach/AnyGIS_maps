@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 22-09-2019 22:35
 -->
 
 
@@ -16,11 +16,15 @@ Updated: 20-09-2019 18:20
         <data-source></data-source>
         <region>WRLD</region>
         <type>ROAD</type>
-        <preview-location>5.90,44.80,10</preview-location>
+
+        
+        <preview-location>37.4942,55.88843,14</preview-location>
 
         <level>
             
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+
+            <update-delay>30D</update-delay>
 
             <servers>
                 

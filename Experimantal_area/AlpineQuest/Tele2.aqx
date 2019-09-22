@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <aqx version="7">
+
+<name>Tele2</name>
+<description>Карта покрытия связи</description>
+
+<source id="TELE22G" layer="true">
+<name>Tele2 2G</name>
+<data-source>http://ru.tele2.ru</data-source>
+<copyright>Tele2</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+<referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+<server><![CDATA[https://spb.tele2.ru/maps/_2g/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+<source id="TELE23G" layer="true">
+<name>Tele2 3G</name>
+<data-source>http://ru.tele2.ru</data-source>
+<copyright>Tele2</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+<referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+<server><![CDATA[https://spb.tele2.ru/maps/_3g/{$z}/{$x}/{$y}.png]]></server>
+</level>	 	
+</source>
+	  
+<source id="TELE24G" layer="true">
+<name>Tele2 4G</name>
+<data-source>http://ru.tele2.ru</data-source>
+<copyright>Tele2</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+<referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+<server><![CDATA[https://spb.tele2.ru/maps/_4g/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+<source id="TELE2LTE450" layer="true">
+<name>Tele2 LTE 450</name>
+<data-source>http://ru.tele2.ru</data-source>
+<copyright>Tele2</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>30D</update-delay>
+<referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+<server><![CDATA[https://spb.tele2.ru/maps/_skylink/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+</aqx>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 22-09-2019 22:35
 -->
 
 
@@ -16,11 +16,15 @@ Updated: 20-09-2019 18:20
         <data-source></data-source>
         <region>OTHE</region>
         <type>NAUT</type>
-        <preview-location>5.90,44.80,10</preview-location>
+
+        <outline>48.65,43.9 48.65,51.97 56.2,51.97 56.2,43.9</outline>
+        <preview-location>47.64,52.03,12</preview-location>
 
         <level>
             
             <zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+
+            <update-delay>4166D</update-delay>
 
             <servers>
                 <referer><![CDATA[https://gmap.camapka.ru/]]></referer>

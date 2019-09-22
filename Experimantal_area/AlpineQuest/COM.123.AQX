@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="8">
+
+	<name>Sentinel Maps</name>
+	<description>© sentinel-hub.com</description>
+	
+	<source id="SENTNAT">
+		<name>Sentinel (Natural)</name>
+		<description><![CDATA[Sentinel-2 dataset, natural color based on bands 4, 3, 2.<br><br>Sentinel-2 is an Earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management. It consists of two identical satellites, Sentinel-2A and Sentinel-2B.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?showLogo=false&service=WMS&request=GetMap&layers=1-NATURAL-COLOR&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&maxcc=20&time=2015-01-01%2F2020-01-01&priority=mostRecent&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="SENTIR">
+		<name>Sentinel (Infrared)</name>
+		<description><![CDATA[Sentinel-2 dataset, color infrared (vegetation) based on bands 8, 4, 3.<br><br>Sentinel-2 is an Earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management. It consists of two identical satellites, Sentinel-2A and Sentinel-2B.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[http://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?showLogo=false&service=WMS&request=GetMap&layers=2_COLOR_INFRARED__VEGETATION_&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&maxcc=20&time=2015-01-01%2F2020-01-01&priority=mostRecent&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="SENTVI">
+		<name>Sentinel (Vegetation Index)</name>
+		<description><![CDATA[Sentinel-2 dataset, vegetation index based on combination of bands (8-4)/(8+4).<br><br>Sentinel-2 is an Earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management. It consists of two identical satellites, Sentinel-2A and Sentinel-2B.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[http://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?showLogo=false&service=WMS&request=GetMap&layers=5_VEGETATION_INDEX&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=sentinel-2&maxcc=20&time=2015-01-01%2F2020-01-01&priority=mostRecent&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="SENTMI">
+		<name>Sentinel (Moisture Index)</name>
+		<description><![CDATA[Sentinel-2 dataset, moisture index based on combination of bands (8A-11)/(8A+11).<br><br>Sentinel-2 is an Earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management. It consists of two identical satellites, Sentinel-2A and Sentinel-2B.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[http://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?showLogo=false&service=WMS&request=GetMap&layers=6_MOISTURE_INDEX&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=sentinel-2&maxcc=20&time=2015-01-01%2F2020-01-01&priority=mostRecent&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="SENTBATH">
+		<name>Sentinel (Bathymetric)</name>
+		<description><![CDATA[Sentinel-2 dataset, bathymetric based on bands 8, 3, 1.<br><br>Sentinel-2 is an Earth observation mission developed by ESA as part of the Copernicus Programme to perform terrestrial observations in support of services such as forest monitoring, land cover changes detection, and natural disaster management. It consists of two identical satellites, Sentinel-2A and Sentinel-2B.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[http://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services.sentinel-hub.com/ogc/wms/b7b5e3ef-5a40-4e2a-9fd3-75ca2b81cb32?showLogo=false&service=WMS&request=GetMap&layers=8_BATHYMETRIC&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=sentinel-2&maxcc=20&time=2015-01-01%2F2020-01-01&priority=mostRecent&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="LANDSATNAT">
+		<name>Landsat (True color)</name>
+		<description><![CDATA[Landsat 8 dataset, true color.<br><br>The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. On July 23, 1972 the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat. The most recent, Landsat 8, was launched on February 11, 2013. The instruments on the Landsat satellites have acquired millions of images. The images, archived in the United States and at Landsat receiving stations around the world, are a unique resource for global change research and applications in agriculture, cartography, geology, forestry, regional planning, surveillance and education, and can be viewed through the U.S. Geological Survey (USGS) 'EarthExplorer' website.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services-uswest2.sentinel-hub.com/v1/wms/82fb4075-0a90-455d-b6d8-bdf17390216a?showLogo=false&service=WMS&request=GetMap&layers=1_TRUE_COLOR&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=Landsat%208&maxcc=20&priority=mostRecent&time=2015-01-01%2F2020-01-01&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="LANDSATNDVI">
+		<name>Landsat (NDVI)</name>
+		<description><![CDATA[Landsat 8 dataset, normalized difference vegetation index.<br><br>The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. On July 23, 1972 the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat. The most recent, Landsat 8, was launched on February 11, 2013. The instruments on the Landsat satellites have acquired millions of images. The images, archived in the United States and at Landsat receiving stations around the world, are a unique resource for global change research and applications in agriculture, cartography, geology, forestry, regional planning, surveillance and education, and can be viewed through the U.S. Geological Survey (USGS) 'EarthExplorer' website.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services-uswest2.sentinel-hub.com/v1/wms/82fb4075-0a90-455d-b6d8-bdf17390216a?showLogo=false&service=WMS&request=GetMap&layers=4_NDVI&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=Landsat%208&maxcc=20&priority=mostRecent&time=2015-01-01%2F2020-01-01&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="LANDSATTHERMAL">
+		<name>Landsat (Thermal)</name>
+		<description><![CDATA[Landsat 8 dataset, normalized difference vegetation index.<br><br>The Landsat program is the longest-running enterprise for acquisition of satellite imagery of Earth. On July 23, 1972 the Earth Resources Technology Satellite was launched. This was eventually renamed to Landsat. The most recent, Landsat 8, was launched on February 11, 2013. The instruments on the Landsat satellites have acquired millions of images. The images, archived in the United States and at Landsat receiving stations around the world, are a unique resource for global change research and applications in agriculture, cartography, geology, forestry, regional planning, surveillance and education, and can be viewed through the U.S. Geological Survey (USGS) 'EarthExplorer' website.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4,5,6</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services-uswest2.sentinel-hub.com/v1/wms/82fb4075-0a90-455d-b6d8-bdf17390216a?showLogo=false&service=WMS&request=GetMap&layers=THERMAL&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=Landsat%208&maxcc=20&priority=mostRecent&time=2015-01-01%2F2020-01-01&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+	<source id="MODISNAT">
+		<name>MODIS (True color)</name>
+		<description><![CDATA[MODIS dataset, true color.<br><br>The moderate-resolution imaging spectroradiometer (MODIS) is a payload scientific instrument built by Santa Barbara Remote Sensing that was launched into Earth orbit by NASA in 1999 on board the Terra (EOS AM) Satellite, and in 2002 on board the Aqua (EOS PM) satellite. The instruments capture data in 36 spectral bands ranging in wavelength from 0.4 µm to 14.4 µm and at varying spatial resolutions (2 bands at 250 m, 5 bands at 500 m and 29 bands at 1 km). Together the instruments image the entire Earth every 1 to 2 days. They are designed to provide measurements in large-scale global dynamics including changes in Earth's cloud cover, radiation budget and processes occurring in the oceans, on land, and in the lower atmosphere. MODIS utilizes four on-board calibrators in addition to the space view in order to provide in-flight calibration: solar diffuser (SD), solar diffuser stability monitor (SDSM), spectral radiometric calibration assembly (SRCA), and a v-groove black body. MODIS has used the marine optical buoy for vicarious calibration.]]></description>
+		<data-source><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></data-source>
+		<region>WRLD</region>
+		<type>SATE</type>
+		<preview-location>6.0,43.5,10</preview-location>
+		<level>
+			<zoom-values>3,4</zoom-values>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://a.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://b.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+			<server><![CDATA[https://c.tile.openstreetmap.fr/osmfr/{$z}/{$x}/{$y}.png]]></server>
+		</level>
+		<level>
+			<zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+			<bbox-crs-code>EPSG:3857</bbox-crs-code>
+			<tiles-size>512</tiles-size>
+			<referer><![CDATA[https://apps.sentinel-hub.com/sentinel-playground/]]></referer>
+			<server><![CDATA[https://services-uswest2.sentinel-hub.com/v1/wms/547ba1cf-14c4-4584-bc87-6872611c47c1?showLogo=false&service=WMS&request=GetMap&layers=TRUE_COLOR&styles=&format=image%2Fjpeg&transparent=false&version=1.1.1&name=MODIS&maxcc=20&priority=mostRecent&time=2015-01-01%2F2020-01-01&height=512&width=512&srs=EPSG%3A3857&bbox={$bbox}]]></server>
+		</level>
+	</source>
+
+</aqx>
+

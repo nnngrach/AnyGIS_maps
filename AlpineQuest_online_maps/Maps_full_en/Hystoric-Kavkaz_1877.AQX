@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 22-09-2019 22:35
 -->
 
 
@@ -16,11 +16,15 @@ Updated: 20-09-2019 18:20
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
-        <preview-location>5.90,44.80,10</preview-location>
+
+        <outline>42.6,35.8 42.6,47.4 47.1,47.4 47.1,35.8</outline>
+        <preview-location>42.15,44.6,8</preview-location>
 
         <level>
             
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+
+            <update-delay>4166D</update-delay>
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>

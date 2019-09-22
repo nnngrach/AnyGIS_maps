@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <aqx version="7">
+
+<name>Skylink</name>
+<description>Карта покрытия связи</description>
+
+<source id="SKYLINK" layer="true">
+<name>Skylink</name>
+<data-source>https://msk.skylink.ru</data-source>
+<copyright>Skylink</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.33,59.95,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+<update-delay>6M</update-delay>
+<referer><![CDATA[https://msk.skylink.ru/#coverage]]></referer>
+<server><![CDATA[https://msk.skylink.ru/coverage/4g/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+</aqx>

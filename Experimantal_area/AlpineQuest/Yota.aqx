@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<aqx version="7">
+
+<name>Yota</name>
+<description>Карта покрытия связи</description>
+
+<source id="YOTA2G" layer="true">
+<name>Yota голос и 2G</name>
+<data-source>https://www.yota.ru</data-source>
+<copyright>Yota</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+<update-delay>30D</update-delay>
+                  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[https://www.yota.ru/coverage]]></referer>
+<server><![CDATA[https://map.yota.ru/tiles/cov_tiles_309/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+<source id="YOTA3G" layer="true">
+<name>Yota 3G</name>
+<data-source>https://www.yota.ru</data-source>
+<copyright>Yota</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+<update-delay>30D</update-delay>
+                  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[https://www.yota.ru/coverage]]></referer>
+<server><![CDATA[https://map.yota.ru/tiles/cov_tiles_310/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+	  
+<source id="YOTALTE" layer="true">
+<name>Yota 4G</name>
+<data-source>https://www.yota.ru</data-source>
+<copyright>Yota</copyright>
+<region>EURO</region>
+<type>OTHE</type>
+<preview-location>30.50,59.85,11</preview-location>
+<level>
+<zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+<update-delay>30D</update-delay>
+                  <projection-name>mercator</projection-name>
+		  <projection-geoid>wgs 84</projection-geoid>
+<referer><![CDATA[https://www.yota.ru/coverage]]></referer>
+<server><![CDATA[https://map.yota.ru/tiles/cov_tiles_305/{$z}/{$x}/{$y}.png]]></server>
+</level>
+</source>
+
+</aqx>
+
