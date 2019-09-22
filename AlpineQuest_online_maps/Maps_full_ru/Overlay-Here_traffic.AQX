@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,8 @@ Updated: 22-09-2019 22:35
 
     <source id="8888018" layer="true">
         <name>Here Пробки</name>
-        <copyright>Here Пробки</copyright>
+        <copyright>Here
+</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

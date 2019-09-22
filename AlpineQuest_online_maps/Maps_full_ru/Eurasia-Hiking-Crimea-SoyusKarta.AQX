@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="295000">
         <name>Горный Крым (Союзкарта2011)</name>
-        <copyright>Горный Крым (Союзкарта2011)</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>44.3845,33.3828 44.3845,35.418 45.1314,35.418 45.1314,33.3828</outline>
+        <outline>33.3828,45.1314 35.418,45.1314 35.418,44.3845 33.3828,44.3845</outline>
         <preview-location>34.16,44.52,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

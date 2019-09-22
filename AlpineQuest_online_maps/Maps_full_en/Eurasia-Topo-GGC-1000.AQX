@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="603001">
         <name>GGC 1 000m</name>
-        <copyright>GGC 1 000m</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>40.9,19.49 40.9,169.9 75.99,169.9 75.99,19.49</outline>
+        <outline>19.49,75.99 169.9,75.99 169.9,40.9 19.49,40.9</outline>
         <preview-location>43.45,57.55,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/ggc1000/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_01000/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

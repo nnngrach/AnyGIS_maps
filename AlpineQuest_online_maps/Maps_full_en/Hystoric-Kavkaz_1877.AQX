@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555010">
         <name>Caucasus 1877</name>
-        <copyright>Caucasus 1877</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>42.6,35.8 42.6,47.4 47.1,47.4 47.1,35.8</outline>
+        <outline>35.8,47.1 47.4,47.1 47.4,42.6 35.8,42.6</outline>
         <preview-location>42.15,44.6,8</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Kavkaz_1877/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1877/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

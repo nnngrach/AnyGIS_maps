@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="11015">
         <name>Norway topomap UT.no</name>
-        <copyright>Norway topomap UT.no</copyright>
+        <copyright>UT.no</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://tilesprod.ut.no/tilestache/ut_topo_light/{z}/{x}/{y}.jpg]]></server>
+                <server><![CDATA[http://tilesprod.ut.no/tilestache/ut_topo_light/{z}/{x}/{y}.jpg]]></server>
             </servers>
         </level>
     </source>

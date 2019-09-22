@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="10805">
         <name>Ukraine - Navlux</name>
-        <copyright>Ukraine - Navlux</copyright>
+        <copyright>Navlux</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>OTHE</type>
 
-        <outline>44.2,21.9 44.2,40.4 52.5,40.4 52.5,21.9</outline>
+        <outline>21.9,52.5 40.4,52.5 40.4,44.2 21.9,44.2</outline>
         <preview-location>30.54591,50.43645,11</preview-location>
 
         <level>

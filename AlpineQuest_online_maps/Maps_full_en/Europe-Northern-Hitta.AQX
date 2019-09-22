@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -17,7 +17,7 @@ Updated: 22-09-2019 22:35
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>55.6,11.1 55.6,24.3 69.1,24.3 69.1,11.1</outline>
+        <outline>11.1,69.1 24.3,69.1 24.3,55.6 11.1,55.6</outline>
         <preview-location>22.0511,60.435,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[http://static.hitta.se/tile/v3/0_2x/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Hitta/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

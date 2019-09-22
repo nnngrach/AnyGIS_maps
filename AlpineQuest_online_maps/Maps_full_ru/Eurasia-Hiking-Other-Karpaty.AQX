@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="720007">
         <name>Карпаты</name>
-        <copyright>Карпаты</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>47.7095,22.8084 47.7095,25.956 49.2604,25.956 49.2604,22.8084</outline>
+        <outline>22.8084,49.2604 25.956,49.2604 25.956,47.7095 22.8084,47.7095</outline>
         <preview-location>25.23,48.18,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

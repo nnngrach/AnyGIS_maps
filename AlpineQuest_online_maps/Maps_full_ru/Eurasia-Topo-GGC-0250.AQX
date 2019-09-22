@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="603003">
         <name>ГосГисЦентр 250 м</name>
-        <copyright>ГосГисЦентр 250 м</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>40.9,19.49 40.9,156.3 82.01,156.3 82.01,19.49</outline>
+        <outline>19.49,82.01 156.3,82.01 156.3,40.9 19.49,40.9</outline>
         <preview-location>43.45,57.55,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/ggc250/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_00250/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

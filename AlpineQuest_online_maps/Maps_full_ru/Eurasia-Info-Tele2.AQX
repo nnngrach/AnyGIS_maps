@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="410730">
         <name>Tele2</name>
-        <copyright>Tele2</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>OTHE</type>
 
-        <outline>41.3,19.5 41.3,-168.1 82.1,-168.1 82.1,19.5</outline>
+        
         <preview-location>66.8652,59.0538,4</preview-location>
 
         <level>
@@ -30,7 +30,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://maps.melda.ru/mobile/tele2/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

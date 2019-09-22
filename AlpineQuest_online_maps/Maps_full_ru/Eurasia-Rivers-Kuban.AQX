@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="190005">
         <name>Река Кубань 1985 (От Краснодрского гидроузла до устья)</name>
-        <copyright>Река Кубань 1985 (От Краснодрского гидроузла до устья)</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>NAUT</type>
 
-        <outline>44.96,37.33 44.96,39.13 45.35,39.13 45.35,37.33</outline>
+        <outline>37.33,45.35 39.13,45.35 39.13,44.96 37.33,44.96</outline>
         <preview-location>37.93,45.14,15</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_River_Kuban/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_River_Kuban/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

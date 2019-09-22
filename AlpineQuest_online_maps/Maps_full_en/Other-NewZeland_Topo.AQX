@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="7777001">
         <name>New-Zealand Topomaps</name>
-        <copyright>New-Zealand Topomaps</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>-47.5,165.4 -47.5,178.6 -34.2,178.6 -34.2,165.4</outline>
+        
         <preview-location>170.74986,-43.32507,11</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[http://nz1.nztopomaps.com/{z}/{x}/{invY}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_NZ_NewZeland_Topo/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

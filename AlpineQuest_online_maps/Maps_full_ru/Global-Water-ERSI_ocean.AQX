@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="190000">
         <name>ESRI Ocean</name>
-        <copyright>ESRI Ocean</copyright>
+        <copyright>ERSI </copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>NAUT</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}]]></server>
+                <server><![CDATA[http://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}]]></server>
             </servers>
         </level>
     </source>

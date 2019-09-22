@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="11004">
         <name>Eniro Sjökort (Nautical)</name>
-        <copyright>Eniro Sjökort (Nautical)</copyright>
+        <copyright>Eniro</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>NAUT</type>
 
-        <outline>54.3,-7.9 54.3,31.1 71.3,31.1 71.3,-7.9</outline>
+        
         <preview-location>22.05115,60.435,10</preview-location>
 
         <level>
@@ -28,12 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                
-                <server><![CDATA[http://map01.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map02.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map03.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map04.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{invY}.png]]></server>
-
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Eniro_Nautical/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

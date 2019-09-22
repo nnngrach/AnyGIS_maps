@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="10009">
         <name>Ukraine - Visicom</name>
-        <copyright>Ukraine - Visicom</copyright>
+        <copyright>Visicom</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://maps.visicom.ua/]]></referer>
-                <server><![CDATA[https://tms0.visicom.ua/2.0.0/planet3/base/{z}/{x}/{invY}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Ukr_Visicom_UK/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

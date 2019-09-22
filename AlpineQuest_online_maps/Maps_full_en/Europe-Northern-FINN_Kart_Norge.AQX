@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="11012">
         <name>FINN Kart Norge</name>
-        <copyright>FINN Kart Norge</copyright>
+        <copyright>FINN</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>57.8,3.9 57.8,31.6 71.3,31.6 71.3,3.9</outline>
+        <outline>3.9,71.3 31.6,71.3 31.6,57.8 3.9,57.8</outline>
         <preview-location>9.58282,61.59791,9</preview-location>
 
         <level>

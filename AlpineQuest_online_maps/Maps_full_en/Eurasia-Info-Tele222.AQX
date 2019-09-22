@@ -10,8 +10,8 @@ Updated: 23-09-2019 00:50
 <name>Eurasia - Info</name>
 <description>Eurasia - Info</description>
 
-    <source id="410710">
-        <name>Mobile Megaphone</name>
+    <source id="10000410731">
+        <name>Mobile Tele2</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -30,7 +30,7 @@ Updated: 23-09-2019 00:50
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84_test/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

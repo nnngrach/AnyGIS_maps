@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="720002">
         <name>Ergaki - Ardan</name>
-        <copyright>Ergaki - Ardan</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>52.4273,92.8672 52.4273,93.6925 53.0154,93.6925 53.0154,92.8672</outline>
+        <outline>92.8672,53.0154 93.6925,53.0154 93.6925,52.4273 92.8672,52.4273</outline>
         <preview-location>93.42,52.85,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

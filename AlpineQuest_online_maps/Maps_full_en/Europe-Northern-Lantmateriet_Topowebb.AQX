@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="11010">
         <name>Lantmäteriets Topografisk</name>
-        <copyright>Lantmäteriets Topografisk</copyright>
+        <copyright>Lantmäteriets</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>55.6,11.1 55.6,24.3 69.1,24.3 69.1,11.1</outline>
+        <outline>11.1,69.1 24.3,69.1 24.3,55.6 11.1,55.6</outline>
         <preview-location>22.0511,60.435,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png]]></server>
+                <server><![CDATA[http://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png]]></server>
             </servers>
         </level>
     </source>

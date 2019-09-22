@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="720009">
         <name>Chepezk cycle map</name>
-        <copyright>Chepezk cycle map</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>34.4,19.17 34.4,-168.97 82.5,-168.97 82.5,19.17</outline>
+        
         <preview-location>50.03,58.54,14</preview-location>
 
         <level>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="14000">
         <name>Montenecro 250</name>
-        <copyright>Montenecro 250</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>OTHE</type>
 
-        <outline>41.8,18.37 41.8,20.36 43.6,20.36 43.6,18.37</outline>
+        <outline>18.37,43.6 20.36,43.6 20.36,41.8 18.37,41.8</outline>
         <preview-location>19.40519,42.57582,14</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/montenegro250m/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Montenegro/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

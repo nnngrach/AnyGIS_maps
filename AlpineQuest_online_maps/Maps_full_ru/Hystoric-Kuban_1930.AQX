@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555000">
         <name>Кубанский округ 1930</name>
-        <copyright>Кубанский округ 1930</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>44.3,36.5 44.3,41.4 46.5,41.4 46.5,36.5</outline>
+        <outline>36.5,46.5 41.4,46.5 41.4,44.3 36.5,44.3</outline>
         <preview-location>39.09,45.03,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1930/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1930/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

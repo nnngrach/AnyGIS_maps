@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="8888060" layer="true">
         <name>OpenSeaMap Карта глубин</name>
-        <copyright>OpenSeaMap Карта глубин</copyright>
+        <copyright>OpenSeaMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

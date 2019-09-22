@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="101000">
         <name>Карты Завьялова "ММБ"</name>
-        <copyright>Карты Завьялова "ММБ"</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>54.4719,32.4642 54.4719,40.5103 57.3387,40.5103 57.3387,32.4642</outline>
+        <outline>32.4642,57.3387 40.5103,57.3387 40.5103,54.4719 32.4642,54.4719</outline>
         <preview-location>36.87,56.76,14</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/map_podm/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Slazav_Nakarte/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

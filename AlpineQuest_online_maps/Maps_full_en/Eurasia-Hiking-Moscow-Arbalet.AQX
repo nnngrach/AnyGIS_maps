@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="101001">
         <name>Arbalet</name>
-        <copyright>Arbalet</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>54.21,35.1 54.21,40.28 56.99,40.28 56.99,35.1</outline>
+        <outline>35.1,56.99 40.28,56.99 40.28,54.21 35.1,54.21</outline>
         <preview-location>37.7,56.1,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/ArbaletMO/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_ArbaletMO/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

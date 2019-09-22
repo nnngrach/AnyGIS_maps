@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555013">
         <name>РККА 1940 1км</name>
-        <copyright>РККА 1940 1км</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>41.8,36.03 41.8,48.1 50.1,48.1 50.1,36.03</outline>
+        <outline>36.03,50.1 48.1,50.1 48.1,41.8 36.03,41.8</outline>
         <preview-location>41.43,45.38,9</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_RKKA_1km/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_RKKA_1km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

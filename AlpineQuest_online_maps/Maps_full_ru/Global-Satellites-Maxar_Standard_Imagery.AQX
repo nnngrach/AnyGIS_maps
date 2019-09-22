@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="468333">
         <name>Maxar Standard Imagery</name>
-        <copyright>Maxar Standard Imagery</copyright>
+        <copyright>Maxar</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>SATE</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{z}/{x}/{invY}.jpg?connectId=d9c5e3ef-6300-4cec-9562-c1f27da6b2d9 ]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Maxar_Standard_Imagery/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

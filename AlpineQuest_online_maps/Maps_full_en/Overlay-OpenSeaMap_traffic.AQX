@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="8888020" layer="true">
         <name>OpenSeaMap Traffic</name>
-        <copyright>OpenSeaMap Traffic</copyright>
+        <copyright>OpenSeaMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></server>
+                <server><![CDATA[http://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}]]></server>
             </servers>
         </level>
     </source>

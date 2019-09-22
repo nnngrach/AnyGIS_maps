@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555023">
         <name>Belarus LatLon.org</name>
-        <copyright>Belarus LatLon.org</copyright>
+        <copyright>LatLon.by</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>50.8,23.1 50.8,32.8 56.3,32.8 56.3,23.1</outline>
+        <outline>23.1,56.3 32.8,56.3 32.8,50.8 23.1,50.8</outline>
         <preview-location>27.61301,53.89062,11</preview-location>
 
         <level>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="190004">
         <name>Chusovaya river</name>
-        <copyright>Chusovaya river</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>NAUT</type>
 
-        <outline>56.92,57.72 56.92,59.74 58.34,59.74 58.34,57.72</outline>
+        <outline>57.72,58.34 59.74,58.34 59.74,56.92 57.72,56.92</outline>
         <preview-location>58.76,57.88,11</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_River_Chusovaya/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_River_Chusovaya/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="428001">
         <name>Avia MVL</name>
-        <copyright>Avia MVL</copyright>
+        
         <data-source></data-source>
         <region>WRLD</region>
         <type>AERO</type>
 
-        <outline>40.9,22.5 40.9,172.5 83.3,172.5 83.3,22.5</outline>
+        <outline>22.5,83.3 172.5,83.3 172.5,40.9 22.5,40.9</outline>
         <preview-location>37.7,56.1,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Avia_Mvl/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Avia_Mvl/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

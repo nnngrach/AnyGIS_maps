@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="6666210">
         <name>Sputnik.ru</name>
-        <copyright>Sputnik.ru</copyright>
+        <copyright>Sputnik</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>

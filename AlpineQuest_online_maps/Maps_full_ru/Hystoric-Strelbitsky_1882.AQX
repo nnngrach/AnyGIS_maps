@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555014">
         <name>Стрельбицкого 1882 10-верстовая</name>
-        <copyright>Стрельбицкого 1882 10-верстовая</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>38.09,15.9 38.09,72.1 71.1,72.1 71.1,15.9</outline>
+        <outline>15.9,71.1 72.1,71.1 72.1,38.09 15.9,38.09</outline>
         <preview-location>30.2,59.9,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Strelbitsky_1882/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Strelbitsky_1882/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

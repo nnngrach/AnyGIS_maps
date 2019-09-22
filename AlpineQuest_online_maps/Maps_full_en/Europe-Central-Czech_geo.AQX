@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="12004">
         <name>Czech geographical</name>
-        <copyright>Czech geographical</copyright>
+        <copyright>Mapy.cz</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
@@ -29,10 +29,10 @@ Updated: 22-09-2019 22:35
             <servers>
                 
                 
-                <server><![CDATA[https://m1.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[https://m2.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[https://m3.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[https://m4.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[http://m1.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[http://m2.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[http://m3.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
+                <server><![CDATA[http://m4.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></server>
 
             </servers>
         </level>

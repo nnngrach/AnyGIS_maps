@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="10808">
         <name>Ukraine - Кадастровая карта</name>
-        <copyright>Ukraine - Кадастровая карта</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>44.2,21.9 44.2,40.4 52.5,40.4 52.5,21.9</outline>
+        <outline>21.9,52.5 40.4,52.5 40.4,44.2 21.9,44.2</outline>
         <preview-location>30.66267,50.51538,9</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://map.land.gov.ua/kadastrova-karta]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

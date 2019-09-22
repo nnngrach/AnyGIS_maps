@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="720004">
         <name>Kyrgyz Ala-Too Range</name>
-        <copyright>Kyrgyz Ala-Too Range</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>42.3644,74.2474 42.3644,74.9979 42.6155,74.9979 42.6155,74.2474</outline>
+        <outline>74.2474,42.6155 74.9979,42.6155 74.9979,42.3644 74.2474,42.3644</outline>
         <preview-location>74.58,42.5,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

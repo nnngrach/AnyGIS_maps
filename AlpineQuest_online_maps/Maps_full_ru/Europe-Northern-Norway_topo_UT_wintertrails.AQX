@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="11017">
         <name>Norway topomap UT.no Winter trails</name>
-        <copyright>Norway topomap UT.no Winter trails</copyright>
+        <copyright>UT.no</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>OTHE</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://tilesprod.ut.no/tilestache/dnt_vinter/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tilesprod.ut.no/tilestache/dnt_vinter/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

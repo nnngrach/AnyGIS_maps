@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="6666002">
         <name>Hike and bike</name>
-        <copyright>Hike and bike</copyright>
+        <copyright>wmflabs.org</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>TOPO</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tiles.wmflabs.org/hikebike/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="354002">
         <name>Caucasus Southern 2014</name>
-        <copyright>Caucasus Southern 2014</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>42.2,41.94 42.2,45.44 43.28,45.44 43.28,41.94</outline>
+        <outline>41.94,43.28 45.44,43.28 45.44,42.2 41.94,42.2</outline>
         <preview-location>42.82,43.07,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

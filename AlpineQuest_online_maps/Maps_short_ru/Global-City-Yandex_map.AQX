@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="468080">
         <name>Yandex Карта</name>
-        <copyright>Yandex Карта</copyright>
+        <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>ROAD</type>
@@ -31,10 +31,10 @@ Updated: 22-09-2019 22:35
             <servers>
                 <referer><![CDATA[https://maps.yandex.ru/]]></referer>
                 
-                <server><![CDATA[https://vec01.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[https://vec02.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[https://vec03.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
-                <server><![CDATA[https://vec04.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[http://vec01.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[http://vec02.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[http://vec03.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
+                <server><![CDATA[http://vec04.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></server>
 
             </servers>
         </level>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="426003">
         <name>Topomaps 500m</name>
-        <copyright>Topomaps 500m</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[https://tiles.nakarte.me/topo500/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Topo_00500/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

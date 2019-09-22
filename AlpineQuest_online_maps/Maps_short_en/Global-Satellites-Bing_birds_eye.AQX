@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="468322">
         <name>Bing Bird's Eye</name>
-        <copyright>Bing Bird's Eye</copyright>
+        <copyright>Bing</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>SATE</type>

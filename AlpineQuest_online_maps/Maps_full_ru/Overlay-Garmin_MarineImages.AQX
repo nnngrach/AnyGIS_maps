@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="8888061" layer="true">
         <name>Garmin MarineImages (Снимки сонара)</name>
-        <copyright>Garmin MarineImages (Снимки сонара)</copyright>
+        <copyright>Garmin</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://connect.garmin.com/ru-RU/start/quickdraw]]></referer>
-                <server><![CDATA[https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png]]></server>
+                <server><![CDATA[http://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png]]></server>
             </servers>
         </level>
     </source>

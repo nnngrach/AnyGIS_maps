@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555009">
         <name>Crimea 1880</name>
-        <copyright>Crimea 1880</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>44.3,33.3 44.3,36.15 45.3,36.15 45.3,33.3</outline>
+        <outline>33.3,45.3 36.15,45.3 36.15,44.3 33.3,44.3</outline>
         <preview-location>33.5,44.6,14</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

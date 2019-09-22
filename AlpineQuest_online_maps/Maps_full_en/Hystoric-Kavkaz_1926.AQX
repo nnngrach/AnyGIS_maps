@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555011">
         <name>Caucasus 1926</name>
-        <copyright>Caucasus 1926</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>35.4,35.8 35.4,52.6 47.1,52.6 47.1,35.8</outline>
+        <outline>35.8,47.1 52.6,47.1 52.6,35.4 35.8,35.4</outline>
         <preview-location>42.15,44.6,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Kavkaz_1926/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1926/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

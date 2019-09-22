@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 22-09-2019 22:35
 
     <source id="424003">
         <name>Genshtab Compilation</name>
-        <copyright>Genshtab Compilation</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

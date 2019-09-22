@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555001">
         <name>Немецкий Генштаб 1942 3км</name>
-        <copyright>Немецкий Генштаб 1942 3км</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>43.9,36.3 43.9,46.75 49.1,46.75 49.1,36.3</outline>
+        <outline>36.3,49.1 46.75,49.1 46.75,43.9 36.3,43.9</outline>
         <preview-location>38.9,45.001,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555016">
         <name>Tver Mende</name>
-        <copyright>Tver Mende</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>55.7,31.7 55.7,38.35 58.9,38.35 58.9,31.7</outline>
+        <outline>31.7,58.9 38.35,58.9 38.35,55.7 31.7,55.7</outline>
         <preview-location>35.96,56.86,12</preview-location>
 
         <level>

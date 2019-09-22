@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555004">
         <name>RKKA 1932-42 2km</name>
-        <copyright>RKKA 1932-42 2km</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>40.6,35.9 40.6,52.05 56.05,52.05 56.05,35.9</outline>
+        <outline>35.9,56.05 52.05,56.05 52.05,40.6 35.9,40.6</outline>
         <preview-location>43.7,43.52,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

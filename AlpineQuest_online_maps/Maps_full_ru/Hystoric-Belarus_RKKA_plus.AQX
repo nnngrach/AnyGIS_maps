@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555020">
         <name>Беларусь РККА 500м</name>
-        <copyright>Беларусь РККА 500м</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>ROAD</type>
 
-        <outline>51.4,22.4 51.4,30.5 56.2,30.5 56.2,22.4</outline>
+        <outline>22.4,56.2 30.5,56.2 30.5,51.4 22.4,51.4</outline>
         <preview-location>27.6,53.9,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></server>
+                <server><![CDATA[http://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>
     </source>

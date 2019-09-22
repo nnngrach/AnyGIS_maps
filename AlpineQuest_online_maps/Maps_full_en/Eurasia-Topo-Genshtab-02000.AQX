@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="420003">
         <name>Genshtab 2 000m</name>
-        <copyright>Genshtab 2 000m</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>39.9,22.9 39.9,138.1 73.99,138.1 73.99,22.9</outline>
+        <outline>22.9,73.99 138.1,73.99 138.1,39.9 22.9,39.9</outline>
         <preview-location>127.77,70.79,10</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

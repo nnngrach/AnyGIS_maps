@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="354001">
         <name>Сводная ФГУ СК АГП</name>
-        <copyright>Сводная ФГУ СК АГП</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>42.8,39.7 42.8,43.6 43.9,43.6 43.9,39.7</outline>
+        <outline>39.7,43.9 43.6,43.9 43.6,42.8 39.7,42.8</outline>
         <preview-location>40.42,43.78,12</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="5555003">
         <name>Кубанский р-н геологическая 1908-16 1 верста</name>
-        <copyright>Кубанский р-н геологическая 1908-16 1 верста</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>44.3,37.1 44.3,40.1 45.4,40.1 45.4,37.1</outline>
+        <outline>37.1,45.4 40.1,45.4 40.1,44.3 37.1,44.3</outline>
         <preview-location>37.47,44.98,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1916/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1916/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

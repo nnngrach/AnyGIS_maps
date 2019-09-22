@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -17,7 +17,7 @@ Updated: 22-09-2019 22:35
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>55.1,10.75 55.1,30.2 70.1,30.2 70.1,10.75</outline>
+        <outline>10.75,70.1 30.2,70.1 30.2,55.1 10.75,55.1</outline>
         <preview-location>15.3751,62.89716,9</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                <server><![CDATA[https://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tiles.skoterleder.org/tiles/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

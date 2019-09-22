@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="8888021">
         <name>Eniro labels layer</name>
-        <copyright>Eniro labels layer</copyright>
+        <copyright>Eniro</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>OTHE</type>
 
-        <outline>54.3,4.2 54.3,31.1 71.3,31.1 71.3,4.2</outline>
+        <outline>4.2,71.3 31.1,71.3 31.1,54.3 4.2,54.3</outline>
         <preview-location>22.05115,60.435,10</preview-location>
 
         <level>
@@ -28,12 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 
-                
-                <server><![CDATA[http://map01.eniro.no/geowebcache/service/tms1.0.0/hybrid/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map02.eniro.no/geowebcache/service/tms1.0.0/hybrid/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map03.eniro.no/geowebcache/service/tms1.0.0/hybrid/{z}/{x}/{invY}.png]]></server>
-                <server><![CDATA[http://map04.eniro.no/geowebcache/service/tms1.0.0/hybrid/{z}/{x}/{invY}.png]]></server>
-
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Eniro_Sat_labels/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

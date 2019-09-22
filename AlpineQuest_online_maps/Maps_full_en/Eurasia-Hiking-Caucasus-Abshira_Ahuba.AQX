@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -12,12 +12,12 @@ Updated: 22-09-2019 22:35
 
     <source id="354009">
         <name>Abishira Akhuba</name>
-        <copyright>Abishira Akhuba</copyright>
+        
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>42.9979,40.9975 42.9979,43.247 43.6673,43.247 43.6673,40.9975</outline>
+        <outline>40.9975,43.6673 43.247,43.6673 43.247,42.9979 40.9975,42.9979</outline>
         <preview-location>43.14,43.1,13</preview-location>
 
         <level>
@@ -28,7 +28,7 @@ Updated: 22-09-2019 22:35
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

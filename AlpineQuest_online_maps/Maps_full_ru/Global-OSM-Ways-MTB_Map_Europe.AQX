@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 22:35
+Updated: 23-09-2019 00:50
 -->
 
 
@@ -17,7 +17,7 @@ Updated: 22-09-2019 22:35
         <region>WRLD</region>
         <type>TOPO</type>
 
-        <outline>35.01,-9.99 35.01,44.99 59.99,44.99 59.99,-9.99</outline>
+        
         <preview-location>37.57674,55.61809,15</preview-location>
 
         <level>
