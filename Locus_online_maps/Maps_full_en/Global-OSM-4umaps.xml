@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:17
+Updated: 30-09-2019 01:53
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 30-09-2019 01:17
 <providers>
 
 <provider id="410015" type="0" visible="true" background="-1">
-<name>Global - OSM - Ways</name>
+<name>Global - OSM</name>
 <mode>4U maps</mode>
 <countries>World</countries>
 <usage>hiking</usage>

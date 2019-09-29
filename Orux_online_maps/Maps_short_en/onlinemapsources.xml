@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:17
+Updated: 30-09-2019 01:53
 -->
 
 <onlinemapsource uid="468327">
@@ -141,10 +141,10 @@ Updated: 30-09-2019 01:17
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="6666201">
-<name>Mapnik (GLOBALOSM)</name>
-<url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
-<servers>a,b,c</servers>
+<onlinemapsource uid="410015">
+<name>4U maps (GLOBALOSM)</name>
+<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -156,10 +156,10 @@ Updated: 30-09-2019 01:17
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="410016">
-<name>OpenBusMap (Opnvkarte.de) (GLOBALOSMWAYS)</name>
-<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
+<onlinemapsource uid="6666201">
+<name>Mapnik (GLOBALOSM)</name>
+<url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -176,21 +176,6 @@ Updated: 30-09-2019 01:17
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="410015">
-<name>4U maps (GLOBALOSM)</name>
-<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -221,6 +206,21 @@ Updated: 30-09-2019 01:17
 <url><![CDATA[http://tile.mtbmap.cz/mtbmap_tiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410016">
+<name>OpenBusMap (Opnvkarte.de) (GLOBALOSMWAYS)</name>
+<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

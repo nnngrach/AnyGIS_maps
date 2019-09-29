@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:17
+Updated: 30-09-2019 01:53
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 30-09-2019 01:17
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ersi_topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-4umaps.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ersi_topo.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
 </dest>
 </download>
 
@@ -74,15 +74,6 @@ Updated: 30-09-2019 01:17
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.xml]]>
 </source>
 <dest>
@@ -123,15 +114,6 @@ Updated: 30-09-2019 01:17
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport_Dark.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-4umaps.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
 </dest>
 </download>
 

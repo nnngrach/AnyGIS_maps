@@ -3,12 +3,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:17
+Updated: 30-09-2019 01:53
 -->
 
 
-<name>Глобальные - OSM - Ways</name>
-<description>Глобальные - OSM - Ways</description>
+<name>Global - OSM - Ways</name>
+<description>Global - OSM - Ways</description>
 
     <source id="410016">
         <name>OpenBusMap (Opnvkarte.de)</name>
