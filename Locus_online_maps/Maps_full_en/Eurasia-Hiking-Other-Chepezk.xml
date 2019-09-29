@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 19:39
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -18,7 +18,7 @@ Updated: 22-09-2019 19:39
 <url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
-<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMin>10</zoomMin>    <!-- 2 -->
 <zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>

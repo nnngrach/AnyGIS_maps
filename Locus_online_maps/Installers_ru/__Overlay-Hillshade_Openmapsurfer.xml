@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 30-09-2019 01:17
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Hillshade_Openmapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Openmapsurfer.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay.png]]>
+</dest>
+</download>
+
+</locusActions>

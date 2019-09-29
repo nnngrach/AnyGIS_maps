@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 19:39
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -18,7 +18,7 @@ Updated: 22-09-2019 19:39
 <url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}&i=1]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
-<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMin>16</zoomMin>    <!-- 8 -->
 <zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
 <extraHeader><![CDATA[Referer#http://maps.marshruty.ru/]]></extraHeader>

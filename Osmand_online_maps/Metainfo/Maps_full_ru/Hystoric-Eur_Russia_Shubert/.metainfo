@@ -1,7 +1,7 @@
 [url_template]
 http://boxpis.ru/sas/SVG_3v_all/z{0}/{2}/{1}.jpg
 [min_zoom]
-0
+1
 [max_zoom]
 14
 [ellipsoid]

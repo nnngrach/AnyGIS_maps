@@ -1,7 +1,7 @@
 [url_template]
 http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{0}/{1}/{2}.png
 [min_zoom]
-0
+2
 [max_zoom]
 19
 [ellipsoid]

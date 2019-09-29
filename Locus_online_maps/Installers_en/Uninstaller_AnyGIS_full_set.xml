@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -293,15 +293,6 @@ Updated: 20-09-2019 18:20
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Ersi_topo.xml]]>
 </dest>
 </download>
@@ -356,7 +347,7 @@ Updated: 20-09-2019 18:20
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
 </dest>
 </download>
 
@@ -366,6 +357,33 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
 </dest>
 </download>
 
@@ -401,7 +419,25 @@ Updated: 20-09-2019 18:20
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global - OSM - Ways.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Cyclosm.xml]]>
 </dest>
 </download>
 
@@ -1958,6 +1994,24 @@ Updated: 20-09-2019 18:20
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Mapbox_Contour_Lines.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Openmapsurfer.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/Overlay-Hillshade_SRTM.xml]]>
 </dest>
 </download>
@@ -2004,6 +2058,15 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Navionics_Sonar_Charts.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Public_Transport.xml]]>
 </dest>
 </download>
 

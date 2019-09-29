@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -290,15 +290,6 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-4umaps.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Ersi_topo.xml]]>
 </source>
 <dest>
@@ -353,10 +344,10 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
 </dest>
 </download>
 
@@ -366,6 +357,33 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-OpenTopoMap.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Osmand_Mapnik.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
 </dest>
 </download>
 
@@ -398,10 +416,28 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-4umaps.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM%20-%20Ways.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global - OSM - Ways.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Ways-Cyclosm.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Cyclosm.xml]]>
 </dest>
 </download>
 
@@ -1955,6 +1991,24 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_Mapbox_Contour_Lines.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Mapbox_Contour_Lines.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_Openmapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Openmapsurfer.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_SRTM.xml]]>
 </source>
 <dest>
@@ -2004,6 +2058,15 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Navionics_Sonar_Charts.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Public_Transport.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Public_Transport.xml]]>
 </dest>
 </download>
 

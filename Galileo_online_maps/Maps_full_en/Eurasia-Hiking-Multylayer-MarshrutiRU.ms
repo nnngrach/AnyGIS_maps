@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 20-09-2019 18:20
 <layers>
 
 <layer>
-    <minZoom>0</minZoom>
+    <minZoom>8</minZoom>
     <maxZoom>15</maxZoom>
     <url>http://maps.marshruty.ru/ml.ashx?al=1&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;i=1</url>
 </layer>

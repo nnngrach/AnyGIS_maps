@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
 <customMapSource>
-<name>Opnvkarte.de</name>
+<name>OpenBusMap (Opnvkarte.de)</name>
 <layers>
 
 <layer>

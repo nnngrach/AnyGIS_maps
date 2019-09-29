@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 <onlinemapsource uid="468327">
@@ -141,10 +141,10 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="410015">
-<name>4U maps (GLOBALOSM)</name>
-<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
+<onlinemapsource uid="6666201">
+<name>Mapnik (GLOBALOSM)</name>
+<url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -156,10 +156,10 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="6666201">
-<name>Mapnik (GLOBALOSM)</name>
-<url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
-<servers>a,b,c</servers>
+<onlinemapsource uid="410016">
+<name>OpenBusMap (Opnvkarte.de) (GLOBALOSMWAYS)</name>
+<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -186,11 +186,26 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="410016">
-<name>Opnvkarte.de (GLOBALOSM)</name>
-<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+<onlinemapsource uid="410015">
+<name>4U maps (GLOBALOSM)</name>
+<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="6666205">
+<name>Cyclosm (GLOBALOSMWAYS)</name>
+<url><![CDATA[https://dev.{$s}.tile.openstreetmap.fr/cyclosm/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -285,6 +300,21 @@ Updated: 20-09-2019 18:20
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888651">
+<name>Hillshade Openmapsurfer (OVERLAY)</name>
+<url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

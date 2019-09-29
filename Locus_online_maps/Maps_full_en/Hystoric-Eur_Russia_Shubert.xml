@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 22-09-2019 19:39
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -18,7 +18,7 @@ Updated: 22-09-2019 19:39
 <url><![CDATA[http://boxpis.ru/sas/SVG_3v_all/z{z}/{y}/{x}.jpg]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
-<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMin>9</zoomMin>    <!-- 1 -->
 <zoomMax>22</zoomMax>   <!-- 14 -->
 <tileSize>256</tileSize>
 <extraHeader><![CDATA[Referer#http://boxpis.ru/]]></extraHeader>

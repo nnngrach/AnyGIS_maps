@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -15,15 +15,6 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Глобальные - OSM.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-4umaps.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
 </dest>
 </download>
 
@@ -83,6 +74,15 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.xml]]>
 </source>
 <dest>
@@ -92,10 +92,10 @@ Updated: 20-09-2019 18:20
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Opnvkarte.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osmand_Mapnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Opnvkarte.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
 </dest>
 </download>
 
@@ -123,6 +123,15 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport_Dark.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-4umaps.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
 </dest>
 </download>
 

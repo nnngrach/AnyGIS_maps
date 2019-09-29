@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 <onlinemapsource uid="468060">
@@ -131,6 +131,21 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="6666205">
+<name>Cycleosm (GLOBALOSMWAYS)</name>
+<url><![CDATA[https://dev.{$s}.tile.openstreetmap.fr/cyclosm/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -281,7 +296,7 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>2</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -480,6 +495,21 @@ Updated: 20-09-2019 18:20
 <projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888651">
+<name>Рельеф Openmapsurfer (OVERLAY)</name>
+<url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

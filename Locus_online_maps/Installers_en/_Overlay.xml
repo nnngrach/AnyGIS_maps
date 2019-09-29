@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 
@@ -51,6 +51,24 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Here_traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_Mapbox_Contour_Lines.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Mapbox_Contour_Lines.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Hillshade_Openmapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Openmapsurfer.xml]]>
 </dest>
 </download>
 
@@ -105,6 +123,15 @@ Updated: 20-09-2019 18:20
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay-Navionics_Sonar_Charts.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay-Public_Transport.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay-Public_Transport.xml]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 20-09-2019 18:20
+Updated: 30-09-2019 01:17
 -->
 
 <onlinemapsource uid="468060">
@@ -336,21 +336,6 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="410015">
-<name>4U maps (GLOBALOSM)</name>
-<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="6666000">
 <name>ERSI Topomap (GLOBALOSM)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Ersi_Topomap/{$x}/{$y}/{$z}]]></url>
@@ -456,6 +441,21 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="410016">
+<name>OpenBusMap (Opnvkarte.de) (GLOBALOSMWAYS)</name>
+<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="6666207">
 <name>OpenTopoMap (GLOBALOSM)</name>
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
@@ -471,9 +471,9 @@ Updated: 20-09-2019 18:20
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="410016">
-<name>Opnvkarte.de (GLOBALOSM)</name>
-<url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
+<onlinemapsource uid="6666211">
+<name>Osmand Mapnik (GLOBALOSM)</name>
+<url><![CDATA[http://tile.osmand.net/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -521,6 +521,36 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport-dark/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410015">
+<name>4U maps (GLOBALOSM)</name>
+<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="6666205">
+<name>Cycleosm (GLOBALOSMWAYS)</name>
+<url><![CDATA[https://dev.{$s}.tile.openstreetmap.fr/cyclosm/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1046,7 +1076,7 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={$x}&y={$y}&z={$z}&i=1]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>8</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -1361,7 +1391,7 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>2</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -1481,7 +1511,7 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://map.g-utka.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>2</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -1646,7 +1676,7 @@ Updated: 20-09-2019 18:20
 <url><![CDATA[http://boxpis.ru/sas/SVG_3v_all/z{$z}/{$y}/{$x}.jpg]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>1</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -2393,7 +2423,7 @@ Updated: 20-09-2019 18:20
 
 <onlinemapsource uid="8888061">
 <name>Garmin MarineImages (Снимки сонара) (OVERLAY)</name>
-<url><![CDATA[https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Garmin_MarineImages/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>2</minzoom>
@@ -2490,6 +2520,21 @@ Updated: 20-09-2019 18:20
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888062">
+<name>OSM Общественный транспорт (OVERLAY)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>
@@ -2820,6 +2865,36 @@ Updated: 20-09-2019 18:20
 <projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888652">
+<name>Контурные линии Mapbox  (OVERLAY)</name>
+<url><![CDATA[https://api.mapbox.com/styles/v1/gaubrouter/cjzfrm6l50yaq1cph8d2ta985/tiles/256/{$z}/{$x}/{$y}?access_token=pk.eyJ1IjoiZ2F1YnJvdXRlciIsImEiOiJjanpmcmZ6czIwZXpuM2VvNXo0Zms2bTNtIn0.-2gVR7xRkdm74S5-vClw4g]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888651">
+<name>Рельеф Openmapsurfer (OVERLAY)</name>
+<url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>
