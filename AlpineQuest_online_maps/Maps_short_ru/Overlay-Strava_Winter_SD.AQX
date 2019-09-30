@@ -3,22 +3,22 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:53
+Updated: 30-09-2019 23:01
 -->
 
 
 <name>Overlay</name>
 <description>Overlay</description>
 
-    <source id="8888035" layer="true">
-        <name>Strava Heatmap - Winter 256</name>
+    <source id="8888067" layer="true">
+        <name>Strava Heatmap - Winter</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>
 
         
-        <preview-location>47.95648,56.60955,13</preview-location>
+        <preview-location>47.9135,56.6014,11</preview-location>
 
         <level>
             
@@ -28,7 +28,7 @@ Updated: 30-09-2019 01:53
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

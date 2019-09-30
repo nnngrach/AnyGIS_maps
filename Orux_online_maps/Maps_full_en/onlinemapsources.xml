@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 01:53
+Updated: 30-09-2019 23:01
 -->
 
 <onlinemapsource uid="468060">
@@ -2098,6 +2098,66 @@ Updated: 30-09-2019 01:53
 <maxzoom>10</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410700">
+<name>Mobile MTS (EURASIAINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410710">
+<name>Mobile Megaphone (EURASIAINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410730">
+<name>Mobile Tele2 (EURASIAINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="410720">
+<name>Mobile Yota (EURASIAINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
