@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 23:01
+Updated: 02-10-2019 00:06
 -->
 
 <onlinemapsource uid="468060">
@@ -947,81 +947,6 @@ Updated: 30-09-2019 23:01
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="426002">
-<name>Топокарты 1000 м (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://tiles.nakarte.me/topo1000/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>13</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="426001">
-<name>Топокарты 10000 м (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://tiles.nakarte.me/topo001m/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>9</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="426004">
-<name>Топокарты 250 м (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://tiles.nakarte.me/topo250/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="426000">
-<name>Топокарты 25000 м (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://tiles.nakarte.me/eurasia25km/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>9</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="426003">
-<name>Топокарты 500 м (EURASIATOPOSOVIETS)</name>
-<url><![CDATA[https://tiles.nakarte.me/topo500/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>

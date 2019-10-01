@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 23:01
+Updated: 02-10-2019 00:06
 -->
 
 
@@ -1266,51 +1266,6 @@ Updated: 30-09-2019 23:01
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia - Topo - Soviet.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-01000.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-10000.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-25000.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-00250.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-00500.xml]]>
 </dest>
 </download>
 
