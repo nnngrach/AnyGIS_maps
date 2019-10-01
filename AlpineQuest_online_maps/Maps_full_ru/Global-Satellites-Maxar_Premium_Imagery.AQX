@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 30-09-2019 23:01
+Updated: 01-10-2019 21:37
 -->
 
 
 <name>Глобальные - Спутниковые</name>
 <description>Глобальные - Спутниковые</description>
 
-    <source id="468334">
+    <source id="468336">
         <name>Maxar Premium Imagery</name>
         <copyright>Maxar</copyright>
         <data-source></data-source>
@@ -28,7 +28,7 @@ Updated: 30-09-2019 23:01
 
             <servers>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/Maxar_Premium_Imagery/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Maxar_Premium_Imagery_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
