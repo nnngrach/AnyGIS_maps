@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 04-10-2019 12:09
 -->
 
 
 <name>Глобальные - Спутниковые</name>
 <description>Глобальные - Спутниковые</description>
 
-    <source id="468335">
+    <source id="468337">
         <name>Sentinel</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
@@ -28,7 +28,7 @@ Updated: 02-10-2019 00:06
 
             <servers>
                 <referer><![CDATA[https://s2maps.eu/]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

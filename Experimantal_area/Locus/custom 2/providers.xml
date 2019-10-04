@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<providers>
+
+        <provider id="10009" type="1" visible="true" background="-1">
+        <name>Visicom</name>
+        <mode>Карта</mode>
+        <url><![CDATA[http://tms{s}.visicom.ua/2.0.0/planet3/base/{z}/{x}/{y}.png]]></url>
+        <serverPart>0;1;2;3</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Карта СНГ</countries>	
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+
+        <provider id="10010" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Cyclemap</mode>
+        <url><![CDATA[http://{s}.tile.opencyclemap.org/cycle/{z}/{x}/{y}.png]]></url>
+        <serverPart>a;b;c</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>	
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider> 
+		<provider id="10011" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Mapnik</mode>
+        <url><![CDATA[http://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>	
+        <extraHeader><![CDATA[User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0]]></extraHeader>
+    </provider>
+		<provider id="10012" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Транспорт</mode>
+        <url><![CDATA[https://{s}.tile.thunderforest.com/transport/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>	
+        <extraHeader><![CDATA[User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0]]></extraHeader>
+	</provider>
+		<provider id="10013" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Туризм</mode>
+        <url><![CDATA[https://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}.png]]></url>
+		<serverPart>a;b;c</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>	
+        <extraHeader><![CDATA[User-Agent: Mozilla/5.0 (Windows NT 6.2; WOW64; rv:27.0) Gecko/20100101 Firefox/27.0]]></extraHeader>
+    </provider>		
+		<provider id="10014" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>OpenTopoMap.org</mode>
+        <url><![CDATA[http://a.tile.opentopomap.org/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+		<provider id="10015" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>4umaps.eu</mode>
+        <url><![CDATA[http://www.4umaps.eu/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+		<provider id="10016" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Opnvkarte.de</mode>
+        <url><![CDATA[http://tile.memomaps.de/tilegen/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+	    <provider id="10017" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Maps.sputnik.ru</mode>
+        <url><![CDATA[http://tiles.maps.sputnik.ru/tiles/kmt2/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+	<provider id="10018" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>Mapsurfer.net</mode>
+        <url><![CDATA[http://korona.geog.uni-heidelberg.de/tiles/roads/x={x}&y={y}&z={z}]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+		<provider id="10019" type="0" visible="true" background="-1">
+        <name>OSM</name>
+        <mode>OSM Слой</mode>
+        <url><![CDATA[http://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>1</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Свободные карты</countries>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+	
+    <!-- GOOGLE maps 
+	has a new tile URL system, needs to be updated!!! -->
+    <provider id="10020" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Карта</mode>
+        <url><![CDATA[http://mt{s}.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>	
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+    <provider id="10021" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Спутник</mode>
+        <url><![CDATA[http://mt{s}.google.com/vt/lyrs=s&hl=ru&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+    <provider id="10022" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Гибрид</mode>
+        <url><![CDATA[http://mt{s}.google.com/vt/lyrs=y&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+	    <provider id="10023" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Рельеф</mode>
+        <url><![CDATA[http://mt{s}.google.com/vt/lyrs=t,r&hl=ru&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1;2;3</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+    <provider id="11716" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Транзит</mode>
+        <url><![CDATA[http://mt1.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>27</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+	<provider id="11717" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Слой</mode>
+		<area></area>
+        <url><![CDATA[http://mt.google.com/vt/lyrs=h@169000000&hl=en&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1;2;3</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>	
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+		<provider id="11718" type="0" visible="true" background="-1">
+        <name>Google</name>
+        <mode>Пробки</mode>
+		<area></area>
+        <url><![CDATA[http://mt1.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}]]></url>
+        <serverPart>0;1;2;3</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <countries>Мировая карта</countries>	
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+        <extraHeader><![CDATA[Referer#http://maps.google.com/]]></extraHeader>
+    </provider>
+
+
+    <!-- HERE maps -->
+    <provider id="10040" type="0" visible="true" background="-1">
+        <name>Here</name>
+        <mode>Карта</mode>
+        <countries>Карты от Here</countries>
+        <url><![CDATA[http://{s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=DEF]]></url>
+       <serverPart>1;2;3;4</serverPart>
+       <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://maps.nokia.com/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	    <provider id="10041" type="0" visible="true" background="-1">
+        <name>Here</name>
+        <mode>Спутник</mode>
+        <countries>Карты от Here</countries>
+        <url><![CDATA[http://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/satellite.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=DEF]]></url>
+        <serverPart>1;2;3;4</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://here.com/0,0,3,0,0,terrain.day]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36]]></extraHeader>
+    </provider>
+	    <provider id="10042" type="0" visible="true" background="-1">
+        <name>Here</name>
+        <mode>Гибрид</mode>
+        <countries>Карты от Here</countries>
+        <url><![CDATA[http://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=DEF]]></url>
+        <serverPart>1;2;3;4</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://maps.nokia.com/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+    <provider id="10043" type="0" visible="true" background="-1">
+        <name>Here</name>
+        <mode>Ланшафт</mode>
+        <countries>Карты от Here</countries>
+        <url><![CDATA[http://{s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=DEF]]></url>
+        <serverPart>1;2;3;4</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://here.com/0,0,3,0,0,terrain.day]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36]]></extraHeader>
+    </provider>
+	    <provider id="10044" type="0" visible="true" background="-1">
+        <name>Here</name>
+        <mode>Пробки</mode>
+        <countries>Карты от Here</countries>
+        <url><![CDATA[https://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=DEF]]></url>
+        <serverPart>1;2;3;4</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://here.com/0,0,3,0,0,terrain.day]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/60.0.3112.113 Safari/537.36]]></extraHeader>
+    </provider>
+
+    <!-- BING maps 
+	seems to be up to date -->
+    <provider id="10050" type="5" visible="true" background="-1">
+        <name>Bing</name>
+        <mode>Карта</mode>
+        <countries>World</countries>
+		<url><![CDATA[http://ak.dynamic.t1.tiles.virtualearth.net/comp/ch/{c}?mkt=ru-ru&it=G,VE,BX,L,LA&shading=hill&og=69&n=z]]></url>
+        <zoomPart>25-{z}</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://www.bing.com/maps/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+    <provider id="10051" type="5" visible="true" background="-1">
+        <name>Bing</name>
+        <mode>Спутник</mode>
+        <countries>World</countries>
+        <url><![CDATA[http://ecn.t0.tiles.virtualearth.net/tiles/a{c}.jpeg?g=604&mkt=ru-ru&n=z]]></url>
+        <zoomPart>25-{z}</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://www.bing.com/maps/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	    <provider id="10053" type="5" visible="true" background="-1">
+        <name>Bing</name>
+        <mode>Гибрид</mode>
+        <countries>World</countries>
+        <url><![CDATA[http://ak.dynamic.t2.tiles.virtualearth.net/comp/ch/{c}?mkt=ru-ru&it=A,G,L,LA&shading=hill&og=69&n=z]]></url>
+        <zoomPart>25-{z}</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://www.bing.com/maps/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	<provider id="10054" type="5" visible="true" background="-1">
+        <name>Bing</name>
+        <mode>Пробки</mode>
+        <countries>World</countries>
+        <url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{c}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>
+		<zoomPart>25-{z}</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://www.bing.com/maps/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	
+	    <!-- YANDEX maps -->
+    <provider id="10070" type="2" visible="true" background="-1">
+        <name>Yandex</name>
+        <mode>Карта</mode>
+        <countries>Карты СНГ</countries>
+        <url><![CDATA[http://vec{s}.maps.yandex.net/tiles?l=map&x={x}&y={y}&z={z}]]></url>
+        <serverPart>01;02;03;04</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://maps.yandex.ru/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	    <provider id="10071" type="2" visible="true" background="-1">
+        <name>Yandex</name>
+        <mode>Спутник</mode>
+        <countries>Карты СНГ</countries>
+        <url><![CDATA[http://sat{s}.maps.yandex.net/tiles?l=sat&x={x}&y={y}&z={z}]]></url>
+        <serverPart>01;02;03;04</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://maps.yandex.ru/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	<provider id="10072" type="2" visible="true" background="-1">
+        <name>Yandex</name>
+        <mode>Слой Map</mode>
+        <countries>Карты СНГ</countries>
+        <url><![CDATA[http://vec{s}.maps.yandex.net/tiles?l=skl&x={x}&y={y}&z={z}]]></url>
+        <serverPart>01;02;03;04</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>29</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://maps.yandex.ru/]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:7.0.1) Gecko/20100101 Firefox/7.0.1]]></extraHeader>
+    </provider>
+	
+         <!-- Генштаб -->
+	<provider id="10780" type="0" visible="true" background="-1">
+        <name>Генштаб</name>
+        <mode>Маршруты</mode>
+        <countries>Военные карты</countries>
+        <url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}]]></url>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://here.com/0,0,3,0,0,normal.day]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0]]></extraHeader>
+    </provider>
+    <provider id="10781" type="0" visible="true" background="-1">
+        <name>Генштаб</name>
+        <mode>Карта 500М</mode>
+        <countries>Военные карты</countries>
+        <url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&i=1&x={x}&y={y}&z={z}]]></url>
+        <serverPart>1;2;3;4</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#http://here.com/0,0,3,0,0,normal.day]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; WOW64; rv:28.0) Gecko/20100101 Firefox/28.0]]></extraHeader>
+    </provider>
+	
+    <!-- Ukraine maps -->
+    <provider id="10804" type="0" visible="true" background="-1">
+        <name>Ukraine</name>
+        <mode>Meta.ua</mode>
+        <countries>Карты Украины</countries>
+        <url><![CDATA[http://i1.map.meta.ua/cell.php?x={x}&y={y}&scale={z}]]></url>
+        <serverPart>a;b;c</serverPart>
+        <zoomPart>{z}-8</zoomPart>
+        <zoomMin>8</zoomMin>
+        <zoomMax>28</zoomMax>
+        <tileSize>256</tileSize>
+		<usage>City</usage>
+        <attribution><![CDATA[]]></attribution>
+        <extraHeader><![CDATA[Referer#]]></extraHeader>
+        <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.87 Safari/537.36]]></extraHeader>
+    </provider>
+	<provider id="10805" type="0" visible="true" background="-1">
+         <name>Ukraine</name>
+         <mode>Навлюкс</mode>
+         <url><![CDATA[http://tiles.luxena.com/navlux/{z}/{x}/{y}.png]]></url>
+         <zoomPart>{z}-8</zoomPart>
+         <zoomMin>8</zoomMin>
+         <zoomMax>30</zoomMax>
+         <tileSize>256</tileSize>
+        <countries>Карты Украины</countries>
+		 <usage>City</usage>
+		 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36]]></extraHeader>
+         <extraHeader><![CDATA[Referer#https://secais.dfs.de/]]></extraHeader>
+         </provider>
+	<provider id="10808" type="1" visible="true" background="-1">
+         <name>Ukraine</name>
+         <mode>Кадастр карта</mode>
+         <url><![CDATA[http://map.land.gov.ua/map/dzk_overview/{z}/{x}/{y}.png]]></url>
+         <zoomPart>{z}-8</zoomPart>
+         <zoomMin>8</zoomMin>
+         <zoomMax>30</zoomMax>
+         <tileSize>256</tileSize>
+        <countries>Карты Украины</countries>
+		 <usage>City</usage>
+		 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36]]></extraHeader>
+         <extraHeader><![CDATA[Referer#https://secais.dfs.de/]]></extraHeader>
+         </provider>
+	<provider id="10809" type="1" visible="true" background="-1">
+         <name>Ukraine</name>
+         <mode>Кадастр Спутник</mode>
+         <url><![CDATA[http://map.land.gov.ua/map/ortho10k_all/{z}/{x}/{y}.jpg]]></url>
+         <zoomPart>{z}-8</zoomPart>
+         <zoomMin>8</zoomMin>
+         <zoomMax>30</zoomMax>
+         <tileSize>256</tileSize>
+        <countries>Карты Украины</countries>
+		 <usage>City</usage>
+		 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36]]></extraHeader>
+         <extraHeader><![CDATA[Referer#https://secais.dfs.de/]]></extraHeader>
+         </provider>
+	<provider id="108010" type="1" visible="true" background="-1">
+         <name>Ukraine</name>
+         <mode>Кадастр генштаб</mode>
+         <url><![CDATA[http://map.land.gov.ua/map/topo100k_all/{z}/{x}/{y}.jpg]]></url>
+         <zoomPart>{z}-8</zoomPart>
+         <zoomMin>8</zoomMin>
+         <zoomMax>30</zoomMax>
+         <tileSize>256</tileSize>
+        <countries>Карты Украины</countries>
+		 <usage>City</usage>
+		 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.82 Safari/537.36]]></extraHeader>
+         <extraHeader><![CDATA[Referer#https://secais.dfs.de/]]></extraHeader>
+         </provider>
+	
+		<!-- Kompass maps --> 
+	<provider id="108020" type="0" visible="true" background="-1">
+		<name>Kompass</name>
+		<mode>Карта</mode>
+		<url><![CDATA[http://ec2.cdn.ecmaps.de/WmsGateway.ashx.jpg?Experience=kompass&MapStyle=KOMPASS%20Touristik&TileX={x}&TileY={y}&ZoomLevel={z}]]></url>
+		<serverPart>0;1;2;3</serverPart>
+		<zoomPart>{z}-8</zoomPart>
+		<zoomMin>14</zoomMin>
+		<zoomMax>32</zoomMax>
+		<tileSize>256</tileSize>
+		<countries>Europe</countries>
+    <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 5.1; rv:26.0) Gecko/20100101 Firefox/26.0]]></extraHeader>
+    <extraHeader><![CDATA[Referer#]]></extraHeader>
+	</provider>
+	
