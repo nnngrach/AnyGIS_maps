@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="6">
+<aqx version="7">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 12:09
+Updated: 04-10-2019 20:21
 -->
 
 
 <name>Евразия - Туристические - Разное</name>
-<description>Евразия - Туристические - Разное</description>
+<description></description>
 
     <source id="720008">
         <name>Национальный парк Таганай</name>

@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="6">
+<aqx version="7">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 12:09
+Updated: 04-10-2019 20:21
 -->
 
 
 <name>Eurasia - Eastern</name>
-<description>Eurasia - Eastern</description>
+<description></description>
 
     <source id="5555023">
         <name>Belarus LatLon.org</name>
