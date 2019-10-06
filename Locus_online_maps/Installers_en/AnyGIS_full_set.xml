@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 06-10-2019 22:04
+Updated: 06-10-2019 22:37
 -->
 
 
@@ -2337,6 +2337,15 @@ Updated: 06-10-2019 22:04
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_GPS_tracks-Strava_RunAndRide_SD.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_RunAndRide_SD.xml]]>
 </dest>
 </download>
 

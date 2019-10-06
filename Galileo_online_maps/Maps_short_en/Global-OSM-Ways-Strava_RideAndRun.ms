@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 06-10-2019 22:03
+Updated: 06-10-2019 22:36
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 06-10-2019 22:03
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>16</maxZoom>
-    <url>https://anygis.ru/api/v1/Tracks_Strava_RunAndRide_HD/{$x}/{$y}/{$z}</url>
+    <url>https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}</url>
 </layer>
 
 </layers>

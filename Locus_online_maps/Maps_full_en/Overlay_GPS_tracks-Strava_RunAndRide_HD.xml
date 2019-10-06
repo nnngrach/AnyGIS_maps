@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 06-10-2019 22:04
+Updated: 06-10-2019 22:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 06-10-2019 22:04
 
 <provider id="8888073" type="0" visible="true" background="-1">
 <name>Overlay - GPS tracks</name>
-<mode>Strava Heatmap - Run and Ride</mode>
+<mode>Strava Heatmap - Run and Ride 512 (beta)</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -20,7 +20,7 @@ Updated: 06-10-2019 22:04
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>24</zoomMax>   <!-- 16 -->
+<zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
 
 <tileScale dpi="0" multi="2" replace=""
