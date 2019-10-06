@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:09
+Updated: 07-10-2019 00:14
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 07-10-2019 00:09
 
 <provider id="8888048" type="0" visible="true" background="-1">
 <name>Overlay - GPS треки</name>
-<mode>Strava Heatmap - All 512 (Bluered)</mode>
+<mode>Strava Heatmap - All (Bluered)</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

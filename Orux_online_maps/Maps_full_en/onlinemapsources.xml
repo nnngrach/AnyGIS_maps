@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:09
+Updated: 07-10-2019 00:13
 -->
 
 <onlinemapsource uid="468060">
@@ -3082,7 +3082,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888072">
-<name>Strava Heatmap - Run and Ride 256 (beta) (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - Run and Ride (beta) (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:09
+Updated: 07-10-2019 00:13
 -->
 
 <onlinemapsource uid="468060">
@@ -442,7 +442,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888031">
-<name>Strava Heatmap - All 256 (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - All (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -457,7 +457,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888032">
-<name>Strava Heatmap - Ride 256 (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - Ride (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -472,7 +472,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888033">
-<name>Strava Heatmap - Run 256 (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - Run (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -502,7 +502,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888034">
-<name>Strava Heatmap - Water 256 (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - Water (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -517,7 +517,7 @@ Updated: 07-10-2019 00:09
 </onlinemapsource>
 
 <onlinemapsource uid="8888035">
-<name>Strava Heatmap - Winter 256 (OVERLAYGPSTRACKS)</name>
+<name>Strava Heatmap - Winter (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
