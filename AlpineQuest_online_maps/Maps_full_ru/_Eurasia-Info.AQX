@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -29,7 +29,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/tele2/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -54,7 +54,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/yota/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -79,7 +79,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/beeline/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Beeline_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -104,7 +104,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/mts/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -129,7 +129,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/megafon/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -154,7 +154,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/rt/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -179,7 +179,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/mobile/tinkoff/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

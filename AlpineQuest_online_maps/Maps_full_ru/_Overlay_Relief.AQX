@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -73,7 +73,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[http://hillshading.waymarkedtrails.org/srtm/{z}/{x}/{invY}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -142,7 +142,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://votetovid.ru]]></referer>
-                <server><![CDATA[http://s.votetovid.ru/z{z}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Hillshade_VotEtoVid/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

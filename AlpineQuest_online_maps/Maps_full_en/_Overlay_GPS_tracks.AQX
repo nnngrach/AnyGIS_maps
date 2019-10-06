@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -28,7 +28,9 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 
-                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/all/hot/{z}/{x}/{y}.png?px=256]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -53,7 +55,9 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 
-                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/ride/hot/{z}/{x}/{y}.png?px=256]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Ride_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Ride_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Ride_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -78,7 +82,9 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 
-                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/run/hot/{z}/{x}/{y}.png?px=256]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -103,7 +109,9 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 
-                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/water/hot/{z}/{x}/{y}.png?px=256]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -128,7 +136,9 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 
-                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/winter/hot/{z}/{x}/{y}.png?px=256]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

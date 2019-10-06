@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -50,7 +50,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[http://static.hitta.se/tile/v3/0_2x/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Hitta/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -73,7 +73,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[http://static.hitta.se/tile/v3/4_2x/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Hitta_Frilufts/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -96,7 +96,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[http://static.hitta.se/tile/v3/1/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Hitta_sat/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_All_Satellites/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -52,7 +52,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://kosmosnimki.ru/]]></referer>
-                <server><![CDATA[http://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&MapName=1D30C72D02914C5FB90D1D448159CAB6&LayerName=C9458F2DCB754CEEACC54216C7D1EB0A&key=Ziu6TPYb5bPGbzlMGJvEZW9aC%2BYgOPqEXyTtc%2FFzrigkewPGSWWdyNRVV3hxbKprZwdNTe8K52GCEZ05UjtRHWkQiIvj59%2B3TxpIuoGkPa2pC9bqYSZzuqxRTJWSq%2BZesqY2iBhDxA%2B9dvtAOYOrfLPezHlD0%2BjNvnRofacpZJURVhm5x5CjPeafTvXxVPDz&z={z}&x={kosmosnimkiX}&y={kosmosnimkiY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Kosmosnimki_WGS84/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -77,6 +77,8 @@ Updated: 07-10-2019 00:13
                 
                 
                 <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
+                <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
+                <server><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></server>
 
             </servers>
         </level>
@@ -100,7 +102,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 
-                <server><![CDATA[http://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{z}/{x}/{invY}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Maxar_Premium_Imagery_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -124,7 +126,10 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://s2maps.eu/]]></referer>
                 
-                <server><![CDATA[http://abcd.s2maps-tiles.eu/wmts/?layer=s2cloudless_3857&style=default&tilematrixset=GoogleMapsCompatible&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

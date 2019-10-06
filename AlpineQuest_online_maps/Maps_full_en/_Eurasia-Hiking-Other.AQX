@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -28,7 +28,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/aladaglar/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -53,7 +61,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/altay_katun_chui/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -78,7 +94,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/ukraine/karpaty/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -103,7 +127,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/ergaki_aradan/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -128,7 +160,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/kyrgyz/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -152,7 +192,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/map_hr/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Slazav_hrebtovki_nakarte_direct/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -176,7 +216,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/taganay/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -200,7 +248,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://map.g-utka.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -224,7 +272,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/tyan_shan/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Tyan_shan1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

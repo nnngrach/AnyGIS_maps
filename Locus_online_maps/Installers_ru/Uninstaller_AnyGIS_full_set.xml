@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:14
+Updated: 07-10-2019 02:56
 -->
 
 
@@ -293,7 +293,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Geofabrik.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Geofabrik.xml]]>
 </dest>
 </download>
 
@@ -311,7 +311,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Komoot.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Komoot.xml]]>
 </dest>
 </download>
 
@@ -329,7 +329,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapbox_Terrain.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Mapbox_Terrain.xml]]>
 </dest>
 </download>
 
@@ -356,7 +356,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -392,7 +392,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Refuges.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Refuges.xml]]>
 </dest>
 </download>
 
@@ -1094,7 +1094,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khininy-Hills.xml]]>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Hills.xml]]>
 </dest>
 </download>
 
@@ -1112,7 +1112,7 @@ Updated: 07-10-2019 00:14
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khininy-Tundra_Old.xml]]>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
 </dest>
 </download>
 

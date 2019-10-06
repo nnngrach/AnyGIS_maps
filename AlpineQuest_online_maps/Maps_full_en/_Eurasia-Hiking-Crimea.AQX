@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -28,7 +28,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/crimea2010/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -53,7 +61,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/krim/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Krim1/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

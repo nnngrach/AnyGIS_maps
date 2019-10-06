@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:14
+Updated: 07-10-2019 02:56
 -->
 
 
@@ -20,10 +20,28 @@ Updated: 07-10-2019 00:14
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Hiking-Khibiny-Hills.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Hills.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
 </dest>
 </download>
 

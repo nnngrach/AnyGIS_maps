@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -28,7 +28,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/10km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_10000/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -53,7 +61,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/2km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -78,7 +94,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/1km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_01000/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -103,7 +127,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/2km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -128,7 +160,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/20km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -153,7 +193,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/250m/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00250/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -178,7 +226,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/5km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -203,7 +259,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/500m/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -227,7 +291,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/genshtab/500m.new/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_00500_new/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -250,7 +314,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[ ]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -142,7 +142,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/5v_kavk_1877/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1877/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -165,7 +165,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/5v_kavkaz/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1926/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -188,7 +188,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/eng_5v_kavkaz/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1948_eng/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -211,7 +211,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1v_krim/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -234,7 +234,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1902_kuban/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1902/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -257,7 +257,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1930_kuban/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1930/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -280,7 +280,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/kuban_1v/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1916/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -303,7 +303,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1918_kuban_10v/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kuban_1918/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -326,7 +326,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1925_maykop/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Maykop_1925/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -349,7 +349,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/wwii-ug/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_German_Aero_Krasnodar/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -372,7 +372,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/genshtab_german_2km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_German_Genshtab_2km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -395,7 +395,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/1942_osteuropa/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -418,7 +418,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/rkka2km/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -441,7 +441,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/rkka/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_RKKA_1km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -464,7 +464,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/strelb_10_1882/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Strelbitsky_1882/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -487,7 +487,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://maps.melda.ru/pub/historic/strelb_10_1919/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Strelbitsky_1919/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

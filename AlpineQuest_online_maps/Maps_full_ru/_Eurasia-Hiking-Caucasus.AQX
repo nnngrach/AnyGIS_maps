@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -28,7 +28,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/lcarta/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -53,7 +61,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/wkavkaz_kot/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -78,7 +94,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/kazbegi/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -103,7 +127,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/westcaumap/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -128,7 +160,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/cencaumap/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -153,7 +193,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/soucaumap/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -178,7 +226,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/gosgeodeziya/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -203,7 +259,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/arkhiz_dombay/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -227,7 +291,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/new_gsh_100k/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_10/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -250,7 +314,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/new_gsh_050k/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_11/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -274,7 +338,15 @@ Updated: 07-10-2019 00:13
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 
-                <server><![CDATA[http://maps.melda.ru/pub/tourism/hr_elbrus/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

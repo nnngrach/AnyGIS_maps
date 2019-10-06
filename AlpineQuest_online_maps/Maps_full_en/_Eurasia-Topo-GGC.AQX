@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/ggc1000/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_01000/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -50,7 +50,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/ggc2000/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_02000/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -73,7 +73,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/ggc250/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_00250/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -96,7 +96,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[http://tiles.nakarte.me/ggc500/{z}/{x}/{invY}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_00500/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -119,7 +119,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
-                <server><![CDATA[]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_Best_GGC/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

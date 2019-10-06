@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_RusOutdoor/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -50,7 +50,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Combo_RusOutdoor_lite/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

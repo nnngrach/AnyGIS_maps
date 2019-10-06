@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 00:13
+Updated: 07-10-2019 02:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://91.237.82.95:8088/pub/other/baionline2/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Avia_Baionline/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -50,7 +50,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://91.237.82.95:8088/pub/other/rnk2016/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Avia_Rnk/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -73,7 +73,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://91.237.82.95:8088/pub/other/rnk2019/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Avia_Rnk2019/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -96,7 +96,7 @@ Updated: 07-10-2019 00:13
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://91.237.82.95:8088/pub/other/mvl/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Avia_Mvl/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
