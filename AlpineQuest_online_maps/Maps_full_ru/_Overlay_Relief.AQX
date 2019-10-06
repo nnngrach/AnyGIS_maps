@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Overlay - Рельеф</name>
+<description></description>
+
+    <source id="8888652">
+        <name>Контурные линии Mapbox </name>
+        <copyright>Mapbox</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://api.mapbox.com/styles/v1/gaubrouter/cjzfrm6l50yaq1cph8d2ta985/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZ2F1YnJvdXRlciIsImEiOiJjanpmcmZ6czIwZXpuM2VvNXo0Zms2bTNtIn0.-2gVR7xRkdm74S5-vClw4g]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888651">
+        <name>Рельеф Openmapsurfer</name>
+        <copyright>Heigit.org</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://qms.nextgis.com/geoservices/2573/]]></referer>
+                <server><![CDATA[http://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888041">
+        <name>Рельеф Waymarkedtrails.org</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://hillshading.waymarkedtrails.org/srtm/{z}/{x}/{invY}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888042">
+        <name>Рельеф Windy.com</name>
+        <copyright>Windy.com</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888058">
+        <name>Рельеф WmfLabs.org</name>
+        <copyright>Wmflabs.org</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888053">
+        <name>Рельеф Карта уклонов</name>
+        <copyright>VotEtoVid</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://votetovid.ru]]></referer>
+                <server><![CDATA[http://s.votetovid.ru/z{z}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

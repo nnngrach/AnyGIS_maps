@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Overlay - GPS треки</name>
+<description></description>
+
+    <source id="8888063">
+        <name>Strava Heatmap - All</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                
+                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/all/hot/{z}/{x}/{y}.png?px=256]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888064">
+        <name>Strava Heatmap - Ride</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                
+                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/ride/hot/{z}/{x}/{y}.png?px=256]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888065">
+        <name>Strava Heatmap - Run</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                
+                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/run/hot/{z}/{x}/{y}.png?px=256]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888066">
+        <name>Strava Heatmap - Water</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                
+                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/water/hot/{z}/{x}/{y}.png?px=256]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888067">
+        <name>Strava Heatmap - Winter</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                
+                <server><![CDATA[http://heatmap-external-a.strava.com/tiles-auth/winter/hot/{z}/{x}/{y}.png?px=256]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

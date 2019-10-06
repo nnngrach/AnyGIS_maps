@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Osm_Mapbox_Terrain.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapbox_Terrain.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Global%20-%20OSM.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global - OSM.png]]>
+</dest>
+</download>
+
+</locusActions>

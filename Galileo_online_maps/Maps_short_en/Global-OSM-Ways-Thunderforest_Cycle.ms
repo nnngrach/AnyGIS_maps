@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -13,7 +13,7 @@ Updated: 02-10-2019 00:06
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>22</maxZoom>
-    <url>http://{$serverpart}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38</url>
+    <url>http://{$serverpart}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y} .png?apikey=6170aad10dfd42a38d4d8c709a536f38</url>
     <serverParts>a b c</serverParts>
 </layer>
 

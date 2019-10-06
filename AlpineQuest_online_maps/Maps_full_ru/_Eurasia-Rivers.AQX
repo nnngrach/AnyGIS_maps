@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Евразия - Водные</name>
+<description></description>
+
+    <source id="190005">
+        <name>Река Кубань 1985 (От Краснодрского гидроузла до устья)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>NAUT</type>
+
+        <preview-location>37.93,45.14,15</preview-location>
+        <outline>37.33,45.35 39.13,45.35 39.13,44.96 37.33,44.96</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://maps.melda.ru/pub/water/kuban_river/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="190006">
+        <name>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>NAUT</type>
+
+        <preview-location>47.64,52.03,12</preview-location>
+        <outline>43.9,56.2 51.97,56.2 51.97,48.65 43.9,48.65</outline>
+
+        <level>
+            <zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://gmap.camapka.ru/]]></referer>
+                <server><![CDATA[http://gmap.camapka.ru/lotsia/Z{z}/{y}/{x}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="190004">
+        <name>Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>NAUT</type>
+
+        <preview-location>58.76,57.88,11</preview-location>
+        <outline>57.72,58.34 59.74,58.34 59.74,56.92 57.72,56.92</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://maps.melda.ru/pub/water/chusovaya/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

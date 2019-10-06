@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -15,6 +15,15 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Евразия - Топокарты - Генштаб.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
 </dest>
 </download>
 
@@ -105,15 +114,6 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00500_new.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
 </dest>
 </download>
 

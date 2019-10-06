@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Rostelcom.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Info-Rostelcom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Справочные.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Евразия - Справочные.png]]>
+</dest>
+</download>
+
+</locusActions>

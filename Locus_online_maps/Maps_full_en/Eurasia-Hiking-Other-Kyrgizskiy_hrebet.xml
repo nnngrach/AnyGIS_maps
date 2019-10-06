@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -15,15 +15,17 @@ Updated: 02-10-2019 00:06
 <mode>Kyrgyz Ala-Too Range</mode>
 <countries>Kyrgyzstan</countries>
 <usage>hiking</usage>
+<cacheTimeout>99999</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
+
 <extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>
-<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -15,15 +15,20 @@ Updated: 02-10-2019 00:06
 <mode>Here Пробки</mode>
 <countries>World</countries>
 <usage>city</usage>
-<url><![CDATA[https://{s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://{s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/{ts}/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
 <serverPart>1;2;3;4</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
+<tileScales>
+    <tileScale dpi="0" multi="1" replace="256" />
+    <tileScale dpi="320" multi="2" replace="512" />
+</tileScales>
 <extraHeader><![CDATA[Referer#https://wego.here.com/]]></extraHeader>
-<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 <provider id="117596" type="0" visible="true" background="969999020">
@@ -31,15 +36,20 @@ Updated: 02-10-2019 00:06
 <mode>Here Пробки</mode>
 <countries>World</countries>
 <usage>road</usage>
-<url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{z}/{x}/{y}/{ts}/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
+<tileScales>
+    <tileScale dpi="0" multi="1" replace="256" />
+    <tileScale dpi="320" multi="2" replace="512" />
+</tileScales>
 <extraHeader><![CDATA[Referer#https://wego.here.com/]]></extraHeader>
-<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[© Here <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

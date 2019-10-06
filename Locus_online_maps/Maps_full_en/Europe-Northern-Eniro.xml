@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -15,14 +15,16 @@ Updated: 02-10-2019 00:06
 <mode>Eniro</mode>
 <countries>Norway, Sweden, Finland, Denmark, Poland</countries>
 <usage>city</usage>
+<cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/map/{z}/{x}/{y}.png]]></url>
 <serverPart>1;2;3;4</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>30</zoomMax>   <!-- 22 -->
 <tileSize>256</tileSize>
-<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/57.0.2987.110 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[© Eniro <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

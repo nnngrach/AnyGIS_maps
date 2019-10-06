@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="7">
+<aqx version="9">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 20:21
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -17,13 +17,12 @@ Updated: 04-10-2019 20:21
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>22.9,73.99 138.1,73.99 138.1,39.9 22.9,39.9</outline>
         <preview-location>127.77,70.79,10</preview-location>
+        <outline>22.9,73.99 138.1,73.99 138.1,39.9 22.9,39.9</outline>
 
         <level>
-            
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
-
+            
             <update-delay>4166D</update-delay>
 
             <servers>
@@ -32,4 +31,6 @@ Updated: 04-10-2019 20:21
             </servers>
         </level>
     </source>
+
+
 </aqx>

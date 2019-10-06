@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+
+
+<providers>
+
+<provider id="8888123" type="0" visible="true" background="-1">
+<name>Overlay - Labels & Ways</name>
+<mode>Google Labels</mode>
+<countries>World</countries>
+<usage>overlay</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://mt{s}.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&{ts}]]></url>
+<serverPart>0;1;2;3</serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>28</zoomMax>   <!-- 20 -->
+<tileSize>256</tileSize>
+<tileScales>
+    <tileScale dpi="0" multi="1" replace="scale=1" />
+    <tileScale dpi="320" multi="2" replace="scale=2" />
+</tileScales>
+<extraHeader><![CDATA[Referer#https://www.google.com/maps/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[© Google & others <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

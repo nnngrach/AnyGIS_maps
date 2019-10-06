@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Eurasia - Hiking - Khibiny</name>
+<description></description>
+
+    <source id="185000">
+        <name>Khibiny's Tundra (2008)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>33.62,67.76,10</preview-location>
+        <outline>32.8763,68.0023 35.2587,68.0023 35.2587,67.4263 32.8763,67.4263</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                
+                <server><![CDATA[http://maps.melda.ru/pub/tourism/karelia/hibin4ae/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

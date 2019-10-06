@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -13,7 +13,8 @@ Updated: 02-10-2019 00:06
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>https://tms0.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$invY}.png</url>
+    <url>https://tms{$serverpart}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$invY}.png</url>
+    <serverParts>0 1 2 3</serverParts>
 </layer>
 
 </layers>

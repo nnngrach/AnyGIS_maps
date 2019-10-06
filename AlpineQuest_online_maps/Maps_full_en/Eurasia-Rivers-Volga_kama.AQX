@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="7">
+<aqx version="9">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 20:21
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -17,13 +17,12 @@ Updated: 04-10-2019 20:21
         <region>OTHE</region>
         <type>NAUT</type>
 
-        <outline>43.9,56.2 51.97,56.2 51.97,48.65 43.9,48.65</outline>
         <preview-location>47.64,52.03,12</preview-location>
+        <outline>43.9,56.2 51.97,56.2 51.97,48.65 43.9,48.65</outline>
 
         <level>
-            
             <zoom-values>7,8,9,10,11,12,13,14,15</zoom-values>
-
+            
             <update-delay>4166D</update-delay>
 
             <servers>
@@ -32,4 +31,6 @@ Updated: 04-10-2019 20:21
             </servers>
         </level>
     </source>
+
+
 </aqx>

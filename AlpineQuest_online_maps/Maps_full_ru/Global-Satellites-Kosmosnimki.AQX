@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="7">
+<aqx version="9">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 20:21
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -17,15 +17,14 @@ Updated: 04-10-2019 20:21
         <region>WRLD</region>
         <type>SATE</type>
 
-        
         <preview-location>37.7,56.1,15</preview-location>
+        
 
         <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
             
             <projection-name>mercator</projection-name>
             <projection-geoid>wgs 84</projection-geoid>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
-
             <update-delay>90D</update-delay>
 
             <servers>
@@ -34,4 +33,6 @@ Updated: 04-10-2019 20:21
             </servers>
         </level>
     </source>
+
+
 </aqx>

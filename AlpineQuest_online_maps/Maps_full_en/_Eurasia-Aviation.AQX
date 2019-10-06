@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Eurasia - Aviation</name>
+<description></description>
+
+    <source id="428004">
+        <name>Avia Baionline</name>
+        
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>AERO</type>
+
+        <preview-location>37.7,56.1,8</preview-location>
+        <outline>10.1,81.65 179.5,81.65 179.5,35.4 10.1,35.4</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://91.237.82.95:8088/pub/other/baionline2/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="428001">
+        <name>Avia MVL</name>
+        
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>AERO</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        <outline>22.5,83.3 172.5,83.3 172.5,40.9 22.5,40.9</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://91.237.82.95:8088/pub/other/mvl/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="428000">
+        <name>Avia RNK 2016</name>
+        
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>AERO</type>
+
+        <preview-location>37.7,56.1,8</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://91.237.82.95:8088/pub/other/rnk2016/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="428003">
+        <name>Avia RNK 2019</name>
+        
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>AERO</type>
+
+        <preview-location>37.7,56.1,8</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://91.237.82.95:8088/pub/other/rnk2019/z{sasZ}/{folderX}/x{x}/{folderY}/y{y}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

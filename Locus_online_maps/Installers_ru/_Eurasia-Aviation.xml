@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -29,10 +29,28 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-RNK.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-Baionline.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK.xml]]>
+<![CDATA[/mapsOnline/custom/Eurasia-Aviation-Baionline.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-RNK_2016.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2016.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-RNK_2019.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2019.xml]]>
 </dest>
 </download>
 

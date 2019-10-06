@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Евразия - Справочные</name>
+<description></description>
+
+    <source id="410746">
+        <name>Тинькофф</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

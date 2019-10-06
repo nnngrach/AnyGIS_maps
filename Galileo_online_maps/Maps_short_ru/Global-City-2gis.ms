@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -13,7 +13,7 @@ Updated: 02-10-2019 00:06
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>18</maxZoom>
-    <url>https://tile{$serverpart}.maps.2gis.com/tiles?x={$x}&amp;y={$y}&amp;z={$z}&amp;v=1.5&amp;r=g&amp;ts=online_sd</url>
+    <url>https://tile{$serverpart}.maps.2gis.com/tiles?x={$x}&amp;y={$y}&amp;z={$z}&amp;r=g&amp;ts=online_sd</url>
     <serverParts>0 1 2 3</serverParts>
 </layer>
 

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+
+
+<providers>
+
+<provider id="410015" type="0" visible="true" background="-1">
+<name>Europe - OSM</name>
+<mode>4U maps</mode>
+<countries>World</countries>
+<usage>hiking</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[http://www.4umaps.eu/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[© OpenStreetMap, 4umap <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

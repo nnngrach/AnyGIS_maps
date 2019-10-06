@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -42,6 +42,33 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_map.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_map.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_sat.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_sat.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Eastern-CadastrUA_genshtab.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_genshtab.xml]]>
 </dest>
 </download>
 

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -123,6 +123,15 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Mapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -263,6 +272,24 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20OSM.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Евразия - OSM.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-OSM-Chepezk.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-OSM-Chepezk.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
 </source>
 <dest>
@@ -326,109 +353,145 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Разное.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Надписи%20и%20дороги.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Разное.png]]>
+<![CDATA[/mapsOnline/custom/Overlay - Надписи и дороги.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Chepezk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapbox.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Chepezk.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapbox.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay.png]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Navionics_Marine_Charts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Navionics_Marine_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-OpenSnowMap_pistes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-OpenSnowMap_pistes.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-OpenSreetMaps_Tracks.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Wikimapia.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-OpenSreetMaps_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wikimapia.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Cycling.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-WayMarkedTrails_Cycling.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-WayMarkedTrails_Hiking.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Пробки.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-WayMarkedTrails_Hiking.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay - Пробки.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Wikimapia.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Yandex_labels.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20GPS%20треки.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Yandex_labels.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay - GPS треки.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Yandex_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Yandex_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay-Hillshade_Openmapsurfer.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay-Hillshade_Openmapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_RunAndRide_HD.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Рельеф.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay - Рельеф.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Mapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapsurfer.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Морские.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay - Морские.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-Navionics_Marine_Charts.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Nautical-Navionics_Marine_Charts.xml]]>
 </dest>
 </download>
 

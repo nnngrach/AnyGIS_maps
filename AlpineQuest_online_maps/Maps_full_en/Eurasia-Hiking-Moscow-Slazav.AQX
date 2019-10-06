@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" ?>
-<aqx version="7">
+<aqx version="9">
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-10-2019 20:21
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -12,18 +12,17 @@ Updated: 04-10-2019 20:21
 
     <source id="101000">
         <name>Slazav</name>
-        
+        <copyright>Slazav</copyright>
         <data-source></data-source>
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <outline>32.4642,57.3387 40.5103,57.3387 40.5103,54.4719 32.4642,54.4719</outline>
         <preview-location>36.87,56.76,14</preview-location>
+        <outline>32.4642,57.3387 40.5103,57.3387 40.5103,54.4719 32.4642,54.4719</outline>
 
         <level>
-            <expression set="invY" type="int">0-y</expression>
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
-
+            <expression set="invY" type="int">0-y</expression>
             <update-delay>365D</update-delay>
 
             <servers>
@@ -32,4 +31,6 @@ Updated: 04-10-2019 20:21
             </servers>
         </level>
     </source>
+
+
 </aqx>

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
 <customMapSource>
-<name>Советские военные карты 1км (вся планета)</name>
+<name>Topomapper - Генштаб 1000м (вся планета)</name>
 <layers>
 
 <layer>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 20:49
+-->
+
+
+<name>Глобальные - Справочные</name>
+<description></description>
+
+    <source id="412044">
+        <name>Nakarte.me - Геокэшинг</name>
+        <copyright>Nakarte & Geocashing</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>37.68231,56.08403,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://68.183.65.138:5050/nakarte/{x}/{y}/{z}/0?script=O/Gc]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="412043">
+        <name>Nakarte.me - Перевалы Вестра</name>
+        <copyright>Nakarte & Westra</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>TOPO</type>
+
+        <preview-location>42.4648,43.34717,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://68.183.65.138:5050/nakarte/{x}/{y}/{z}/0?script=Otm/Wp]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

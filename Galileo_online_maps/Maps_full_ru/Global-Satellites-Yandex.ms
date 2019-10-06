@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 02-10-2019 00:06
 <layers>
 
 <layer>
-    <minZoom>0</minZoom>
+    <minZoom>5</minZoom>
     <maxZoom>19</maxZoom>
     <url>https://anygis.ru/api/v1/Yandex_sat_clean/{$x}/{$y}/{$z}</url>
 </layer>

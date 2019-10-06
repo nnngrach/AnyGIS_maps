@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -15,6 +15,15 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia - Info.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Info-Beeline.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Info-Beeline.xml]]>
 </dest>
 </download>
 
@@ -38,10 +47,28 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Info-Rostelcom.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Info-Rostelcom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Info-Tele2.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Info-Tele2.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Eurasia-Info-Tinkoff.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Info-Tinkoff.xml]]>
 </dest>
 </download>
 

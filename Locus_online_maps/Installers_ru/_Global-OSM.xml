@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 02-10-2019 00:06
+Updated: 06-10-2019 20:49
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-4umaps.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Geofabrik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-4umaps.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Geofabrik.xml]]>
 </dest>
 </download>
 
@@ -38,10 +38,28 @@ Updated: 02-10-2019 00:06
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Komoot.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Komoot.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Kosmosnimki.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Kosmosnimki.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Mapbox_Terrain.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapbox_Terrain.xml]]>
 </dest>
 </download>
 
@@ -60,6 +78,15 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Mapsurfer.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -87,6 +114,15 @@ Updated: 02-10-2019 00:06
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osm_Refuges.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Osm_Refuges.xml]]>
 </dest>
 </download>
 
