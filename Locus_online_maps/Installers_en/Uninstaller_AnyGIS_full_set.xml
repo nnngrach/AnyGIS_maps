@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 06-10-2019 20:49
+Updated: 06-10-2019 22:04
 -->
 
 
@@ -510,6 +510,15 @@ Updated: 06-10-2019 20:49
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
 </dest>
 </download>
 

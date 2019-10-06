@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 06-10-2019 22:04
+-->
+
+
+
+
+<providers>
+
+<provider id="219999045" type="0" visible="false" background="-1">
+<name>Global - OSM - Ways</name>
+<mode>Strava Heatmap - Ride + Run</mode>
+<countries>World</countries>
+<usage>city</usage>
+<cacheTimeout>2160</cacheTimeout>
+<url><![CDATA[https://{s}.tiles.mapbox.com/v4/mapquest.dark-mb/{z}/{x}/{y}@2x.png?access_token=pk.eyJ1IjoibWFwcXVlc3QiLCJhIjoiY2Q2N2RlMmNhY2NiZTRkMzlmZjJmZDk0NWU0ZGJlNTMifQ.mPRiEubbajc6a5y9ISgydg]]></url>
+<serverPart>a;b;c</serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+<provider id="6666021" type="0" visible="true" background="219999045">
+<name>Global - OSM - Ways</name>
+<mode>Strava Heatmap - Ride + Run</mode>
+<countries>World</countries>
+<usage>cycle</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide_HD/{x}/{y}/{z}?locusScale={ts}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>24</zoomMax>   <!-- 16 -->
+<tileSize>256</tileSize>
+
+<tileScale dpi="0" multi="2" replace=""
+<extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
+<attribution><![CDATA[© Strava <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>
