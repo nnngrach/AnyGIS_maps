@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 06-10-2019 22:36
+Updated: 07-10-2019 00:09
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 06-10-2019 22:36
 
 <provider id="8888073" type="0" visible="true" background="-1">
 <name>Overlay - GPS треки</name>
-<mode>Strava Heatmap - Run and Ride 512 (beta)</mode>
+<mode>Strava Heatmap - Run and Ride (beta)</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -22,8 +22,9 @@ Updated: 06-10-2019 22:36
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
-
-<tileScale dpi="0" multi="2" replace=""
+<tileScales>
+    <tileScale dpi="0" multi="2" replace="" />
+</tileScales>
 <extraHeader><![CDATA[Referer#https://www.strava.com/heatmap]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Safari/605.1.15]]></extraHeader>
 <attribution><![CDATA[© Strava <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
