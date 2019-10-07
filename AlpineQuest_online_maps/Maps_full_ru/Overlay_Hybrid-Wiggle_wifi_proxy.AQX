@@ -3,21 +3,21 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:56
+Updated: 07-10-2019 22:55
 -->
 
 
-<name>Overlay - Labels & Ways</name>
+<name>Overlay - Надписи и дороги</name>
 <description></description>
 
-    <source id="8888029">
-        <name>Wigle.net Wi-fi location</name>
-        <copyright>Wigle.net</copyright>
+    <source id="8888055">
+        <name>Wigle.net Wi-fi location (proxy)</name>
+        <copyright>Wiggle.net</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>
 
-        <preview-location>47.26214,56.13237,13</preview-location>
+        <preview-location>47.2621,56.1324,13</preview-location>
         
 
         <level>
@@ -27,7 +27,7 @@ Updated: 07-10-2019 02:56
 
             <servers>
                 <referer><![CDATA[https://wigle.net]]></referer>
-                <server><![CDATA[http://wigle.net/tile?tileX={x}&tileY={y}&tileZoom={z}&coloring=density]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Info_Wiggle_wifi_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

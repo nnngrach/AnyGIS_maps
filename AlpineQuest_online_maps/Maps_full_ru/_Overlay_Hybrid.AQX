@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:55
+Updated: 07-10-2019 22:55
 -->
 
 
@@ -38,8 +38,8 @@ Updated: 07-10-2019 02:55
     </source>
 
 
-    <source id="8888022">
-        <name>OSM Tile Grid</name>
+    <source id="8888075">
+        <name>OSM Tile Grid (white)</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -55,20 +55,20 @@ Updated: 07-10-2019 02:55
 
             <servers>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
 
 
-    <source id="8888029">
-        <name>Wigle.net Wi-fi location</name>
-        <copyright>Wigle.net</copyright>
+    <source id="8888055">
+        <name>Wigle.net Wi-fi location (proxy)</name>
+        <copyright>Wiggle.net</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>
 
-        <preview-location>47.26214,56.13237,13</preview-location>
+        <preview-location>47.2621,56.1324,13</preview-location>
         
 
         <level>
@@ -78,7 +78,7 @@ Updated: 07-10-2019 02:55
 
             <servers>
                 <referer><![CDATA[https://wigle.net]]></referer>
-                <server><![CDATA[http://wigle.net/tile?tileX={x}&tileY={y}&tileZoom={z}&coloring=density]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Info_Wiggle_wifi_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

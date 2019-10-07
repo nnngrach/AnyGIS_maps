@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:56
+Updated: 07-10-2019 22:55
 -->
 
 
 <name>Overlay - Labels & Ways</name>
 <description></description>
 
-    <source id="8888022">
+    <source id="8888075">
         <name>OSM Tile Grid</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>
@@ -27,7 +27,7 @@ Updated: 07-10-2019 02:56
 
             <servers>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

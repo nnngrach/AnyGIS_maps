@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:55
+Updated: 07-10-2019 22:55
 -->
 
 
@@ -119,7 +119,7 @@ Updated: 07-10-2019 02:55
 
             <servers>
                 
-                <server><![CDATA[http://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Lantmateriet_Fjallkarta/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -142,7 +142,7 @@ Updated: 07-10-2019 02:55
 
             <servers>
                 
-                <server><![CDATA[http://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Lantmateriet_topowebb/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

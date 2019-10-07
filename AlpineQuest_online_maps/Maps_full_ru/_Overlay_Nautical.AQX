@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:55
+Updated: 07-10-2019 22:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 02:55
 
             <servers>
                 <referer><![CDATA[https://connect.garmin.com/ru-RU/start/quickdraw]]></referer>
-                <server><![CDATA[http://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Garmin_MarineImages/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -49,17 +49,8 @@ Updated: 07-10-2019 02:55
             <update-delay>30D</update-delay>
 
             <servers>
-                <referer><![CDATA[http://webapp.navionics.com/]]></referer>
+                <referer><![CDATA[https://webapp.navionics.com/]]></referer>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
@@ -169,17 +160,8 @@ Updated: 07-10-2019 02:55
             <update-delay>30D</update-delay>
 
             <servers>
-                <referer><![CDATA[http://webapp.navionics.com/]]></referer>
+                <referer><![CDATA[https://webapp.navionics.com/]]></referer>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>

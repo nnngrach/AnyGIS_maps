@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:55
+Updated: 07-10-2019 22:55
 -->
 
 <onlinemapsource uid="468060">
@@ -2692,7 +2692,7 @@ Updated: 07-10-2019 02:55
 </onlinemapsource>
 
 <onlinemapsource uid="8888022">
-<name>OSM Tile Grid (OVERLAYHYBRID)</name>
+<name>OSM Tile Grid (gray) (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>

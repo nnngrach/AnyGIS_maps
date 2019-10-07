@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:56
+Updated: 07-10-2019 22:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 02:56
 
             <servers>
                 
-                <server><![CDATA[http://api.mapbox.com/styles/v1/gaubrouter/cjzfrm6l50yaq1cph8d2ta985/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoiZ2F1YnJvdXRlciIsImEiOiJjanpmcmZ6czIwZXpuM2VvNXo0Zms2bTNtIn0.-2gVR7xRkdm74S5-vClw4g]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Hillshade_Mapbox_Contour_Lines/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

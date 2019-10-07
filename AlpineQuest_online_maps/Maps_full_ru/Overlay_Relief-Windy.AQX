@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 02:56
+Updated: 07-10-2019 22:55
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 07-10-2019 02:56
 
             <servers>
                 
-                <server><![CDATA[http://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Hillshade_Windy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
