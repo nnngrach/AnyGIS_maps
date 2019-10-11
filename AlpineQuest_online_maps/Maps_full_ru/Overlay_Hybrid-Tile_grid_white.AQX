@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 11-10-2019 21:14
+Updated: 12-10-2019 00:49
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 11-10-2019 21:14
 <description></description>
 
     <source id="8888075">
-        <name>OSM Tile Grid (white)</name>
+        <name>Tile Grid (white)</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>
         <region>WRLD</region>
