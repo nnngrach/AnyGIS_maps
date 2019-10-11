@@ -1,5 +1,5 @@
 [url_template]
-https://tile0.maps.2gis.com/tiles?x={1}&y={2}&z={0}&r=g&ts=online_sd
+https://tile0.maps.2gis.com/tiles?x={1}&y={2}&z={0}&r=g&ts=online_hd
 [min_zoom]
 0
 [max_zoom]
@@ -7,7 +7,7 @@ https://tile0.maps.2gis.com/tiles?x={1}&y={2}&z={0}&r=g&ts=online_sd
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

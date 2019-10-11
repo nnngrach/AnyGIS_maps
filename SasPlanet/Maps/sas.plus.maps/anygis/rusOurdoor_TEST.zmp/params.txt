@@ -1,0 +1,16 @@
+[PARAMS]
+GUID={5522dd55-55dd-dd55-d55d-555555424000}
+ParentSubMenu_ru=Другие карты\AnyGIS
+ParentSubMenu_uk=Інші карти\AnyGIS
+ParentSubMenu=Other maps\AnyGIS
+name_ru=RusOutdoor maps
+name_uk=RusOutdoor maps
+name=RusOutdoor maps
+NameInCache=rusOurdoor_TEST
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+Ext=.jpg
+defaultContentType=image/jpeg,image/png
+ContentType=image/jpeg,image/png
+DefURLBase=https://anygis.ru/api/v1/

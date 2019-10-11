@@ -7,7 +7,7 @@ http://a.tile.thunderforest.com/cycle/{0}/{1}/{2} .png?apikey=6170aad10dfd42a38d
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

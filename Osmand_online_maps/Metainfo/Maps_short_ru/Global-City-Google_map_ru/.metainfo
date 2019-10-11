@@ -1,5 +1,5 @@
 [url_template]
-http://mt.google.com/vt/lyrs=m&hl=ru&x={1}&y={2}&z={0}&scale=1
+http://mt.google.com/vt/lyrs=m&hl=ru&x={1}&y={2}&z={0}&scale=2
 [min_zoom]
 0
 [max_zoom]
@@ -7,7 +7,7 @@ http://mt.google.com/vt/lyrs=m&hl=ru&x={1}&y={2}&z={0}&scale=1
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

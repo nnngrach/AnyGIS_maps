@@ -1,0 +1,13 @@
+[PARAMS]
+pnum=116
+GUID={D643C5A1-3333-4387-9BE2-DDDF185C117E}
+name=4umaps.eu
+NameInCache=4umaps.eu
+DefURLBase=http://www.4umaps.eu
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+PARENTSUBMENU=OSM
+License=(c) OpenStreetMap contributors, CC-BY-SA

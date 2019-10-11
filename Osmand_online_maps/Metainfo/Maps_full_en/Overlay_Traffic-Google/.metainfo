@@ -7,7 +7,7 @@ http://anygis.ru/api/v1/Google_Trafic_Layer/{1}/{2}/{0}
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

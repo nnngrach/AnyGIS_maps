@@ -1,5 +1,5 @@
 [url_template]
-http://mt0.google.com/vt/lyrs=y@176103410&x={1}&y={2}&z={0}&s=Galileo&scale=1&hl=en
+http://mt0.google.com/vt/lyrs=y@176103410&x={1}&y={2}&z={0}&s=Galileo&scale=2&hl=en
 [min_zoom]
 0
 [max_zoom]
@@ -7,7 +7,7 @@ http://mt0.google.com/vt/lyrs=y@176103410&x={1}&y={2}&z={0}&s=Galileo&scale=1&hl
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

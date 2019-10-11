@@ -1,5 +1,5 @@
 [url_template]
-http://a.tile.thunderforest.com/transport-dark/{0}/{1}/{2}.png?apikey=6170aad10dfd42a38d4d8c709a536f38
+http://a.tile.thunderforest.com/transport-dark/{0}/{1}/{2}@2x.png?apikey=6170aad10dfd42a38d4d8c709a536f38
 [min_zoom]
 0
 [max_zoom]
@@ -7,7 +7,7 @@ http://a.tile.thunderforest.com/transport-dark/{0}/{1}/{2}.png?apikey=6170aad10d
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

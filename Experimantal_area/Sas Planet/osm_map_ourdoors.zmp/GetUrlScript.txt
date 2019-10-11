@@ -1,0 +1,4 @@
+begin
+ GetURLBase[8]:=chr(ord('a')+random(3));
+ ResultURL:=GetUrlBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png?apikey=6170aad10dfd42a38d4d8c709a536f38';
+end.

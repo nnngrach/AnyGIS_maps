@@ -1,0 +1,9 @@
+begin 
+    ResultURL:=GetURLBase+'/'+inttostr(GetZ-1)+'/'+inttostr(GetX)+'/'+inttostr(GetY)+'.png';
+    RequestHead:='User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:25.0) Gecko/20100101 Firefox/25.0' + #13#10 +
+      'Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8' + #13#10 +
+      'Accept-Language: en-us,en;q=0.5' + #13#10 +
+      'Accept-Encoding: gzip, deflate' + #13#10 +
+      'Referer: http://www.4umaps.eu/map.htm' + #13#10 +
+      'Connection: keep-alive' + #13#10;
+end.

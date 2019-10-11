@@ -1,0 +1,20 @@
+﻿[PARAMS]
+pnum=118
+GUID={AB8A8685-AEC6-4E16-80DA-DC4AC37E4777}
+asLayer=1
+name_ru=Openseamap.org
+name=Openseamap.org
+name_uk=Openseamap.org
+ParentSubMenu_ru=Морские карты
+ParentSubMenu=Marine maps
+NameInCache=OSM_openseamap
+DefURLBase=http://tiles.openseamap.org/seamark/
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=Map data © OpenStreetMap contributors, rendering GIScience Research Group @ University of Heidelberg

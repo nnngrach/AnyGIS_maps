@@ -1,0 +1,15 @@
+[PARAMS]
+pnum=170
+GUID={01BDC3A9-D0C1-4B84-BFB5-94AAF9D100F7}
+name=RusOutdoor maps
+NameInCache=rusoutdoors
+DefURLBase=https://anygis.herokuapp.com/Combo_RusOutdoor/
+Ext=.jpg
+defaultContentType=image/jpeg,image/png
+ContentType=image/jpeg,image/png
+projection=1
+sradiusa=6378137
+sradiusb=6378137
+ParentSubMenu_ru=Другие карты\AnyGIS
+ParentSubMenu=Other maps\AnyGIS
+ParentSubMenu_uk=Інші карти\AnyGIS

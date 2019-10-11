@@ -1,0 +1,18 @@
+﻿
+[PARAMS]
+pnum=115
+GUID={D64B56B5-4B72-4EB1-8552-3E211A7A3580}
+name=OpenStreetMap Outdoor Map
+name_uk=Туристическая (OpenStreetMap)
+NameInCache=osm_OutdoorsMap
+DefURLBase=http://a.tile.thunderforest.com/outdoors
+ContentType=image/png
+Ext=.png
+projection=1
+sradiusa=6378137
+sradiusb=6356752
+DefHotKey=48
+PARENTSUBMENU=OSM
+RequestHead=User-Agent: SAS.Planet
+IteratorSubRectSize=8,8
+License=© OpenStreetMap contributors, CC-BY-SA. Tiles courtesy of Andy Allan.
