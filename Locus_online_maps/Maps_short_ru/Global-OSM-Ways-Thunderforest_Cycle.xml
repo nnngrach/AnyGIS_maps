@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-10-2019 20:05
+Updated: 11-10-2019 21:14
 -->
 
 
@@ -24,7 +24,7 @@ Updated: 08-10-2019 20:05
 <tileSize>256</tileSize>
 <tileScales>
     <tileScale dpi="0" multi="1" replace=" " />
-    <tileScale dpi="320" multi="2" replace=" " />
+    <tileScale dpi="320" multi="2" replace="@2x" />
 </tileScales>
 <extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>

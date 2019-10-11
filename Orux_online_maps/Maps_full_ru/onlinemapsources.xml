@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-10-2019 22:55
+Updated: 11-10-2019 21:13
 -->
 
 <onlinemapsource uid="468060">
@@ -233,7 +233,7 @@ Updated: 07-10-2019 22:55
 
 <onlinemapsource uid="468022">
 <name>Google Спутник (гибрид) RU (GLOBALSATELLITES)</name>
-<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileoscale=1&hl=ru]]></url>
+<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
