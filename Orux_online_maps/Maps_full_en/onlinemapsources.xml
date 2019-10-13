@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 12-10-2019 00:48
+Updated: 14-10-2019 01:18
 -->
 
 <onlinemapsource uid="468060">
@@ -321,11 +321,116 @@ Updated: 12-10-2019 00:48
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468335">
-<name>Sentinel (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="468343">
+<name>Sentinel Agriculture (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Agriculture/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>15</maxzoom>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468342">
+<name>Sentinel Bathimetric (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Bathimetric/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468341">
+<name>Sentinel Geology (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Geology/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468340">
+<name>Sentinel Moisture index (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Moisture/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468345">
+<name>Sentinel NDVI (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_NDVI/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468339">
+<name>Sentinel SWIR (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_SWIR/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468338">
+<name>Sentinel True Color  (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468344">
+<name>Sentinel Urban (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Urban/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -653,7 +758,7 @@ Updated: 12-10-2019 00:48
 
 <onlinemapsource uid="6666202">
 <name>Thunderforest Cycle (GLOBALOSMWAYS)</name>
-<url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y} .png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
+<url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>

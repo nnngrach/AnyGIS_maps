@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 12-10-2019 00:49
+Updated: 14-10-2019 01:18
 -->
 
 
@@ -23,7 +23,7 @@ Updated: 12-10-2019 00:49
 <zoomMax>30</zoomMax>   <!-- 22 -->
 <tileSize>256</tileSize>
 <tileScales>
-    <tileScale dpi="0" multi="1" replace=" " />
+    <tileScale dpi="0" multi="1" replace="" />
     <tileScale dpi="320" multi="2" replace="@2x" />
 </tileScales>
 <extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 12-10-2019 00:48
+Updated: 14-10-2019 01:18
 -->
 
 <onlinemapsource uid="468327">
@@ -218,7 +218,7 @@ Updated: 12-10-2019 00:48
 
 <onlinemapsource uid="6666202">
 <name>Thunderforest Cycle (GLOBALOSMWAYS)</name>
-<url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y} .png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
+<url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
