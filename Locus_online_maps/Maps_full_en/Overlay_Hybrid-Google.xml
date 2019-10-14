@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -10,7 +10,7 @@ Updated: 14-10-2019 01:18
 
 <providers>
 
-<provider id="8888123" type="0" visible="true" background="-1">
+<provider id="8888077" type="0" visible="true" background="-1">
 <name>Overlay - Labels & Ways</name>
 <mode>Google Labels</mode>
 <countries>World</countries>

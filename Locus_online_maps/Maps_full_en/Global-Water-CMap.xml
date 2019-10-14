@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 15-10-2019 00:27
+-->
+
+
+
+
+<providers>
+
+<provider id="190012" type="0" visible="true" background="-1">
+<name>Global - Nautical</name>
+<mode>C-Map</mode>
+<countries>World</countries>
+<usage>nautical</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://anygis.ru/api/v1/Water_CMap/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>13</zoomMin>    <!-- 5 -->
+<zoomMax>28</zoomMax>   <!-- 20 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#https://maps.c-map.com/index_pc.htm]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© С-Map <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 15-10-2019 00:27
+-->
+
+
+<name>Евразия - Исторические</name>
+<description></description>
+
+    <source id="5555027">
+        <name>Москва - Хотевский план 1852</name>
+        <copyright>Retromap.ru</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>SATE</type>
+
+        <preview-location>37.62,55.75,16</preview-location>
+        <outline>37.5,55.81 32.72,55.81 32.72,55.7 37.5,55.7</outline>
+
+        <level>
+            <zoom-values>11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://www.retromap.ru/m/]]></referer>
+                <server><![CDATA[http://www.retromap.ru/tiles/r/5/081852/Z{z}/{y}/{x}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

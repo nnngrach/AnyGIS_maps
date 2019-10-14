@@ -1,0 +1,16 @@
+[url_template]
+http://anygis.ru/api/v1/Historic_SPB_1705/{1}/{2}/{0}
+[min_zoom]
+9
+[max_zoom]
+13
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

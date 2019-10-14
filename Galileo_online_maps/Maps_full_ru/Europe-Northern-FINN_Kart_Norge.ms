@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 14-10-2019 01:18
 <layers>
 
 <layer>
-    <minZoom>0</minZoom>
-    <maxZoom>22</maxZoom>
+    <minZoom>5</minZoom>
+    <maxZoom>21</maxZoom>
     <url>http://maptiles{$serverpart}.finncdn.no/tileService/1.0.3/normap/{$z}/{$x}/{$y}.png</url>
     <serverParts>1 2 3 4</serverParts>
 </layer>

@@ -1,0 +1,16 @@
+[url_template]
+http://maptiles1.finncdn.no/tileService/1.0.3/norhybrid/{0}/{1}/{2}.png
+[min_zoom]
+5
+[max_zoom]
+21
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

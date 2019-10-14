@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 14-10-2019 01:18
 <description></description>
 
     <source id="8888653">
-        <name>Яндекс Народная надписи</name>
+        <name>Яндекс Гибрид Народная</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

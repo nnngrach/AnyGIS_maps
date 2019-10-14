@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -15,6 +15,15 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global - City.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Garmin_ru.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Garmin_ru.xml]]>
 </dest>
 </download>
 
@@ -33,6 +42,24 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-City-Google_terrain.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_night.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
 </dest>
 </download>
 
@@ -389,6 +416,42 @@ Updated: 14-10-2019 01:18
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-Wikimapia.xml]]>
 </source>
 <dest>
@@ -411,6 +474,33 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Here.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-TomTom.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-TomTom_incidents.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom_incidents.xml]]>
 </dest>
 </download>
 

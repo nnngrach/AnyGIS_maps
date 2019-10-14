@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
 <customMapSource>
-<name>Топокарты (Все масштабы)</name>
+<name>Топокарты Nakarte.me (Все масштабы)</name>
 <layers>
 
 <layer>

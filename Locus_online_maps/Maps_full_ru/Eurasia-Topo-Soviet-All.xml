@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 14-10-2019 01:18
 
 <provider id="424006" type="0" visible="true" background="-1">
 <name>Евразия - Топокарты - Советские</name>
-<mode>Топокарты (Все масштабы)</mode>
+<mode>Топокарты Nakarte.me (Все масштабы)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

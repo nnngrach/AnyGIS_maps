@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -10,9 +10,9 @@ Updated: 14-10-2019 01:18
 
 <providers>
 
-<provider id="8888123" type="0" visible="true" background="-1">
+<provider id="8888077" type="0" visible="true" background="-1">
 <name>Overlay - Надписи и дороги</name>
-<mode>Google Надписи</mode>
+<mode>Google Гибрид</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

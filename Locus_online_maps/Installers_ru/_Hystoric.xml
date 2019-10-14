@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -146,6 +146,15 @@ Updated: 14-10-2019 01:18
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-MSK_1852.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-MSK_1852.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.xml]]>
 </source>
 <dest>
@@ -159,6 +168,15 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Hystoric-German_Genshtab_3km.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1917.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-SPB_1917.xml]]>
 </dest>
 </download>
 
@@ -177,6 +195,42 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Hystoric-RKKA_1km.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1705.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-SPB_1705.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1725.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-SPB_1725.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1883.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-SPB_1883.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1894.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-SPB_1894.xml]]>
 </dest>
 </download>
 

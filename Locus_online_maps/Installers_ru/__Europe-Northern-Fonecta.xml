@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 15-10-2019 00:27
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Fonecta.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Fonecta.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Северная.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Европа - Северная.png]]>
+</dest>
+</download>
+
+</locusActions>

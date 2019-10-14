@@ -1,7 +1,7 @@
 [url_template]
 http://tile.waymarkedtrails.org/cycling/{0}/{1}/{2}.png
 [min_zoom]
-0
+3
 [max_zoom]
 19
 [ellipsoid]

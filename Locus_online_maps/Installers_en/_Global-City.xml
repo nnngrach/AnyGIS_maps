@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -33,6 +33,15 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-City-Bing_map.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Garmin_ru.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-Garmin_ru.xml]]>
 </dest>
 </download>
 
@@ -105,6 +114,24 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-City-Here_traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_night.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
 </dest>
 </download>
 

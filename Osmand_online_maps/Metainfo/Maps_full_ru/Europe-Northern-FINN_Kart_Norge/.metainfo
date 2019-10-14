@@ -1,13 +1,13 @@
 [url_template]
-http://maptiles1.finncdn.no/tileService/1.0.3/normap/{0}/{1}/{2}.png
+http://maptiles1.finncdn.no/tileService/1.0.3/normaphd/{0}/{1}/{2}.png
 [min_zoom]
-0
+5
 [max_zoom]
-22
+21
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

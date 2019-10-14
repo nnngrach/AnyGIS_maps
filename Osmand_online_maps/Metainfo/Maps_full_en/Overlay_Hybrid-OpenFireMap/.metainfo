@@ -1,0 +1,16 @@
+[url_template]
+http://openfiremap.org/hytiles/{0}/{1}/{2}.png
+[min_zoom]
+11
+[max_zoom]
+17
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

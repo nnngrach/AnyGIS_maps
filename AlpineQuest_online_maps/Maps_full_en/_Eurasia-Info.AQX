@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -180,6 +180,31 @@ Updated: 14-10-2019 01:18
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="410747">
+        <name>Navizor - Roads quality</name>
+        <copyright>@ Navizor</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,9</preview-location>
+        
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://www.garmin.ru/maponline/marshruty.php]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Navizor/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

@@ -3,8 +3,23 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
+
+<onlinemapsource uid="468356">
+<name>Garmin.ru (navicom) (GLOBALCITY)</name>
+<url><![CDATA[http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{$x};{$y};{$z};]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>4</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
 
 <onlinemapsource uid="468327">
 <name>Google Map (GLOBALCITY)</name>
@@ -26,6 +41,36 @@ Updated: 14-10-2019 01:18
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468354">
+<name>TomTom Day (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468355">
+<name>TomTom Night (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -306,7 +351,7 @@ Updated: 14-10-2019 01:18
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888123">
+<onlinemapsource uid="8888077">
 <name>Google Labels (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Google_labels/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -356,7 +401,7 @@ Updated: 14-10-2019 01:18
 <url><![CDATA[http://tile.waymarkedtrails.org/cycling/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>3</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -371,7 +416,67 @@ Updated: 14-10-2019 01:18
 <url><![CDATA[http://tile.waymarkedtrails.org/hiking/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888080">
+<name>Waymarkedtrails.org - MTB (OVERLAYHYBRID)</name>
+<url><![CDATA[http://tile.waymarkedtrails.org/mtb/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888082">
+<name>Waymarkedtrails.org - Riding (OVERLAYHYBRID)</name>
+<url><![CDATA[http://tile.waymarkedtrails.org/riding/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888081">
+<name>Waymarkedtrails.org - Skating (OVERLAYHYBRID)</name>
+<url><![CDATA[http://tile.waymarkedtrails.org/skating/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888083">
+<name>Waymarkedtrails.org - Slopes (OVERLAYHYBRID)</name>
+<url><![CDATA[http://tile.waymarkedtrails.org/slopes/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -402,6 +507,51 @@ Updated: 14-10-2019 01:18
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888076">
+<name>Here Traffic Flow (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://{$s}.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888078">
+<name>TomTom (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888079">
+<name>TomTom Incidents (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
+<minzoom>5</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>

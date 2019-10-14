@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -78,6 +78,15 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Northern-Finland_topo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Fonecta.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Fonecta.xml]]>
 </dest>
 </download>
 
@@ -177,6 +186,24 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Norgeskart_Hybrid.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Hybrid.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Norgeskart_Satellite.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Satellite.xml]]>
 </dest>
 </download>
 

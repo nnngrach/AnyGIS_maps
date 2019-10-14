@@ -3,15 +3,49 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
 <name>Overlay - Надписи и дороги</name>
 <description></description>
 
+    <source id="8888077">
+        <name>Google Гибрид</name>
+        <copyright>Google & others</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.google.com/maps/]]></referer>
+                
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
     <source id="8888068">
-        <name>Mapbox подписи и тропы</name>
+        <name>Mapbox Гибрид</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -44,6 +78,29 @@ Updated: 14-10-2019 01:18
     </source>
 
 
+    <source id="8888662">
+        <name>OpenFireMap</name>
+        <copyright>OpenFireMap</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,10</preview-location>
+        
+
+        <level>
+            <zoom-values>11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://openfiremap.org/hytiles/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="8888075">
         <name>Tile Grid (white)</name>
         <copyright>AnyGIS</copyright>
@@ -62,6 +119,212 @@ Updated: 14-10-2019 01:18
             <servers>
                 
                 <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888660">
+        <name>TomTom Гибрид (день)</name>
+        <copyright>TomTom</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
+                
+                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888661">
+        <name>TomTom Гибрид (ночь)</name>
+        <copyright>TomTom</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
+                
+                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888024">
+        <name>Waymarkedtrails.org - Велоспорт</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>56.92866,54.01801,7</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://cycling.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/cycling/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888082">
+        <name>Waymarkedtrails.org - Верховая езда</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7506,56.0243,10</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://riding.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/riding/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888080">
+        <name>Waymarkedtrails.org - Горный велосипед MTB</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7506,56.0243,10</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mtb.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/mtb/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888083">
+        <name>Waymarkedtrails.org - Зимний спорт</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7506,56.0243,10</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://slopes.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/slopes/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888081">
+        <name>Waymarkedtrails.org - Коньки</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7506,56.0243,10</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://skating.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/skating/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888023">
+        <name>Waymarkedtrails.org - Пешие прогулки</name>
+        <copyright>WayMarkeredTrails</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.75063,56.02425,10</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://hiking.waymarkedtrails.org/]]></referer>
+                <server><![CDATA[http://tile.waymarkedtrails.org/hiking/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>
@@ -91,7 +354,7 @@ Updated: 14-10-2019 01:18
 
 
     <source id="8888653">
-        <name>Яндекс Народная надписи</name>
+        <name>Яндекс Гибрид Народная</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

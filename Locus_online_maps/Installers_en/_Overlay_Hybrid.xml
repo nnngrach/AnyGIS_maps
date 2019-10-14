@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
@@ -38,6 +38,24 @@ Updated: 14-10-2019 01:18
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-TomTom_labels_day.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_day.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-TomTom_labels_night.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_night.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
 </source>
 <dest>
@@ -51,6 +69,42 @@ Updated: 14-10-2019 01:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
 </dest>
 </download>
 

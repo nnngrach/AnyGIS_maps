@@ -3,15 +3,15 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 14-10-2019 01:18
+Updated: 15-10-2019 00:27
 -->
 
 
 <name>Overlay - Пробки</name>
 <description></description>
 
-    <source id="8888018">
-        <name>Here Пробки</name>
+    <source id="8888076">
+        <name>Here Пробки (Поток)</name>
         <copyright>Here</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -27,7 +27,12 @@ Updated: 14-10-2019 01:18
 
             <servers>
                 <referer><![CDATA[https://wego.here.com/]]></referer>
-                <server><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></server>
+                
+                <server><![CDATA[http://1.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://2.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://3.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://4.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+
             </servers>
         </level>
     </source>

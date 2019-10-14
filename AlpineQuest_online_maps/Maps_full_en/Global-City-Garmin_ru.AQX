@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 15-10-2019 00:27
+-->
+
+
+<name>Global - City</name>
+<description></description>
+
+    <source id="468356">
+        <name>Garmin.ru (navicom)</name>
+        <copyright>ЗАО Навиком</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>4,5,6,7,8,9,10,11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://www.garmin.ru/maponline/marshruty.php]]></referer>
+                <server><![CDATA[http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{x};{y};{z};]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>
