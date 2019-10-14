@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:27
+Updated: 15-10-2019 00:50
 -->
 
 <onlinemapsource uid="468060">
@@ -116,6 +116,36 @@ Updated: 15-10-2019 00:27
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468354">
+<name>TomTom День (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468355">
+<name>TomTom Ночь (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
