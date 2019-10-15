@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -123,24 +123,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_GPS_tracks-Yandex_direcions.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Yandex_direcions.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_GPS_tracks-Yandex_intensity.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Yandex_intensity.xml]]>
 </dest>
 </download>
 

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -27,7 +27,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="410742" type="2" visible="true" background="-1">
 <name>Евразия - Справочные</name>
-<mode>Ростелком</mode>
+<mode>Зоны покрытия Ростелком</mode>
 <countries>Russia</countries>
 <usage>overlay</usage>
 <cacheTimeout>8760</cacheTimeout>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="829999018" type="2" visible="false" background="-1">
 <name>Глобальные - Спутниковые</name>
-<mode>Yandex Спутник (гибрид)</mode>
+<mode>Яндекс - Гибрид</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -30,7 +30,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="468082" type="2" visible="true" background="829999018">
 <name>Глобальные - Спутниковые</name>
-<mode>Yandex Спутник (гибрид)</mode>
+<mode>Яндекс - Гибрид</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

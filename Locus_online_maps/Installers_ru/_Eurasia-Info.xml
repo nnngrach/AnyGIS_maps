@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -74,15 +74,6 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-RosReestr.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-RosReestr.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Rostelcom.xml]]>
 </source>
 <dest>
@@ -96,6 +87,15 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Info-Tinkoff.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-RosReestr.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Info-RosReestr.xml]]>
 </dest>
 </download>
 

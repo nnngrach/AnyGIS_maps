@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
 <customMapSource>
-<name>Ukraine - Кадастр Генштаб 1км</name>
+<name>Украина - Кадастр Генштаб 1км</name>
 <layers>
 
 <layer>

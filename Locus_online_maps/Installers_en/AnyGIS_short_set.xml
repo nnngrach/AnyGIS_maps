@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Garmin_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Bing_map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Garmin_ru.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Bing_map.xml]]>
 </dest>
 </download>
 
@@ -47,19 +47,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Here_map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Here_map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_night.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
 </dest>
 </download>
 
@@ -78,15 +78,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Bing_birds_eye.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-ESRI_Imagenary.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
 </dest>
 </download>
 
@@ -128,10 +119,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-Mapbox.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Premium_Imagery.xml]]>
 </dest>
 </download>
 
@@ -141,15 +132,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-Yandex_proxy.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_proxy.xml]]>
 </dest>
 </download>
 
@@ -218,6 +200,15 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Ways-Mapy_Winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapy_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Ways-Opnvkarte.xml]]>
 </source>
 <dest>
@@ -240,15 +231,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Ways-Strava_RideAndRun.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
 </dest>
 </download>
 
@@ -317,15 +299,6 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Info-Wikimapia.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Info-Wikimapia_satellite.xml]]>
 </source>
 <dest>
@@ -389,6 +362,24 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-Public_Transport.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Public_Transport.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
 </source>
 <dest>
@@ -425,37 +416,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-Wikimapia.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wikimapia.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Hybrid-Yandex.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
 </dest>
 </download>
 
@@ -470,10 +443,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Here.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Bing.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Bing.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Google.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Google.xml]]>
 </dest>
 </download>
 
@@ -497,10 +479,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-TomTom_incidents.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom_incidents.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex.xml]]>
 </dest>
 </download>
 
@@ -519,6 +501,15 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_GPS_tracks-Strava_All_HD.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_All_HD.xml]]>
 </dest>
 </download>
 
@@ -578,6 +569,15 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Relief-Mapbox_Contour_Lines.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapbox_Contour_Lines.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Relief-Mapsurfer.xml]]>
 </source>
 <dest>
@@ -587,37 +587,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Relief-Waymarkedtrails.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Waymarkedtrails.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Relief-Windy.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Windy.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Relief-WmfLabs.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-WmfLabs.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Nautical.png]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay - Nautical.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Nautical-OpenSeaMap_seamark.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_seamark.xml]]>
 </dest>
 </download>
 

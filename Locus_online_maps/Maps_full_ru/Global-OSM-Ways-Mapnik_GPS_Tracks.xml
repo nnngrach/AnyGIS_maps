@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 15-10-2019 00:50
 <providers>
 
 <provider id="49999000" type="0" visible="false" background="-1">
-<name>Глобальные - OSM - Ways</name>
-<mode>Mapnik + GPS треки</mode>
+<name>Глобальные - OSM - Треки</name>
+<mode>OpenStreetMap - GPS Треки</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -29,8 +29,8 @@ Updated: 15-10-2019 00:50
 </provider>
 
 <provider id="6666004" type="0" visible="true" background="49999000">
-<name>Глобальные - OSM - Ways</name>
-<mode>Mapnik + GPS треки</mode>
+<name>Глобальные - OSM - Треки</name>
+<mode>OpenStreetMap - GPS Треки</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 15-10-2019 00:50
 <providers>
 
 <provider id="8888020" type="0" visible="true" background="-1">
-<name>Overlay - Надписи и дороги</name>
-<mode>OpenSeaMap Морской траффик</mode>
+<name>Overlay - Морские</name>
+<mode>OpenSeaMap - Морской траффик</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>0</cacheTimeout>

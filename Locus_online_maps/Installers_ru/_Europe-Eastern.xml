@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -24,6 +24,24 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_Genshtab.xml]]>
 </dest>
 </download>
 
@@ -87,24 +105,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_overlay.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_Genshtab.xml]]>
 </dest>
 </download>
 

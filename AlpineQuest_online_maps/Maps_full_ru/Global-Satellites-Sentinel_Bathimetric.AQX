@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="468350">
-        <name>Sentinel Bathimetric</name>
+        <name>Sentinel - Подводный (Bathimetric)</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>

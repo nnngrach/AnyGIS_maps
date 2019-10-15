@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="468021">
-        <name>Google Спутник</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -45,7 +45,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468022">
-        <name>Google Спутник (гибрид) RU</name>
+        <name>Google - Гибрид</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -79,7 +79,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468615">
-        <name>Mapbox Спутник</name>
+        <name>Mapbox</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -110,7 +110,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468336">
-        <name>Maxar Premium Imagery</name>
+        <name>Maxar Premium</name>
         <copyright>Maxar</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -166,356 +166,8 @@ Updated: 15-10-2019 00:50
     </source>
 
 
-    <source id="468351">
-        <name>Sentinel Agriculture</name>
-        <copyright>Sentinel</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>SATE</type>
-
-        <preview-location>37.7,56.1,13</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
-            
-            <update-delay>90D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
-                
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="468350">
-        <name>Sentinel Bathimetric</name>
-        <copyright>Sentinel</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>SATE</type>
-
-        <preview-location>37.7,56.1,13</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
-            
-            <update-delay>90D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
-                
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
     <source id="468349">
-        <name>Sentinel Geology</name>
+        <name>Sentinel - Геологический (Geology)</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -682,6 +334,180 @@ Updated: 15-10-2019 00:50
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Geology_proxy/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Geology_proxy/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Geology_proxy/{x}/{y}/{z}]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468352">
+        <name>Sentinel - Городской (False color - Urban)</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -689,7 +515,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468348">
-        <name>Sentinel Moisture index</name>
+        <name>Sentinel - Индекс влажности (Moisture)</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -856,180 +682,6 @@ Updated: 15-10-2019 00:50
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Moisture_proxy/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Moisture_proxy/{x}/{y}/{z}]]></server>
                 <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Moisture_proxy/{x}/{y}/{z}]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="468353">
-        <name>Sentinel NDVI</name>
-        <copyright>Sentinel</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>SATE</type>
-
-        <preview-location>37.7,56.1,13</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
-            
-            <update-delay>90D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
-                
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>
@@ -1037,7 +689,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468347">
-        <name>Sentinel SWIR</name>
+        <name>Sentinel - Инфракрасный индекс (SWIR)</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -1211,7 +863,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468346">
-        <name>Sentinel True Color </name>
+        <name>Sentinel - Натуральные цвета</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -1384,8 +1036,8 @@ Updated: 15-10-2019 00:50
     </source>
 
 
-    <source id="468352">
-        <name>Sentinel Urban</name>
+    <source id="468353">
+        <name>Sentinel - Плотность растительности (NDVI)</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -1402,156 +1054,504 @@ Updated: 15-10-2019 00:50
             <servers>
                 <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
                 
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468350">
+        <name>Sentinel - Подводный (Bathimetric)</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468351">
+        <name>Sentinel - Сельскохозяйственный (Agriculture)</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
 
             </servers>
         </level>

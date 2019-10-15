@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -38,19 +38,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_bike_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_bike_ru.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_bike_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Google_bike_ru.xml]]>
 </dest>
 </download>
 

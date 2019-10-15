@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <providers>
 
 <provider id="19999023" type="0" visible="false" background="-1">
-<name>Глобальные - OSM - Ways</name>
+<name>Глобальные - OSM - Треки</name>
 <mode>OpenSnowMap</mode>
 <countries>World</countries>
 <usage>ski</usage>
@@ -32,7 +32,7 @@ Updated: 15-10-2019 00:50
 </provider>
 
 <provider id="6666001" type="0" visible="true" background="19999023">
-<name>Глобальные - OSM - Ways</name>
+<name>Глобальные - OSM - Треки</name>
 <mode>OpenSnowMap</mode>
 <countries>World</countries>
 <usage>ski</usage>

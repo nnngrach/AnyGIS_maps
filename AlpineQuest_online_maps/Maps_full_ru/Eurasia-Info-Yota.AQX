@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="410737">
-        <name>Yota</name>
+        <name>Зоны покрытия Yota</name>
         
         <data-source></data-source>
         <region>OTHE</region>

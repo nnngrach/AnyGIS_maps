@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="6666203" type="0" visible="true" background="-1">
 <name>Глобальные - OSM</name>
-<mode>Thunderforest Transport</mode>
+<mode>Thunderforest Transport (день)</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

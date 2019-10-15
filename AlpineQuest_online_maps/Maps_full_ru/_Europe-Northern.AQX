@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -223,7 +223,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="11021">
-        <name>Topografisk Norgeskart 4 Hybrid</name>
+        <name>Topografisk Norgeskart 4 - Гибрид</name>
         <copyright>Norgeskart</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -257,7 +257,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="11020">
-        <name>Topografisk Norgeskart 4 Satellite</name>
+        <name>Topografisk Norgeskart 4 - Спутник</name>
         <copyright>Norgeskart</copyright>
         <data-source></data-source>
         <region>OTHE</region>

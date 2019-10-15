@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,10 +11,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM%20-%20Ways.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM%20-%20Треки.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM - Ways.png]]>
+<![CDATA[/mapsOnline/custom/Глобальные - OSM - Треки.png]]>
 </dest>
 </download>
 
@@ -24,15 +24,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Ways-Cyclosm.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
 </dest>
 </download>
 
@@ -65,28 +56,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_All.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_RideAndRun.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
 </dest>
 </download>
 
@@ -101,10 +74,37 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Water.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Water.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_All.xml]]>
 </dest>
 </download>
 

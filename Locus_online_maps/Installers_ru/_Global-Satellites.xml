@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -101,24 +101,6 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Agriculture.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Bathimetric.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Geology.xml]]>
 </source>
 <dest>
@@ -128,19 +110,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Moisture.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Urban.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Moisture.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Urban.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_NDVI.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Moisture.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_NDVI.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Moisture.xml]]>
 </dest>
 </download>
 
@@ -164,10 +146,37 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Urban.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_NDVI.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Urban.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_NDVI.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Bathimetric.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Bathimetric.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Sentinel_Agriculture.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Sentinel_Agriculture.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Kosmosnimki.xml]]>
 </dest>
 </download>
 
@@ -195,15 +204,6 @@ Updated: 15-10-2019 00:50
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Kosmosnimki.xml]]>
 </dest>
 </download>
 

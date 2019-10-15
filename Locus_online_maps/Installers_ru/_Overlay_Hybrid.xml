@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -20,6 +20,96 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Ersi_admin_labels.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Ersi_admin_labels.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Google.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Google.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapbox.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapbox.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapsurfer_admin_labels.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_admin_labels.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Public_Transport.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Public_Transport.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenFireMap.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenFireMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay_signals.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_signals.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay_speed.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_speed.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
 </source>
 <dest>
@@ -29,10 +119,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_black.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_white.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_black.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_white.xml]]>
 </dest>
 </download>
 
@@ -47,10 +137,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_white.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_black.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_white.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_black.xml]]>
 </dest>
 </download>
 
@@ -146,19 +236,19 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-RosReestr.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-RosReestr.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-RosReestr.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-RosReestr.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
 </dest>
 </download>
 

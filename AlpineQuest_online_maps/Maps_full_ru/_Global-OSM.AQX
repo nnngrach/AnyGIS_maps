@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -192,7 +192,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="6666212">
-        <name>Refuges.info Горные приюты</name>
+        <name>Refuges.info - Горные приюты</name>
         <copyright>OpenStreetMap, Refuges.info </copyright>
         <data-source></data-source>
         <region>WRLD</region>

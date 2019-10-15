@@ -3,15 +3,15 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
-<onlinemapsource uid="468356">
-<name>Garmin.ru (navicom) (GLOBALCITY)</name>
-<url><![CDATA[http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{$x};{$y};{$z};]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
-<minzoom>4</minzoom>
+<onlinemapsource uid="468323">
+<name>Bing Map (GLOBALCITY)</name>
+<url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
+<servers>1,2,3</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -51,11 +51,11 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468354">
-<name>TomTom Day (GLOBALCITY)</name>
-<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
-<servers>a,b,c,d</servers>
-<maxzoom>18</maxzoom>
+<onlinemapsource uid="117594">
+<name>Here Map (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -66,9 +66,9 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468355">
-<name>TomTom Night (GLOBALCITY)</name>
-<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
+<onlinemapsource uid="468354">
+<name>TomTom Day (GLOBALCITY)</name>
+<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
@@ -85,21 +85,6 @@ Updated: 15-10-2019 00:50
 <name>Bing Bird's Eye (GLOBALSATELLITES)</name>
 <url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468610">
-<name>ESRI World Imagenary (GLOBALSATELLITES)</name>
-<url><![CDATA[https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{$z}/{$y}/{$x}]]></url>
-<servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -141,17 +126,17 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468615">
-<name>Mapbox Satellite (GLOBALSATELLITES)</name>
-<url><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></url>
-<servers>a,b,c</servers>
-<maxzoom>17</maxzoom>
+<onlinemapsource uid="468334">
+<name>Maxar Premium Imagery (GLOBALSATELLITES)</name>
+<url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop></yop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -160,21 +145,6 @@ Updated: 15-10-2019 00:50
 <name>Yandex Satellite (GLOBALSATELLITES)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
 <servers>1,2,3,4</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468331">
-<name>Yandex Satellite (proxy) (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_referer/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORELIPSOIDAL</projection>
@@ -246,6 +216,21 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="6666017">
+<name>Mapy Winter (GLOBALOSMWAYS)</name>
+<url><![CDATA[https://m{$s}.mapserver.mapy.cz/winter-m/{$z}-{$x}-{$y}]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="410016">
 <name>OpenBusMap (Opnvkarte.de) (GLOBALOSMWAYS)</name>
 <url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
@@ -296,21 +281,6 @@ Updated: 15-10-2019 00:50
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="412040">
-<name>Wikimapia.org (GLOBALINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Wikimapia/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -381,6 +351,36 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="8888657">
+<name>Mapsurfer Hybrid (OVERLAYHYBRID)</name>
+<url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>13</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888062">
+<name>OSM Public Transport (OVERLAYHYBRID)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="8888017">
 <name>OpenSnowMap Pistes (OVERLAYHYBRID)</name>
 <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
@@ -441,51 +441,6 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888082">
-<name>Waymarkedtrails.org - Riding (OVERLAYHYBRID)</name>
-<url><![CDATA[http://tile.waymarkedtrails.org/riding/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>3</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888081">
-<name>Waymarkedtrails.org - Skating (OVERLAYHYBRID)</name>
-<url><![CDATA[http://tile.waymarkedtrails.org/skating/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>3</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888083">
-<name>Waymarkedtrails.org - Slopes (OVERLAYHYBRID)</name>
-<url><![CDATA[http://tile.waymarkedtrails.org/slopes/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>3</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888027">
 <name>Wikimapia.org (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
@@ -501,10 +456,25 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888018">
-<name>Here Traffic (OVERLAYTRAFFIC)</name>
-<url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
-<servers></servers>
+<onlinemapsource uid="8888019">
+<name>Yandex Labels (OVERLAYHYBRID)</name>
+<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=ru_RU]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888071">
+<name>Bing Traffic (OVERLAYTRAFFIC)</name>
+<url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>
+<servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -516,10 +486,25 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888076">
-<name>Here Traffic Flow (OVERLAYTRAFFIC)</name>
-<url><![CDATA[https://{$s}.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
-<servers>1,2,3,4</servers>
+<onlinemapsource uid="8888016">
+<name>Google Traffic (OVERLAYTRAFFIC)</name>
+<url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={$x}&y={$y}&z={$z}&scale=1]]></url>
+<servers>0,1,2,3</servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888018">
+<name>Here Traffic (OVERLAYTRAFFIC)</name>
+<url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+<servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -546,13 +531,13 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888079">
-<name>TomTom Incidents (OVERLAYTRAFFIC)</name>
-<url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
-<servers>a,b,c,d</servers>
-<maxzoom>18</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
+<onlinemapsource uid="8888015">
+<name>Yandex Traffic (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>
 <xop></xop>
@@ -666,11 +651,26 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="8888652">
+<name>Hillshade Mapbox (contour lines) (OVERLAYRELIEF)</name>
+<url><![CDATA[https://api.mapbox.com/styles/v1/gaubrouter/cjzfrm6l50yaq1cph8d2ta985/tiles/256/{$z}/{$x}/{$y}?access_token=pk.eyJ1IjoiZ2F1YnJvdXRlciIsImEiOiJjanpmcmZ6czIwZXpuM2VvNXo0Zms2bTNtIn0.-2gVR7xRkdm74S5-vClw4g]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="8888651">
 <name>Hillshade Openmapsurfer (OVERLAYRELIEF)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
-<maxzoom>19</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -681,45 +681,15 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888041">
-<name>Hillshade Waymarkedtrails.org (OVERLAYRELIEF)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="8888059">
+<name>OpenSeaMap (OVERLAYNAUTICAL)</name>
+<url><![CDATA[http://tiles.openseamap.org/seamark/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888042">
-<name>Hillshade Windy.com (OVERLAYRELIEF)</name>
-<url><![CDATA[https://tiles.windy.com/tiles/v8.1/darkmap/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>11</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888058">
-<name>Hillshade WmfLabs.org (OVERLAYRELIEF)</name>
-<url><![CDATA[https://tiles.wmflabs.org/hillshading/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

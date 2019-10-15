@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 15-10-2019 00:50
 <providers>
 
 <provider id="219999045" type="0" visible="false" background="-1">
-<name>Глобальные - OSM - Ways</name>
-<mode>Strava Heatmap - Ride + Run</mode>
+<name>Глобальные - OSM - Треки</name>
+<mode>Strava Heatmap - Бег и Велоспорт</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -28,8 +28,8 @@ Updated: 15-10-2019 00:50
 </provider>
 
 <provider id="6666021" type="0" visible="true" background="219999045">
-<name>Глобальные - OSM - Ways</name>
-<mode>Strava Heatmap - Ride + Run</mode>
+<name>Глобальные - OSM - Треки</name>
+<mode>Strava Heatmap - Бег и Велоспорт</mode>
 <countries>World</countries>
 <usage>cycle</usage>
 <cacheTimeout>720</cacheTimeout>

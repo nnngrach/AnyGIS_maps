@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="20401" type="0" visible="true" background="-1">
 <name>США</name>
-<mode>USGS National Map - Satellite</mode>
+<mode>USGS National Map - Спутник</mode>
 <countries>USA</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
 <customMapSource>
-<name>Strava Heatmap - Winter</name>
+<name>Strava Heatmap - Зимний спорт</name>
 <layers>
 
 <layer>

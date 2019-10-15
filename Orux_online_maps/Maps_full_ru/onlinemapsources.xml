@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 <onlinemapsource uid="468060">
@@ -22,7 +22,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468323">
-<name>Bing Карта (GLOBALCITY)</name>
+<name>Bing (GLOBALCITY)</name>
 <url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -36,23 +36,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468030">
-<name>Google Bike RU (GLOBALCITY)</name>
-<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=ru&scale=1]]></url>
-<servers>0,1,2,3</servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="468020">
-<name>Google Карта RU (GLOBALCITY)</name>
+<name>Google RU (GLOBALCITY)</name>
 <url><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -66,8 +51,23 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="468030">
+<name>Google Велодорожки (GLOBALCITY)</name>
+<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=ru&scale=1]]></url>
+<servers>0,1,2,3</servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="117593">
-<name>Google Ландшафт RU (GLOBALCITY)</name>
+<name>Google Ландшафт (GLOBALCITY)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -82,7 +82,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468028">
-<name>Google Транзит RU (GLOBALCITY)</name>
+<name>Google Транзит (GLOBALCITY)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={$x}&y={$y}&z={$z}&hl=ru&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -97,7 +97,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="117594">
-<name>Here Карта (GLOBALCITY)</name>
+<name>Here (GLOBALCITY)</name>
 <url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -127,7 +127,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468354">
-<name>TomTom День (GLOBALCITY)</name>
+<name>TomTom (день) (GLOBALCITY)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -142,7 +142,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468355">
-<name>TomTom Ночь (GLOBALCITY)</name>
+<name>TomTom (ночь) (GLOBALCITY)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -157,7 +157,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468080">
-<name>Yandex Карта (GLOBALCITY)</name>
+<name>Яндекс (GLOBALCITY)</name>
 <url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&scale=1&lang=ru-RU]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -172,7 +172,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468330">
-<name>Yandex Карта (proxy) (GLOBALCITY)</name>
+<name>Яндекс (proxy) (GLOBALCITY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_map_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -187,7 +187,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468083">
-<name>Yandex Народная (GLOBALCITY)</name>
+<name>Яндекс Народная (GLOBALCITY)</name>
 <url><![CDATA[https://0{$s}.core-nmaps-renderer-nmaps.maps.yandex.net/?x={$x}&y={$y}&z={$z}&l=mpmap&sl=104,210342,210370,211777,211818,211939,211993,212015,212019,212026,212032,212081,212216,300024,300026,300198,300270,300292,300330,300337,300344,300351,300358,300365,300372,300379,300386,300393,300400,300406,300407,300468,300472,300523,300641,300651,300661,300683,300931,300939,300954,300969,300993,301050,301084,301125,301135,301155,301164,301183,301275,301383,301388,301494,301501,301520,301596,301676,301685,301700,301773,302053,302080,302089,302090,302107,302526,5300026,5400032,5400052,5400061,700010001,700010157,701302007,70300160,70300190,70300482,70300613,70300627&token=1534368522:170042125:core.1534368522:169099502:social]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>22</maxzoom>
@@ -232,7 +232,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468610">
-<name>ESRI World Imagenary (GLOBALSATELLITES)</name>
+<name>ESRI (GLOBALSATELLITES)</name>
 <url><![CDATA[https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -247,7 +247,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468021">
-<name>Google Спутник (GLOBALSATELLITES)</name>
+<name>Google (GLOBALSATELLITES)</name>
 <url><![CDATA[http://mt.google.com/vt/lyrs=s@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -262,7 +262,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468022">
-<name>Google Спутник (гибрид) RU (GLOBALSATELLITES)</name>
+<name>Google - Гибрид (GLOBALSATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -277,7 +277,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468605">
-<name>Here Спутник (GLOBALSATELLITES)</name>
+<name>Here (GLOBALSATELLITES)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -292,7 +292,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468615">
-<name>Mapbox Спутник (GLOBALSATELLITES)</name>
+<name>Mapbox (GLOBALSATELLITES)</name>
 <url><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
@@ -307,7 +307,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468334">
-<name>Maxar Premium Imagery (GLOBALSATELLITES)</name>
+<name>Maxar Premium (GLOBALSATELLITES)</name>
 <url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -322,7 +322,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468333">
-<name>Maxar Standard Imagery (GLOBALSATELLITES)</name>
+<name>Maxar Standard (GLOBALSATELLITES)</name>
 <url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=d9c5e3ef-6300-4cec-9562-c1f27da6b2d9 ]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -336,38 +336,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468343">
-<name>Sentinel Agriculture (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Agriculture/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468342">
-<name>Sentinel Bathimetric (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Bathimetric/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="468341">
-<name>Sentinel Geology (GLOBALSATELLITES)</name>
+<name>Sentinel - Геологический (Geology) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_Geology/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -381,8 +351,23 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="468344">
+<name>Sentinel - Городской (False color - Urban) (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Urban/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="468340">
-<name>Sentinel Moisture index (GLOBALSATELLITES)</name>
+<name>Sentinel - Индекс влажности (Moisture) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_Moisture/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -396,23 +381,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468345">
-<name>Sentinel NDVI (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_NDVI/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="468339">
-<name>Sentinel SWIR (GLOBALSATELLITES)</name>
+<name>Sentinel - Инфракрасный индекс (SWIR) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_SWIR/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -427,7 +397,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468338">
-<name>Sentinel True Color  (GLOBALSATELLITES)</name>
+<name>Sentinel - Натуральные цвета (Natural color) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -441,9 +411,9 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468344">
-<name>Sentinel Urban (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Urban/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="468345">
+<name>Sentinel - Плотность растительности (NDVI) (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_NDVI/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -456,8 +426,53 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="468342">
+<name>Sentinel - Подводный (Bathimetric) (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Bathimetric/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468343">
+<name>Sentinel - Сельскохозяйственный (Agriculture) (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Agriculture/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468326">
+<name>Космоснимки.ру (GLOBALSATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Kosmosnimki_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="468081">
-<name>Yandex Спутник (GLOBALSATELLITES)</name>
+<name>Яндекс (GLOBALSATELLITES)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -472,23 +487,8 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="468331">
-<name>Yandex Спутник (proxy) (GLOBALSATELLITES)</name>
+<name>Яндекс (proxy) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_referer/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468326">
-<name>Космоснимки.ру (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Kosmosnimki_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -592,7 +592,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="6666003">
-<name>Mapnik (PROXY) (GLOBALOSM)</name>
+<name>Mapnik (proxy) (GLOBALOSM)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -682,7 +682,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="6666212">
-<name>Refuges.info Горные приюты (GLOBALOSM)</name>
+<name>Refuges.info - Горные приюты (GLOBALOSM)</name>
 <url><![CDATA[https://maps.refuges.info/hiking/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -712,7 +712,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="6666203">
-<name>Thunderforest Transport (GLOBALOSM)</name>
+<name>Thunderforest Transport (день) (GLOBALOSM)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -727,7 +727,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="6666006">
-<name>Thunderforest Transport Dark (GLOBALOSM)</name>
+<name>Thunderforest Transport (ночь) (GLOBALOSM)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport-dark/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -1822,7 +1822,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410730">
-<name>Tele2 (EURASIAINFO)</name>
+<name>Зоны покрытия Tele2 (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1837,7 +1837,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410720">
-<name>Yota (EURASIAINFO)</name>
+<name>Зоны покрытия Yota (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1852,7 +1852,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410739">
-<name>Билайн (EURASIAINFO)</name>
+<name>Зоны покрытия Билайн (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Beeline_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1867,7 +1867,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410700">
-<name>МТС (EURASIAINFO)</name>
+<name>Зоны покрытия МТС (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1882,7 +1882,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410710">
-<name>Мегафон (EURASIAINFO)</name>
+<name>Зоны покрытия Мегафон (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1897,7 +1897,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410742">
-<name>Ростелком (EURASIAINFO)</name>
+<name>Зоны покрытия Ростелком (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -1912,7 +1912,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="410745">
-<name>Тинькофф (EURASIAINFO)</name>
+<name>Зоны покрытия Тинькофф (EURASIAINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
@@ -2346,113 +2346,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="10804">
-<name>Ukraine - Meta.ua (EUROPEEASTERN)</name>
-<url><![CDATA[http://i1.map.meta.ua/cell.php?x={$x}&y={$y}&scale={$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10805">
-<name>Ukraine - Navlux (EUROPEEASTERN)</name>
-<url><![CDATA[http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10009">
-<name>Ukraine - Visicom (EUROPEEASTERN)</name>
-<url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
-<servers>0,1,2,3</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10811">
-<name>Ukraine - Кадастр Генштаб 1км (EUROPEEASTERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Genshtab/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10812">
-<name>Ukraine - Кадастр Карта (EUROPEEASTERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10810">
-<name>Ukraine - Кадастр Спутник (EUROPEEASTERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="10808">
-<name>Ukraine - Кадастровые границы (EUROPEEASTERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="5555023">
-<name>Беларусь LatLon.org (EUROPEEASTERN)</name>
+<name>Беларусь - LatLon.org (EUROPEEASTERN)</name>
 <url><![CDATA[http://tile.latlon.org/tiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2467,7 +2362,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="5555021">
-<name>Беларусь Генштаб (EURASIAIHYSTORYC)</name>
+<name>Беларусь - Генштаб (EURASIAIHYSTORYC)</name>
 <url><![CDATA[https://globus.tut.by/.tiles/ev/Z{$z}/{$y}/{$x}.png]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -2477,6 +2372,111 @@ Updated: 15-10-2019 00:50
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10804">
+<name>Украина - Meta.ua (EUROPEEASTERN)</name>
+<url><![CDATA[http://i1.map.meta.ua/cell.php?x={$x}&y={$y}&scale={$z}]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10805">
+<name>Украина - Navlux (EUROPEEASTERN)</name>
+<url><![CDATA[http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10009">
+<name>Украина - Visicom (EUROPEEASTERN)</name>
+<url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
+<servers>0,1,2,3</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10811">
+<name>Украина - Кадастр Генштаб 1км (EUROPEEASTERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Genshtab/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10812">
+<name>Украина - Кадастр Карта (EUROPEEASTERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10810">
+<name>Украина - Кадастр Спутник (EUROPEEASTERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="10808">
+<name>Украина - Кадастровые границы (EUROPEEASTERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -2512,7 +2512,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="11004">
-<name>Eniro Sjökort (Nautical) (EUROPENORTHERN)</name>
+<name>Eniro Sjökort - Морская (EUROPENORTHERN)</name>
 <url><![CDATA[http://map0{$s}.eniro.no/geowebcache/service/tms1.0.0/nautical/{$z}/{$x}/{$y}.png]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>22</maxzoom>
@@ -2676,9 +2676,9 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="11016">
-<name>Norway topomap UT.no Summer trails (EUROPENORTHERN)</name>
-<url><![CDATA[https://tilesprod.ut.no/tilestache/dnt_sommer/{$z}/{$x}/{$y}.png]]></url>
+<onlinemapsource uid="11017">
+<name>Norway topomap UT.no - Зимние тропы (EUROPENORTHERN)</name>
+<url><![CDATA[https://tilesprod.ut.no/tilestache/dnt_vinter/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2691,9 +2691,9 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="11017">
-<name>Norway topomap UT.no Winter trails (EUROPENORTHERN)</name>
-<url><![CDATA[https://tilesprod.ut.no/tilestache/dnt_vinter/{$z}/{$x}/{$y}.png]]></url>
+<onlinemapsource uid="11016">
+<name>Norway topomap UT.no - Летние тропы (EUROPENORTHERN)</name>
+<url><![CDATA[https://tilesprod.ut.no/tilestache/dnt_sommer/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2737,7 +2737,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="11021">
-<name>Topografisk Norgeskart 4 Hybrid (EUROPENORTHERN)</name>
+<name>Topografisk Norgeskart 4 - Гибрид (EUROPENORTHERN)</name>
 <url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/norhybrid/{$z}/{$x}/{$y}.png]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>21</maxzoom>
@@ -2752,7 +2752,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="11020">
-<name>Topografisk Norgeskart 4 Satellite (EUROPENORTHERN)</name>
+<name>Topografisk Norgeskart 4 - Спутник (EUROPENORTHERN)</name>
 <url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/norortho/{$z}/{$x}/{$y}.png]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>21</maxzoom>
@@ -2872,7 +2872,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="20401">
-<name>USGS National Map - Satellite (USA)</name>
+<name>USGS National Map - Спутник (USA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryOnly/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -2887,7 +2887,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="20402">
-<name>USGS National Map - Satellite Plus (USA)</name>
+<name>USGS National Map - Спутник Плюс (USA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryTopo/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -2902,7 +2902,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="20400">
-<name>USGS National Map - Topo (USA)</name>
+<name>USGS National Map - Топокарта (USA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -2932,7 +2932,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888659">
-<name>ERSI Административные границы (OVERLAYHYBRID)</name>
+<name>ERSI - Административные границы (OVERLAYHYBRID)</name>
 <url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{$z}/{$y}/{$x}.jpg ]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2947,7 +2947,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888077">
-<name>Google Гибрид (OVERLAYHYBRID)</name>
+<name>Google - Гибрид (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Google_labels/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -2962,7 +2962,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888068">
-<name>Mapbox Гибрид (OVERLAYHYBRID)</name>
+<name>Mapbox - Гибрид (OVERLAYHYBRID)</name>
 <url><![CDATA[http://{$s}.tiles.mapbox.com/v4/openstreetmap.map-inh76ba2/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJjaml5MjVyb3MwMWV0M3hxYmUzdGdwbzE4In0.q548FjhsSJzvXsGlPsFxAQ]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>22</maxzoom>
@@ -2977,7 +2977,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888658">
-<name>Mapsurfer Административные границы (OVERLAYHYBRID)</name>
+<name>Mapsurfer - Административные границы (OVERLAYHYBRID)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/adminb/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2992,7 +2992,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888657">
-<name>Mapsurfer Гибрид (OVERLAYHYBRID)</name>
+<name>Mapsurfer - Гибрид (OVERLAYHYBRID)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -3007,7 +3007,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888062">
-<name>OSM Общественный транспорт (OVERLAYHYBRID)</name>
+<name>OSM - Общественный транспорт (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3037,7 +3037,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888654">
-<name>OpenRailWay Инфраструктура (OVERLAYHYBRID)</name>
+<name>OpenRailWay - Инфраструктура (OVERLAYHYBRID)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/standard/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -3052,7 +3052,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888656">
-<name>OpenRailWay Сигнализация (OVERLAYHYBRID)</name>
+<name>OpenRailWay - Сигнализация (OVERLAYHYBRID)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/signals/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -3067,7 +3067,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888655">
-<name>OpenRailWay Скоростной режим (OVERLAYHYBRID)</name>
+<name>OpenRailWay - Скоростной режим (OVERLAYHYBRID)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/maxspeed/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -3081,23 +3081,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888020">
-<name>OpenSeaMap Морской траффик (OVERLAYNAUTICAL)</name>
-<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>0</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888017">
-<name>OpenSnowMap Лыжные трассы (OVERLAYHYBRID)</name>
+<name>OpenSnowMap - Лыжные трассы (OVERLAYHYBRID)</name>
 <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3112,7 +3097,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888022">
-<name>Tile Grid (gray) (OVERLAYHYBRID)</name>
+<name>TMS Тайловая сетка - Серая (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -3127,7 +3112,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888660">
-<name>TomTom Гибрид (день) (OVERLAYHYBRID)</name>
+<name>TomTom - Гибрид (день) (OVERLAYHYBRID)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -3142,7 +3127,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888661">
-<name>TomTom Гибрид (ночь) (OVERLAYHYBRID)</name>
+<name>TomTom - Гибрид (ночь) (OVERLAYHYBRID)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -3247,7 +3232,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888029">
-<name>Wigle.net Wi-fi location (OVERLAYHYBRID)</name>
+<name>Wigle.net - Точки Wi-fi (OVERLAYHYBRID)</name>
 <url><![CDATA[http://wigle.net/tile?tileX={$x}&tileY={$y}&tileZoom={$z}&coloring=density]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3276,21 +3261,6 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888019">
-<name>Yandex Гибрид (OVERLAYHYBRID)</name>
-<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=ru_RU]]></url>
-<servers>1,2,3,4</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888028">
 <name>РосРеестр - Кадастровые границы (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
@@ -3306,8 +3276,23 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="8888019">
+<name>Яндекс - Гибрид (OVERLAYHYBRID)</name>
+<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=ru_RU]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="8888653">
-<name>Яндекс Гибрид Народная (OVERLAYHYBRID)</name>
+<name>Яндекс - Гибрид Народная (OVERLAYHYBRID)</name>
 <url><![CDATA[https://0{$s}.core-nmaps-renderer-nmaps.maps.yandex.net/?x={$x}&y={$y}&z={$z}&l=mpskl&sl=104,210342,210370,210416,211777,211818,2118180,211939,211977,211993,212015,212017,212019,212026,212032,212053,212081,212094,212216,300024,300026,300170,300198,300207,300224,300231,300270,300292,300330,300337,300344,300351,300358,300365,300372,300379,300386,300393,300400,300406,300407,300447,300468,300472,300523,300641,300651,300661,300671,300683,300931,300939,300954,300969,300993,301050,301084,301125,301135,301142,301338,301352,301360,301596,301701,302053,302080,302089,302090,302107,302526,5300026,5400046,5400051,5400060,5400076,700010001,700010157,70300160,70300190,70300482,70300603,70300608,70300627&token=]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -3322,7 +3307,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888071">
-<name>Bing Пробки (OVERLAYTRAFFIC)</name>
+<name>Bing (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -3337,7 +3322,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888016">
-<name>Google Пробки (OVERLAYTRAFFIC)</name>
+<name>Google (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -3352,7 +3337,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888018">
-<name>Here Пробки (OVERLAYTRAFFIC)</name>
+<name>Here (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3367,7 +3352,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888076">
-<name>Here Пробки (Поток) (OVERLAYTRAFFIC)</name>
+<name>Here - Поток (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://{$s}.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -3397,7 +3382,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888079">
-<name>TomTom Дорожная обстановка (OVERLAYTRAFFIC)</name>
+<name>TomTom - Дорожная обстановка (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -3412,7 +3397,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888015">
-<name>Yandex Пробки (OVERLAYTRAFFIC)</name>
+<name>Яндекс (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3427,7 +3412,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888056">
-<name>Yandex Пробки (proxy) (OVERLAYTRAFFIC)</name>
+<name>Яндекс (proxy) (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3441,188 +3426,8 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888650">
-<name>OpenStreetMap GPS Tracks (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
-<servers>a,b,c</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888031">
-<name>Strava Heatmap - All (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888043">
-<name>Strava Heatmap - All (Bluered) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888032">
-<name>Strava Heatmap - Ride (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888044">
-<name>Strava Heatmap - Ride (Bluered) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888033">
-<name>Strava Heatmap - Run (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888045">
-<name>Strava Heatmap - Run (Bluered) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888072">
-<name>Strava Heatmap - Run and Ride (beta) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888034">
-<name>Strava Heatmap - Water (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888046">
-<name>Strava Heatmap - Water (Bluered) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888035">
-<name>Strava Heatmap - Winter (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888047">
-<name>Strava Heatmap - Winter (Bluered) (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888069">
-<name>Yandex Интенсивность (OVERLAYGPSTRACKS)</name>
+<name>Яндекс - Интенсивность (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_intensity_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
@@ -3637,12 +3442,192 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888070">
-<name>Yandex Направления (OVERLAYGPSTRACKS)</name>
+<name>Яндекс - Направления (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_direction_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888650">
+<name>OpenStreetMap - GPS Треки (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888033">
+<name>Strava Heatmap - Бег (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888045">
+<name>Strava Heatmap - Бег (сине-красный) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888032">
+<name>Strava Heatmap - Велоспорт (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888044">
+<name>Strava Heatmap - Велоспорт (сине-красный) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888072">
+<name>Strava Heatmap - Велоспорт и Бег (beta) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888034">
+<name>Strava Heatmap - Водный спорт (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888046">
+<name>Strava Heatmap - Водный спорт (сине-красный) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888031">
+<name>Strava Heatmap - Все слои (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888043">
+<name>Strava Heatmap - Все слои (сине-красный) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888035">
+<name>Strava Heatmap - Зимний спорт (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888047">
+<name>Strava Heatmap - Зимний спорт (сине-красный) (OVERLAYGPSTRACKS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
@@ -3670,7 +3655,7 @@ Updated: 15-10-2019 00:50
 <name>Рельеф Openmapsurfer (OVERLAYRELIEF)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
-<maxzoom>19</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3742,7 +3727,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888061">
-<name>Garmin MarineImages (Снимки сонара) (OVERLAYNAUTICAL)</name>
+<name>Garmin MarineImages - Снимки сонара (OVERLAYNAUTICAL)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Garmin_MarineImages/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -3802,7 +3787,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8888060">
-<name>OpenSeaMap Карта глубин (OVERLAYNAUTICAL)</name>
+<name>OpenSeaMap - Карта глубин (OVERLAYNAUTICAL)</name>
 <url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3816,8 +3801,23 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="8888020">
+<name>OpenSeaMap - Морской траффик (OVERLAYNAUTICAL)</name>
+<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="8899000">
-<name>OverpassTurbo: Гравийные дорожки для бега (OVERPASS)</name>
+<name>OverpassTurbo - Гравийные дорожки для бега (OVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_GravelRunTrails/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3832,7 +3832,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8899001">
-<name>OverpassTurbo: Мусорные баки (OVERPASS)</name>
+<name>OverpassTurbo - Мусорные баки (OVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Waste/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3847,7 +3847,7 @@ Updated: 15-10-2019 00:50
 </onlinemapsource>
 
 <onlinemapsource uid="8899002">
-<name>OverpassTurbo: Питьевая вода (OVERPASS)</name>
+<name>OverpassTurbo - Питьевая вода (OVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>

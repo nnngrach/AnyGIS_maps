@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="10808" type="1" visible="true" background="-1">
 <name>Европа - Восточная</name>
-<mode>Ukraine - Кадастровые границы</mode>
+<mode>Украина - Кадастровые границы</mode>
 <countries>Ukraine</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

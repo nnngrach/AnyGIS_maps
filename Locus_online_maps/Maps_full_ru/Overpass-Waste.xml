@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="8899001" type="0" visible="true" background="-1">
 <name>Overpass</name>
-<mode>OverpassTurbo: Мусорные баки</mode>
+<mode>OverpassTurbo - Мусорные баки</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

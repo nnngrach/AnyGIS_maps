@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="8888071">
-        <name>Bing Пробки</name>
+        <name>Bing</name>
         <copyright>Bing</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -42,7 +42,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="8888016">
-        <name>Google Пробки</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -76,7 +76,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="8888057">
-        <name>Google Пробки</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -110,7 +110,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="8888018">
-        <name>Here Пробки</name>
+        <name>Here</name>
         <copyright>Here</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -133,7 +133,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="8888076">
-        <name>Here Пробки (Поток)</name>
+        <name>Here - Поток</name>
         <copyright>Here</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -201,7 +201,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="8888079">
-        <name>TomTom Дорожная обстановка</name>
+        <name>TomTom - Дорожная обстановка</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>

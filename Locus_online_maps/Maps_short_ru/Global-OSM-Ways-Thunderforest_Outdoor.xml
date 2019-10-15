@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <providers>
 
 <provider id="6666204" type="0" visible="true" background="-1">
-<name>Глобальные - OSM - Ways</name>
+<name>Глобальные - OSM - Треки</name>
 <mode>Thunderforest Outdoor</mode>
 <countries>World</countries>
 <usage>hiking,ski</usage>

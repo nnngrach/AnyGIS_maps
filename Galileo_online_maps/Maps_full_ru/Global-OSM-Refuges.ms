@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
 <customMapSource>
-<name>Refuges.info Горные приюты</name>
+<name>Refuges.info - Горные приюты</name>
 <layers>
 
 <layer>

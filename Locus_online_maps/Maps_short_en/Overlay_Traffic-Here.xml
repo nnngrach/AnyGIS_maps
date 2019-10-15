@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -10,14 +10,14 @@ Updated: 15-10-2019 00:50
 
 <providers>
 
-<provider id="8888076" type="0" visible="true" background="-1">
+<provider id="8888018" type="0" visible="true" background="-1">
 <name>Overlay - Traffic</name>
-<mode>Here Traffic Flow</mode>
+<mode>Here Traffic</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>0</cacheTimeout>
-<url><![CDATA[https://{s}.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/{ts}/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
-<serverPart>1;2;3;4</serverPart>
+<url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{z}/{x}/{y}/{ts}/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
+<serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>27</zoomMax>   <!-- 19 -->

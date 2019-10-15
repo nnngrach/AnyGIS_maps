@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="10810" type="1" visible="true" background="-1">
 <name>Европа - Восточная</name>
-<mode>Ukraine - Кадастр Спутник</mode>
+<mode>Украина - Кадастр Спутник</mode>
 <countries>Ukraine</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>

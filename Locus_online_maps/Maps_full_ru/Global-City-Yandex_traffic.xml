@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="849999021" type="2" visible="false" background="-1">
 <name>Глобальные - Городские</name>
-<mode>Yandex Пробки</mode>
+<mode>Яндекс Пробки</mode>
 <countries>World</countries>
 <usage>city, road</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -33,7 +33,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="468084" type="2" visible="true" background="849999021">
 <name>Глобальные - Городские</name>
-<mode>Yandex Пробки</mode>
+<mode>Яндекс Пробки</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="8888067">
-        <name>Strava Heatmap - Winter</name>
+        <name>Strava Heatmap - Зимний спорт</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>

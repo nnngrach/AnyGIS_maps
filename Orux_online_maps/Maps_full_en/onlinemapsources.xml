@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 <onlinemapsource uid="468060">
@@ -3111,21 +3111,6 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888020">
-<name>OpenSeaMap Traffic (OVERLAYNAUTICAL)</name>
-<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>0</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888017">
 <name>OpenSnowMap Pistes (OVERLAYHYBRID)</name>
 <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
@@ -3426,6 +3411,36 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="8888070">
+<name>Yandex Directions (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_direction_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888069">
+<name>Yandex Intensity (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_intensity_WGS84/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="8888015">
 <name>Yandex Traffic (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
@@ -3636,36 +3651,6 @@ Updated: 15-10-2019 00:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="8888070">
-<name>Yandex Directions (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_direction_WGS84/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888069">
-<name>Yandex Intensity (OVERLAYGPSTRACKS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_intensity_WGS84/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="8888652">
 <name>Hillshade Mapbox (contour lines) (OVERLAYRELIEF)</name>
 <url><![CDATA[https://api.mapbox.com/styles/v1/gaubrouter/cjzfrm6l50yaq1cph8d2ta985/tiles/256/{$z}/{$x}/{$y}?access_token=pk.eyJ1IjoiZ2F1YnJvdXRlciIsImEiOiJjanpmcmZ6czIwZXpuM2VvNXo0Zms2bTNtIn0.-2gVR7xRkdm74S5-vClw4g]]></url>
@@ -3685,7 +3670,7 @@ Updated: 15-10-2019 00:50
 <name>Hillshade Openmapsurfer (OVERLAYRELIEF)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
-<maxzoom>19</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3804,6 +3789,21 @@ Updated: 15-10-2019 00:50
 <onlinemapsource uid="8888060">
 <name>OpenSeaMap Deep Map (OVERLAYNAUTICAL)</name>
 <url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888020">
+<name>OpenSeaMap Traffic (OVERLAYNAUTICAL)</name>
+<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

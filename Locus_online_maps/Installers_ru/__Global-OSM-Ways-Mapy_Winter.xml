@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM%20-%20Ways.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM%20-%20Треки.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM - Ways.png]]>
+<![CDATA[/mapsOnline/custom/Глобальные - OSM - Треки.png]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="468615">
-        <name>Mapbox Спутник</name>
+        <name>Mapbox</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
         <region>WRLD</region>

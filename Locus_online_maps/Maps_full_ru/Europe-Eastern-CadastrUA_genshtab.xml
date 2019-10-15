@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="10811" type="1" visible="true" background="-1">
 <name>Европа - Восточная</name>
-<mode>Ukraine - Кадастр Генштаб 1км</mode>
+<mode>Украина - Кадастр Генштаб 1км</mode>
 <countries>Ukraine</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

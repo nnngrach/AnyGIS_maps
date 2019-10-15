@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 15-10-2019 00:50
 <description></description>
 
     <source id="468028">
-        <name>Google Транзит RU</name>
+        <name>Google Транзит</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>

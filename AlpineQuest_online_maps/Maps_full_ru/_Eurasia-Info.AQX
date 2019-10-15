@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -36,7 +36,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410736">
-        <name>Tele2</name>
+        <name>Зоны покрытия Tele2</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -61,7 +61,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410737">
-        <name>Yota</name>
+        <name>Зоны покрытия Yota</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -86,7 +86,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410740">
-        <name>Билайн</name>
+        <name>Зоны покрытия Билайн</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -111,7 +111,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410734">
-        <name>МТС</name>
+        <name>Зоны покрытия МТС</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -136,7 +136,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410735">
-        <name>Мегафон</name>
+        <name>Зоны покрытия Мегафон</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -161,7 +161,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410743">
-        <name>Ростелком</name>
+        <name>Зоны покрытия Ростелком</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -186,7 +186,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="410746">
-        <name>Тинькофф</name>
+        <name>Зоны покрытия Тинькофф</name>
         
         <data-source></data-source>
         <region>OTHE</region>

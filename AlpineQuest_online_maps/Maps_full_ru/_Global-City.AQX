@@ -3,49 +3,15 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
 <name>Глобальные - Городские</name>
 <description></description>
 
-    <source id="468030">
-        <name>Google Bike RU</name>
-        <copyright>Google & others</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>TOPO</type>
-
-        <preview-location>8.71374,50.1107,12</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.google.com/maps/]]></referer>
-                
-                <server><![CDATA[http://mt0.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt1.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt2.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-                <server><![CDATA[http://mt3.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
     <source id="468020">
-        <name>Google Карта RU</name>
+        <name>Google RU</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -78,8 +44,42 @@ Updated: 15-10-2019 00:50
     </source>
 
 
+    <source id="468030">
+        <name>Google Велодорожки</name>
+        <copyright>Google & others</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>TOPO</type>
+
+        <preview-location>8.71374,50.1107,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.google.com/maps/]]></referer>
+                
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
     <source id="117593">
-        <name>Google Ландшафт RU</name>
+        <name>Google Ландшафт</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -147,7 +147,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468028">
-        <name>Google Транзит RU</name>
+        <name>Google Транзит</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -181,7 +181,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468354">
-        <name>TomTom День</name>
+        <name>TomTom (день)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -215,7 +215,7 @@ Updated: 15-10-2019 00:50
 
 
     <source id="468355">
-        <name>TomTom Ночь</name>
+        <name>TomTom (ночь)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>

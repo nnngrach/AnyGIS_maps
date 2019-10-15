@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 15-10-2019 00:50
 
 <provider id="11004" type="1" visible="true" background="-1">
 <name>Европа - Северная</name>
-<mode>Eniro Sjökort (Nautical)</mode>
+<mode>Eniro Sjökort - Морская</mode>
 <countries>Norway, Sweden, Denmark</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

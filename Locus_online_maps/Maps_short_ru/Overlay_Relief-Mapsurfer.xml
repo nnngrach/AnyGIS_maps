@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 15-10-2019 00:50
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>27</zoomMax>   <!-- 19 -->
+<zoomMax>22</zoomMax>   <!-- 14 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://qms.nextgis.com/geoservices/2573/]]></extraHeader>

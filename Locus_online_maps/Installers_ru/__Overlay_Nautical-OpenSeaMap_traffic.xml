@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
@@ -20,10 +20,10 @@ Updated: 15-10-2019 00:50
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Надписи%20и%20дороги.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Морские.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Надписи и дороги.png]]>
+<![CDATA[/mapsOnline/custom/Overlay - Морские.png]]>
 </dest>
 </download>
 

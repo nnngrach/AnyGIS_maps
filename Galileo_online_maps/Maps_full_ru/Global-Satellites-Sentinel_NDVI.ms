@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 00:50
+Updated: 15-10-2019 17:36
 -->
 
 
 <customMapSource>
-<name>Sentinel NDVI</name>
+<name>Sentinel - Плотность растительности (NDVI)</name>
 <layers>
 
 <layer>
