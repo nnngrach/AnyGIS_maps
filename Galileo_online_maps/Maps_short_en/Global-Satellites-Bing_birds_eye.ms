@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 17:36
+Updated: 15-10-2019 18:01
 -->
 
 
 <customMapSource>
-<name>Bing Bird's Eye</name>
+<name>Bing Bird's Eye - Satellite</name>
 <layers>
 
 <layer>

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 17:36
+Updated: 15-10-2019 18:01
 -->
 
 
 <customMapSource>
-<name>Google Satellite</name>
+<name>Google Satellite - Satellite</name>
 <layers>
 
 <layer>
