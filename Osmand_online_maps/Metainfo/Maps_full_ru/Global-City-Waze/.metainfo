@@ -3,7 +3,7 @@ http://anygis.ru/api/v1/Waze/{1}/{2}/{0}
 [min_zoom]
 0
 [max_zoom]
-18
+17
 [ellipsoid]
 false
 [tile_size]

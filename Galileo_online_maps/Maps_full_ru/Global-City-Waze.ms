@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 15:47
+Updated: 16-10-2019 20:44
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 15:47
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>18</maxZoom>
+    <maxZoom>17</maxZoom>
     <url>https://anygis.ru/api/v1/Waze/{$x}/{$y}/{$z}</url>
 </layer>
 

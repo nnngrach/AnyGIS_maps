@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 15:47
+Updated: 16-10-2019 20:44
 -->
 
 <onlinemapsource uid="468060">
@@ -175,7 +175,7 @@ Updated: 16-10-2019 15:47
 <name>Waze (GLOBALCITY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Waze/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>18</maxzoom>
+<maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
