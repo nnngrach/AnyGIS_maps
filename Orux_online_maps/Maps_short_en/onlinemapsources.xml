@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 17:36
+Updated: 16-10-2019 15:47
 -->
 
 <onlinemapsource uid="468323">
@@ -448,21 +448,6 @@ Updated: 15-10-2019 17:36
 <maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="8888019">
-<name>Yandex Labels (OVERLAYHYBRID)</name>
-<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=ru_RU]]></url>
-<servers>1,2,3,4</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>

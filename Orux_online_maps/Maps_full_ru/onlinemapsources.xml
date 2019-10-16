@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 17:36
+Updated: 16-10-2019 15:47
 -->
 
 <onlinemapsource uid="468060">
@@ -150,6 +150,21 @@ Updated: 15-10-2019 17:36
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468332">
+<name>Waze Пробки (GLOBALCITY)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Waze/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

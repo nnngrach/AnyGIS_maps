@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 15-10-2019 17:36
+Updated: 16-10-2019 15:47
 -->
 
 
@@ -243,6 +243,29 @@ Updated: 15-10-2019 17:36
                 <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
 
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468332">
+        <name>Waze Пробки</name>
+        <copyright>Waze</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Waze/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
