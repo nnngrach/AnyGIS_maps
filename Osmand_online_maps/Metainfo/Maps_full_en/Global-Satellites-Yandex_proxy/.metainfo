@@ -7,7 +7,7 @@ http://anygis.ru/api/v1/Yandex_sat_clean_WGS84_proxy/{1}/{2}/{0}
 [ellipsoid]
 true
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]
