@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
 <customMapSource>
-<name>Maxar Premium Imagery - Satellite</name>
+<name>Maxar Premium - Satellite</name>
 <layers>
 
 <layer>

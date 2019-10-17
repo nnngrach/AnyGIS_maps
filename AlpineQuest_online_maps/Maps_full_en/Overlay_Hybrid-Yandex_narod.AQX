@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 16-10-2019 20:44
 <description></description>
 
     <source id="8888653">
-        <name>Yandex Map Editor labels</name>
+        <name>Yandex - Map Editor</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

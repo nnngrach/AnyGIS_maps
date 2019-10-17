@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -47,10 +47,10 @@ Updated: 16-10-2019 20:44
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Here.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Here_flow.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here_flow.xml]]>
 </dest>
 </download>
 
@@ -74,24 +74,6 @@ Updated: 16-10-2019 20:44
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex_direcions.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_direcions.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex_intensity.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_intensity.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex.xml]]>
 </source>
 <dest>
@@ -105,6 +87,24 @@ Updated: 16-10-2019 20:44
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_proxy.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex_direcions.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_direcions.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Overlay_Traffic-Yandex_intensity.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_intensity.xml]]>
 </dest>
 </download>
 

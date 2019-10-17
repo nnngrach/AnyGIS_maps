@@ -3,11 +3,11 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 <onlinemapsource uid="468323">
-<name>Bing Map (GLOBALCITY)</name>
+<name>Bing (GLOBALCITY)</name>
 <url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -22,7 +22,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468327">
-<name>Google Map (GLOBALCITY)</name>
+<name>Google (GLOBALCITY)</name>
 <url><![CDATA[https://mt{$s}.google.com/vt/lyrs=m&hl=en&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -52,7 +52,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="117594">
-<name>Here Map (GLOBALCITY)</name>
+<name>Here (GLOBALCITY)</name>
 <url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -67,7 +67,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468354">
-<name>TomTom Day (GLOBALCITY)</name>
+<name>TomTom (day) (GLOBALCITY)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -97,7 +97,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468329">
-<name>Google Satellite + labels (GLOBALSATELLITES)</name>
+<name>Google - Hybrid (GLOBALSATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -112,7 +112,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468605">
-<name>Here Satellite (GLOBALSATELLITES)</name>
+<name>Here (GLOBALSATELLITES)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -127,7 +127,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468334">
-<name>Maxar Premium Imagery (GLOBALSATELLITES)</name>
+<name>Maxar Premium (GLOBALSATELLITES)</name>
 <url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -142,7 +142,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468081">
-<name>Yandex Satellite (GLOBALSATELLITES)</name>
+<name>Yandex (GLOBALSATELLITES)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -337,7 +337,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888068">
-<name>Mapbox labels and trails (OVERLAYHYBRID)</name>
+<name>Mapbox - Hybrid (OVERLAYHYBRID)</name>
 <url><![CDATA[http://{$s}.tiles.mapbox.com/v4/openstreetmap.map-inh76ba2/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJjaml5MjVyb3MwMWV0M3hxYmUzdGdwbzE4In0.q548FjhsSJzvXsGlPsFxAQ]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>22</maxzoom>
@@ -352,7 +352,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888657">
-<name>Mapsurfer Hybrid (OVERLAYHYBRID)</name>
+<name>Mapsurfer - Hybrid (OVERLAYHYBRID)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -367,7 +367,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888062">
-<name>OSM Public Transport (OVERLAYHYBRID)</name>
+<name>OSM - Public Transport (OVERLAYHYBRID)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -382,7 +382,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888017">
-<name>OpenSnowMap Pistes (OVERLAYHYBRID)</name>
+<name>OpenSnowMap - Pistes (OVERLAYHYBRID)</name>
 <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -457,7 +457,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888071">
-<name>Bing Traffic (OVERLAYTRAFFIC)</name>
+<name>Bing (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -472,7 +472,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888016">
-<name>Google Traffic (OVERLAYTRAFFIC)</name>
+<name>Google (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -487,7 +487,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888018">
-<name>Here Traffic (OVERLAYTRAFFIC)</name>
+<name>Here (OVERLAYTRAFFIC)</name>
 <url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -517,7 +517,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888015">
-<name>Yandex Traffic (OVERLAYTRAFFIC)</name>
+<name>Yandex (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -532,7 +532,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="8888650">
-<name>OpenStreetMap GPS Tracks (OVERLAYGPSTRACKS)</name>
+<name>OpenStreetMap - GPS Tracks (OVERLAYGPSTRACKS)</name>
 <url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>19</maxzoom>

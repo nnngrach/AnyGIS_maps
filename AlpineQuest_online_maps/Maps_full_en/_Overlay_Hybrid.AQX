@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
@@ -45,7 +45,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888068">
-        <name>Mapbox labels and trails</name>
+        <name>Mapbox - Hybrid</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -78,29 +78,6 @@ Updated: 16-10-2019 20:44
     </source>
 
 
-    <source id="8888075">
-        <name>OSM Tile Grid</name>
-        <copyright>AnyGIS</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
-
-        <preview-location>37.7,56.1,10</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
-            
-            <update-delay>4166D</update-delay>
-
-            <servers>
-                
-                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
     <source id="8888662">
         <name>OpenFireMap</name>
         <copyright>OpenFireMap</copyright>
@@ -124,8 +101,31 @@ Updated: 16-10-2019 20:44
     </source>
 
 
+    <source id="8888075">
+        <name>TMS Tile Grid - White</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="8888660">
-        <name>TomTom Hybrid Day</name>
+        <name>TomTom - Hybrid (day)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -159,7 +159,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888661">
-        <name>TomTom Hybrid Night</name>
+        <name>TomTom - Hybrid (night)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -354,7 +354,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888653">
-        <name>Yandex Map Editor labels</name>
+        <name>Yandex - Map Editor</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

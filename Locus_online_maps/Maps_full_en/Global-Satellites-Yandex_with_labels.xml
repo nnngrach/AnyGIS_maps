@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="829999018" type="2" visible="false" background="-1">
 <name>Global - Satellites</name>
-<mode>Yandex Satellite + labels</mode>
+<mode>Yandex - Hybrid</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -30,7 +30,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="468082" type="2" visible="true" background="829999018">
 <name>Global - Satellites</name>
-<mode>Yandex Satellite + labels</mode>
+<mode>Yandex - Hybrid</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 16-10-2019 20:44
 <description></description>
 
     <source id="8888071">
-        <name>Bing Traffic</name>
+        <name>Bing</name>
         <copyright>Bing</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -42,7 +42,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888016">
-        <name>Google Traffic</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -76,7 +76,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888057">
-        <name>Google Traffic</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -110,7 +110,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888018">
-        <name>Here Traffic</name>
+        <name>Here</name>
         <copyright>Here</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -133,7 +133,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888076">
-        <name>Here Traffic Flow</name>
+        <name>Here - Flow</name>
         <copyright>Here</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -201,7 +201,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="8888079">
-        <name>TomTom Incidents</name>
+        <name>TomTom - Incidents</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>

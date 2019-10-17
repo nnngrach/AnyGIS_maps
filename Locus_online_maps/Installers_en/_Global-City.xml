@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -47,19 +47,19 @@ Updated: 16-10-2019 20:44
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Google_bike.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Google_map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_bike.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Google_map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Google_map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-Google_bike.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_map.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-Google_bike.xml]]>
 </dest>
 </download>
 
@@ -119,19 +119,19 @@ Updated: 16-10-2019 20:44
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_night.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_night.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-City-TomTom_base_day.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
+<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
 </dest>
 </download>
 

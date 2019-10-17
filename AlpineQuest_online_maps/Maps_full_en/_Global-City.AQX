@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
@@ -28,6 +28,40 @@ Updated: 16-10-2019 20:44
             <servers>
                 <referer><![CDATA[http://www.garmin.ru/maponline/marshruty.php]]></referer>
                 <server><![CDATA[http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{x};{y};{z};]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468327">
+        <name>Google</name>
+        <copyright>Google & others</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.google.com/maps/]]></referer>
+                
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+
             </servers>
         </level>
     </source>
@@ -61,40 +95,6 @@ Updated: 16-10-2019 20:44
                 <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
                 <server><![CDATA[http://mt.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
                 <server><![CDATA[http://mt3.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="468327">
-        <name>Google Map</name>
-        <copyright>Google & others</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>ROAD</type>
-
-        <preview-location>40.1298,43.6064,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.google.com/maps/]]></referer>
-                
-                <server><![CDATA[http://mt0.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt1.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt2.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt3.google.com/vt/lyrs=m&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
 
             </servers>
         </level>
@@ -203,42 +203,8 @@ Updated: 16-10-2019 20:44
     </source>
 
 
-    <source id="468354">
-        <name>TomTom Day</name>
-        <copyright>TomTom</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>ROAD</type>
-
-        <preview-location>40.1298,43.6064,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
-                
-                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-
-            </servers>
-        </level>
-    </source>
-
-
     <source id="468355">
-        <name>TomTom Night</name>
+        <name>TomTom  (night)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -265,6 +231,40 @@ Updated: 16-10-2019 20:44
                 <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="468354">
+        <name>TomTom (day)</name>
+        <copyright>TomTom</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
+                
+                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
 
             </servers>
         </level>

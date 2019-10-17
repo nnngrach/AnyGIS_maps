@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 <onlinemapsource uid="468060">
@@ -37,7 +37,7 @@ Updated: 16-10-2019 20:44
 </onlinemapsource>
 
 <onlinemapsource uid="468020">
-<name>Google RU (GLOBALCITY)</name>
+<name>Google (GLOBALCITY)</name>
 <url><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -503,7 +503,7 @@ Updated: 16-10-2019 20:44
 
 <onlinemapsource uid="468331">
 <name>Яндекс (proxy) (GLOBALSATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_referer/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
 <customMapSource>
-<name>Refuges.info Mountain shelters</name>
+<name>Refuges.info - Mountain shelters</name>
 <layers>
 
 <layer>

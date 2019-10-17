@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="11004" type="1" visible="true" background="-1">
 <name>Europe - Northern</name>
-<mode>Eniro Sjökort (Nautical)</mode>
+<mode>Eniro Sjökort - Nautical</mode>
 <countries>Norway, Sweden, Denmark</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

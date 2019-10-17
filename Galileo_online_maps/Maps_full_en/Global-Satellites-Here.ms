@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
 <customMapSource>
-<name>Here Satellite - Satellite</name>
+<name>Here - Satellite</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:53
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 16-10-2019 20:44
 <description></description>
 
     <source id="468021">
-        <name>Google Satellite</name>
+        <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -45,7 +45,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="468329">
-        <name>Google Satellite + labels</name>
+        <name>Google - Hybrid</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -135,7 +135,7 @@ Updated: 16-10-2019 20:44
 
 
     <source id="468336">
-        <name>Maxar Premium Imagery</name>
+        <name>Maxar Premium</name>
         <copyright>Maxar</copyright>
         <data-source></data-source>
         <region>WRLD</region>

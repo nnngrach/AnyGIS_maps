@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -19,7 +19,7 @@ anygis@bk.ru
 
 <provider id="6666003" type="0" visible="true" background="-1">
 <name>Global - OSM</name>
-<mode>Mapnik (PROXY)</mode>
+<mode>Mapnik (proxy)</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <cacheTimeout>720</cacheTimeout>

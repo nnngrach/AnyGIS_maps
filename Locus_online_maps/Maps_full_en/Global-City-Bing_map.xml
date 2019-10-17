@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="468324" type="5" visible="true" background="-1">
 <name>Global - City</name>
-<mode>Bing Map</mode>
+<mode>Bing</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

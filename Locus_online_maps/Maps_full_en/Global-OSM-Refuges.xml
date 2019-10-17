@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="6666212" type="0" visible="true" background="-1">
 <name>Global - OSM</name>
-<mode>Refuges.info Mountain shelters</mode>
+<mode>Refuges.info - Mountain shelters</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

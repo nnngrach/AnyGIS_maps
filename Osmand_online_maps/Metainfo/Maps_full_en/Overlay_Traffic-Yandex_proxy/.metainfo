@@ -7,7 +7,7 @@ https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{1}/{2}/{0}
 [ellipsoid]
 true
 [tile_size]
-512
+256
 [img_density]
 16
 [avg_img_size]

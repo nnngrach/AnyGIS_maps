@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-10-2019 20:44
+Updated: 17-10-2019 22:54
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-10-2019 20:44
 
 <provider id="8899002" type="0" visible="true" background="-1">
 <name>Overpass</name>
-<mode>OverpassTurbo: Drinking Water</mode>
+<mode>OverpassTurbo - Drinking Water</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
