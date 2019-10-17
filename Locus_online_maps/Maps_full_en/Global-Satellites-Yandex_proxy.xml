@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-10-2019 23:09
+Updated: 17-10-2019 23:16
 -->
 
 
@@ -16,14 +16,15 @@ Updated: 17-10-2019 23:09
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_proxy/{x}/{y}/{z}?locusScale={ts}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_proxy/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
 <zoomMax>27</zoomMax>   <!-- 19 -->
 <tileSize>256</tileSize>
 <tileScales>
-    <tileScale dpi="0" multi="2" replace="" />
+    <tileScale dpi="0" multi="1" replace="1" />
+    <tileScale dpi="320" multi="2" replace="2" />
 </tileScales>
 <extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
