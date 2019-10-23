@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 23-10-2019 20:19
+-->
+
+
+
+
+<providers>
+
+<provider id="468374" type="0" visible="true" background="-1">
+<name>Глобальные - Спутниковые специальные</name>
+<mode>Sentinel - Без обратоток - Сентябрь</mode>
+<countries>World</countries>
+<usage>photo</usage>
+<cacheTimeout>2160</cacheTimeout>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_September/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>24</zoomMax>   <!-- 16 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#https://apps.sentinel-hub.com/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© Sentinel <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

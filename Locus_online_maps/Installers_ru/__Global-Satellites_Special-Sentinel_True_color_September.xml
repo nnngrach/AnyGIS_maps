@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 23-10-2019 20:19
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Спутниковые%20специальные.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые специальные.png]]>
+</dest>
+</download>
+
+</locusActions>
