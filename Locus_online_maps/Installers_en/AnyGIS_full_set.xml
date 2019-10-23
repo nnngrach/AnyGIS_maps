@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 23-10-2019 20:19
+Updated: 23-10-2019 20:34
 -->
 
 
@@ -398,28 +398,10 @@ Updated: 23-10-2019 20:19
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
 </dest>
 </download>
 
@@ -434,37 +416,19 @@ Updated: 23-10-2019 20:19
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_March.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_March.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
 </dest>
 </download>
 
@@ -479,10 +443,37 @@ Updated: 23-10-2019 20:19
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
 </dest>
 </download>
 
@@ -497,10 +488,19 @@ Updated: 23-10-2019 20:19
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
 </dest>
 </download>
 

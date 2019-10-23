@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 23-10-2019 20:18
+Updated: 23-10-2019 20:33
 -->
 
 <onlinemapsource uid="468060">
@@ -502,7 +502,7 @@ Updated: 23-10-2019 20:18
 </onlinemapsource>
 
 <onlinemapsource uid="468338">
-<name>Sentinel True Color  (GLOBALSATELLITESPEC)</name>
+<name>Sentinel True Color - 00 Last version (GLOBALSATELLITESPEC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -516,68 +516,8 @@ Updated: 23-10-2019 20:18
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468369">
-<name>Sentinel True Color - April (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_April/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468373">
-<name>Sentinel True Color - August (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_August/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468377">
-<name>Sentinel True Color - December (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_December/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468367">
-<name>Sentinel True Color - February (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_February/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="468366">
-<name>Sentinel True Color - January (GLOBALSATELLITESPEC)</name>
+<name>Sentinel True Color - 01 January (GLOBALSATELLITESPEC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_January/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -591,24 +531,9 @@ Updated: 23-10-2019 20:18
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468372">
-<name>Sentinel True Color - July (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_July/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468371">
-<name>Sentinel True Color - June (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_June/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="468367">
+<name>Sentinel True Color - 02 February (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_February/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -622,7 +547,7 @@ Updated: 23-10-2019 20:18
 </onlinemapsource>
 
 <onlinemapsource uid="468368">
-<name>Sentinel True Color - March (GLOBALSATELLITESPEC)</name>
+<name>Sentinel True Color - 03 March (GLOBALSATELLITESPEC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_March/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -636,8 +561,23 @@ Updated: 23-10-2019 20:18
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="468369">
+<name>Sentinel True Color - 04 April (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_April/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="468370">
-<name>Sentinel True Color - May (GLOBALSATELLITESPEC)</name>
+<name>Sentinel True Color - 05 May (GLOBALSATELLITESPEC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_May/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -651,9 +591,9 @@ Updated: 23-10-2019 20:18
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468376">
-<name>Sentinel True Color - November (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_November/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="468371">
+<name>Sentinel True Color - 06 June (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_June/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -666,9 +606,24 @@ Updated: 23-10-2019 20:18
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="468375">
-<name>Sentinel True Color - October (GLOBALSATELLITESPEC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_October/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="468372">
+<name>Sentinel True Color - 07 July (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_July/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468373">
+<name>Sentinel True Color - 08 August (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_August/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -682,8 +637,53 @@ Updated: 23-10-2019 20:18
 </onlinemapsource>
 
 <onlinemapsource uid="468374">
-<name>Sentinel True Color - September (GLOBALSATELLITESPEC)</name>
+<name>Sentinel True Color - 09 September (GLOBALSATELLITESPEC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_September/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468375">
+<name>Sentinel True Color - 10 October (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_October/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468376">
+<name>Sentinel True Color - 11 November (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_November/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468377">
+<name>Sentinel True Color - 12 December (GLOBALSATELLITESPEC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_December/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>

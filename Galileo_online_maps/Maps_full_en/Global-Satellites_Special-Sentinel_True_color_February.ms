@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 23-10-2019 20:18
+Updated: 23-10-2019 20:33
 -->
 
 
 <customMapSource>
-<name>Sentinel True Color - February</name>
+<name>Sentinel True Color - 02 February</name>
 <layers>
 
 <layer>

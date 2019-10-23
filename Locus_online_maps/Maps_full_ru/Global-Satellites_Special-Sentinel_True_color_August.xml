@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 23-10-2019 20:19
+Updated: 23-10-2019 20:34
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 23-10-2019 20:19
 
 <provider id="468373" type="0" visible="true" background="-1">
 <name>Глобальные - Спутниковые специальные</name>
-<mode>Sentinel - Без обратоток - Август</mode>
+<mode>Sentinel - Без обратоток - 08 Август</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
