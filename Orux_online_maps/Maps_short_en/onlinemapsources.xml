@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 21:06
+Updated: 24-10-2019 23:33
 -->
 
 <onlinemapsource uid="468323">
@@ -518,7 +518,7 @@ Updated: 24-10-2019 21:06
 
 <onlinemapsource uid="8888015">
 <name>Yandex (OVERLAYTRAFFIC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

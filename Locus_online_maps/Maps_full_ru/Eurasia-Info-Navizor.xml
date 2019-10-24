@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 21:07
+Updated: 24-10-2019 23:34
 -->
 
 
@@ -10,7 +10,7 @@ Updated: 24-10-2019 21:07
 
 <providers>
 
-<provider id="410747" type="2" visible="true" background="-1">
+<provider id="410747" type="0" visible="true" background="-1">
 <name>Евразия - Справочные</name>
 <mode>Navizor - Оценка качества дорог</mode>
 <countries>World</countries>

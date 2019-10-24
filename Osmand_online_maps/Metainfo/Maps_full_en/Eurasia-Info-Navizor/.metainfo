@@ -5,7 +5,7 @@ http://navizor.com:8080/fg/{0}/{1}/{2}.png
 [max_zoom]
 18
 [ellipsoid]
-true
+false
 [tile_size]
 256
 [img_density]

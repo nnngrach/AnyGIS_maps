@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 21:07
+Updated: 24-10-2019 23:33
 -->
 
 
@@ -16,7 +16,7 @@ Updated: 24-10-2019 21:07
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_map_WGS84_proxy/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_map_WGS84_proxy/{x}/{y}/{z}?locusScale={ts}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

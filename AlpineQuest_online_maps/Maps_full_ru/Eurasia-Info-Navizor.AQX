@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 21:07
+Updated: 24-10-2019 23:33
 -->
 
 
@@ -23,8 +23,6 @@ Updated: 24-10-2019 21:07
         <level>
             <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
             
-            <projection-name>mercator</projection-name>
-            <projection-geoid>wgs 84</projection-geoid>
             <update-delay>0D</update-delay>
 
             <servers>
