@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 27-10-2019 01:30
+-->
+
+
+
+
+<providers>
+
+<provider id="12009" type="0" visible="true" background="-1">
+<name>Europe - Central</name>
+<mode>Swiss Slope 30°</mode>
+<countries>Swiss</countries>
+<usage>overlay</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.hangneigung-ueber_30/default/current/3857/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>14</zoomMin>    <!-- 6 -->
+<zoomMax>26</zoomMax>   <!-- 18 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#https://map.geo.admin.ch]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© Geo.admin.ch <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

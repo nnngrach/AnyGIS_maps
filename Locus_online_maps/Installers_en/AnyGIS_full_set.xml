@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:34
+Updated: 27-10-2019 01:30
 -->
 
 
@@ -1082,6 +1082,24 @@ Updated: 24-10-2019 23:34
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Geoportal_Lt.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Geoportal_Lt.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Northern-Norway_topo_UT.xml]]>
 </source>
 <dest>
@@ -1230,6 +1248,60 @@ Updated: 24-10-2019 23:34
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Southeast-Montenegro.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Europe%20-%20Central.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe - Central.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-SwissImage.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissImage.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-SwissSkiRoutes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissSkiRoutes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-SwissSlopes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissSlopes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-SwissTrails.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissTrails.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-SwissTopo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissTopo.xml]]>
 </dest>
 </download>
 

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:34
+Updated: 27-10-2019 01:30
 -->
 
 
@@ -204,6 +204,24 @@ Updated: 24-10-2019 23:34
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Satellite.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Geoportal_Lt.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Geoportal_Lt.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:33
+Updated: 27-10-2019 01:29
 -->
 
 <onlinemapsource uid="468060">
@@ -368,7 +368,7 @@ Updated: 24-10-2019 23:33
 
 <onlinemapsource uid="468081">
 <name>Яндекс (GLOBALSATELLITES)</name>
-<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -2961,6 +2961,36 @@ Updated: 24-10-2019 23:33
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="11022">
+<name>Литва - Geoportal.lt (EUROPENORTHERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_GeoportalLt/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="11023">
+<name>Литва - Geoportal.lt (EUROPENORTHERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_GeoportalLt/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="13000">
 <name>France Topo IGN.fr (EUROPEWESTERN)</name>
 <url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
@@ -3057,6 +3087,81 @@ Updated: 24-10-2019 23:33
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12008">
+<name>Швейцария - Лыжные трассы (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12009">
+<name>Швейцария - Склоны 30° (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.hangneigung-ueber_30/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12006">
+<name>Швейцария - Спутник (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12005">
+<name>Швейцария - Топокарта (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12007">
+<name>Швейцария - Тропы (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

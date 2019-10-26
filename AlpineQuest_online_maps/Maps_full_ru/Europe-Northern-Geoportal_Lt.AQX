@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 27-10-2019 01:29
+-->
+
+
+<name>Европа - Северная</name>
+<description></description>
+
+    <source id="11023">
+        <name>Литва - Geoportal.lt</name>
+        <copyright>Geoportal.lt</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>25.26,54.6,11</preview-location>
+        <outline>20.8,56.5 26.9,56.5 26.9,53.8 20.8,53.8</outline>
+
+        <level>
+            <zoom-values>6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.geoportal.lt/map/?lang=en]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_GeoportalLt/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

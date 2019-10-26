@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:34
+Updated: 27-10-2019 01:30
 -->
 
 
@@ -51,6 +51,51 @@ Updated: 24-10-2019 23:34
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Central-Czech_tourist.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissSkiRoutes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissSkiRoutes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissSlopes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissSlopes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissImage.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissImage.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissTopo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissTopo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissTrails.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-SwissTrails.xml]]>
 </dest>
 </download>
 

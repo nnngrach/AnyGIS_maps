@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:33
+Updated: 27-10-2019 01:29
 -->
 
 <onlinemapsource uid="468060">
@@ -113,7 +113,7 @@ Updated: 24-10-2019 23:33
 
 <onlinemapsource uid="468081">
 <name>Яндекс (GLOBALSATELLITES)</name>
-<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

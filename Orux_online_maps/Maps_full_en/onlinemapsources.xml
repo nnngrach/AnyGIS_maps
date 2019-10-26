@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 24-10-2019 23:33
+Updated: 27-10-2019 01:29
 -->
 
 <onlinemapsource uid="468060">
@@ -383,7 +383,7 @@ Updated: 24-10-2019 23:33
 
 <onlinemapsource uid="468081">
 <name>Yandex (GLOBALSATELLITES)</name>
-<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}]]></url>
+<url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -1356,6 +1356,36 @@ Updated: 24-10-2019 23:33
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="11022">
+<name>Lithuania - Geoportal.lt (EUROPENORTHERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_GeoportalLt/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="11023">
+<name>Lithuania - Geoportal.lt (EUROPENORTHERN)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_GeoportalLt/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="11015">
 <name>Norway topomap UT.no (EUROPENORTHERN)</name>
 <url><![CDATA[https://tilesprod.ut.no/tilestache/ut_topo_light/{$z}/{$x}/{$y}.jpg]]></url>
@@ -1562,6 +1592,81 @@ Updated: 24-10-2019 23:33
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12006">
+<name>Swiss Image (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12008">
+<name>Swiss Ski Routes (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12009">
+<name>Swiss Slope 30° (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.hangneigung-ueber_30/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12007">
+<name>Swiss Tails Layer (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12005">
+<name>Swiss Topo (EUROPECENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
