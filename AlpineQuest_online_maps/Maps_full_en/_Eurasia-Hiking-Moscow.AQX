@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:50
 -->
 
 
@@ -51,6 +51,29 @@ Updated: 27-10-2019 01:29
             <servers>
                 <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_ArbaletMO/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="101004">
+        <name>MoscowMap.ru</name>
+        <copyright>Moscowmap.ru</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>9,10,11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.moscowmap.ru/imap_moscow.shtml]]></referer>
+                <server><![CDATA[http://www.moscowmap.ru/leaflet/tiles/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

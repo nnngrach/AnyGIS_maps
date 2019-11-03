@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Рельеф</name>
 <description></description>
 
-    <source id="8888651">
+    <source id="8888651" layer="true">
         <name>Рельеф Openmapsurfer</name>
         <copyright>Heigit.org</copyright>
         <data-source></data-source>

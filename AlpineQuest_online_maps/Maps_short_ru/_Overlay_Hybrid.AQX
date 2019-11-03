@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:50
 -->
 
 
 <name>Overlay - Надписи и дороги</name>
 <description></description>
 
-    <source id="8888077">
+    <source id="8888077" layer="true">
         <name>Google - Гибрид</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
@@ -44,7 +44,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888068">
+    <source id="8888068" layer="true">
         <name>Mapbox - Гибрид</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
@@ -61,24 +61,13 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
 
 
-    <source id="8888024">
+    <source id="8888024" layer="true">
         <name>Waymarkedtrails.org - Велоспорт</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -101,7 +90,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888080">
+    <source id="8888080" layer="true">
         <name>Waymarkedtrails.org - Горный велосипед MTB</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -124,7 +113,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888023">
+    <source id="8888023" layer="true">
         <name>Waymarkedtrails.org - Пешие прогулки</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>

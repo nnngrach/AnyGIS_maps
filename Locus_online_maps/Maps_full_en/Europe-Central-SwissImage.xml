@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:30
+Updated: 03-11-2019 22:51
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 27-10-2019 01:30
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>14</zoomMin>    <!-- 6 -->
-<zoomMax>26</zoomMax>   <!-- 18 -->
+<zoomMax>28</zoomMax>   <!-- 20 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://map.geo.admin.ch]]></extraHeader>

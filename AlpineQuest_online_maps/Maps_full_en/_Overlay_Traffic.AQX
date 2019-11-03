@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:50
 -->
 
 
 <name>Overlay - Traffic</name>
 <description></description>
 
-    <source id="8888071">
+    <source id="8888071" layer="true">
         <name>Bing</name>
         <copyright>Bing</copyright>
         <data-source></data-source>
@@ -41,7 +41,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888016">
+    <source id="8888016" layer="true">
         <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
@@ -75,7 +75,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888057">
+    <source id="8888057" layer="true">
         <name>Google</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
@@ -109,7 +109,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888018">
+    <source id="8888018" layer="true">
         <name>Here</name>
         <copyright>Here</copyright>
         <data-source></data-source>
@@ -132,7 +132,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888076">
+    <source id="8888076" layer="true">
         <name>Here - Flow</name>
         <copyright>Here</copyright>
         <data-source></data-source>
@@ -166,7 +166,30 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888078">
+    <source id="8888084" layer="true">
+        <name>Navitel.su</name>
+        <copyright>Navitel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://maps.navitel.su/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/NavitelSu_Traffic/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="8888078" layer="true">
         <name>TomTom</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
@@ -200,7 +223,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888079">
+    <source id="8888079" layer="true">
         <name>TomTom - Incidents</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>

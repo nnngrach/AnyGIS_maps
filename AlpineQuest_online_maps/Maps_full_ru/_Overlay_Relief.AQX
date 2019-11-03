@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Рельеф</name>
 <description></description>
 
-    <source id="8888652">
+    <source id="8888652" layer="true">
         <name>Контурные линии Mapbox </name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
@@ -33,7 +33,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888651">
+    <source id="8888651" layer="true">
         <name>Рельеф Openmapsurfer</name>
         <copyright>Heigit.org</copyright>
         <data-source></data-source>
@@ -56,7 +56,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888041">
+    <source id="8888041" layer="true">
         <name>Рельеф Waymarkedtrails.org</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -79,7 +79,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888042">
+    <source id="8888042" layer="true">
         <name>Рельеф Windy.com</name>
         <copyright>Windy.com</copyright>
         <data-source></data-source>
@@ -102,7 +102,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888058">
+    <source id="8888058" layer="true">
         <name>Рельеф WmfLabs.org</name>
         <copyright>Wmflabs.org</copyright>
         <data-source></data-source>
@@ -125,7 +125,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888053">
+    <source id="8888053" layer="true">
         <name>Рельеф Карта уклонов</name>
         <copyright>VotEtoVid</copyright>
         <data-source></data-source>

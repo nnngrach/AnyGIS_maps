@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Надписи и дороги</name>
 <description></description>
 
-    <source id="8888075">
+    <source id="8888075" layer="true">
         <name>TMS Тайловая сетка - Белая</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:30
+Updated: 03-11-2019 22:51
 -->
 
 
@@ -51,6 +51,15 @@ Updated: 27-10-2019 01:30
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Traffic-Here_flow.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-NavitelSu_Traffic.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-NavitelSu_Traffic.xml]]>
 </dest>
 </download>
 

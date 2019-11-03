@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:50
 -->
 
 
 <name>Overlay - Labels & Ways</name>
 <description></description>
 
-    <source id="8888077">
+    <source id="8888077" layer="true">
         <name>Google Labels</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
@@ -44,7 +44,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888068">
+    <source id="8888068" layer="true">
         <name>Mapbox - Hybrid</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
@@ -61,24 +61,13 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
 
 
-    <source id="8888662">
+    <source id="8888662" layer="true">
         <name>OpenFireMap</name>
         <copyright>OpenFireMap</copyright>
         <data-source></data-source>
@@ -101,7 +90,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888075">
+    <source id="8888075" layer="true">
         <name>TMS Tile Grid - White</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>
@@ -124,7 +113,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888660">
+    <source id="8888660" layer="true">
         <name>TomTom - Hybrid (day)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
@@ -158,7 +147,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888661">
+    <source id="8888661" layer="true">
         <name>TomTom - Hybrid (night)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
@@ -192,7 +181,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888024">
+    <source id="8888024" layer="true">
         <name>Waymarkedtrails.org - Cycling</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -215,7 +204,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888023">
+    <source id="8888023" layer="true">
         <name>Waymarkedtrails.org - Hiking</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -238,7 +227,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888080">
+    <source id="8888080" layer="true">
         <name>Waymarkedtrails.org - MTB</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -261,7 +250,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888082">
+    <source id="8888082" layer="true">
         <name>Waymarkedtrails.org - Riding</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -284,7 +273,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888081">
+    <source id="8888081" layer="true">
         <name>Waymarkedtrails.org - Skating</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -307,7 +296,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888083">
+    <source id="8888083" layer="true">
         <name>Waymarkedtrails.org - Slopes</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
@@ -330,7 +319,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888055">
+    <source id="8888055" layer="true">
         <name>Wigle.net Wi-fi location (proxy)</name>
         <copyright>Wiggle.net</copyright>
         <data-source></data-source>
@@ -353,7 +342,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888653">
+    <source id="8888653" layer="true">
         <name>Yandex - Map Editor</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>

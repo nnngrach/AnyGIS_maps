@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:30
+Updated: 03-11-2019 22:51
 -->
 
 
@@ -797,15 +797,6 @@ Updated: 27-10-2019 01:30
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-CMap.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
 <![CDATA[/mapsOnline/custom/Global-Water-ERSI_ocean.xml]]>
 </dest>
 </download>
@@ -1077,15 +1068,6 @@ Updated: 27-10-2019 01:30
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Topowebb.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
 </dest>
 </download>
 
@@ -1706,6 +1688,15 @@ Updated: 27-10-2019 01:30
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-MoscowMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-OSport.xml]]>
 </dest>
 </download>
@@ -2291,6 +2282,33 @@ Updated: 27-10-2019 01:30
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_1km_1986.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_2km_1988.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_5km_1980.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/Hystoric-Kuban_1902.xml]]>
 </dest>
 </download>
@@ -2724,6 +2742,15 @@ Updated: 27-10-2019 01:30
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay_Traffic-Here_flow.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-NavitelSu_Traffic.xml]]>
 </dest>
 </download>
 

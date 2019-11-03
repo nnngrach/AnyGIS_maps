@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Labels & Ways</name>
 <description></description>
 
-    <source id="8888080">
+    <source id="8888080" layer="true">
         <name>Waymarkedtrails.org - MTB</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>

@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Морские</name>
 <description></description>
 
-    <source id="8888061">
+    <source id="8888061" layer="true">
         <name>Garmin MarineImages - Снимки сонара</name>
         <copyright>Garmin</copyright>
         <data-source></data-source>
@@ -33,7 +33,7 @@ Updated: 27-10-2019 01:29
     </source>
 
 
-    <source id="8888025">
+    <source id="8888025" layer="true">
         <name>Navionics Marine Charts</name>
         <copyright>Navionics</copyright>
         <data-source></data-source>
@@ -50,101 +50,13 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://webapp.navionics.com/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
 
 
-    <source id="8888026">
+    <source id="8888026" layer="true">
         <name>Navionics Sonar Charts</name>
         <copyright>Navionics</copyright>
         <data-source></data-source>
@@ -161,95 +73,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://webapp.navionics.com/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>

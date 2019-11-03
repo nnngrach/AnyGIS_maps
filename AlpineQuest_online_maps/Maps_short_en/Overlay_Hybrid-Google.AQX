@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Labels & Ways</name>
 <description></description>
 
-    <source id="8888077">
+    <source id="8888077" layer="true">
         <name>Google Labels</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>

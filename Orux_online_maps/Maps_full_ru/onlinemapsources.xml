@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:50
 -->
 
 <onlinemapsource uid="468060">
@@ -1011,21 +1011,6 @@ Updated: 27-10-2019 01:29
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="190012">
-<name>C-Map (GLOBALNAUTICAL)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Water_CMap/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="190000">
 <name>ESRI Ocean (GLOBALNAUTICAL)</name>
 <url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{$z}/{$y}/{$x}]]></url>
@@ -1437,6 +1422,21 @@ Updated: 27-10-2019 01:29
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>8</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="101004">
+<name>MoscowMap.ru (EURASIAHIKINGMOSCOW)</name>
+<url><![CDATA[http://www.moscowmap.ru/leaflet/tiles/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>9</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -2172,6 +2172,51 @@ Updated: 27-10-2019 01:29
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>1</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="5555032">
+<name>Иркутск и окрестноски 1км 1986 (EURASIAIHYSTORYC)</name>
+<url><![CDATA[http://www.retromap.ru/tiles/r/8/141986/Z{$z}/{$y}/{$x}.jpg]]></url>
+<servers></servers>
+<maxzoom>13</maxzoom>
+<minzoom>9</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="5555031">
+<name>Иркутск и окрестноски 2км 1988 (EURASIAIHYSTORYC)</name>
+<url><![CDATA[http://www.retromap.ru/tiles/r/8/1419884/Z{$z}/{$y}/{$x}.jpg]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>8</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="5555030">
+<name>Иркутск и окрестноски 5км 1980 (EURASIAIHYSTORYC)</name>
+<url><![CDATA[http://www.retromap.ru/tiles/r/8/1419801/Z{$z}/{$y}/{$x}.jpg]]></url>
+<servers></servers>
+<maxzoom>11</maxzoom>
+<minzoom>7</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -2976,21 +3021,6 @@ Updated: 27-10-2019 01:29
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="11023">
-<name>Литва - Geoportal.lt (EUROPENORTHERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_GeoportalLt/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>6</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="13000">
 <name>France Topo IGN.fr (EUROPEWESTERN)</name>
 <url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
@@ -3130,7 +3160,7 @@ Updated: 27-10-2019 01:29
 <name>Швейцария - Спутник (EUROPECENTRAL)</name>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
 <servers></servers>
-<maxzoom>18</maxzoom>
+<maxzoom>20</maxzoom>
 <minzoom>6</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3657,6 +3687,21 @@ Updated: 27-10-2019 01:29
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="8888084">
+<name>Navitel.su (OVERLAYTRAFFIC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/NavitelSu_Traffic/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>

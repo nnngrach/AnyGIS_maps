@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
@@ -27,17 +27,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -60,17 +50,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -93,17 +73,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -126,17 +96,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -159,17 +119,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -192,17 +142,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -225,17 +165,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -258,17 +188,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>
@@ -337,17 +257,7 @@ Updated: 27-10-2019 01:29
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
-
             </servers>
         </level>
     </source>

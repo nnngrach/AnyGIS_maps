@@ -1,0 +1,16 @@
+[url_template]
+http://anygis.ru/api/v1/Historic_Irkutsk_1988_2km/{1}/{2}/{0}
+[min_zoom]
+8
+[max_zoom]
+12
+[ellipsoid]
+false
+[tile_size]
+256
+[img_density]
+16
+[avg_img_size]
+32000
+[ext]
+.png

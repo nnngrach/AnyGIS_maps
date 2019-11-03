@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 27-10-2019 01:29
+Updated: 03-11-2019 22:51
 -->
 
 
 <name>Overlay - Надписи и дороги</name>
 <description></description>
 
-    <source id="8888082">
+    <source id="8888082" layer="true">
         <name>Waymarkedtrails.org - Верховая езда</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
