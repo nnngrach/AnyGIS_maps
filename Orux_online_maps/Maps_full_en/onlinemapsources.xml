@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-11-2019 22:50
+Updated: 04-11-2019 16:17
 -->
 
 <onlinemapsource uid="468060">
@@ -3158,7 +3158,7 @@ Updated: 03-11-2019 22:50
 
 <onlinemapsource uid="5555013">
 <name>RKKA 1940 1km (EURASIAIHYSTORYC)</name>
-<url><![CDATA[https://maps.melda.ru/pub/historic/rkka/z{sasZ}/{folderX}/x{$x}/{folderY}/y{$y}.jpg]]></url>
+<url><![CDATA[https://maps.melda.ru/pub/historic/rkka/z{z+1}/{x/1024}/x{$x}/{y/1024}/y{$y}.jpg]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>

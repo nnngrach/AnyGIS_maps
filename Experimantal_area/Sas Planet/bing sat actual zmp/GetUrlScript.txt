@@ -1,0 +1,81 @@
+type
+	TSubst = record
+		mask, val : string;
+	end;
+	TSubsts = record
+		count : integer;
+		s : array [0..15] of TSubst;
+	end;
+
+var
+	Substs : TSubsts;
+
+procedure ProcessSubstAdd(mask, val : string);
+begin
+	Substs.s[Substs.count].mask := mask;
+	Substs.s[Substs.count].val := val;
+	inc(Substs.count);
+end;
+
+procedure ProcessSubstInit;
+begin
+	Substs.count := 0;
+	ProcessSubstAdd('{z}', inttostr(GetZ-1));
+	ProcessSubstAdd('{x}', inttostr(GetX));
+	ProcessSubstAdd('{y}', inttostr(GetY));
+	ProcessSubstAdd('{z+}', inttostr(GetZ));
+	ProcessSubstAdd('{x/1024}', inttostr(GetX div 1024));
+	ProcessSubstAdd('{y/1024}', inttostr(GetY div 1024));
+end;
+
+function ProcessURL(url : string) : string;
+var
+	s, ss : string;
+	sarr : array [0..9] of string;
+	sarr_l, p : integer;
+	i : integer;
+begin
+	for i:=0 to Substs.count-1 do begin
+		url := StringReplace(url, Substs.s[i].mask, Substs.s[i].val, [rfReplaceAll, rfIgnoreCase]);
+	end;
+	s := RegExprGetMatchSubStr(url, '\{[sS]:([^}]+)\}', 0);
+	if s <> '' then begin
+		ss := s;
+		ss := StringReplace(ss, '{s:', '', [rfIgnoreCase]);
+		ss := StringReplace(ss, '}', '', [rfIgnoreCase]);
+		ss := ss + ',';
+		sarr_l := 0;
+		while ss <> '' do begin
+			p := pos(',', ss);
+			if p = 0 then p := length(ss);
+			sarr[sarr_l] := copy(ss, 1, p-1);
+			sarr_l := sarr_l + 1;
+			delete(ss, 1, p);
+		end;
+		url := StringReplace(url, s, sarr[random(sarr_l)], []);
+	end;
+	Result := url;
+end;
+
+// --- Конец универсальной части.
+
+function Quadkey(z, x, y : integer) : string;
+var
+	i, c : byte;
+begin
+	Result:='';
+	for i:=1 to z do begin
+		c:=0;
+		if x mod 2 = 1 then c := c + 1;
+		if y mod 2 = 1 then c := c + 2;
+		x := x div 2;
+		y := y div 2;
+		Result := inttostr(c) + Result;
+	end;
+end;
+
+begin
+	ProcessSubstInit;
+	ProcessSubstAdd('{c}', Quadkey(GetZ-1, GetX, GetY));
+	ResultURL := ProcessURL(GetURLBase);
+end.

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-11-2019 23:09
+Updated: 04-11-2019 16:18
 -->
 
 
@@ -28,10 +28,10 @@ Updated: 03-11-2019 23:09
             <servers>
                 
                 
-                <server><![CDATA[http://map01.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{invY}.jpeg]]></server>
-                <server><![CDATA[http://map02.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{invY}.jpeg]]></server>
-                <server><![CDATA[http://map03.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{invY}.jpeg]]></server>
-                <server><![CDATA[http://map04.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{invY}.jpeg]]></server>
+                <server><![CDATA[http://map01.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{-y}.jpeg]]></server>
+                <server><![CDATA[http://map02.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{-y}.jpeg]]></server>
+                <server><![CDATA[http://map03.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{-y}.jpeg]]></server>
+                <server><![CDATA[http://map04.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{-y}.jpeg]]></server>
 
             </servers>
         </level>

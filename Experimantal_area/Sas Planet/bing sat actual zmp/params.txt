@@ -1,0 +1,9 @@
+﻿[PARAMS]
+GUID={709134b0-2f3c-416c-964e-907fb5c745a6}
+name=Bing: спутник
+NameInCache=bing.sat
+DefURLBase=https://t{s:0,1}.ssl.ak.tiles.virtualearth.net/tiles/a{c}.jpeg?g=0
+ContentType=image/jpeg
+Ext=.jpg
+EPSG=3785
+RequestHead=Referer: http://www.openstreetmap.org/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8

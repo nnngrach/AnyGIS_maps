@@ -1,0 +1,9 @@
+[PARAMS]
+GUID={d55bf6bd-b02f-4bf6-8885-a7aa8032a52a}
+name=Strava Tracks (all)
+NameInCache=strava.all
+DefURLBase=https://anygis.ru/api/v1/Tracks_Strava_All_HD/{x}/{y}/{z}
+ContentType=image/png
+Ext=.png
+EPSG=3785
+asLayer=1
