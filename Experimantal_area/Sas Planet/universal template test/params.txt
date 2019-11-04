@@ -1,0 +1,9 @@
+[PARAMS]
+GUID={d55bf6bd-b02f-4bf6-8885-a7aa8032a52a}
+name=Strava Tracks (all)
+NameInCache=strava.all
+DefURLBase=http://{s:a,b,c}.sitename/{x}/{y}/{z}/{z+1}/{x/1024}/{y/1024}/{-y}/{q}/{timeStamp}/{bbox}
+ContentType=image/png
+Ext=.png
+EPSG=3785
+asLayer=1
