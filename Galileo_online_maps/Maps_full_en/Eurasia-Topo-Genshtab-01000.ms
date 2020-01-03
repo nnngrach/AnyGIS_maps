@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-11-2019 16:17
+Updated: 03-01-2020 13:25
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 04-11-2019 16:17
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>13</maxZoom>
+    <maxZoom>14</maxZoom>
     <url>https://anygis.ru/api/v1/Locals_Genshtab_01000/{$x}/{$y}/{$z}</url>
 </layer>
 

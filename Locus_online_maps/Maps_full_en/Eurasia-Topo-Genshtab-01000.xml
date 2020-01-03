@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-11-2019 16:18
+Updated: 03-01-2020 13:26
 -->
 
 
@@ -20,7 +20,7 @@ Updated: 04-11-2019 16:18
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>21</zoomMax>   <!-- 13 -->
+<zoomMax>22</zoomMax>   <!-- 14 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-11-2019 16:18
+Updated: 03-01-2020 13:26
 -->
 
 
@@ -240,6 +240,15 @@ Updated: 04-11-2019 16:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
 </dest>
 </download>
 
@@ -582,6 +591,15 @@ Updated: 04-11-2019 16:18
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap_RU.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap_RU.xml]]>
 </dest>
 </download>
 

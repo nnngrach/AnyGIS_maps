@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-11-2019 16:18
+Updated: 03-01-2020 13:26
 -->
 
 
@@ -162,6 +162,37 @@ Updated: 04-11-2019 16:18
                 <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
                 <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
                 <server><![CDATA[http://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="9999047">
+        <name>OpenTopoMap_RU</name>
+        <copyright>OpenStreetMap, OpenTopoMap</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://opentopomap.org/]]></referer>
+                
+                <server><![CDATA[http://tile-a.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-b.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://tile-c.opentopomap.ru/{z}/{x}/{y}.png]]></server>
 
             </servers>
         </level>

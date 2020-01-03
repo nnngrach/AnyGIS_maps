@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 04-11-2019 16:17
+Updated: 03-01-2020 13:25
 -->
 
 <onlinemapsource uid="468060">
@@ -347,6 +347,21 @@ Updated: 04-11-2019 16:17
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="468378">
+<name>Maxar (via Facebook) (GLOBALSATELLITES)</name>
+<url><![CDATA[https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={$x}&y={$y}&z={$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -866,6 +881,21 @@ Updated: 04-11-2019 16:17
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="9999047">
+<name>OpenTopoMap_RU (GLOBALOSM)</name>
+<url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -2005,7 +2035,7 @@ Updated: 04-11-2019 16:17
 <name>Genshtab 2 000m (EURASIATOPOGENSHTAB)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_01000/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>13</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
