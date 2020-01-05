@@ -1,5 +1,5 @@
 [url_template]
-https://dev.a.tile.openstreetmap.fr/cyclosm/{0}/{1}/{2}.png
+https://dev.{rnd}.tile.openstreetmap.fr/cyclosm/{0}/{1}/{2}.png
 [min_zoom]
 0
 [max_zoom]

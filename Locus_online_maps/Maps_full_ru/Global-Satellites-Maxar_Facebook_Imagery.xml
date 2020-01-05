@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-01-2020 16:07
+Updated: 05-01-2020 16:28
 -->
 
 
@@ -19,10 +19,11 @@ Updated: 03-01-2020 16:07
 <url><![CDATA[https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={x}&y={y}&z={z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
-<zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>30</zoomMax>   <!-- 22 -->
+<zoomMin>19</zoomMin>    <!-- 11 -->
+<zoomMax>26</zoomMax>   <!-- 18 -->
 <tileSize>256</tileSize>
 
+<extraHeader><![CDATA[Referer#https://mapwith.ai/rapid]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[© Maxar <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>

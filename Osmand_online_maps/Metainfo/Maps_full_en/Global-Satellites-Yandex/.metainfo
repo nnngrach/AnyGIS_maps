@@ -1,5 +1,5 @@
 [url_template]
-http://sat01.maps.yandex.net/tiles?l=sat&x={1}&y={2}&z={0}&lang=ru
+http://sat0{rnd}.maps.yandex.net/tiles?l=sat&x={1}&y={2}&z={0}&lang=ru
 [min_zoom]
 0
 [max_zoom]

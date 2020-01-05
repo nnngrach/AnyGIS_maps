@@ -1,5 +1,5 @@
 [url_template]
-http://mt0.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={1}&y={2}&z={0}&hl=en&scale=2
+http://mt{rnd}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={1}&y={2}&z={0}&hl=en&scale=2
 [min_zoom]
 0
 [max_zoom]

@@ -1,5 +1,5 @@
 [url_template]
-http://a.tile.osm.kosmosnimki.ru/kosmo/{0}/{1}/{2}.png
+http://{rnd}.tile.osm.kosmosnimki.ru/kosmo/{0}/{1}/{2}.png
 [min_zoom]
 0
 [max_zoom]

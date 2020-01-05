@@ -1,5 +1,5 @@
 [url_template]
-http://mt0.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={1}&y={2}&z={0}&s=Galileo&scale=2&hl=en
+http://mt{rnd}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={1}&y={2}&z={0}&s=Galileo&scale=2&hl=en
 [min_zoom]
 0
 [max_zoom]

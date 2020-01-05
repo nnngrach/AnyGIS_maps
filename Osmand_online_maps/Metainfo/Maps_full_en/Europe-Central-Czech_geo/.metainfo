@@ -1,5 +1,5 @@
 [url_template]
-https://m1.mapserver.mapy.cz/turist-m/{0}-{1}-{2}
+https://m{rnd}.mapserver.mapy.cz/turist-m/{0}-{1}-{2}
 [min_zoom]
 0
 [max_zoom]

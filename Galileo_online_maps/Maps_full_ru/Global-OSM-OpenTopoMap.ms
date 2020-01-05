@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-01-2020 13:25
+Updated: 05-01-2020 16:27
 -->
 
 
 <customMapSource>
-<name>OpenTopoMap</name>
+<name>OpenTopoMap.ORG</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [url_template]
-http://a.maps.owm.io:8099/57456d1237fb4e01009cbb17/{0}/{1}/{2}?hash=042a4b4c8ec6bc8392aabf46fa91003c
+http://{rnd}.maps.owm.io:8099/57456d1237fb4e01009cbb17/{0}/{1}/{2}?hash=042a4b4c8ec6bc8392aabf46fa91003c
 [min_zoom]
 2
 [max_zoom]

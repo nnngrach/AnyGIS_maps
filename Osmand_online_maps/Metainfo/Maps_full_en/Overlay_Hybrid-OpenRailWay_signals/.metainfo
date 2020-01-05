@@ -7,7 +7,7 @@ https://anygis.ru/api/v1/Osm_Railway_signals/{1}/{2}/{0}
 [ellipsoid]
 false
 [tile_size]
-256
+512
 [img_density]
 16
 [avg_img_size]

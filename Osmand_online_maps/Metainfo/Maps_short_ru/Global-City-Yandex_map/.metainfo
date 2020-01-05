@@ -1,5 +1,5 @@
 [url_template]
-https://vec01.maps.yandex.net/tiles?l=map&x={1}&y={2}&z={0}&scale=2&lang=ru-RU
+https://vec0{rnd}.maps.yandex.net/tiles?l=map&x={1}&y={2}&z={0}&scale=2&lang=ru-RU
 [min_zoom]
 0
 [max_zoom]

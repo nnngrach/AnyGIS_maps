@@ -1,5 +1,5 @@
 [url_template]
-http://a.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{0}/{1}/{2}.png
+http://{rnd}.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{0}/{1}/{2}.png
 [min_zoom]
 0
 [max_zoom]

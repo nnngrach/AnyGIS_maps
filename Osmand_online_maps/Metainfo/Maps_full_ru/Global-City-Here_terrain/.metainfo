@@ -1,5 +1,5 @@
 [url_template]
-https://1.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{0}/{1}/{2}/512/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere
+https://{rnd}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{0}/{1}/{2}/512/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere
 [min_zoom]
 0
 [max_zoom]

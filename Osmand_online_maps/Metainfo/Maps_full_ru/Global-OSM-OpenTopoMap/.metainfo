@@ -1,5 +1,5 @@
 [url_template]
-https://a.tile.opentopomap.org/{0}/{1}/{2}.png
+https://{rnd}.tile.opentopomap.org/{0}/{1}/{2}.png
 [min_zoom]
 0
 [max_zoom]

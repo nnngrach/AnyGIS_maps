@@ -1,5 +1,5 @@
 [url_template]
-http://maptiles1.finncdn.no/tileService/1.0.3/norhybrid/{0}/{1}/{2}.png
+http://maptiles{rnd}.finncdn.no/tileService/1.0.3/norhybrid/{0}/{1}/{2}.png
 [min_zoom]
 5
 [max_zoom]

@@ -1,5 +1,5 @@
 [url_template]
-https://1.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{0}/{1}/{2}/512/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS
+https://{rnd}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{0}/{1}/{2}/512/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS
 [min_zoom]
 0
 [max_zoom]

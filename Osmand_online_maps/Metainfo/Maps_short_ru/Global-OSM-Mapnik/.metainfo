@@ -1,5 +1,5 @@
 [url_template]
-http://a.tile.openstreetmap.org/{0}/{1}/{2}.png
+http://{rnd}.tile.openstreetmap.org/{0}/{1}/{2}.png
 [min_zoom]
 0
 [max_zoom]

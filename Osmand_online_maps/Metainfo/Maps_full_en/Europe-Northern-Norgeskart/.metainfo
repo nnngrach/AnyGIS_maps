@@ -1,5 +1,5 @@
 [url_template]
-https://opencache2.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={0}&x={1}&y={2}
+https://opencache{rnd}.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={0}&x={1}&y={2}
 [min_zoom]
 0
 [max_zoom]

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-01-2020 13:26
+Updated: 05-01-2020 16:28
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 03-01-2020 13:26
 <description></description>
 
     <source id="9999047">
-        <name>OpenTopoMap_RU</name>
-        <copyright>OpenStreetMap, OpenTopoMap</copyright>
+        <name>OpenTopoMap.RU</name>
+        <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

@@ -1,9 +1,9 @@
 [url_template]
 https://anygis.ru/api/v1/Maxar_Facebook/{1}/{2}/{0}
 [min_zoom]
-0
+11
 [max_zoom]
-22
+18
 [ellipsoid]
 false
 [tile_size]

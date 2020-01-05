@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-01-2020 13:25
+Updated: 05-01-2020 16:27
 -->
 
 <onlinemapsource uid="468060">
@@ -355,38 +355,8 @@ Updated: 03-01-2020 13:25
 <name>Maxar (via Facebook) (GLOBALSATELLITES)</name>
 <url><![CDATA[https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={$x}&y={$y}&z={$z}]]></url>
 <servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468334">
-<name>Maxar Premium (GLOBALSATELLITES)</name>
-<url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=91e57457-aa2d-41ad-a42b-3b63a123f54a]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="468333">
-<name>Maxar Standard (GLOBALSATELLITES)</name>
-<url><![CDATA[https://earthwatch.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=d9c5e3ef-6300-4cec-9562-c1f27da6b2d9 ]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
+<maxzoom>18</maxzoom>
+<minzoom>11</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -877,7 +847,7 @@ Updated: 03-01-2020 13:25
 </onlinemapsource>
 
 <onlinemapsource uid="6666207">
-<name>OpenTopoMap (GLOBALOSM)</name>
+<name>OpenTopoMap.ORG (GLOBALOSM)</name>
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
@@ -892,7 +862,7 @@ Updated: 03-01-2020 13:25
 </onlinemapsource>
 
 <onlinemapsource uid="9999047">
-<name>OpenTopoMap_RU (GLOBALOSM)</name>
+<name>OpenTopoMap.RU (GLOBALOSM)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>

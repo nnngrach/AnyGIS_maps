@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 03-01-2020 16:07
+Updated: 05-01-2020 16:28
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 03-01-2020 16:07
 
 <provider id="6666207" type="0" visible="true" background="-1">
 <name>Global - OSM</name>
-<mode>OpenTopoMap</mode>
+<mode>OpenTopoMap.ORG</mode>
 <countries>World</countries>
 <usage>hiking,ski</usage>
 <cacheTimeout>720</cacheTimeout>

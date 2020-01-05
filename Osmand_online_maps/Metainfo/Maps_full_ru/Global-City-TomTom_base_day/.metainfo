@@ -1,5 +1,5 @@
 [url_template]
-https://a-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{0}/{1}/{2}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+https://{rnd}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{0}/{1}/{2}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
 [min_zoom]
 0
 [max_zoom]
