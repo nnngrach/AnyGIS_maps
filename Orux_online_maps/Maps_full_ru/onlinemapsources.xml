@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-01-2020 12:41
+Updated: 08-01-2020 00:16
 -->
 
 <onlinemapsource uid="468060">
@@ -331,7 +331,7 @@ Updated: 07-01-2020 12:41
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop>0</yop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
