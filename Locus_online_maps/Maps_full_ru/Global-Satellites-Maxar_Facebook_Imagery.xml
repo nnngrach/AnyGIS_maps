@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 07-01-2020 19:20
+Updated: 07-01-2020 19:32
 -->
 
 
@@ -10,7 +10,7 @@ Updated: 07-01-2020 19:20
 
 <providers>
 
-<provider id="468378" type="1" visible="true" background="-1">
+<provider id="468378" type="0" visible="true" background="-1">
 <name>Глобальные - Спутниковые</name>
 <mode>Maxar (via Facebook)</mode>
 <countries>World</countries>
