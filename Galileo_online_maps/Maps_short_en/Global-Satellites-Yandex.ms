@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 05-01-2020 16:27
+Updated: 07-01-2020 12:29
 -->
 
 
 <customMapSource>
-<name>Yandex - Satellite</name>
+<name>Yandex (converted) - Satellite</name>
 <layers>
 
 <layer>
