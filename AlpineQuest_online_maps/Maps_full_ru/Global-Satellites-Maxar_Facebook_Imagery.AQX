@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 20:48
+Updated: 16-01-2020 21:55
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 16-01-2020 20:48
 <description></description>
 
     <source id="468378">
-        <name>Maxar (via Facebook)</name>
+        <name>Maxar (via Facebook) zoom 11-18</name>
         <copyright>Maxar</copyright>
         <data-source></data-source>
         <region>WRLD</region>

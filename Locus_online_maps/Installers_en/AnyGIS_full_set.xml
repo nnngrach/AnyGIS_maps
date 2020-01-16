@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 21:56
 -->
 
 
@@ -555,6 +555,15 @@ Updated: 08-01-2020 00:17
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Komoot.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Kompass_De.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-OSM-Kompass_De.xml]]>
 </dest>
 </download>
 

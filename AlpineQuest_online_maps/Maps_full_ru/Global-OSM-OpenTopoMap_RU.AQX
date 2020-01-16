@@ -3,14 +3,14 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 20:48
+Updated: 16-01-2020 21:55
 -->
 
 
 <name>Глобальные - OSM</name>
 <description></description>
 
-    <source id="9999047">
+    <source id="6666047">
         <name>OpenTopoMap.RU</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>

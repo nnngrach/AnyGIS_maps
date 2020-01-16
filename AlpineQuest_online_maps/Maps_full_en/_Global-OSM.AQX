@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 20:48
+Updated: 16-01-2020 21:55
 -->
 
 
@@ -59,6 +59,29 @@ Updated: 16-01-2020 20:48
                 <server><![CDATA[http://b.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://c.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
 
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="6666217">
+        <name>Kompass.de</name>
+        <copyright>OpenStreetMap, Kompass.de</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>TOPO</type>
+
+        <preview-location>9.48973,47.18007,9</preview-location>
+        
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.kompass.de]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Kompass_De/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -146,7 +169,7 @@ Updated: 16-01-2020 20:48
     </source>
 
 
-    <source id="9999047">
+    <source id="6666047">
         <name>OpenTopoMap.RU</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>

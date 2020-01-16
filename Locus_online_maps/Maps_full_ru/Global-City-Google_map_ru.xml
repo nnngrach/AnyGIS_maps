@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 21:56
 -->
 
 
@@ -16,7 +16,7 @@ Updated: 08-01-2020 00:17
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&{ts}]]></url>
+<url><![CDATA[http://mt{s}.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&{ts}]]></url>
 <serverPart>0;1;2;3</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

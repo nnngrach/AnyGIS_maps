@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:16
+Updated: 16-01-2020 21:55
 -->
 
 <onlinemapsource uid="468060">
@@ -38,7 +38,7 @@ Updated: 08-01-2020 00:16
 
 <onlinemapsource uid="468020">
 <name>Google (GLOBALCITY)</name>
-<url><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={$x}&y={$y}&z={$z}&scale=1]]></url>
+<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m&hl=ru&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -263,7 +263,7 @@ Updated: 08-01-2020 00:16
 
 <onlinemapsource uid="468021">
 <name>Google (GLOBALSATELLITES)</name>
-<url><![CDATA[http://mt.google.com/vt/lyrs=s@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
+<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=s@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -322,7 +322,7 @@ Updated: 08-01-2020 00:16
 </onlinemapsource>
 
 <onlinemapsource uid="468378">
-<name>Maxar (via Facebook) (GLOBALSATELLITES)</name>
+<name>Maxar (via Facebook) zoom 11-18 (GLOBALSATELLITES)</name>
 <url><![CDATA[https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={$x}&y={$y}&z={$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -726,6 +726,21 @@ Updated: 08-01-2020 00:16
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="6666217">
+<name>Kompass.de (GLOBALOSM)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="6666008">
 <name>Kosmosnimki (GLOBALOSM)</name>
 <url><![CDATA[http://{$s}.tile.osm.kosmosnimki.ru/kosmo/{$z}/{$x}/{$y}.png]]></url>
@@ -846,7 +861,7 @@ Updated: 08-01-2020 00:16
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="9999047">
+<onlinemapsource uid="6666047">
 <name>OpenTopoMap.RU (GLOBALOSM)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>

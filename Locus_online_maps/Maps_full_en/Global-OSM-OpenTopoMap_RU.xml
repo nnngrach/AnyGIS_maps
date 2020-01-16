@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 21:55
 -->
 
 
@@ -10,7 +10,7 @@ Updated: 08-01-2020 00:17
 
 <providers>
 
-<provider id="9999047" type="0" visible="true" background="-1">
+<provider id="6666047" type="0" visible="true" background="-1">
 <name>Global - OSM</name>
 <mode>OpenTopoMap.RU</mode>
 <countries>World</countries>
@@ -23,7 +23,6 @@ Updated: 08-01-2020 00:17
 <zoomMax>26</zoomMax>   <!-- 18 -->
 <tileSize>256</tileSize>
 
-<extraHeader><![CDATA[Referer#https://opentopomap.org/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[© OpenStreetMap <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:16
+Updated: 16-01-2020 21:55
 -->
 
 
 <customMapSource>
-<name>Maxar (via Facebook) - Спутник</name>
+<name>Maxar (via Facebook) zoom 11-18 - Спутник</name>
 <layers>
 
 <layer>

@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:16
+Updated: 16-01-2020 21:55
 -->
 
 
@@ -13,7 +13,7 @@ Updated: 08-01-2020 00:16
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
-    <url>http://mt.google.com/vt/lyrs=m&amp;hl=ru&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;scale=1</url>
+    <url>http://mt{$serverpart}.google.com/vt/lyrs=m&amp;hl=ru&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;scale=1</url>
     <serverParts>0 1 2 3</serverParts>
 </layer>
 
