@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -29,11 +29,7 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://a.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://b.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://c.tile.geofabrik.de/15173cf79060ee4a66573954f6017ab0/{z}/{x}/{y}.png]]></server>
 
             </servers>
@@ -60,11 +56,7 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://a.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://b.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://c.tile.hosted.thunderforest.com/komoot-2/{z}/{x}/{y}.png]]></server>
 
             </servers>
@@ -91,11 +83,7 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://a.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://b.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://c.tile.osm.kosmosnimki.ru/kosmo/{z}/{x}/{y}.png]]></server>
 
             </servers>
@@ -122,11 +110,7 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://a.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
-                <server><![CDATA[http://.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
-                <server><![CDATA[http://.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
                 <server><![CDATA[http://b.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
-                <server><![CDATA[http://.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
-                <server><![CDATA[http://.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
                 <server><![CDATA[http://c.tiles.mapbox.com/v4/matt.72ef5189/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoiZHVuY2FuZ3JhaGFtIiwiYSI6IlJJcWdFczQifQ.9HUpTV1es8IjaGAf_s64VQ]]></server>
 
             </servers>
@@ -153,14 +137,8 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://map1.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
                 <server><![CDATA[http://map2.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
                 <server><![CDATA[http://map3.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
-                <server><![CDATA[http://map.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
                 <server><![CDATA[http://map4.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=http]]></server>
 
             </servers>
@@ -184,16 +162,8 @@ Updated: 08-01-2020 00:17
             <update-delay>30D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://opentopomap.org/]]></referer>
                 
-                <server><![CDATA[http://tile-a.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-b.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-c.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-
+                <server><![CDATA[http://anygis.ru/api/v1/Osm_Topo_Map_RU/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -240,10 +210,6 @@ Updated: 08-01-2020 00:17
             <servers>
                 
                 
-                <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maps.refuges.info/hiking/{z}/{x}/{y}.png]]></server>

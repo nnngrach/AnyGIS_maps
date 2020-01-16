@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -351,8 +351,6 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://opencache2.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
-                <server><![CDATA[http://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
-                <server><![CDATA[http://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
                 <server><![CDATA[http://opencache3.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
 
             </servers>
@@ -379,14 +377,8 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://maptiles1.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles2.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles3.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles4.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
 
             </servers>
@@ -413,14 +405,8 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://maptiles1.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles2.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles3.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://maptiles.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://maptiles4.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
 
             </servers>

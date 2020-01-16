@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{1}/{2}/{0}
+[randoms]
+ 
 [min_zoom]
 5
 [max_zoom]
 17
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

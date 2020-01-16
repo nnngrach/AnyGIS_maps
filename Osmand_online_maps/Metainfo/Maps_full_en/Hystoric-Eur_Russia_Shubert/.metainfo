@@ -1,10 +1,14 @@
 [url_template]
 http://boxpis.ru/sas/SVG_3v_all/z{0}/{2}/{1}.jpg
+[randoms]
+
 [min_zoom]
 1
 [max_zoom]
 14
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256

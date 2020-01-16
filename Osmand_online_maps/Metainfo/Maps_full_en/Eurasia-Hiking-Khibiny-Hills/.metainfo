@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Local_Karelia3/{1}/{2}/{0}
+[randoms]
+sasPlanet
 [min_zoom]
 0
 [max_zoom]
 14
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256

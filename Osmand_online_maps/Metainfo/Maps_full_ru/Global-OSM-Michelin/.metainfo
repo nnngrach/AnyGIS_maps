@@ -1,10 +1,14 @@
 [url_template]
 https://map{rnd}.viamichelin.com/map/mapdirect?map=viamichelin&z={0}&x={1}&y={2}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=https
+[randoms]
+1,2,3,4
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Tracks_Strava_Ride_HD/{1}/{2}/{0}
+[randoms]
+a,b,c
 [min_zoom]
 0
 [max_zoom]
 15
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 512
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

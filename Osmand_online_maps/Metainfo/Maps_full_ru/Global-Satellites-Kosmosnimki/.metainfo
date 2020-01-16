@@ -1,11 +1,15 @@
 [url_template]
 http://anygis.ru/api/v1/Kosmosnimki_WGS84/{1}/{2}/{0}
+[randoms]
+
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
 true
+[inverted_y]
+false
 [tile_size]
 256
 [img_density]
@@ -14,3 +18,5 @@ true
 32000
 [ext]
 .png
+[expiration_time_minutes]
+129600

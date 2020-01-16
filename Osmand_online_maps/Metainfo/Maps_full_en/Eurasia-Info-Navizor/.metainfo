@@ -1,10 +1,14 @@
 [url_template]
 http://navizor.com:8080/fg/{0}/{1}/{2}.png
+[randoms]
+
 [min_zoom]
 5
 [max_zoom]
 18
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+720

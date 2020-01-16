@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -29,11 +29,7 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://dev.a.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://dev..tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://dev..tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://dev.b.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://dev..tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://dev..tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
                 <server><![CDATA[http://dev.c.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png]]></server>
 
             </servers>
@@ -60,14 +56,8 @@ Updated: 08-01-2020 00:17
                 
                 
                 <server><![CDATA[http://m1.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
                 <server><![CDATA[http://m2.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
                 <server><![CDATA[http://m3.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
-                <server><![CDATA[http://m.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
                 <server><![CDATA[http://m4.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></server>
 
             </servers>

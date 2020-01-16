@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -28,10 +28,10 @@ Updated: 08-01-2020 00:17
             <servers>
                 <referer><![CDATA[https://www.google.com/maps/]]></referer>
                 
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=m&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
 
             </servers>
         </level>

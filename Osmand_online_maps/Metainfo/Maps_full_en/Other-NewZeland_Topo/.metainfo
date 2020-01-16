@@ -1,11 +1,15 @@
 [url_template]
 http://nz1.nztopomaps.com/{0}/{1}/{2}.png
+[randoms]
+
 [min_zoom]
 6
 [max_zoom]
 15
 [ellipsoid]
 false
+[inverted_y]
+true
 [tile_size]
 256
 [img_density]
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

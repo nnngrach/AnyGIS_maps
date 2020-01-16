@@ -1,10 +1,14 @@
 [url_template]
 http://anygis.ru/api/v1/Wikimapia_layer/{1}/{2}/{0}
+[randoms]
+wikimapia
 [min_zoom]
 0
 [max_zoom]
 22
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

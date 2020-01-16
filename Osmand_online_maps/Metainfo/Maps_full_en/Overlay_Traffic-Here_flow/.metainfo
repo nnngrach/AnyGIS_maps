@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Here_traffic_flow_layer/{1}/{2}/{0}
+[randoms]
+1,2,3,4
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 512
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+1

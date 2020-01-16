@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Locals_Genshtab_05000/{1}/{2}/{0}
+[randoms]
+sasPlanet
 [min_zoom]
 0
 [max_zoom]
 11
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256

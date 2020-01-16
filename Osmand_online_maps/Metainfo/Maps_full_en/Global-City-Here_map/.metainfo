@@ -1,10 +1,14 @@
 [url_template]
 https://{rnd}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{0}/{1}/{2}/512/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS
+[randoms]
+1,2,3,4
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 512
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

@@ -1,11 +1,15 @@
 [url_template]
-https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84/{1}/{2}/{0}
+https://maps.melda.ru/mobile/rt/{0}/{1}/{2}.png
+[randoms]
+
 [min_zoom]
 0
 [max_zoom]
 12
 [ellipsoid]
 true
+[inverted_y]
+false
 [tile_size]
 256
 [img_density]
@@ -14,3 +18,5 @@ true
 32000
 [ext]
 .png
+[expiration_time_minutes]
+525600

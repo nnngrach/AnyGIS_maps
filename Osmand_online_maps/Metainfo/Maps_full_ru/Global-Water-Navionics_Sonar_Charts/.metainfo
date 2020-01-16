@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Navionics_Sonar_Charts/{1}/{2}/{0}
+[randoms]
+https://backend.navionics.com/tile/get_key/NAVIONICS_WEBAPP_P01/webapp.navionics.com?_=
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

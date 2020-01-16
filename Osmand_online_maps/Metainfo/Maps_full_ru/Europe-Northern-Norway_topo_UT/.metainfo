@@ -1,10 +1,14 @@
 [url_template]
 https://tilesprod.ut.no/tilestache/ut_topo_light/{0}/{1}/{2}.jpg
+[randoms]
+
 [min_zoom]
 0
 [max_zoom]
 19
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

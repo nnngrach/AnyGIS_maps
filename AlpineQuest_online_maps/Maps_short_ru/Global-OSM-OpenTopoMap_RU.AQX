@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -26,12 +26,8 @@ Updated: 08-01-2020 00:17
             <update-delay>30D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://opentopomap.org/]]></referer>
                 
-                <server><![CDATA[http://tile-a.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-b.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-                <server><![CDATA[http://tile-c.opentopomap.ru/{z}/{x}/{y}.png]]></server>
-
+                <server><![CDATA[http://anygis.ru/api/v1/Osm_Topo_Map_RU/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

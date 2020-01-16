@@ -1,10 +1,14 @@
 [url_template]
 https://globus.tut.by/.tiles/rkka_v2/Z{0}/{2}/{1}.jpg
+[randoms]
+
 [min_zoom]
 10
 [max_zoom]
 14
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256

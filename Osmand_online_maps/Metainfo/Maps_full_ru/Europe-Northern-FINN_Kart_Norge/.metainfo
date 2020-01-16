@@ -1,10 +1,14 @@
 [url_template]
 http://maptiles{rnd}.finncdn.no/tileService/1.0.3/normaphd/{0}/{1}/{2}.png
+[randoms]
+1,2,3,4
 [min_zoom]
 5
 [max_zoom]
 21
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 512
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

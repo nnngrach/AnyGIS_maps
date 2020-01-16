@@ -1,10 +1,14 @@
 [url_template]
 https://{rnd}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{0}/{1}/{2}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+[randoms]
+a,b,c,d
 [min_zoom]
 0
 [max_zoom]
 18
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

@@ -1,10 +1,14 @@
 [url_template]
 http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{0}/{2}/{1}.jpg 
+[randoms]
+
 [min_zoom]
 0
 [max_zoom]
 18
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+43200

@@ -1,11 +1,15 @@
 [url_template]
-http://anygis.ru/api/v1/Other_Eu_Eniro_Sat_clean/{1}/{2}/{0}
+http://map0{rnd}.eniro.no/geowebcache/service/tms1.0.0/aerial/{0}/{1}/{2}.jpeg
+[randoms]
+1,2,3,4
 [min_zoom]
 0
 [max_zoom]
 22
 [ellipsoid]
 false
+[inverted_y]
+true
 [tile_size]
 256
 [img_density]
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+129600

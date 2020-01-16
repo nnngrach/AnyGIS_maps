@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 08-01-2020 00:17
+Updated: 16-01-2020 20:48
 -->
 
 
@@ -28,10 +28,6 @@ Updated: 08-01-2020 00:17
             <servers>
                 <referer><![CDATA[https://www.bing.com/maps]]></referer>
                 
-                <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
-                <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
-                <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
-                <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
                 <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
                 <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
                 <server><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></server>
@@ -60,14 +56,8 @@ Updated: 08-01-2020 00:17
                 <referer><![CDATA[https://www.google.com/maps/]]></referer>
                 
                 <server><![CDATA[http://mt0.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt1.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt2.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt3.google.com/vt?hl=ru&lyrs=h@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
 
             </servers>
@@ -94,14 +84,8 @@ Updated: 08-01-2020 00:17
                 <referer><![CDATA[https://www.google.com/maps/]]></referer>
                 
                 <server><![CDATA[http://mt0.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt1.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt2.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
                 <server><![CDATA[http://mt3.google.com/vt?hl=ru&lyrs=h@159000000,traffic&style=15&x={x}&y={y}&z={z}&scale=1]]></server>
 
             </servers>
@@ -151,14 +135,8 @@ Updated: 08-01-2020 00:17
                 <referer><![CDATA[https://wego.here.com/]]></referer>
                 
                 <server><![CDATA[http://1.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
                 <server><![CDATA[http://2.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
                 <server><![CDATA[http://3.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
-                <server><![CDATA[http://.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
                 <server><![CDATA[http://4.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
 
             </servers>
@@ -208,14 +186,8 @@ Updated: 08-01-2020 00:17
                 <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
                 
                 <server><![CDATA[http://a-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://b-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://c-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://d-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
 
             </servers>
@@ -242,14 +214,8 @@ Updated: 08-01-2020 00:17
                 <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
                 
                 <server><![CDATA[http://a-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://b-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://c-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
-                <server><![CDATA[http://-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
                 <server><![CDATA[http://d-mydrive.api-system.tomtom.com/traffic/map/4/tile/incidents/s2/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
 
             </servers>

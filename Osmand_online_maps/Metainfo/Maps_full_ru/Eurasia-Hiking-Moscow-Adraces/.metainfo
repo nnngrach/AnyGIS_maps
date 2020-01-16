@@ -1,11 +1,15 @@
 [url_template]
-https://anygis.ru/api/v1/Local_Adraces/{1}/{2}/{0}
+https://tiles.nakarte.me/adraces/{0}/{1}/{2}
+[randoms]
+
 [min_zoom]
 0
 [max_zoom]
 15
 [ellipsoid]
 false
+[inverted_y]
+true
 [tile_size]
 256
 [img_density]
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+525600

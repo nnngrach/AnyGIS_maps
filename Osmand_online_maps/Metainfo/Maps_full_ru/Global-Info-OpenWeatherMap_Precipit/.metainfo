@@ -1,10 +1,14 @@
 [url_template]
 http://{rnd}.maps.owm.io:8099/57456d1237fb4e01009cbb17/{0}/{1}/{2}?hash=042a4b4c8ec6bc8392aabf46fa91003c
+[randoms]
+a,b,c,d,e,f,g,h
 [min_zoom]
 2
 [max_zoom]
 8
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+1

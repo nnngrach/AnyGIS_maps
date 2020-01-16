@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Sentinel_SWIR/{1}/{2}/{0}
+[randoms]
+538f72f2-3777-49c7-8177-6d74964d74f8,e53130f2-f9bc-435c-afe7-107867703b0d,29f147e4-bd7b-495a-840d-8d02a1aeadad,79f8e652-1ce3-4eb2-9439-318c8546d400
 [min_zoom]
 0
 [max_zoom]
 14
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
@@ -14,3 +18,5 @@ false
 32000
 [ext]
 .png
+[expiration_time_minutes]
+129600

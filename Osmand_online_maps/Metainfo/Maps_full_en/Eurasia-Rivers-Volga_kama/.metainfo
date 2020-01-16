@@ -1,10 +1,14 @@
 [url_template]
 https://anygis.ru/api/v1/Local_River_Volga/{1}/{2}/{0}
+[randoms]
+
 [min_zoom]
 7
 [max_zoom]
 15
 [ellipsoid]
+false
+[inverted_y]
 false
 [tile_size]
 256
