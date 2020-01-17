@@ -1,0 +1,14 @@
+[Name]
+Europe - Northern - Karjalankartat.fi Topo 200m (1930)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_karjalankartat_fi_200m/{x}/{y}/{z}
+
+[URL direct]
+https://mapservices.navici.com/karjalankartat/wms?apikey=4NIgWBON5qRTx8ePtDbQNR0YojJkhlFB&SRS=EPSG%3A2394&LAYERS=karjalankartat%3Atopo20k_group&STYLES=&FORMAT=image%2Fjpeg&TILED=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&EXCEPTIONS=application%2Fvnd.ogc.se_inimage&BBOX={bbox}&WIDTH=256&HEIGHT=256
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18
