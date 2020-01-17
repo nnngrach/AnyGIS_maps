@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:04
+Updated: 17-01-2020 16:41
 -->
 
 
 <customMapSource>
-<name>Kosmosnimki.ru - Satellite</name>
+<name>Kosmosnimki.ru (converted) - Satellite</name>
 <layers>
 
 <layer>

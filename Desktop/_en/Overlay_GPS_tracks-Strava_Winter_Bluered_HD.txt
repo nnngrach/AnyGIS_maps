@@ -1,5 +1,5 @@
 [Name]
-Overlay - GPS tracks - Strava Heatmap - Winter (Bluered)
+Overlay - GPS tracks - Strava Heatmap - Winter HD (Bluered)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered_HD/{x}/{y}/{z}

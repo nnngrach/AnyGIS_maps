@@ -2,10 +2,13 @@
 Глобальные - Спутниковые - Bing Bird's Eye
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Bing_sat_for_locus/{x}/{y}/{z}
+https://anygis.ru/api/v1/Bing_sat_for_guru/{x}/{y}/{z}
 
 [URL direct]
-http://ak.dynamic.t0.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z
+http://ak.dynamic.t{s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z
+
+[Server parts]
+1;2;3
 
 [Min Zoom level]
 0

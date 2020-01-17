@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:05
+Updated: 17-01-2020 16:42
 -->
 
 
@@ -2912,7 +2912,7 @@ Updated: 17-01-2020 16:05
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_HD.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2921,7 +2921,7 @@ Updated: 17-01-2020 16:05
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_HD.xml]]>
 </dest>
 </download>
 

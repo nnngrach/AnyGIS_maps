@@ -1,5 +1,5 @@
 [Name]
-Overlay - GPS треки - Strava Heatmap - Зимний спорт
+Overlay - GPS треки - Strava Heatmap - Зимний спорт HD
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Winter_HD/{x}/{y}/{z}

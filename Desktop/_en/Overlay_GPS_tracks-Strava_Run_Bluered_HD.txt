@@ -1,5 +1,5 @@
 [Name]
-Overlay - GPS tracks - Strava Heatmap - Run (Bluered)
+Overlay - GPS tracks - Strava Heatmap - Run HD (Bluered)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered_HD/{x}/{y}/{z}

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:04
+Updated: 17-01-2020 16:41
 -->
 
 
 <customMapSource>
-<name>Космоснимки.ру - Спутник</name>
+<name>Космоснимки.ру (с конвертацией) - Спутник</name>
 <layers>
 
 <layer>
