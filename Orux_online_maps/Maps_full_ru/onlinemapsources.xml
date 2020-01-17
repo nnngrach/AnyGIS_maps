@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 00:15
+Updated: 18-01-2020 02:50
 -->
 
 <onlinemapsource uid="468060">
@@ -2882,36 +2882,6 @@ Updated: 18-01-2020 00:15
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="11023">
-<name>Karjalankartat.fi - Карельский перешеек 1км (1930-е) (EUROPENORTHERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_karjalankartat_fi_1km/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="11024">
-<name>Karjalankartat.fi - Карельский перешеек 200м (1930-е) (EUROPENORTHERN)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_karjalankartat_fi_200m/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>

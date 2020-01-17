@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 00:18
+Updated: 18-01-2020 02:51
 -->
 
 
@@ -256,7 +256,7 @@ Updated: 18-01-2020 00:18
             <update-delay>4166D</update-delay>
 
             <servers>
-                
+                <referer><![CDATA[http://www.karjalankartat.fi/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_karjalankartat_fi_1km/{x}/{y}/{z}]]></server>
             </servers>
         </level>
@@ -279,7 +279,7 @@ Updated: 18-01-2020 00:18
             <update-delay>4166D</update-delay>
 
             <servers>
-                
+                <referer><![CDATA[http://www.karjalankartat.fi/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_karjalankartat_fi_200m/{x}/{y}/{z}]]></server>
             </servers>
         </level>

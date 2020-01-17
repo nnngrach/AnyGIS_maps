@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 00:16
+Updated: 18-01-2020 02:51
 -->
 
 
@@ -1059,24 +1059,6 @@ Updated: 18-01-2020 00:16
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Satellit.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Karjalankartat_fi_1km.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Karjalankartat_fi_200m.xml]]>
 </dest>
 </download>
 
