@@ -1,0 +1,14 @@
+[Name]
+Global - Satellites special - Sentinel
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Sentinel/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://s2maps.eu/

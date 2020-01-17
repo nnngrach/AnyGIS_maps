@@ -1,0 +1,14 @@
+[Name]
+Europe - Northern - Hitta Frilufts + Skoterleder
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Skoterleder_layer/{x}/{y}/{z}
+
+[URL direct]
+https://overl.skoterleder.org/tiles/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

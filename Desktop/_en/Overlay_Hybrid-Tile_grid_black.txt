@@ -1,0 +1,11 @@
+[Name]
+Overlay - Labels & Ways - TMS Tile Grid - Black
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/TILE_GRID_BLACK/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

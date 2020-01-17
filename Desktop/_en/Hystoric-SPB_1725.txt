@@ -1,0 +1,17 @@
+[Name]
+Eurasia - Hystoric - Saint Petersburg 1725
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_SPB_1725/{x}/{y}/{z}
+
+[URL direct]
+http://www.retromap.ru/tiles/m/2/1417251/Z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+9
+
+[Max Zoom level]
+13
+
+[HTTP Referer]
+http://www.retromap.ru/m/

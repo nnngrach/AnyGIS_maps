@@ -1,0 +1,17 @@
+[Name]
+Глобальные - Спутниковые специальные - Sentinel - Без обратоток - 03 Март
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Sentinel_True_color_March/{x}/{y}/{z}
+
+[URL direct]
+https://services.sentinel-hub.com/ogc/wms/{s}?service=WMS&request=GetMap&layers=1_TRUE_COLOR&styles=&format=image%2Fpng&transparent=true&version=1.1.1&showlogo=false&name=Sentinel-2%20L1C&width=256&height=256&pane=activeLayer&maxcc=30&evalscriptoverrides=&time={sentinelMarch}&srs=EPSG%3A3857&bbox={bbox}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+https://apps.sentinel-hub.com/

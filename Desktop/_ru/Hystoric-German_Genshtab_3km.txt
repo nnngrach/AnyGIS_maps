@@ -1,0 +1,14 @@
+[Name]
+Евразия - Исторические - Немецкий Генштаб 1942 3км
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/1942_osteuropa/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

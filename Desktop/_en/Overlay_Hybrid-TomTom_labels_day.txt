@@ -1,0 +1,20 @@
+[Name]
+Overlay - Labels & Ways - TomTom - Hybrid (day)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/TomTom_labels_day/{x}/{y}/{z}
+
+[URL direct]
+https://{s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+
+[Server parts]
+a;b;c;d
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://mydrive.tomtom.com/

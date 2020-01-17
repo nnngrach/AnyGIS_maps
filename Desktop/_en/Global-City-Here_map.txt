@@ -1,0 +1,23 @@
+[Name]
+Global - City - Here
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Here_map/{x}/{y}/{z}
+
+[URL direct 256px]
+https://{s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS
+
+[URL direct 512px]
+https://{s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{z}/{x}/{y}/512/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS
+
+[Server parts]
+1;2;3;4
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
+
+[HTTP Referer]
+https://wego.here.com/

@@ -1,0 +1,17 @@
+[Name]
+Overlay - Надписи и дороги - Mapsurfer - Гибрид
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Mapsurfer_hybrid/{x}/{y}/{z}
+
+[URL direct]
+https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+13
+
+[HTTP Referer]
+https://qms.nextgis.com/geoservices/2573/

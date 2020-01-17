@@ -1,0 +1,14 @@
+[Name]
+Global - OSM - Sputnik.ru
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Sputnik/{x}/{y}/{z}
+
+[URL direct]
+http://tiles.maps.sputnik.ru/tiles/kmt2/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

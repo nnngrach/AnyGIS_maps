@@ -1,0 +1,11 @@
+[Name]
+Global - City - Waze Traffic (not finished)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Waze/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+17

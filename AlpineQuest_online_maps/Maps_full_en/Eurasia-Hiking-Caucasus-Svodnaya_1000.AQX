@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:55
+Updated: 17-01-2020 03:06
 -->
 
 
@@ -26,7 +26,7 @@ Updated: 16-01-2020 21:55
             <update-delay>4166D</update-delay>
 
             <servers>
-                <referer><![CDATA[http://tiles.nakarte.tk/]]></referer>
+                <referer><![CDATA[https://nakarte.me/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_10/{x}/{y}/{z}]]></server>
             </servers>
         </level>

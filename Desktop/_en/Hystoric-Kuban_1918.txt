@@ -1,0 +1,14 @@
+[Name]
+Eurasia - Hystoric - Kuban Stralbitsky 1918
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Kuban_1918/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/1918_kuban_10v/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

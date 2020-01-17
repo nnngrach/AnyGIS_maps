@@ -1,0 +1,17 @@
+[Name]
+Глобальные - Справочные - Wigle.net Wi-fi location (proxy)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Info_Wiggle_wifi_overlay/{x}/{y}/{z}
+
+[URL direct]
+https://wigle.net/tile?tileX={x}&tileY={y}&tileZoom={z}&coloring=density
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
+
+[HTTP Referer]
+https://wigle.net

@@ -1,0 +1,17 @@
+[Name]
+Europe - Central - Czech base
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Czech_base/{x}/{y}/{z}
+
+[URL direct]
+https://m{s}.mapserver.mapy.cz/base-m/{z}-{x}-{y}
+
+[Server parts]
+1;2;3;4
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

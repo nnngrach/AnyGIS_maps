@@ -1,0 +1,14 @@
+[Name]
+Европа - Северная - Lantmäteriets Fjällkarta
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Lantmateriet_Fjallkarta/{x}/{y}/{z}
+
+[URL direct]
+https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg
+
+[Min Zoom level]
+5
+
+[Max Zoom level]
+12

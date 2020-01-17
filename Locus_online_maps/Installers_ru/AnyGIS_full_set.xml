@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:56
+Updated: 17-01-2020 03:06
 -->
 
 
@@ -2765,10 +2765,10 @@ Updated: 16-01-2020 21:56
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_proxy.xml]]>
 </dest>
 </download>
 

@@ -1,0 +1,23 @@
+[Name]
+Global - OSM - Thunderforest Transport (night)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Transport_Map_dark/{x}/{y}/{z}
+
+[URL direct 256px]
+http://{s}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38
+
+[URL direct 512px]
+http://{s}.tile.thunderforest.com/transport-dark/{z}/{x}/{y}@2x.png?apikey=6170aad10dfd42a38d4d8c709a536f38
+
+[Server parts]
+a;b;c
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22
+
+[HTTP Referer]
+https://www.openstreetmap.org/

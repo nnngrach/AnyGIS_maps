@@ -1,0 +1,17 @@
+[Name]
+Eurasia - Aviation - ERSI World Navigation Charts
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Ersi_Avia/{x}/{y}/{z}
+
+[URL direct]
+https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{z}/{y}/{x}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+10
+
+[HTTP Referer]
+https://esri.maps.arcgis.com/home/webmap/viewer.html

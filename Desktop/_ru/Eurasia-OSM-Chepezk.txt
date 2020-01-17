@@ -1,0 +1,14 @@
+[Name]
+Евразия - OSM - Велокарта Чепецк.net
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Chepezk/{x}/{y}/{z}
+
+[URL direct]
+http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png
+
+[Min Zoom level]
+2
+
+[Max Zoom level]
+19

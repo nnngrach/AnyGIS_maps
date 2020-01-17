@@ -1,0 +1,17 @@
+[Name]
+Евразия - Справочные - Navizor - Оценка качества дорог
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Navizor/{x}/{y}/{z}
+
+[URL direct]
+http://navizor.com:8080/fg/{z}/{x}/{y}.png
+
+[Min Zoom level]
+5
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+http://www.garmin.ru/maponline/marshruty.php

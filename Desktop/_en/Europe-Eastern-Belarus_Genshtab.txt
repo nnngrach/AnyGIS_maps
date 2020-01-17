@@ -1,0 +1,14 @@
+[Name]
+Eurasia - Hystoric - Belarus Genshtab
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Belarus_Genstab/{x}/{y}/{z}
+
+[URL direct]
+https://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png
+
+[Min Zoom level]
+5
+
+[Max Zoom level]
+14

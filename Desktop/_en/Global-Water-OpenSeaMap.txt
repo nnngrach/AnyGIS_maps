@@ -1,0 +1,14 @@
+[Name]
+Global - Nautical - Open Sea Map
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_OpenSeaMap_Layer_Seamark/{x}/{y}/{z}
+
+[URL direct]
+http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

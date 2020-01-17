@@ -1,0 +1,14 @@
+[Name]
+Overlay - GPS tracks - Strava Heatmap - All (Bluered)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+https://www.strava.com/heatmap

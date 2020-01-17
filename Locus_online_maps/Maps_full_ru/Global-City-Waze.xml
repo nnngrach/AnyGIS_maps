@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:56
+Updated: 17-01-2020 03:06
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 16-01-2020 21:56
 
 <provider id="468332" type="0" visible="true" background="-1">
 <name>Глобальные - Городские</name>
-<mode>Waze Пробки</mode>
+<mode>Waze Пробки (в разработке)</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>0</cacheTimeout>

@@ -1,0 +1,11 @@
+[Name]
+Евразия - Справочные - Зоны покрытия МТС (с конвертацией)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_MTS/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+12

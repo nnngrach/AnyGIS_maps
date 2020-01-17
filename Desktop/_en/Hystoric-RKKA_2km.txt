@@ -1,0 +1,14 @@
+[Name]
+Eurasia - Hystoric - RKKA 1932-42 2km
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/rkka2km/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

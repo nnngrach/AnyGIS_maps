@@ -1,0 +1,14 @@
+[Name]
+Overlay - Relief - Hillshade Windy.com
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Hillshade_Windy/{x}/{y}/{z}
+
+[URL direct]
+https://tiles.windy.com/tiles/v8.1/darkmap/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+11

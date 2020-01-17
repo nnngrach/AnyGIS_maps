@@ -1,0 +1,14 @@
+[Name]
+Eurasia - Hystoric - Caucasus 1926
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Kavkaz_1926/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/5v_kavkaz/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15

@@ -1,0 +1,17 @@
+[Name]
+Евразия - Водные - Речная лоция Волги и Камы 1996 (gmap.camapka.ru)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_River_Volga/{x}/{y}/{z}
+
+[URL direct]
+https://gmap.camapka.ru/lotsia/Z{z}/{y}/{x}.png
+
+[Min Zoom level]
+7
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://gmap.camapka.ru/

@@ -1,0 +1,11 @@
+[Name]
+Eurasia - Hiking - Multylayer - RusOutdoor maps
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Combo_RusOutdoor/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

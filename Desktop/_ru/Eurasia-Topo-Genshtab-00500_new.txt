@@ -1,0 +1,14 @@
+[Name]
+Евразия - Топокарты - Генштаб - Генштаб 500 м v2
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Locals_Genshtab_00500_new/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/genshtab/500m.new/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+16

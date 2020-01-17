@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:55
+Updated: 17-01-2020 03:06
 -->
 
 
@@ -230,7 +230,7 @@ Updated: 16-01-2020 21:55
 
 
     <source id="468332">
-        <name>Waze</name>
+        <name>Waze Traffic (not finished)</name>
         <copyright>Waze</copyright>
         <data-source></data-source>
         <region>WRLD</region>

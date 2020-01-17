@@ -1,0 +1,20 @@
+[Name]
+Global - OSM - OpenTopoMap.ORG
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Topo_Map/{x}/{y}/{z}
+
+[URL direct]
+https://{s}.tile.opentopomap.org/{z}/{x}/{y}.png
+
+[Server parts]
+a;b;c
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+17
+
+[HTTP Referer]
+https://opentopomap.org/

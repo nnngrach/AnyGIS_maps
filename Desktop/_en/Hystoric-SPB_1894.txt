@@ -1,0 +1,17 @@
+[Name]
+Eurasia - Hystoric - Saint Petersburg 1894
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_SPB_1894/{x}/{y}/{z}
+
+[URL direct]
+http://www.retromap.ru/tiles/h/9/141894/Z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+10
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+http://www.retromap.ru/m/

@@ -1,0 +1,20 @@
+[Name]
+Overlay - Labels & Ways - TomTom - Hybrid (night)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/TomTom_labels_night/{x}/{y}/{z}
+
+[URL direct]
+https://{s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+
+[Server parts]
+a;b;c;d
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://mydrive.tomtom.com/

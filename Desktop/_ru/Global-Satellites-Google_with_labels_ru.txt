@@ -1,0 +1,23 @@
+[Name]
+Глобальные - Спутниковые - Google - Гибрид
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Google_Sat_RU_SD/{x}/{y}/{z}
+
+[URL direct 256px]
+http://mt{s}.google.com/vt/lyrs=y@176103410&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=ru
+
+[URL direct 512px]
+http://mt{s}.google.com/vt/lyrs=y@176103410&x={x}&y={y}&z={z}&s=Galileo&scale=2&hl=ru
+
+[Server parts]
+0;1;2;3
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+20
+
+[HTTP Referer]
+https://www.google.com/maps/

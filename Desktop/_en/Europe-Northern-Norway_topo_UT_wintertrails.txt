@@ -1,0 +1,14 @@
+[Name]
+Europe - Northern - Norway topomap UT.no - Winter trails
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norway_UT_Winter_Trails/{x}/{y}/{z}
+
+[URL direct]
+https://tilesprod.ut.no/tilestache/dnt_vinter/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

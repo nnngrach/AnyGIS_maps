@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:55
+Updated: 17-01-2020 03:05
 -->
 
 
 <customMapSource>
-<name>Waze</name>
+<name>Waze Traffic (not finished)</name>
 <layers>
 
 <layer>

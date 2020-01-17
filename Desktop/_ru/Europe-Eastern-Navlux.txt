@@ -1,0 +1,14 @@
+[Name]
+Европа - Восточная - Украина - Navlux
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Ukr_Luxena/{x}/{y}/{z}
+
+[URL direct]
+http://tiles.luxena.com/navlux/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

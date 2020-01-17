@@ -1,0 +1,23 @@
+[Name]
+Global - Satellites - Yandex
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Yandex_sat_clean_WGS84/{x}/{y}/{z}
+
+[URL direct]
+http://sat0{s}.maps.yandex.net/tiles?l=sat&x={x}&y={y}&z={z}&lang=ru
+
+[Server parts]
+1;2;3;4
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
+
+[HTTP Referer]
+https://yandex.ru/maps/
+
+[Proection description]
+Ellipsoid

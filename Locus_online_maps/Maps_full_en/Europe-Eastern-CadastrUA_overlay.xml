@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:55
+Updated: 17-01-2020 03:06
 -->
 
 
@@ -10,7 +10,7 @@ Updated: 16-01-2020 21:55
 
 <providers>
 
-<provider id="10808" type="1" visible="true" background="-1">
+<provider id="10808" type="5" visible="true" background="-1">
 <name>Europe - Eastern</name>
 <mode>Ukraine - Cadaster map borders</mode>
 <countries>Ukraine</countries>

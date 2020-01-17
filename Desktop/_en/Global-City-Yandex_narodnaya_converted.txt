@@ -1,0 +1,14 @@
+[Name]
+Global - City - Yandex MapEditor (converted)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Yandex_narod/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22
+
+[HTTP Referer]
+https://n.maps.yandex.ru/

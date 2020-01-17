@@ -1,0 +1,14 @@
+[Name]
+Overlay - Labels & Ways - OpenFireMap
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/OpenFireMap/{x}/{y}/{z}
+
+[URL direct]
+http://openfiremap.org/hytiles/{z}/{x}/{y}.png
+
+[Min Zoom level]
+11
+
+[Max Zoom level]
+17

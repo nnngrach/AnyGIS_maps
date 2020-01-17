@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 16-01-2020 21:55
+Updated: 17-01-2020 03:05
 -->
 
 <onlinemapsource uid="468060">
@@ -157,7 +157,7 @@ Updated: 16-01-2020 21:55
 </onlinemapsource>
 
 <onlinemapsource uid="468332">
-<name>Waze Пробки (GLOBALCITY)</name>
+<name>Waze Пробки (в разработке) (GLOBALCITY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Waze/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
@@ -2731,7 +2731,7 @@ Updated: 16-01-2020 21:55
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop>0</yop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -3757,7 +3757,7 @@ Updated: 16-01-2020 21:55
 </onlinemapsource>
 
 <onlinemapsource uid="8888015">
-<name>Яндекс (OVERLAYTRAFFIC)</name>
+<name>Яндекс (proxy) (OVERLAYTRAFFIC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>

@@ -1,0 +1,11 @@
+[Name]
+Global-Info - Nakarte.me - Westra passes
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Nakarte_Westra/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18

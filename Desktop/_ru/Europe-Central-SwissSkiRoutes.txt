@@ -1,0 +1,17 @@
+[Name]
+Европа - Центральная - Швейцария - Лыжные трассы
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Swiss_SwissSkiRoutes/{x}/{y}/{z}
+
+[URL direct]
+https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{z}/{x}/{y}.png
+
+[Min Zoom level]
+6
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://map.geo.admin.ch

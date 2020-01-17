@@ -1,0 +1,14 @@
+[Name]
+Европа - Северная - Norway topomap UT.no - Летние тропы
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norway_UT_Summer_Trails/{x}/{y}/{z}
+
+[URL direct]
+https://tilesprod.ut.no/tilestache/dnt_sommer/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

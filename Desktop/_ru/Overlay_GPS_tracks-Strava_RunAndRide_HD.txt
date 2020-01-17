@@ -1,0 +1,14 @@
+[Name]
+Overlay - GPS треки - Strava Heatmap -  Велоспорт и Бег (beta)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_RunAndRide_HD/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://www.strava.com/heatmap

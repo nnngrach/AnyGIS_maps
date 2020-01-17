@@ -1,0 +1,14 @@
+[Name]
+Global - OSM - Ways - OpenBusMap (Opnvkarte.de)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Opnvkarte/{x}/{y}/{z}
+
+[URL direct]
+http://tile.memomaps.de/tilegen/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

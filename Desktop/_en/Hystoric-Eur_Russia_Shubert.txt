@@ -1,0 +1,17 @@
+[Name]
+Eurasia - Hystoric - European Russia - Shubert
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Shubert/{x}/{y}/{z}
+
+[URL direct]
+http://boxpis.ru/sas/SVG_3v_all/z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+1
+
+[Max Zoom level]
+14
+
+[HTTP Referer]
+http://boxpis.ru/

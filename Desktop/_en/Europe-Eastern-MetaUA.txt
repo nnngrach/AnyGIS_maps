@@ -1,0 +1,14 @@
+[Name]
+Europe - Eastern - Ukraine - Meta.ua
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Ukr_Meta/{x}/{y}/{z}
+
+[URL direct]
+http://i1.map.meta.ua/cell.php?x={x}&y={y}&scale={z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+20

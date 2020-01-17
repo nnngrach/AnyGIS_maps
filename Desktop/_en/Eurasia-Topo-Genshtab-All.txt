@@ -1,0 +1,11 @@
+[Name]
+Eurasia - Topo - Genshtab - Genshtab Compilation
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15

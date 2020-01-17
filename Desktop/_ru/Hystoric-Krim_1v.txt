@@ -1,0 +1,14 @@
+[Name]
+Евразия - Исторические - Крым 1880 1-верстовая
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/1v_krim/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
