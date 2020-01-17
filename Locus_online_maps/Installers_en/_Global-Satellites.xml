@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 23:14
+Updated: 17-01-2020 23:39
 -->
 
 
@@ -96,24 +96,6 @@ Updated: 17-01-2020 23:14
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-Maxar_Premium_Imagery.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Premium_Imagery.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-Satellites-Maxar_Standard_Imagery.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Standard_Imagery.xml]]>
 </dest>
 </download>
 
