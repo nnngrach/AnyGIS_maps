@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:42
+Updated: 17-01-2020 22:58
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 17-01-2020 16:42
 
 <provider id="5555001" type="0" visible="true" background="-1">
 <name>Eurasia - Hystoric</name>
-<mode>German military 1942 3km</mode>
+<mode>German military 1942 2km</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

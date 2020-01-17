@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:41
+Updated: 17-01-2020 22:57
 -->
 
 
 <customMapSource>
-<name>German military 1942 3km</name>
+<name>German military 1942 2km</name>
 <layers>
 
 <layer>

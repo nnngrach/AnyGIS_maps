@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:41
+Updated: 17-01-2020 22:57
 -->
 
 <onlinemapsource uid="468060">
@@ -2407,7 +2407,7 @@ Updated: 17-01-2020 16:41
 </onlinemapsource>
 
 <onlinemapsource uid="5555001">
-<name>Немецкий Генштаб 1942 3км (EURASIAIHYSTORYC)</name>
+<name>Немецкий Генштаб 1942 2км (EURASIAIHYSTORYC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>

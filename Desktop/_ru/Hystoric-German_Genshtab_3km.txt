@@ -1,5 +1,5 @@
 [Name]
-Евразия - Исторические - Немецкий Генштаб 1942 3км
+Евразия - Исторические - Немецкий Генштаб 1942 2км
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}

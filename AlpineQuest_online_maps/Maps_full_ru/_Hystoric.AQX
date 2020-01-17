@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:42
+Updated: 17-01-2020 22:58
 -->
 
 
@@ -471,7 +471,7 @@ Updated: 17-01-2020 16:42
 
 
     <source id="5555001">
-        <name>Немецкий Генштаб 1942 3км</name>
+        <name>Немецкий Генштаб 1942 2км</name>
         
         <data-source></data-source>
         <region>OTHE</region>

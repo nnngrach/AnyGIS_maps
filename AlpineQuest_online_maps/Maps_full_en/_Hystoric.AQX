@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 17-01-2020 16:42
+Updated: 17-01-2020 22:58
 -->
 
 
@@ -241,7 +241,7 @@ Updated: 17-01-2020 16:42
 
 
     <source id="5555001">
-        <name>German military 1942 3km</name>
+        <name>German military 1942 2km</name>
         
         <data-source></data-source>
         <region>OTHE</region>

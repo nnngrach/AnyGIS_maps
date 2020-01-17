@@ -1,5 +1,5 @@
 [Name]
-Eurasia - Hystoric - German military 1942 3km
+Eurasia - Hystoric - German military 1942 2km
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{x}/{y}/{z}
