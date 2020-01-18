@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 02:50
+Updated: 18-01-2020 18:58
 -->
 
 <onlinemapsource uid="468060">
@@ -717,21 +717,6 @@ Updated: 18-01-2020 02:50
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="6666217">
-<name>Kompass.de (GLOBALOSM)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>5</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -3066,17 +3051,17 @@ Updated: 18-01-2020 02:50
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="14000">
-<name>Черногория 250м 1970-72 (EUROPESOUTHEAST)</name>
-<url><![CDATA[https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$y}]]></url>
+<onlinemapsource uid="6666217">
+<name>Kompass.de (EUROPECENTRAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
+<maxzoom>16</maxzoom>
+<minzoom>5</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop>0</yop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -3212,6 +3197,21 @@ Updated: 18-01-2020 02:50
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="14000">
+<name>Черногория 250м 1970-72 (EUROPESOUTHEAST)</name>
+<url><![CDATA[https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>

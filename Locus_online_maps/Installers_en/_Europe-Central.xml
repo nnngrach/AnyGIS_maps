@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 02:51
+Updated: 18-01-2020 18:59
 -->
 
 
@@ -15,6 +15,51 @@ Updated: 18-01-2020 02:51
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe - Central.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_base.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-Czech_base.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_geo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-Czech_geo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_tourist.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-Czech_tourist.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-Czech_winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Kompass_De.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Central-Kompass_De.xml]]>
 </dest>
 </download>
 

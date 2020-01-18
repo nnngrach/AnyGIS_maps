@@ -1,5 +1,5 @@
 [Name]
-Global - OSM - Kompass.de
+Европа - Центральная - Kompass.de
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Kompass_De/{x}/{y}/{z}

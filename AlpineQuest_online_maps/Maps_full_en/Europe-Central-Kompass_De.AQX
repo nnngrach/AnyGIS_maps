@@ -3,16 +3,16 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 02:51
+Updated: 18-01-2020 18:59
 -->
 
 
-<name>Global - OSM</name>
+<name>Europe - Central</name>
 <description></description>
 
     <source id="6666217">
         <name>Kompass.de</name>
-        <copyright>OpenStreetMap, Kompass.de</copyright>
+        <copyright>Kompass.de</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>TOPO</type>

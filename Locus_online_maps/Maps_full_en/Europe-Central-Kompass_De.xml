@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 02:51
+Updated: 18-01-2020 18:59
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 18-01-2020 02:51
 <providers>
 
 <provider id="6666217" type="0" visible="true" background="-1">
-<name>Global - OSM</name>
+<name>Europe - Central</name>
 <mode>Kompass.de</mode>
 <countries>World</countries>
 <usage>hiking</usage>
@@ -25,7 +25,7 @@ Updated: 18-01-2020 02:51
 
 <extraHeader><![CDATA[Referer#https://www.kompass.de]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[© OpenStreetMap, Kompass.de <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<attribution><![CDATA[© Kompass.de <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

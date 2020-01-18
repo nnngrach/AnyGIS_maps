@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 02:51
+Updated: 18-01-2020 18:59
 -->
 
 
@@ -537,15 +537,6 @@ Updated: 18-01-2020 02:51
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-OSM-Komoot.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Global-OSM-Kompass_De.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Kompass_De.xml]]>
 </dest>
 </download>
 
@@ -1226,28 +1217,10 @@ Updated: 18-01-2020 02:51
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Europe%20-%20Southeast.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Kompass_De.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe - Southeast.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Southeast-Montenegro.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe-Southeast-Montenegro.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Europe%20-%20Central.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Europe - Central.png]]>
+<![CDATA[/mapsOnline/custom/Europe-Central-Kompass_De.xml]]>
 </dest>
 </download>
 
@@ -1293,6 +1266,24 @@ Updated: 18-01-2020 02:51
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Europe-Central-SwissTopo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Europe%20-%20Southeast.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe - Southeast.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Southeast-Montenegro.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Europe-Southeast-Montenegro.xml]]>
 </dest>
 </download>
 
