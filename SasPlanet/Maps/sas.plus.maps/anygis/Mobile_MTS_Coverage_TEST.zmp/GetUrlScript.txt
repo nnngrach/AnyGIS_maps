@@ -11,7 +11,7 @@
 // DefURLBase=http://{s:a,b,c}.tile.openstreetmap.org/{z}/{x}/{y}.png
 
 
-// Скрипт разрабатывали Nnngrach и Erelen
+// Авторы идеи Erelen и Nnngrach.
 
  
 
