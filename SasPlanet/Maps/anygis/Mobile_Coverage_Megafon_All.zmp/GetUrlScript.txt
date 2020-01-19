@@ -1,0 +1,217 @@
+// -----------------------------------------------------------------------------
+// ---  Универсальный адаптер от AnyGIS
+// -----------------------------------------------------------------------------
+
+// Этот скрипт призван упростить добавление новых карт в SasPlanet. 
+// Он избавит начинающих пользователей от необходимости программировать на Pascal,
+// чтобы вносить изменения в файл GetUrlScript.txt при добавлении каждой новой карты.
+// Теперь можно просто вставлять привычный URL с заглушками типа {x}, {y}, {z}
+// в поле DefURLBase из файла params.txt. На пример, так:
+//
+// DefURLBase=http://{s:a,b,c}.tile.openstreetmap.org/{z}/{x}/{y}.png
+
+
+// Скрипт разрабатывали Nnngrach и Erelen
+
+ 
+
+
+// --- Список доступных параметров для автозамены:
+
+// {x}          Номер тайла по оси X. (Как в картах OpenStreetMaps)
+// {y}          Номер тайла по оси Y. (Как в картах OpenStreetMaps)
+// {z}          Уровень приближения/зума. (Как в картах OpenStreetMaps)
+// {q}          Номер тайла в системе QuadKey. (Как в картах Bing)
+// {-y}         Инвертированный номер тайла по оси Y. (Как на сайте Nakarte)
+// {bbox}       Координаты границ тайла. (Для WMS серверов)
+// {timeStamp}  Текущее время в формате UnixTime. (Для карт с пробками)
+// {z+1}        Уровень зума. (Для карт, хранящихся в формате SasPlanet)
+// {x/1024}     Номер первой подпапки (Для карт, в формате SasPlanet)
+// {y/1024}     Номер второй подпапки (Для карт, в формате SasPlanet)
+// {s:a,b,c}	Буква или цифра с номером зеркала сервера. 
+//              В данном случае - одна из букв (A,B,C), выбранная рандомно.
+
+
+
+// Совет для начинающих: если хотите разобраться в этом коде, 
+// то удобнее всего читать его с конца.
+
+// Еще один совет: во встроенном в SasPlanet редакторе PascalScript IDE 
+// нет команд Log или Print, которые бы пригодились при отладке своих скриптов.	
+// Но зато если в любом месте кода просто присвоить какое-либо текстовое значение 
+// в переменную Version, то это значение будет показано в окне Debug Output.
+//
+// version := 'Hello, SasPlanet!';
+
+
+
+
+
+
+
+// -----------------------------------------------------------------------------
+// --- 4. Вспомогательные функции
+// -----------------------------------------------------------------------------
+
+// --- Проверить, содержит ли одна строка другую?
+function isContains(findingText: string; inSourceText: string) : boolean;
+begin
+	result := pos(findingText, inSourceText) <> 0;
+end;
+
+
+// --- Округление до нужного количества знаков после запятой
+// --- (стандартные функции округления у меня почему-то не заработали)
+function roundFor(sourceNumber: Double  ; digitAfterComma: integer) : string;
+var
+	intPart, floatPart : integer;
+begin    
+	intPart := floor(sourceNumber);
+	floatPart := floor( (sourceNumber - intPart) * round(intPower(10, digitAfterComma)) )
+	result := intToStr(intPart) + '.' + intToStr(floatPart)
+end;
+
+
+// --- Вычислить номер тайла в системе Quadkey (используется в картах Bing)
+function getQuadkeyText(x: integer; y: integer; z: integer) : string;
+var
+	i, q : byte;
+begin
+	result:='';
+	for i:=1 to z do begin
+		q:=0;
+		if x mod 2 = 1 then q := q + 1;
+		if y mod 2 = 1 then q := q + 2;
+		x := x div 2;
+		y := y div 2;
+		result := intToStr(q) + result;
+	end;
+end;
+
+
+
+
+// -----------------------------------------------------------------------------
+// --- 3. Если требуется, то подставить имя для зеркала сервера 
+// --- на место заглушки типа {s: a,b,c}
+// -----------------------------------------------------------------------------
+type
+	TSubst = record
+		mask, val : string;
+	end;
+	TSubsts = record
+		count : integer;
+		s : array [0..15] of TSubst;
+	end;
+
+
+function replaceServerName(url: string) : string;
+var
+	s, ss : string;
+	sarr : array [0..9] of string;
+	sarr_l, p : integer;
+
+begin
+	s := RegExprGetMatchSubStr(url, '\{[sS]:([^}]+)\}', 0);
+	if s <> '' then begin
+		ss := s;
+		ss := StringReplace(ss, '{s:', '', [rfIgnoreCase]);
+		ss := StringReplace(ss, '}', '', [rfIgnoreCase]);
+		ss := ss + ',';
+		sarr_l := 0;
+		while ss <> '' do begin
+			p := pos(',', ss);
+			if p = 0 then p := length(ss);
+			sarr[sarr_l] := copy(ss, 1, p-1);
+			sarr_l := sarr_l + 1;
+			delete(ss, 1, p);
+		end;
+		url := StringReplace(url, s, sarr[random(sarr_l)], []);
+	end;
+	Result := url;
+end;
+
+
+
+
+// -----------------------------------------------------------------------------
+// --- 2. Если требуется, то вычислить и подставить в шаблон URL адреса 
+// --- нужные значения на место заглушек типа {x}, {y}, {z}.
+// -----------------------------------------------------------------------------
+function replaceLeafletPlaceholders(urlTemplate: string; x: integer; y: integer; z: integer) : string;
+var
+	options: tReplaceFlags;
+	calculatedValue: string;
+
+begin
+	options := [rfReplaceAll, rfIgnoreCase];
+	result := urlTemplate;
+
+	if isContains('{x}', result) then begin
+		calculatedValue := intToStr(x);
+		result := stringReplace( result, '{x}', calculatedValue, options)
+	end;
+
+	if isContains('{y}', result) then begin
+		calculatedValue := intToStr(y);
+		result := stringReplace( result, '{y}', calculatedValue, options)
+	end;
+
+	if isContains('{z}', result) then begin
+		calculatedValue := intToStr(z-1);
+		result := stringReplace( result, '{z}', calculatedValue, options)
+	end;
+
+	if isContains('{z+1}', result) then begin
+		calculatedValue := intToStr(z);
+		result := stringReplace( result, '{z+1}', calculatedValue, options)
+	end;
+
+	if isContains('{x/1024}', result) then begin
+		calculatedValue := intToStr(x div 1024);
+		result := stringReplace( result, '{x/1024}', calculatedValue, options)
+	end;
+
+	if isContains('{y/1024}', result) then begin
+		calculatedValue := intToStr(y div 1024);
+		result := stringReplace( result, '{y/1024}', calculatedValue, options)
+	end;
+
+	if isContains('{-y}', result) then begin
+		calculatedValue := intToStr( round(intPower(2, z-1)) - 1 - y);
+		result := stringReplace( result, '{-y}', calculatedValue, options)
+	end;
+
+	if isContains('{q}', result) then begin
+		calculatedValue := getQuadkeyText(x, y, z);
+		result := stringReplace( result, '{q}', calculatedValue, options)
+	end;
+
+	if isContains('{bbox}', result) then begin
+        result := stringReplace( result, '{bbox}', '{Left},{Bottom},{Right},{Top}', options)
+        result := stringReplace( result, '{Left}', roundFor(GetLMetr,8), options)
+        result := stringReplace( result, '{Bottom}', roundFor(GetBMetr,8), options)
+        result := stringReplace( result, '{Right}', roundFor(GetRMetr,8), options)
+        result := stringReplace( result, '{Top}', roundFor(GetTMetr,8), options)
+        // Делаю замену в пять операций потому, что при попытке 
+        // сделать все одной строкой возникает ошибка. 
+        // Возможно какое-то ограничение на память.
+	end;
+
+	if isContains('{timeStamp}', result) then begin
+		calculatedValue := IntToStr(GetUnixTime);
+		result := stringReplace( result, '{timeStamp}', calculatedValue, options)
+	end;
+end;
+
+
+
+
+// -----------------------------------------------------------------------------
+// --- 1. Старт скрипта. Запустить вычисление URL-адреса тайла.
+// --- Скачать тайл по полученному URL.
+// -----------------------------------------------------------------------------
+begin
+	resultURL := replaceLeafletPlaceholders(getURLBase, getX, getY, getZ);
+	resultURL := replaceServerName(resultURL);	
+end.
