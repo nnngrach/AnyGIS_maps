@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 31-01-2020 16:09
+Updated: 31-01-2020 17:04
 -->
 
 
@@ -42,6 +42,15 @@ Updated: 31-01-2020 16:09
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Global-Info-OpenWeatherMap_Precipit.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-RainWiewer_Precipit.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Global-Info-RainWiewer_Precipit.xml]]>
 </dest>
 </download>
 

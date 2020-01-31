@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 31-01-2020 16:08
+Updated: 31-01-2020 17:03
 -->
 
 <onlinemapsource uid="468060">
@@ -1107,6 +1107,21 @@ Updated: 31-01-2020 16:08
 <servers>a,b,c,d,e,f,g,h</servers>
 <maxzoom>8</maxzoom>
 <minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="412046">
+<name>RainWiewer - Precipitation (GLOBALINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/RainWiewer_Precipit/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>

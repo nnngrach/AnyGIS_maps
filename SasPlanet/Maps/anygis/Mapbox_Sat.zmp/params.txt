@@ -1,6 +1,6 @@
 ﻿
 [PARAMS]
-GUID={E9542EF4-9AA9-46D6-A929-A17D3DF22E2D}
+GUID={90AA1394-5777-4A7D-8875-1E9445D35510}
 ParentSubMenu_ru=Спутниковые
 ParentSubMenu_uk=Спутниковые
 ParentSubMenu=Satellite

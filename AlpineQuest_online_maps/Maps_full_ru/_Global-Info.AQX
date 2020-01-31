@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 31-01-2020 16:09
+Updated: 31-01-2020 17:03
 -->
 
 
@@ -83,6 +83,29 @@ Updated: 31-01-2020 16:09
                 <server><![CDATA[http://g.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
                 <server><![CDATA[http://h.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
 
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="412046">
+        <name>RainWiewer - Осадки сейчас</name>
+        <copyright>RainWiewer</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>TOPO</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/RainWiewer_Precipit/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
