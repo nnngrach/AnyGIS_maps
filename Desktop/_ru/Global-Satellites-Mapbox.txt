@@ -7,9 +7,6 @@ https://anygis.ru/api/v1/Mapbox_Sat/{x}/{y}/{z}
 [URL direct]
 http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg
 
-[Server parts]
-a;b;c
-
 [Min Zoom level]
 0
 

@@ -1,7 +1,7 @@
 [url_template]
 http://api.tiles.mapbox.com/v4/mapbox.satellite/{0}/{1}/{2}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg
 [randoms]
-a,b,c
+
 [min_zoom]
 0
 [max_zoom]

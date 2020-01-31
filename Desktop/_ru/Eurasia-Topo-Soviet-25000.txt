@@ -13,8 +13,5 @@ https://tiles.nakarte.me/eurasia25km/{z}/{x}/{-y}
 [Max Zoom level]
 9
 
-[HTTP Referer]
-https://nakarte.me/
-
 [Proection description]
 With inverted Y

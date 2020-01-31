@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -12,7 +12,7 @@ Updated: 18-01-2020 18:59
 
 <provider id="12000" type="0" visible="true" background="-1">
 <name>Europe - Central</name>
-<mode>Czech base</mode>
+<mode>Czech - Mapy.cz Base</mode>
 <countries>Czech</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

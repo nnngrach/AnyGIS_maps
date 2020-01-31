@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -23,7 +23,7 @@ Updated: 18-01-2020 18:59
 <zoomMax>20</zoomMax>   <!-- 12 -->
 <tileSize>256</tileSize>
 
-<extraHeader><![CDATA[Referer#https://nakarte.me/]]></extraHeader>
+<extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>

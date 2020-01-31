@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:58
+Updated: 31-01-2020 16:08
 -->
 
 
 <customMapSource>
-<name>Czech base</name>
+<name>Czech - Mapy.cz Base</name>
 <layers>
 
 <layer>

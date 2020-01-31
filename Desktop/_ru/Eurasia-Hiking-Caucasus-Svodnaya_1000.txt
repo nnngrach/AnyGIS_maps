@@ -13,8 +13,5 @@ https://tiles.nakarte.me/new_gsh_100k/{z}/{x}/{-y}
 [Max Zoom level]
 14
 
-[HTTP Referer]
-https://nakarte.me/
-
 [Proection description]
 With inverted Y

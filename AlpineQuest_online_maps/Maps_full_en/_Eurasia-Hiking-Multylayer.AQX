@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -26,7 +26,7 @@ Updated: 18-01-2020 18:59
             <update-delay>4166D</update-delay>
 
             <servers>
-                <referer><![CDATA[http://maps.marshruty.ru/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}&i=1]]></server>
             </servers>
         </level>

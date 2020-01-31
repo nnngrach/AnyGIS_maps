@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:58
+Updated: 31-01-2020 16:08
 -->
 
 
 <customMapSource>
-<name>Чехия - Зимние тропы</name>
+<name>Чехия - Mapy.cz Winter</name>
 <layers>
 
 <layer>

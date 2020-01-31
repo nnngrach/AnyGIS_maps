@@ -1,5 +1,5 @@
 [Name]
-Европа - Центральная - Чехия 
+Европа - Центральная - Чехия - Mapy.cz Base
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Czech_base/{x}/{y}/{z}

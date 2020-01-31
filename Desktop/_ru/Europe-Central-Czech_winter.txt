@@ -1,5 +1,5 @@
 [Name]
-Европа - Центральная - Чехия - Зимние тропы
+Европа - Центральная - Чехия - Mapy.cz Winter
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Czech_winter/{x}/{y}/{z}

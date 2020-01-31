@@ -1,5 +1,5 @@
 [Name]
-Europe - Central - Czech tourist
+Европа - Центральная - Чехия - Mapy.cz Outdoor
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Czech_tourist/{x}/{y}/{z}

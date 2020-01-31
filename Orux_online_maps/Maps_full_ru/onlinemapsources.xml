@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:58
+Updated: 31-01-2020 16:08
 -->
 
 <onlinemapsource uid="468060">
@@ -309,7 +309,7 @@ Updated: 18-01-2020 18:58
 <onlinemapsource uid="468615">
 <name>Mapbox (GLOBALSATELLITES)</name>
 <url><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></url>
-<servers>a,b,c</servers>
+<servers></servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -3067,7 +3067,7 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12000">
-<name>Чехия  (EUROPECENTRAL)</name>
+<name>Чехия - Mapy.cz Base (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/base-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -3082,7 +3082,22 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12004">
-<name>Чехия - Географическая (EUROPECENTRAL)</name>
+<name>Чехия - Mapy.cz Geography (EUROPECENTRAL)</name>
+<url><![CDATA[https://m{$s}.mapserver.mapy.cz/turist-m/{$z}-{$x}-{$y}]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="12001">
+<name>Чехия - Mapy.cz Outdoor (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/turist-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -3097,23 +3112,8 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12003">
-<name>Чехия - Зимние тропы (EUROPECENTRAL)</name>
+<name>Чехия - Mapy.cz Winter (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/winter-m/{$z}-{$x}-{$y}]]></url>
-<servers>1,2,3,4</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="12001">
-<name>Чехия - Тропы (EUROPECENTRAL)</name>
-<url><![CDATA[https://m{$s}.mapserver.mapy.cz/turist-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

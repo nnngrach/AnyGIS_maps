@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:58
+Updated: 31-01-2020 16:08
 -->
 
 <onlinemapsource uid="468060">
@@ -339,7 +339,7 @@ Updated: 18-01-2020 18:58
 <onlinemapsource uid="468615">
 <name>Mapbox Satellite (GLOBALSATELLITES)</name>
 <url><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></url>
-<servers>a,b,c</servers>
+<servers></servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -1492,7 +1492,7 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12000">
-<name>Czech base (EUROPECENTRAL)</name>
+<name>Czech - Mapy.cz Base (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/base-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -1507,7 +1507,7 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12004">
-<name>Czech geographical (EUROPECENTRAL)</name>
+<name>Czech - Mapy.cz Geography (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/turist-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -1522,7 +1522,7 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12001">
-<name>Czech tourist (EUROPECENTRAL)</name>
+<name>Czech - Mapy.cz Outdoor (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/turist-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -1537,7 +1537,7 @@ Updated: 18-01-2020 18:58
 </onlinemapsource>
 
 <onlinemapsource uid="12003">
-<name>Czech winter (EUROPECENTRAL)</name>
+<name>Czech - Mapy.cz Winter (EUROPECENTRAL)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/winter-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>

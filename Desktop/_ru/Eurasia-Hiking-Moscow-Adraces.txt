@@ -13,8 +13,5 @@ https://tiles.nakarte.me/adraces/{z}/{x}/{-y}
 [Max Zoom level]
 15
 
-[HTTP Referer]
-https://nakarte.me/
-
 [Proection description]
 With inverted Y

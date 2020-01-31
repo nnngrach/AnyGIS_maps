@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -11,8 +11,8 @@ Updated: 18-01-2020 18:59
 <providers>
 
 <provider id="12001" type="0" visible="true" background="-1">
-<name>Европа - Центральная</name>
-<mode>Чехия - Тропы</mode>
+<name>Europe - Central</name>
+<mode>Czech - Mapy.cz Outdoor</mode>
 <countries>Czech</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

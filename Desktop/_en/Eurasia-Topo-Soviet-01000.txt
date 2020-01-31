@@ -13,8 +13,5 @@ https://tiles.nakarte.me/topo1000/{z}/{x}/{-y}
 [Max Zoom level]
 13
 
-[HTTP Referer]
-https://nakarte.me/
-
 [Proection description]
 With inverted Y

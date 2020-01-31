@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:58
+Updated: 31-01-2020 16:08
 -->
 
 
@@ -14,7 +14,6 @@ Updated: 18-01-2020 18:58
     <minZoom>0</minZoom>
     <maxZoom>17</maxZoom>
     <url>http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg</url>
-    <serverParts>a b c</serverParts>
 </layer>
 
 </layers>

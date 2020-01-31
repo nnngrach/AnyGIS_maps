@@ -1,5 +1,5 @@
 [Name]
-Europe - Central - Czech geographical
+Europe - Central - Czech - Mapy.cz Geography
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Czech_geo/{x}/{y}/{z}

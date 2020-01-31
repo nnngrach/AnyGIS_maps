@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -49,7 +49,7 @@ Updated: 18-01-2020 18:59
             <update-delay>4166D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://nakarte.me/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_ArbaletMO/{x}/{y}/{z}]]></server>
             </servers>
         </level>
@@ -72,7 +72,7 @@ Updated: 18-01-2020 18:59
             <update-delay>365D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://nakarte.me/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Slazav_Nakarte/{x}/{y}/{z}]]></server>
             </servers>
         </level>
@@ -95,7 +95,7 @@ Updated: 18-01-2020 18:59
             <update-delay>365D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://nakarte.me/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Adraces/{x}/{y}/{z}]]></server>
             </servers>
         </level>
@@ -118,7 +118,7 @@ Updated: 18-01-2020 18:59
             <update-delay>365D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://nakarte.me/]]></referer>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Osport/{x}/{y}/{z}]]></server>
             </servers>
         </level>

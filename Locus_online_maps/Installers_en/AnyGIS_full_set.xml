@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 18-01-2020 18:59
+Updated: 31-01-2020 16:09
 -->
 
 
@@ -1199,10 +1199,10 @@ Updated: 18-01-2020 18:59
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_tourist.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/Europe-Central-Czech_outdoor.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_tourist.xml]]>
+<![CDATA[/mapsOnline/custom/Europe-Central-Czech_outdoor.xml]]>
 </dest>
 </download>
 

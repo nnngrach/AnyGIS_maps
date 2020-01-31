@@ -12,6 +12,3 @@ http://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}&i=1
 
 [Max Zoom level]
 15
-
-[HTTP Referer]
-http://maps.marshruty.ru/
