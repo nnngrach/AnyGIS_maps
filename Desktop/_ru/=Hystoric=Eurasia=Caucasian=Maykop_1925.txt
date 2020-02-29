@@ -1,0 +1,14 @@
+[Name]
+Исторические - Евразия - Кавказ - Майкопский округ 1925
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Maykop_1925/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/1925_maykop/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

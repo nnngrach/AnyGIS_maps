@@ -1,0 +1,14 @@
+[Name]
+Hike - Eurasia - Khibiny - Khibiny's Tundra (2008)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Karelia1/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/tourism/karelia/hibin4ae/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

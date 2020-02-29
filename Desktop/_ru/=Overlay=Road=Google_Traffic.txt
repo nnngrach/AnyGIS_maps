@@ -1,0 +1,23 @@
+[Name]
+Слои - Авто - Google - Пробки
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Google_Trafic_Layer/{x}/{y}/{z}
+
+[URL direct 256px]
+http://mt{s}.google.com/vt?hl=ru&lyrs=m@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=1
+
+[URL direct 512px]
+http://mt{s}.google.com/vt?hl=ru&lyrs=m@159000000,traffic|seconds_into_week:-1&style=15&x={x}&y={y}&z={z}&scale=2
+
+[Server parts]
+0;1;2;3
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+20
+
+[HTTP Referer]
+https://www.google.com/maps/

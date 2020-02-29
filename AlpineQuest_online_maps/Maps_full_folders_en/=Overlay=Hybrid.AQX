@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Overlay - Labels</name>
+<description></description>
+
+    <source id="2020002" layer="true">
+        <name>Google - Hybrid</name>
+        <copyright>Google & others</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.google.com/maps/]]></referer>
+                
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2020003" layer="true">
+        <name>OSM Mapbox - Hybrid</name>
+        <copyright>Mapbox</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,14</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Mapbox_labels/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2020006" layer="true">
+        <name>TomTom - Hybrid (day)</name>
+        <copyright>TomTom</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
+                
+                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2020007" layer="true">
+        <name>TomTom - Hybrid (night)</name>
+        <copyright>TomTom</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://mydrive.tomtom.com/]]></referer>
+                
+                <server><![CDATA[http://a-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://b-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://c-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+                <server><![CDATA[http://d-mydrive.api-system.tomtom.com/map/1/tile/hybrid/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

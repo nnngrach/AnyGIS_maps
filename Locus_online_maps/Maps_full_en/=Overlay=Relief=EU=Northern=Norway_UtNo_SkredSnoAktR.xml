@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+
+<providers>
+
+<provider id="2012302" type="0" visible="true" background="-1">
+<name>Overlay - Relief - Europe - Northern</name>
+<mode>Norway UT.no - Aktsomhetskart for snøskred</mode>
+<countries>Norway</countries>
+<usage>overlay</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://gis3.nve.no/map/rest/services/SkredSnoAktR/MapServer/export?dpi=96&transparent=true&format=png8&layers=show:0,1,2&bbox={bbox}&bboxSR=3857&imageSR=3857&size=512,512&f=image ]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© UT.no <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

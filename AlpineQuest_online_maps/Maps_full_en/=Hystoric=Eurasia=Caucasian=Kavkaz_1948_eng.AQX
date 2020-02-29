@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hystoric - Eurasia - North Caucasian</name>
+<description></description>
+
+    <source id="1111403">
+        <name>Caucasus 1941</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.15,44.6,10</preview-location>
+        <outline>35.8,47.1 50.7,47.1 50.7,39.01 35.8,39.01</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Kavkaz_1948_eng/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

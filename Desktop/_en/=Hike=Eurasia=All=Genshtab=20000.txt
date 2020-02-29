@@ -1,0 +1,14 @@
+[Name]
+Hike - Eurasia - All - Soviet Military Map - Genshtab 20 000m
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Locals_Genshtab_20000/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/genshtab/20km/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+9

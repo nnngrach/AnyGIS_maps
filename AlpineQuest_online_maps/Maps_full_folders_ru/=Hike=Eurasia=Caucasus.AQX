@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм - Евразия - Кавказ</name>
+<description></description>
+
+    <source id="1053201">
+        <name>Абишира-Ахуба (Ляпин В.Г.)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>43.14,43.1,13</preview-location>
+        <outline>40.9975,43.6673 43.247,43.6673 43.247,42.9979 40.9975,42.9979</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053202">
+        <name>Западный Кавказ (КОТ ОРИЕНТ)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>40.51,43.83,10</preview-location>
+        <outline>38.53,44.86 41.13,44.86 41.13,43.52 38.53,43.52</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053203">
+        <name>Казбек (Geoland)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>44.53,42.69,13</preview-location>
+        <outline>42.35,43.3 45.77,43.3 45.77,42.1 42.35,42.1</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053204">
+        <name>Перевалы Западного Кавказа 2014</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>40.67,43.81,13</preview-location>
+        <outline>39.53,44.2 42.48,44.2 42.48,43.02 39.53,43.02</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_04/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053205">
+        <name>Перевалы Центрального Кавказа 2014</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.59,43.33,13</preview-location>
+        <outline>42.02,43.66 43.69,43.66 43.69,42.76 42.02,42.76</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_07/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053206">
+        <name>Перевалы Южного Кавказа 2014</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.82,43.07,12</preview-location>
+        <outline>41.94,43.28 45.44,43.28 45.44,42.2 41.94,42.2</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053207">
+        <name>Сводная Госгеодезия 1991г</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.48,43.33,12</preview-location>
+        <outline>40.37,43.9 43.7,43.9 43.7,42.77 40.37,42.77</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053208">
+        <name>Сводная ФГУ СК АГП</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>40.42,43.78,12</preview-location>
+        <outline>39.7,43.9 43.6,43.9 43.6,42.8 39.7,42.8</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053209">
+        <name>Сводная карта Кавказа 1000м</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.35,43.38,12</preview-location>
+        <outline>36.4992,45.6665 45.4985,45.6665 45.4985,42.3334 36.4992,42.3334</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_10/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053210">
+        <name>Сводная карта Кавказа 500м</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.35,43.38,13</preview-location>
+        <outline>36.4984,45.6665 45.4984,45.6665 45.4984,42.5001 36.4984,42.5001</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_11/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053211">
+        <name>Хребтовка Приэльбрусья (Ляпин В.Г.)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>42.59,43.26,12</preview-location>
+        <outline>42.1238,43.4948 45.3749,43.4948 45.3749,42.5814 42.1238,42.5814</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Kavkaz_08/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

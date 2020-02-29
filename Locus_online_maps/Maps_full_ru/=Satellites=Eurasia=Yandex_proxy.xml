@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+
+<providers>
+
+<provider id="1011004" type="2" visible="true" background="-1">
+<name>Спутниковые - Евразия</name>
+<mode>Яндекс (proxy)</mode>
+<countries>World</countries>
+<usage>photo</usage>
+<cacheTimeout>2160</cacheTimeout>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_sat_clean_WGS84_proxy/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#https://yandex.ru/maps/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© Яндекс <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

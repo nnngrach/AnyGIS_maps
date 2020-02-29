@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=US=USGS_Sat_plus.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat_plus.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20America.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Satellites - America.png]]>
+</dest>
+</download>
+
+</locusActions>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Europe%20-%20Eastern.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Satellites - Europe - Eastern.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=EU=East=CadastrUA_sat.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=CadastrUA_sat.xml]]>
+</dest>
+</download>
+
+</locusActions>

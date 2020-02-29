@@ -1,0 +1,17 @@
+[Name]
+Туризм - Европа - Северная - Topografisk Norgeskart
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norgeskart/{x}/{y}/{z}
+
+[URL direct]
+https://opencache{s}.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}
+
+[Server parts]
+2;3
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

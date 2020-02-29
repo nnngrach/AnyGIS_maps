@@ -1,0 +1,14 @@
+[Name]
+Hystoric - Europe - Eastern - Belarus 3 verstovaya
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Belarus_3v/{x}/{y}/{z}
+
+[URL direct]
+https://globus.tut.by/.tiles/3v/Z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+10
+
+[Max Zoom level]
+14

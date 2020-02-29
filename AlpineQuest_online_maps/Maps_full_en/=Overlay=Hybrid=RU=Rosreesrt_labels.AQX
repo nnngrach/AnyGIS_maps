@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Overlay - Labels - Eurasia</name>
+<description></description>
+
+    <source id="2021003" layer="true">
+        <name>Rosreestr.ru - Labels</name>
+        <copyright>Яндекс</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.65701,55.75378,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://pkk5.rosreestr.ru/]]></referer>
+                <server><![CDATA[http://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/{y}/{x}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

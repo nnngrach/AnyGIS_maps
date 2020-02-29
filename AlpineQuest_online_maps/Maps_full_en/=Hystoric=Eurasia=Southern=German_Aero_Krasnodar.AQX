@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hystoric - Eurasia - Southern</name>
+<description></description>
+
+    <source id="1111306">
+        <name>German military avia photo</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>SATE</type>
+
+        <preview-location>38.9,45.001,15</preview-location>
+        <outline>37.2,46.8 41.2,46.8 41.2,44.5 37.2,44.5</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_German_Aero_Krasnodar/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

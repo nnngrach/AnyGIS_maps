@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Strelbitsky_1882.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Strelbitsky_1882.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hystoric%20-%20Eurasia.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hystoric - Eurasia.png]]>
+</dest>
+</download>
+
+</locusActions>

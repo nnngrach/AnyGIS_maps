@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Winter.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Overlay - Winter.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=OpenSnowMap_pistes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=OpenSnowMap_pistes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=WayMarkedTrails_Slopes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=WayMarkedTrails_Slopes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Strava_Winter_HD.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_HD.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
+</dest>
+</download>
+
+</locusActions>

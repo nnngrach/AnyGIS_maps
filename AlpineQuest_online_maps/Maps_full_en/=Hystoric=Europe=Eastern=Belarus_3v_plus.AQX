@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hystoric - Europe - Eastern</name>
+<description></description>
+
+    <source id="1112202">
+        <name>Belarus 3 verstovaya+</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>ROAD</type>
+
+        <preview-location>27.6,53.9,12</preview-location>
+        <outline>22.6,56.1 30.5,56.1 30.5,51.5 22.6,51.5</outline>
+
+        <level>
+            <zoom-values>10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -1,0 +1,17 @@
+[Name]
+Туризм - Евразия - Кавказ - Сводная карта Кавказа 1000м
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Kavkaz_10/{x}/{y}/{z}
+
+[URL direct]
+https://tiles.nakarte.me/new_gsh_100k/{z}/{x}/{-y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14
+
+[Proection description]
+With inverted Y

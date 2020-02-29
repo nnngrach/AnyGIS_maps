@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hike - Eurasia - Other</name>
+<description></description>
+
+    <source id="1053501">
+        <name>Altai Katun Ridge</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>87.62,50.06,12</preview-location>
+        <outline>85.74,50.35 88.36,50.35 88.36,49.6 85.74,49.6</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Altay1/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053503">
+        <name>Ergaki - Ardan</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>93.42,52.85,13</preview-location>
+        <outline>92.8672,53.0154 93.6925,53.0154 93.6925,52.4273 92.8672,52.4273</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053505">
+        <name>Slazav Mountains</name>
+        <copyright>Slazav</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>72.17,38.82,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Slazav_hrebtovki_nakarte_direct/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053502">
+        <name>Taganay Park</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>59.79,55.19,12</preview-location>
+        <outline>59.502,55.5886 60.093,55.5886 60.093,55.0761 59.502,55.0761</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1053504">
+        <name>Terskey Alatau</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>80.25,44.87,10</preview-location>
+        <outline>70.15,45.87 82.32,45.87 82.32,40.22 70.15,40.22</outline>
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

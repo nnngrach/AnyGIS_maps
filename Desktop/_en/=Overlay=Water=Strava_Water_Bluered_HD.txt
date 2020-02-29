@@ -1,0 +1,14 @@
+[Name]
+Overlay - Water - Strava Heatmap - Water (HD Bluered)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered_HD/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://www.strava.com/heatmap

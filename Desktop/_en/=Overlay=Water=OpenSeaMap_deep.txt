@@ -1,0 +1,14 @@
+[Name]
+Overlay - Water - OSM OpenSeaMap - Deep Map
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_OpenSeaMap_Layer_Depth/{x}/{y}/{z}
+
+[URL direct]
+http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{z}&TileCol={x}&TileRow={y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

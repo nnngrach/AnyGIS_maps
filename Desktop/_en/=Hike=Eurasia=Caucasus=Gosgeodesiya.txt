@@ -1,0 +1,14 @@
+[Name]
+Hike - Eurasia - Caucasus - GosGeodesya 1991
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Kavkaz_03/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/tourism/gosgeodeziya/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

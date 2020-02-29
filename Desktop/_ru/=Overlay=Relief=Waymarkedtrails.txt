@@ -1,0 +1,11 @@
+[Name]
+Слои - Рельеф - Waymarkedtrails.org
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

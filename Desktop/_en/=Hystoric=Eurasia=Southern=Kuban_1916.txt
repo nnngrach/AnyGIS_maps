@@ -1,0 +1,14 @@
+[Name]
+Hystoric - Eurasia - Southern - Kuban district geologic1908-16
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Kuban_1916/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/historic/kuban_1v/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15

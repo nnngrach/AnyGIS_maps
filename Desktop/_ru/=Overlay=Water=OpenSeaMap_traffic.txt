@@ -1,0 +1,14 @@
+[Name]
+Слои - Водные - OSM OpenSeaMap - Морской траффик
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_OpenSeaMap_Layer_Traffic/{x}/{y}/{z}
+
+[URL direct]
+https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

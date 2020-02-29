@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Overlay - Infrastructure</name>
+<description></description>
+
+    <source id="2090001" layer="true">
+        <name>OSM OpenFireMap</name>
+        <copyright>OpenFireMap</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,11</preview-location>
+        
+
+        <level>
+            <zoom-values>11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://openfiremap.org/hytiles/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

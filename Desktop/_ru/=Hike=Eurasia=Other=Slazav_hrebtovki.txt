@@ -1,0 +1,17 @@
+[Name]
+Туризм - Евразия - Разное - Хребтовки Завьялова
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Slazav_hrebtovki_nakarte_direct/{x}/{y}/{z}
+
+[URL direct]
+https://tiles.nakarte.me/map_hr/{z}/{x}/{-y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+13
+
+[Proection description]
+With inverted Y

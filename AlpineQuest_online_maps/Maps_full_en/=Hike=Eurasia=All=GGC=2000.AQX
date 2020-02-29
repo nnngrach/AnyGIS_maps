@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hike - Eurasia - All - GGC</name>
+<description></description>
+
+    <source id="1052102">
+        <name>GGC 2000m</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>43.45,57.55,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Ggc_02000/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

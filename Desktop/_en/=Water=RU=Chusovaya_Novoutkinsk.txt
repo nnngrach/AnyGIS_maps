@@ -1,0 +1,14 @@
+[Name]
+Water - Eurasia - Chusovaya river
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_River_Chusovaya/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/water/chusovaya/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14

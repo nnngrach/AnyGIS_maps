@@ -1,0 +1,17 @@
+[Name]
+Исторические - Евразия - Северо-Запад - Санкт-Петербург 1883 (план Вортникова)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_SPB_1883/{x}/{y}/{z}
+
+[URL direct]
+http://www.hutun.ru/tiles/8/1418833/Z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+11
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+http://www.retromap.ru/m/

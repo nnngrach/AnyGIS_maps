@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Satellites - Europe - Northern</name>
+<description></description>
+
+    <source id="1012201">
+        <name>Eniro</name>
+        <copyright>Eniro</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>SATE</type>
+
+        <preview-location>22.05115,60.435,10</preview-location>
+        <outline>4.2,71.3 31.1,71.3 31.1,54.3 4.2,54.3</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>90D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Eniro_Sat_clean/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1012203">
+        <name>Hitta</name>
+        <copyright>Hitta</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>SATE</type>
+
+        <preview-location>22.0511,60.435,10</preview-location>
+        <outline>11.1,69.1 24.3,69.1 24.3,55.6 11.1,55.6</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Hitta_sat/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1012205">
+        <name>Topografisk Norgeskart </name>
+        <copyright>Norgeskart</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>9.58282,61.5979,9</preview-location>
+        <outline>3.9,71.3 31.6,71.3 31.6,57.8 3.9,57.8</outline>
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                
+                <server><![CDATA[http://maptiles1.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles2.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles3.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles4.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1012204">
+        <name>Topografisk Norgeskart Hybrid</name>
+        <copyright>Norgeskart</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>SATE</type>
+
+        <preview-location>9.58282,61.5979,9</preview-location>
+        <outline>3.9,71.3 31.6,71.3 31.6,57.8 3.9,57.8</outline>
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                
+                <server><![CDATA[http://maptiles1.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles2.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles3.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://maptiles4.finncdn.no/tileService/1.0.3/norhybrid/{z}/{x}/{y}.png]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

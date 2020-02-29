@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+
+<providers>
+
+<provider id="2022201" type="1" visible="true" background="-1">
+<name>Слои - Подписи - Европа - Северная</name>
+<mode>Eniro - Гибрид</mode>
+<countries>Norway, Sweden, Finland, Denmark</countries>
+<usage>overlay</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/hybrid/{z}/{x}/{y}.png]]></url>
+<serverPart>1;2;3;4</serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>30</zoomMax>   <!-- 22 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© Eniro <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

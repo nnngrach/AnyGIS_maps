@@ -1,0 +1,20 @@
+[Name]
+Hike - Europe - Northern - FINN Kart Norge
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norge_finnkart/{x}/{y}/{z}
+
+[URL direct 256px]
+http://maptiles{s}.finncdn.no/tileService/1.0.3/normap/{z}/{x}/{y}.png
+
+[URL direct 512px]
+http://maptiles{s}.finncdn.no/tileService/1.0.3/normaphd/{z}/{x}/{y}.png
+
+[Server parts]
+1;2;3;4
+
+[Min Zoom level]
+5
+
+[Max Zoom level]
+21

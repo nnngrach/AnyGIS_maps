@@ -1,0 +1,20 @@
+[Name]
+Слои - Подписи - Евразия - RosReestr - Подписи
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Rosreestr_labels/{x}/{y}/{z}
+
+[URL direct]
+https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/{y}/{x}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+20
+
+[HTTP Referer]
+https://pkk5.rosreestr.ru/
+
+[Proection description]
+Ellipsoid

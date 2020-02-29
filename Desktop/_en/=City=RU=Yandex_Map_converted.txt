@@ -1,0 +1,14 @@
+[Name]
+City - Eurasia - Yandex (converted)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Yandex_map/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19
+
+[HTTP Referer]
+https://yandex.ru/maps/

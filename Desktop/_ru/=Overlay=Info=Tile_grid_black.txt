@@ -1,0 +1,11 @@
+[Name]
+Слои - Справочные - Тайловая сетка TMS - Черная
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/TILE_GRID_BLACK/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

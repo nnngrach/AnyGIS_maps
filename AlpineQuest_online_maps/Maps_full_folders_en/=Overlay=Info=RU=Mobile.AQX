@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Overlay - Info - Eurasia - Mobile</name>
+<description></description>
+
+    <source id="2081515" layer="true">
+        <name>Beeline 2G</name>
+        <copyright>Билайн</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.beeline.ru/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12]]></referer>
+                <server><![CDATA[http://static.beeline.ru/upload/tiles/2G/current/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081516" layer="true">
+        <name>Beeline 3G</name>
+        <copyright>Билайн</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.beeline.ru/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12]]></referer>
+                <server><![CDATA[http://static.beeline.ru/upload/tiles/3G/current/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081517" layer="true">
+        <name>Beeline 4G</name>
+        <copyright>Билайн</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.beeline.ru/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12]]></referer>
+                <server><![CDATA[http://static.beeline.ru/upload/tiles/3G/current/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081527" layer="true">
+        <name>MTS</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081521" layer="true">
+        <name>MTS 2G</name>
+        <copyright>ПАО «МТС»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/]]></referer>
+                <server><![CDATA[http://tiles.qsupport.mts.ru/g2_New/{z}/{x}/{y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081522" layer="true">
+        <name>MTS 3G</name>
+        <copyright>ПАО «МТС»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/]]></referer>
+                <server><![CDATA[http://tiles.qsupport.mts.ru/g3_New/{z}/{x}/{y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081523" layer="true">
+        <name>MTS 4G</name>
+        <copyright>ПАО «МТС»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/]]></referer>
+                <server><![CDATA[http://tiles.qsupport.mts.ru/lte_New/{z}/{x}/{y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081524" layer="true">
+        <name>MTS 4G Planned</name>
+        <copyright>ПАО «МТС»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/]]></referer>
+                <server><![CDATA[http://tiles.qsupport.mts.ru/lte_plan_New/{z}/{x}/{y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081525" layer="true">
+        <name>MTS IoT</name>
+        <copyright>ПАО «МТС»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/]]></referer>
+                <server><![CDATA[http://tiles.qsupport.mts.ru/nb_iot/{z}/{x}/{y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081534" layer="true">
+        <name>Megaphone</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081530" layer="true">
+        <name>Megaphone 2G</name>
+        <copyright>ПАО «МегаФон»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+                <server><![CDATA[http://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=2g]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081529" layer="true">
+        <name>Megaphone 3G</name>
+        <copyright>ПАО «МегаФон»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+                <server><![CDATA[http://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=3g]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081531" layer="true">
+        <name>Megaphone 4G</name>
+        <copyright>ПАО «МегаФон»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+                <server><![CDATA[http://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=lte]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081532" layer="true">
+        <name>Megaphone 4G+</name>
+        <copyright>ПАО «МегаФон»</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://moscow.megafon.ru/help/offices/#coverage]]></referer>
+                <server><![CDATA[http://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=lte_plus]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081519" layer="true">
+        <name>Mobile Beeline</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Beeline_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081540" layer="true">
+        <name>Rostelcom</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081536" layer="true">
+        <name>Rostelcom 2G</name>
+        <copyright>Ростелеком</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moscow.rt.ru/mobile/mobile_tariff]]></referer>
+                <server><![CDATA[http://tele2.tilessputnik.ru/tiles/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081537" layer="true">
+        <name>Rostelcom 3G</name>
+        <copyright>Ростелеком</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moscow.rt.ru/mobile/mobile_tariff]]></referer>
+                <server><![CDATA[http://tele2.tilessputnik.ru/tiles3g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081538" layer="true">
+        <name>Rostelcom 4G</name>
+        <copyright>Ростелеком</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://moscow.rt.ru/mobile/mobile_tariff]]></referer>
+                <server><![CDATA[http://tele2.tilessputnik.ru/tiles4g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081501" layer="true">
+        <name>Skylink LTE 450</name>
+        <copyright>Skylink</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://msk.skylink.ru/#coverage]]></referer>
+                <server><![CDATA[http://msk.skylink.ru/coverage/4g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081507" layer="true">
+        <name>Tele2</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081502" layer="true">
+        <name>Tele2 2G</name>
+        <copyright>Tele2</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+                <server><![CDATA[http://spb.tele2.ru/maps/_2g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081503" layer="true">
+        <name>Tele2 3G</name>
+        <copyright>Tele2</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+                <server><![CDATA[http://spb.tele2.ru/maps/_3g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081504" layer="true">
+        <name>Tele2 4G</name>
+        <copyright>Tele2</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+                <server><![CDATA[http://spb.tele2.ru/maps/_4g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081505" layer="true">
+        <name>Tele2 LTE 450</name>
+        <copyright>Tele2</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://spb.tele2.ru/coverage]]></referer>
+                <server><![CDATA[http://spb.tele2.ru/maps/_skylink/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081546" layer="true">
+        <name>Tinkoff</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081542" layer="true">
+        <name>Tinkoff 2G</name>
+        <copyright>Тинькофф Мобайл</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.tinkoff.ru/mobile-operator/coverage]]></referer>
+                <server><![CDATA[http://mobilestatic.tinkoff.ru/coverage/2g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081543" layer="true">
+        <name>Tinkoff 3G</name>
+        <copyright>Тинькофф Мобайл</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.tinkoff.ru/mobile-operator/coverage]]></referer>
+                <server><![CDATA[http://mobilestatic.tinkoff.ru/coverage/3g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081544" layer="true">
+        <name>Tinkoff 4G</name>
+        <copyright>Тинькофф Мобайл</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.tinkoff.ru/mobile-operator/coverage]]></referer>
+                <server><![CDATA[http://mobilestatic.tinkoff.ru/coverage/4g/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081513" layer="true">
+        <name>Yota</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081509" layer="true">
+        <name>Yota 2G</name>
+        <copyright>Yota</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.yota.ru/map?mode=cover&filter=2g,3g,4g]]></referer>
+                <server><![CDATA[http://map.yota.ru/tiles/2g_voice/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081510" layer="true">
+        <name>Yota 3G</name>
+        <copyright>Yota</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.yota.ru/map?mode=cover&filter=2g,3g,4g]]></referer>
+                <server><![CDATA[http://map.yota.ru/tiles/3g_voice/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081511" layer="true">
+        <name>Yota 4G</name>
+        <copyright>Yota</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>66.8652,59.0538,4</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.yota.ru/map?mode=cover&filter=2g,3g,4g]]></referer>
+                <server><![CDATA[http://map.yota.ru/tiles/lte/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

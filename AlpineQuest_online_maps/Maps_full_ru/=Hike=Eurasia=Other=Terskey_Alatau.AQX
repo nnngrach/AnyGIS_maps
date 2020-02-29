@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм - Евразия - Разное</name>
+<description></description>
+
+    <source id="1053504">
+        <name>Хребтовка Терскей-Алатау (А.Цветков)</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>80.25,44.87,10</preview-location>
+        <outline>70.15,45.87 82.32,45.87 82.32,40.22 70.15,40.22</outline>
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -1,0 +1,17 @@
+[Name]
+Hystoric - Eurasia - Siberian - Irkutsk 5km 1980
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Historic_Irkutsk_1980_5km/{x}/{y}/{z}
+
+[URL direct]
+http://www.retromap.ru/tiles/r/8/1419801/Z{z}/{y}/{x}.jpg
+
+[Min Zoom level]
+7
+
+[Max Zoom level]
+11
+
+[HTTP Referer]
+http://www.retromap.ru/m/

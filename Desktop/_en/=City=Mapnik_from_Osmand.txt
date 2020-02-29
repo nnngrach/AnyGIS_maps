@@ -1,0 +1,17 @@
+[Name]
+City - OSM Mapnik HD (from OsmAnd)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Osmand_Mapnik/{x}/{y}/{z}
+
+[URL direct 256px]
+http://tile.osmand.net/{z}/{x}/{y}.png
+
+[URL direct 512px]
+http://tile.osmand.net/hd/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

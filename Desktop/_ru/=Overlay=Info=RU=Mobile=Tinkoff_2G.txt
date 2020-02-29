@@ -1,0 +1,20 @@
+[Name]
+Слои - Справочные - Евразия - Сотовые - Тинькофф - 2G
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_2G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://mobilestatic.tinkoff.ru/coverage/2g/{z}/{x}/{y}.png
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+12
+
+[HTTP Referer]
+https://www.tinkoff.ru/mobile-operator/coverage
+
+[Proection description]
+Ellipsoid

@@ -1,0 +1,17 @@
+[Name]
+Satellites - Europe - Northern - Hitta
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Hitta_sat/{x}/{y}/{z}
+
+[URL direct]
+http://static.hitta.se/tile/v3/1/{z}/{x}/{-y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22
+
+[Proection description]
+With inverted Y

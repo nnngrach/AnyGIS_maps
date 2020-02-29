@@ -1,0 +1,17 @@
+[Name]
+Print - OSM Stamen Watercolor
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Print_Watercolor/{x}/{y}/{z}
+
+[URL direct]
+http://{s}.tile.stamen.com/watercolor/{z}/{x}/{y}.png
+
+[Server parts]
+a;b;c
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

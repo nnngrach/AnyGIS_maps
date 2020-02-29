@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Центральная.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Центральная.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=Central=Kompass_De.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=Kompass_De.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=Central=SwissTopo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=SwissTopo.xml]]>
+</dest>
+</download>
+
+</locusActions>

@@ -1,0 +1,17 @@
+[Name]
+Print - OSM OpenOrienteeringMap StreetO xrail
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Print_OpenOrienteeringMap_norail/{x}/{y}/{z}
+
+[URL direct]
+https://tiler{s}.oobrien.com/streeto_norail_global/{z}/{x}/{y}.png
+
+[Server parts]
+4;5;6
+
+[Min Zoom level]
+12
+
+[Max Zoom level]
+19

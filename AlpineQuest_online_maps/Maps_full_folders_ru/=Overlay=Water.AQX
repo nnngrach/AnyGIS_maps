@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Слои - Водные</name>
+<description></description>
+
+    <source id="2070001">
+        <name>Garmin MarineImages - Сонар</name>
+        <copyright>Garmin</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>30.19091,59.9707,16</preview-location>
+        
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://connect.garmin.com/ru-RU/start/quickdraw]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Garmin_MarineImages/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2070002">
+        <name>Navionics Marine Charts</name>
+        <copyright>Navionics</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>29.92,60.08,14</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://webapp.navionics.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2070003">
+        <name>Navionics Sonar Charts</name>
+        <copyright>Navionics</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>29.92,60.08,14</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://webapp.navionics.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Navionics_Sonar_Charts_layer/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2070007">
+        <name>Strava Heatmap - Водные</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

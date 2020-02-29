@@ -1,0 +1,14 @@
+[Name]
+Слои - Рельеф - OpenMapSurfer
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Hillshade_Mapsurfer/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+14
+
+[HTTP Referer]
+https://qms.nextgis.com/geoservices/2573/

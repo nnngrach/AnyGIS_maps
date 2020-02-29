@@ -1,6 +1,6 @@
 ﻿
 [PARAMS]
-GUID={14FD7ECE-75AE-4813-9FE6-72E28924EB58}
+GUID={834CECBB-54B5-4675-976A-4F5C54A6F8AD}
 ParentSubMenu_ru=Маршруты и GPS-Треки
 ParentSubMenu_uk=Маршруты и GPS-Треки
 ParentSubMenu=Ways and GPS-Tracks

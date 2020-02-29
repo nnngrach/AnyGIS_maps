@@ -1,0 +1,20 @@
+[Name]
+Спутниковые - Европа - Восточная - Украина - Кадастр ортофото
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{x}/{y}/{z}
+
+[URL direct]
+https://map.land.gov.ua/map/ortho10k_all/{z}/{x}/{-y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+https://map.land.gov.ua/kadastrova-karta
+
+[Proection description]
+With inverted Y

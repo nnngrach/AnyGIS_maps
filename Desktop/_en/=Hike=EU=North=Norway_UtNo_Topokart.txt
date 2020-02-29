@@ -1,0 +1,14 @@
+[Name]
+Hike - Europe - Northern - Norway UT.no - Topolart
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norway_UT_Topokart/{x}/{y}/{z}
+
+[URL direct]
+https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

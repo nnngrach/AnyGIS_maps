@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм - Евразия - Московская область </name>
+<description></description>
+
+    <source id="1053104">
+        <name>MoscowMap.ru</name>
+        <copyright>Moscowmap.ru</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>37.7,56.1,11</preview-location>
+        
+
+        <level>
+            <zoom-values>9,10,11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>365D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.moscowmap.ru/imap_moscow.shtml]]></referer>
+                <server><![CDATA[http://www.moscowmap.ru/leaflet/tiles/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

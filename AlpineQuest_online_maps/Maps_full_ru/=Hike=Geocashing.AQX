@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм</name>
+<description></description>
+
+    <source id="1050019">
+        <name>Nakarte.me - Геокэшинг</name>
+        <copyright>Nakarte & Geocashing</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>37.68231,56.08403,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Nakarte_Geocashing/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

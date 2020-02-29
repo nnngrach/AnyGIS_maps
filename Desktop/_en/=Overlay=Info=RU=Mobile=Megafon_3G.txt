@@ -1,0 +1,20 @@
+[Name]
+Overlay - Info - Eurasia - Mobile - Megaphone 3G
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Megafon_3G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=3g
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+12
+
+[HTTP Referer]
+http://moscow.megafon.ru/help/offices/#coverage
+
+[Proection description]
+Ellipsoid

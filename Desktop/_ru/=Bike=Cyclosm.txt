@@ -1,0 +1,17 @@
+[Name]
+Вело - OSM Cyclosm
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Cyclosm/{x}/{y}/{z}
+
+[URL direct]
+https://dev.{s}.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png
+
+[Server parts]
+a;b;c
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+20

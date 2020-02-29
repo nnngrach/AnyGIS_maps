@@ -1,0 +1,17 @@
+[Name]
+Туризм - Евразия - Московская область  - MoscowMap.ru
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_MoscowMap/{x}/{y}/{z}
+
+[URL direct]
+http://www.moscowmap.ru/leaflet/tiles/{z}/{x}/{y}.png
+
+[Min Zoom level]
+9
+
+[Max Zoom level]
+17
+
+[HTTP Referer]
+https://www.moscowmap.ru/imap_moscow.shtml

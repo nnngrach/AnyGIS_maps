@@ -1,0 +1,17 @@
+[Name]
+Road - Garmin.ru (navicom)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Garmin_navicom/{x}/{y}/{z}
+
+[URL direct]
+http://maps.navicom.ru/nms/getTile.ashx?87A930E02E584DEAB087239008C5D943;{x};{y};{z};
+
+[Min Zoom level]
+4
+
+[Max Zoom level]
+17
+
+[HTTP Referer]
+http://www.garmin.ru/maponline/marshruty.php

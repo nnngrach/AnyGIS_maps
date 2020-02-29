@@ -1,0 +1,14 @@
+[Name]
+Hike - Europe - Northern - Lantmäteriets Topografisk
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Lantmateriet_topowebb/{x}/{y}/{z}
+
+[URL direct]
+https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+22

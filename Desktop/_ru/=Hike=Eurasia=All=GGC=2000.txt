@@ -1,0 +1,17 @@
+[Name]
+Туризм - Евразия - Вся - ГГЦ - ГосГисЦентр 2000 м
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Locals_Ggc_02000/{x}/{y}/{z}
+
+[URL direct]
+https://tiles.nakarte.me/ggc2000/{z}/{x}/{-y}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+12
+
+[Proection description]
+With inverted Y

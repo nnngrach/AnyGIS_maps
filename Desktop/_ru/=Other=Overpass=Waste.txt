@@ -1,0 +1,11 @@
+[Name]
+Разное - Overpass Turbo - Мусорные баки
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mapshooter_Waste/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18

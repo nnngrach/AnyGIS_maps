@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм - Евразия - Вся - Многослойные</name>
+<description></description>
+
+    <source id="1052003">
+        <name>Маршруты.ru</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={x}&y={y}&z={z}&i=1]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

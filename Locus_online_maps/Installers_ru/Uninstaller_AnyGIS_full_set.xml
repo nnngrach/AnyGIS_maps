@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 31-01-2020 17:04
+Updated: 29-02-2020 13:21
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Городские.png]]>
+<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
 </dest>
 </download>
 
@@ -23,7 +23,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Anygis_Compilation.xml]]>
 </dest>
 </download>
 
@@ -32,7 +32,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Bing_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Bing_birds_eye.xml]]>
 </dest>
 </download>
 
@@ -41,7 +41,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=ESRI.xml]]>
 </dest>
 </download>
 
@@ -50,7 +50,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_bike_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=ESRI_Clarity.xml]]>
 </dest>
 </download>
 
@@ -59,7 +59,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_terrain_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google.xml]]>
 </dest>
 </download>
 
@@ -68,7 +68,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_RU.xml]]>
 </dest>
 </download>
 
@@ -77,7 +77,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_transit_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Here.xml]]>
 </dest>
 </download>
 
@@ -86,7 +86,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Mapbox.xml]]>
 </dest>
 </download>
 
@@ -95,7 +95,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_terrain.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Maxar_Premium_Imagery.xml]]>
 </dest>
 </download>
 
@@ -104,7 +104,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Maxar_Standard_Imagery.xml]]>
 </dest>
 </download>
 
@@ -113,7 +113,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Евразия.png]]>
 </dest>
 </download>
 
@@ -122,7 +122,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Kosmosnimki.xml]]>
 </dest>
 </download>
 
@@ -131,7 +131,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Waze.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex.xml]]>
 </dest>
 </download>
 
@@ -140,7 +140,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex_proxy.xml]]>
 </dest>
 </download>
 
@@ -149,7 +149,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_map_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex_Hybrid.xml]]>
 </dest>
 </download>
 
@@ -158,7 +158,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_narodnaya.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Восточная.png]]>
 </dest>
 </download>
 
@@ -167,7 +167,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </dest>
 </download>
 
@@ -176,7 +176,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=CadastrUA_sat.xml]]>
 </dest>
 </download>
 
@@ -185,7 +185,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -194,7 +194,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Bing_birds_eye.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Eniro_Sat.xml]]>
 </dest>
 </download>
 
@@ -203,7 +203,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Hitta_Sat.xml]]>
 </dest>
 </download>
 
@@ -212,7 +212,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Sat.xml]]>
 </dest>
 </download>
 
@@ -221,7 +221,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Hybrid.xml]]>
 </dest>
 </download>
 
@@ -230,7 +230,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Here.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Центральная.png]]>
 </dest>
 </download>
 
@@ -239,7 +239,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
 </dest>
 </download>
 
@@ -248,7 +248,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Америка.png]]>
 </dest>
 </download>
 
@@ -257,7 +257,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Kosmosnimki.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat.xml]]>
 </dest>
 </download>
 
@@ -266,7 +266,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat_plus.xml]]>
 </dest>
 </download>
 
@@ -275,7 +275,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/Городские.png]]>
 </dest>
 </download>
 
@@ -284,7 +284,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Bing_Map.xml]]>
 </dest>
 </download>
 
@@ -293,7 +293,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые специальные.png]]>
+<![CDATA[/mapsOnline/custom/=City=Google_Map_RU.xml]]>
 </dest>
 </download>
 
@@ -302,7 +302,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Google_Terrain_RU.xml]]>
 </dest>
 </download>
 
@@ -311,7 +311,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Map.xml]]>
 </dest>
 </download>
 
@@ -320,7 +320,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_February.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Terrain.xml]]>
 </dest>
 </download>
 
@@ -329,7 +329,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_March.xml]]>
+<![CDATA[/mapsOnline/custom/=City=MapyCZ_Base.xml]]>
 </dest>
 </download>
 
@@ -338,7 +338,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Kosmosnimki.xml]]>
 </dest>
 </download>
 
@@ -347,7 +347,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_May.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Mapnik.xml]]>
 </dest>
 </download>
 
@@ -356,7 +356,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Mapnik_from_Osmand.xml]]>
 </dest>
 </download>
 
@@ -365,7 +365,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Евразия.png]]>
 </dest>
 </download>
 
@@ -374,7 +374,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=2gis.xml]]>
 </dest>
 </download>
 
@@ -383,7 +383,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Sputnik.xml]]>
 </dest>
 </download>
 
@@ -392,7 +392,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_October.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map.xml]]>
 </dest>
 </download>
 
@@ -401,7 +401,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map_proxy.xml]]>
 </dest>
 </download>
 
@@ -410,7 +410,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Narod.xml]]>
 </dest>
 </download>
 
@@ -419,7 +419,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Geology.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Европа - Восточная.png]]>
 </dest>
 </download>
 
@@ -428,7 +428,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Urban.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=MetaUA.xml]]>
 </dest>
 </download>
 
@@ -437,7 +437,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Moisture.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=Navlux.xml]]>
 </dest>
 </download>
 
@@ -446,7 +446,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_SWIR.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=Visicom.xml]]>
 </dest>
 </download>
 
@@ -455,7 +455,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_NDVI.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -464,7 +464,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Bathimetric.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Eniro.xml]]>
 </dest>
 </download>
 
@@ -473,7 +473,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Agriculture.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Fonecta.xml]]>
 </dest>
 </download>
 
@@ -482,7 +482,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM.png]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Hitta.xml]]>
 </dest>
 </download>
 
@@ -491,7 +491,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Geofabrik.xml]]>
+<![CDATA[/mapsOnline/custom/Авто.png]]>
 </dest>
 </download>
 
@@ -500,7 +500,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-HikeBike.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Google_Traffic.xml]]>
 </dest>
 </download>
 
@@ -509,7 +509,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Komoot.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Here_Traffic.xml]]>
 </dest>
 </download>
 
@@ -518,7 +518,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Kosmosnimki.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Michelin.xml]]>
 </dest>
 </download>
 
@@ -527,7 +527,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapbox_Terrain.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Thunderforest_Transport.xml]]>
 </dest>
 </download>
 
@@ -536,7 +536,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Thunderforest_Transport_Dark.xml]]>
 </dest>
 </download>
 
@@ -545,7 +545,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=TomTom_Base_day.xml]]>
 </dest>
 </download>
 
@@ -554,7 +554,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=TomTom_Base_night.xml]]>
 </dest>
 </download>
 
@@ -563,7 +563,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Michelin.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Yandex_Traffic.xml]]>
 </dest>
 </download>
 
@@ -572,7 +572,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[/mapsOnline/custom/Вело.png]]>
 </dest>
 </download>
 
@@ -581,7 +581,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Cyclosm.xml]]>
 </dest>
 </download>
 
@@ -590,7 +590,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=HikeBike.xml]]>
 </dest>
 </download>
 
@@ -599,7 +599,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Refuges.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Thunderforest_Cycle.xml]]>
 </dest>
 </download>
 
@@ -608,7 +608,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
 </dest>
 </download>
 
@@ -617,7 +617,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport.xml]]>
+<![CDATA[/mapsOnline/custom/Вело - Европа.png]]>
 </dest>
 </download>
 
@@ -626,7 +626,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport_Dark.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Eurasia=Google_Bike_RU.xml]]>
 </dest>
 </download>
 
@@ -635,7 +635,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM - Треки.png]]>
+<![CDATA[/mapsOnline/custom/=Bike=Europe=MTB_Map_CZ.xml]]>
 </dest>
 </download>
 
@@ -644,7 +644,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Cyclosm.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм.png]]>
 </dest>
 </download>
 
@@ -653,7 +653,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapy_Winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Geocashing.xml]]>
 </dest>
 </download>
 
@@ -662,7 +662,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Opnvkarte.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
 </dest>
 </download>
 
@@ -671,7 +671,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-OpenSnowMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=4umaps.xml]]>
 </dest>
 </download>
 
@@ -680,7 +680,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Komoot.xml]]>
 </dest>
 </download>
 
@@ -689,7 +689,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Run.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Mapbox_Terrain.xml]]>
 </dest>
 </download>
 
@@ -698,7 +698,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -707,7 +707,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=MapyCZ_outdoor.xml]]>
 </dest>
 </download>
 
@@ -716,7 +716,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Water.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=OSM_GPS_Tracks.xml]]>
 </dest>
 </download>
 
@@ -725,7 +725,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=OpenTopoMap_ORG.xml]]>
 </dest>
 </download>
 
@@ -734,7 +734,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Refuges.xml]]>
 </dest>
 </download>
 
@@ -743,7 +743,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Thunderforest_Cycle.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Thunderforest_Outdoor.xml]]>
 </dest>
 </download>
 
@@ -752,7 +752,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Thunderforest_Outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
 </dest>
 </download>
 
@@ -761,7 +761,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Водные.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_RideAndRun.xml]]>
 </dest>
 </download>
 
@@ -770,7 +770,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-ERSI_ocean.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Topomapper_1km.xml]]>
 </dest>
 </download>
 
@@ -779,7 +779,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_OSM.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия.png]]>
 </dest>
 </download>
 
@@ -788,7 +788,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_Marine_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=OpenTopoMap_RU.xml]]>
 </dest>
 </download>
 
@@ -797,7 +797,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_Sonar_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Многослойные.png]]>
 </dest>
 </download>
 
@@ -806,7 +806,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=RusOutdoorMaps.xml]]>
 </dest>
 </download>
 
@@ -815,7 +815,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_deep.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=RusOutdoorMaps_lite.xml]]>
 </dest>
 </download>
 
@@ -824,7 +824,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=MarshrutiRU.xml]]>
 </dest>
 </download>
 
@@ -833,7 +833,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Справочные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - ГГЦ.png]]>
 </dest>
 </download>
 
@@ -842,7 +842,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Geocashing.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=All.xml]]>
 </dest>
 </download>
 
@@ -851,7 +851,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Westra_Passes.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=1000.xml]]>
 </dest>
 </download>
 
@@ -860,7 +860,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-OpenWeatherMap_Precipit.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=2000.xml]]>
 </dest>
 </download>
 
@@ -869,7 +869,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-RainWiewer_Precipit.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=0250.xml]]>
 </dest>
 </download>
 
@@ -878,7 +878,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=0500.xml]]>
 </dest>
 </download>
 
@@ -887,7 +887,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia_satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Генштаб.png]]>
 </dest>
 </download>
 
@@ -896,7 +896,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - OSM.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=All.xml]]>
 </dest>
 </download>
 
@@ -905,7 +905,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-OSM-Chepezk.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=01000.xml]]>
 </dest>
 </download>
 
@@ -914,7 +914,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - ГГЦ.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=10000.xml]]>
 </dest>
 </download>
 
@@ -923,7 +923,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=02000.xml]]>
 </dest>
 </download>
 
@@ -932,7 +932,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-1000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=02000_new.xml]]>
 </dest>
 </download>
 
@@ -941,7 +941,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-2000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=20000.xml]]>
 </dest>
 </download>
 
@@ -950,7 +950,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-0250.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00250.xml]]>
 </dest>
 </download>
 
@@ -959,7 +959,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00500.xml]]>
 </dest>
 </download>
 
@@ -968,7 +968,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - Генштаб.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00500_new.xml]]>
 </dest>
 </download>
 
@@ -977,7 +977,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=05000.xml]]>
 </dest>
 </download>
 
@@ -986,7 +986,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-All.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Разные.png]]>
 </dest>
 </download>
 
@@ -995,7 +995,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-01000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Other=All.xml]]>
 </dest>
 </download>
 
@@ -1004,7 +1004,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-10000.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Московская область .png]]>
 </dest>
 </download>
 
@@ -1013,7 +1013,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-02000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=MoscowMap.xml]]>
 </dest>
 </download>
 
@@ -1022,7 +1022,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-02000_new.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Arbalet.xml]]>
 </dest>
 </download>
 
@@ -1031,7 +1031,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-20000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Slazav.xml]]>
 </dest>
 </download>
 
@@ -1040,7 +1040,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00250.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Adraces.xml]]>
 </dest>
 </download>
 
@@ -1049,7 +1049,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-05000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=OSport.xml]]>
 </dest>
 </download>
 
@@ -1058,7 +1058,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00500.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Кавказ.png]]>
 </dest>
 </download>
 
@@ -1067,7 +1067,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00500_new.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
 </dest>
 </download>
 
@@ -1076,7 +1076,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - Советские.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=West_Kot.xml]]>
 </dest>
 </download>
 
@@ -1085,7 +1085,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Kazbek.xml]]>
 </dest>
 </download>
 
@@ -1094,7 +1094,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Многослойные.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_West.xml]]>
 </dest>
 </download>
 
@@ -1103,7 +1103,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_Center.xml]]>
 </dest>
 </download>
 
@@ -1112,7 +1112,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_South.xml]]>
 </dest>
 </download>
 
@@ -1121,7 +1121,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Gosgeodesiya.xml]]>
 </dest>
 </download>
 
@@ -1130,7 +1130,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Московская область.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=FGU.xml]]>
 </dest>
 </download>
 
@@ -1139,7 +1139,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-MoscowMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Svodnaya_1000.xml]]>
 </dest>
 </download>
 
@@ -1148,7 +1148,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Svodnaya_0500.xml]]>
 </dest>
 </download>
 
@@ -1157,7 +1157,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Slazav.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Prielbusye.xml]]>
 </dest>
 </download>
 
@@ -1166,7 +1166,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Adraces.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Крым.png]]>
 </dest>
 </download>
 
@@ -1175,7 +1175,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-OSport.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Crimea=Kartografiya.xml]]>
 </dest>
 </download>
 
@@ -1184,7 +1184,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Кавказ.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Crimea=SoyusKarta.xml]]>
 </dest>
 </download>
 
@@ -1193,7 +1193,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Хибины.png]]>
 </dest>
 </download>
 
@@ -1202,7 +1202,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Hills.xml]]>
 </dest>
 </download>
 
@@ -1211,7 +1211,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.xml]]>
 </dest>
 </download>
 
@@ -1220,7 +1220,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Tundra_Old.xml]]>
 </dest>
 </download>
 
@@ -1229,7 +1229,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Разное.png]]>
 </dest>
 </download>
 
@@ -1238,7 +1238,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Altay.xml]]>
 </dest>
 </download>
 
@@ -1247,7 +1247,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Taganay.xml]]>
 </dest>
 </download>
 
@@ -1256,7 +1256,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-FGU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Sayani.xml]]>
 </dest>
 </download>
 
@@ -1265,7 +1265,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Terskey_Alatau.xml]]>
 </dest>
 </download>
 
@@ -1274,7 +1274,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Slazav_hrebtovki.xml]]>
 </dest>
 </download>
 
@@ -1283,7 +1283,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Восточная.png]]>
 </dest>
 </download>
 
@@ -1292,7 +1292,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Крым.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=East=Belarus_LatLon.xml]]>
 </dest>
 </download>
 
@@ -1301,7 +1301,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=East=Karpaty.xml]]>
 </dest>
 </download>
 
@@ -1310,7 +1310,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -1319,7 +1319,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Хибины.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=FINN_Kart_Norge.xml]]>
 </dest>
 </download>
 
@@ -1328,7 +1328,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Hills.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Finland_topo.xml]]>
 </dest>
 </download>
 
@@ -1337,7 +1337,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Hitta_Frilufts.xml]]>
 </dest>
 </download>
 
@@ -1346,7 +1346,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Fjallkarta.xml]]>
 </dest>
 </download>
 
@@ -1355,7 +1355,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Разное.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Topowebb.xml]]>
 </dest>
 </download>
 
@@ -1364,7 +1364,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Karpaty.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Papirkart.xml]]>
 </dest>
 </download>
 
@@ -1373,7 +1373,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Altay.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Topokart.xml]]>
 </dest>
 </download>
 
@@ -1382,7 +1382,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norgeskart.xml]]>
 </dest>
 </download>
 
@@ -1391,7 +1391,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Taganay.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Центральная.png]]>
 </dest>
 </download>
 
@@ -1400,7 +1400,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Sayani.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=Kompass_De.xml]]>
 </dest>
 </download>
 
@@ -1409,7 +1409,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=SwissTopo.xml]]>
 </dest>
 </download>
 
@@ -1418,7 +1418,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Alagadar.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Западная.png]]>
 </dest>
 </download>
 
@@ -1427,7 +1427,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=West=France_topo.xml]]>
 </dest>
 </download>
 
@@ -1436,7 +1436,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=West=GB_topo.xml]]>
 </dest>
 </download>
 
@@ -1445,7 +1445,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Водные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Юго-восточная.png]]>
 </dest>
 </download>
 
@@ -1454,7 +1454,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Kuban.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Southeast=Montenegro.xml]]>
 </dest>
 </download>
 
@@ -1463,7 +1463,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Volga_kama.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Азия - Передняя.png]]>
 </dest>
 </download>
 
@@ -1472,7 +1472,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=West=Alagadar.xml]]>
 </dest>
 </download>
 
@@ -1481,7 +1481,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Лётные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Азия - Центральная.png]]>
 </dest>
 </download>
 
@@ -1490,7 +1490,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
 </dest>
 </download>
 
@@ -1499,7 +1499,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-Baionline.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Central=TianShan_and_Pamir.xml]]>
 </dest>
 </download>
 
@@ -1508,7 +1508,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2016.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Америка.png]]>
 </dest>
 </download>
 
@@ -1517,7 +1517,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2019.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=US=USGS_Topo.xml]]>
 </dest>
 </download>
 
@@ -1526,7 +1526,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-MVL.xml]]>
+<![CDATA[/mapsOnline/custom/Зимние.png]]>
 </dest>
 </download>
 
@@ -1535,7 +1535,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Справочные.png]]>
+<![CDATA[/mapsOnline/custom/=Winter=MapyCZ_winter.xml]]>
 </dest>
 </download>
 
@@ -1544,7 +1544,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Navizor.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=OpenSnowMap.xml]]>
 </dest>
 </download>
 
@@ -1553,7 +1553,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Tele2.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
 </dest>
 </download>
 
@@ -1562,7 +1562,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Yota.xml]]>
+<![CDATA[/mapsOnline/custom/Зимние - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -1571,7 +1571,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Beeline.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=EU=North=Skoterleder.xml]]>
 </dest>
 </download>
 
@@ -1580,7 +1580,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-MTS.xml]]>
+<![CDATA[/mapsOnline/custom/Водные.png]]>
 </dest>
 </download>
 
@@ -1589,7 +1589,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Megafon.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=ERSI_ocean.xml]]>
 </dest>
 </download>
 
@@ -1598,7 +1598,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Rostelcom.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_OSM.xml]]>
 </dest>
 </download>
 
@@ -1607,7 +1607,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Tinkoff.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Marine_Charts.xml]]>
 </dest>
 </download>
 
@@ -1616,7 +1616,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-RosReestr.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Sonar_Charts.xml]]>
 </dest>
 </download>
 
@@ -1625,7 +1625,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Исторические.png]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap.xml]]>
 </dest>
 </download>
 
@@ -1634,7 +1634,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_3v.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 
@@ -1643,7 +1643,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_3v_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_traffic.xml]]>
 </dest>
 </download>
 
@@ -1652,7 +1652,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_WIG_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 
@@ -1661,7 +1661,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_RKKA_plus.xml]]>
+<![CDATA[/mapsOnline/custom/Водные - Евразия.png]]>
 </dest>
 </download>
 
@@ -1670,7 +1670,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Eur_Russia_Shubert.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Kuban.xml]]>
 </dest>
 </download>
 
@@ -1679,7 +1679,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_1km_1986.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Volga_kama.xml]]>
 </dest>
 </download>
 
@@ -1688,7 +1688,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_2km_1988.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
 </dest>
 </download>
 
@@ -1697,7 +1697,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_5km_1980.xml]]>
+<![CDATA[/mapsOnline/custom/Водные - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -1706,7 +1706,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1877.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Navionics.xml]]>
 </dest>
 </download>
 
@@ -1715,7 +1715,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1926.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Nautical.xml]]>
 </dest>
 </download>
 
@@ -1724,7 +1724,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1948_eng.xml]]>
+<![CDATA[/mapsOnline/custom/Авиа.png]]>
 </dest>
 </download>
 
@@ -1733,7 +1733,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Krim_1v.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=ERSI_Navigation_Charts.xml]]>
 </dest>
 </download>
 
@@ -1742,7 +1742,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1902.xml]]>
+<![CDATA[/mapsOnline/custom/Авиа - Евразия.png]]>
 </dest>
 </download>
 
@@ -1751,7 +1751,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1930.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=Baionline.xml]]>
 </dest>
 </download>
 
@@ -1760,7 +1760,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1916.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=RNK_2016.xml]]>
 </dest>
 </download>
 
@@ -1769,7 +1769,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1918.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=RNK_2019.xml]]>
 </dest>
 </download>
 
@@ -1778,7 +1778,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Maykop_1925.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=MVL.xml]]>
 </dest>
 </download>
 
@@ -1787,7 +1787,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-MSK_1852.xml]]>
+<![CDATA[/mapsOnline/custom/Справочные.png]]>
 </dest>
 </download>
 
@@ -1796,7 +1796,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[/mapsOnline/custom/=Info=Wikimapia.xml]]>
 </dest>
 </download>
 
@@ -1805,7 +1805,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[/mapsOnline/custom/=Info=Wikimapia_Sat.xml]]>
 </dest>
 </download>
 
@@ -1814,7 +1814,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1917.xml]]>
+<![CDATA[/mapsOnline/custom/Инфраструктура.png]]>
 </dest>
 </download>
 
@@ -1823,7 +1823,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-RKKA_2km.xml]]>
+<![CDATA[/mapsOnline/custom/=Infrastructure=Google_Transit_RU.xml]]>
 </dest>
 </download>
 
@@ -1832,7 +1832,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-RKKA_1km.xml]]>
+<![CDATA[/mapsOnline/custom/=Infrastructure=Opnvkarte.xml]]>
 </dest>
 </download>
 
@@ -1841,7 +1841,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1705.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия.png]]>
 </dest>
 </download>
 
@@ -1850,7 +1850,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1725.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Eur_Russia_Shubert.xml]]>
 </dest>
 </download>
 
@@ -1859,7 +1859,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Strelbitsky_1882.xml]]>
 </dest>
 </download>
 
@@ -1868,7 +1868,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1894.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Strelbitsky_1919.xml]]>
 </dest>
 </download>
 
@@ -1877,7 +1877,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Strelbitsky_1882.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Центр.png]]>
 </dest>
 </download>
 
@@ -1886,7 +1886,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Strelbitsky_1919.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
 </dest>
 </download>
 
@@ -1895,7 +1895,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Tver_Mende.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
 </dest>
 </download>
 
@@ -1904,7 +1904,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - OSM.png]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Северо-Запад.png]]>
 </dest>
 </download>
 
@@ -1913,7 +1913,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-OSM-4umaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
 </dest>
 </download>
 
@@ -1922,7 +1922,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-OSM-MTB_Map_Europe.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
 </dest>
 </download>
 
@@ -1931,7 +1931,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Восточная.png]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
 </dest>
 </download>
 
@@ -1940,7 +1940,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
 </dest>
 </download>
 
@@ -1949,7 +1949,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
 </dest>
 </download>
 
@@ -1958,7 +1958,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_Genshtab.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Крым.png]]>
 </dest>
 </download>
 
@@ -1967,7 +1967,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Crimean=Krim_1v.xml]]>
 </dest>
 </download>
 
@@ -1976,7 +1976,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Navlux.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Кубань.png]]>
 </dest>
 </download>
 
@@ -1985,7 +1985,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Visicom.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1902.xml]]>
 </dest>
 </download>
 
@@ -1994,7 +1994,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_genshtab.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1930.xml]]>
 </dest>
 </download>
 
@@ -2003,7 +2003,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1916.xml]]>
 </dest>
 </download>
 
@@ -2012,7 +2012,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1918.xml]]>
 </dest>
 </download>
 
@@ -2021,7 +2021,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_overlay.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </dest>
 </download>
 
@@ -2030,7 +2030,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Северная.png]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </dest>
 </download>
 
@@ -2039,7 +2039,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
 </dest>
 </download>
 
@@ -2048,7 +2048,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Navionics.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
 </dest>
 </download>
 
@@ -2057,7 +2057,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Кавказ.png]]>
 </dest>
 </download>
 
@@ -2066,7 +2066,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Nautical.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.xml]]>
 </dest>
 </download>
 
@@ -2075,7 +2075,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.xml]]>
 </dest>
 </download>
 
@@ -2084,7 +2084,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-FINN_Kart_Norge.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.xml]]>
 </dest>
 </download>
 
@@ -2093,7 +2093,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Finland_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Maykop_1925.xml]]>
 </dest>
 </download>
 
@@ -2102,7 +2102,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Сибирь.png]]>
 </dest>
 </download>
 
@@ -2111,7 +2111,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_1km_1986.xml]]>
 </dest>
 </download>
 
@@ -2120,7 +2120,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_2km_1988.xml]]>
 </dest>
 </download>
 
@@ -2129,7 +2129,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.xml]]>
 </dest>
 </download>
 
@@ -2138,7 +2138,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Satellit.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Европа - Восточная.png]]>
 </dest>
 </download>
 
@@ -2147,7 +2147,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v.xml]]>
 </dest>
 </download>
 
@@ -2156,7 +2156,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Topowebb.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v_plus.xml]]>
 </dest>
 </download>
 
@@ -2165,7 +2165,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_WIG_plus.xml]]>
 </dest>
 </download>
 
@@ -2174,7 +2174,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.xml]]>
 </dest>
 </download>
 
@@ -2183,7 +2183,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
+<![CDATA[/mapsOnline/custom/Геологические - Евразия.png]]>
 </dest>
 </download>
 
@@ -2192,7 +2192,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Geology=Eurasia=VsegeiRu_Geology.xml]]>
 </dest>
 </download>
 
@@ -2201,7 +2201,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart.xml]]>
+<![CDATA[/mapsOnline/custom/Разное.png]]>
 </dest>
 </download>
 
@@ -2210,7 +2210,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=NewZeland_Topo.xml]]>
 </dest>
 </download>
 
@@ -2219,7 +2219,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Разное - Overpass Turbo.png]]>
 </dest>
 </download>
 
@@ -2228,7 +2228,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=GravelRunTrails.xml]]>
 </dest>
 </download>
 
@@ -2237,7 +2237,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Западная.png]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=Waste.xml]]>
 </dest>
 </download>
 
@@ -2246,7 +2246,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Western-France_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=Drinking_Water.xml]]>
 </dest>
 </download>
 
@@ -2255,7 +2255,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Western-GB_topo.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Рельеф.png]]>
 </dest>
 </download>
 
@@ -2264,7 +2264,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Центральная.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -2273,7 +2273,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Kompass_De.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Waymarkedtrails.xml]]>
 </dest>
 </download>
 
@@ -2282,7 +2282,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_base.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Windy.xml]]>
 </dest>
 </download>
 
@@ -2291,7 +2291,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_geo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=WmfLabs.xml]]>
 </dest>
 </download>
 
@@ -2300,7 +2300,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Slopemap.xml]]>
 </dest>
 </download>
 
@@ -2309,7 +2309,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_winter.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Рельеф - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -2318,7 +2318,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissSkiRoutes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=Norway_UtNo_Bratthetskart.xml]]>
 </dest>
 </download>
 
@@ -2327,7 +2327,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissSlopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=Norway_UtNo_SkredSnoAktR.xml]]>
 </dest>
 </download>
 
@@ -2336,7 +2336,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissImage.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи.png]]>
 </dest>
 </download>
 
@@ -2345,7 +2345,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissTopo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ersi_admin_labels.xml]]>
 </dest>
 </download>
 
@@ -2354,7 +2354,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Google.xml]]>
 </dest>
 </download>
 
@@ -2363,7 +2363,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Юго-восточная.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapbox.xml]]>
 </dest>
 </download>
 
@@ -2372,7 +2372,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Southeast-Montenegro.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapsurfer_hybrid.xml]]>
 </dest>
 </download>
 
@@ -2381,7 +2381,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/США.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapsurfer_admin_labels.xml]]>
 </dest>
 </download>
 
@@ -2390,7 +2390,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_day.xml]]>
 </dest>
 </download>
 
@@ -2399,7 +2399,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Sat_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_night.xml]]>
 </dest>
 </download>
 
@@ -2408,7 +2408,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи - Евразия.png]]>
 </dest>
 </download>
 
@@ -2417,7 +2417,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Прочее.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex.xml]]>
 </dest>
 </download>
 
@@ -2426,7 +2426,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Other-NewZeland_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex_narod.xml]]>
 </dest>
 </download>
 
@@ -2435,7 +2435,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Надписи и дороги.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -2444,7 +2444,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Ersi_admin_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=EU=North=Eniro.xml]]>
 </dest>
 </download>
 
@@ -2453,7 +2453,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Google.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Авто.png]]>
 </dest>
 </download>
 
@@ -2462,7 +2462,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapbox.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Bing_Traffic.xml]]>
 </dest>
 </download>
 
@@ -2471,7 +2471,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_admin_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Google_Traffic.xml]]>
 </dest>
 </download>
 
@@ -2480,7 +2480,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Here_Flow.xml]]>
 </dest>
 </download>
 
@@ -2489,7 +2489,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Public_Transport.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Here_Traffic.xml]]>
 </dest>
 </download>
 
@@ -2498,7 +2498,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenFireMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Navizor_Quality.xml]]>
 </dest>
 </download>
 
@@ -2507,7 +2507,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=TomTom_Incidents.xml]]>
 </dest>
 </download>
 
@@ -2516,7 +2516,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_signals.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=TomTom_Traffic.xml]]>
 </dest>
 </download>
 
@@ -2525,7 +2525,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_speed.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Intensity.xml]]>
 </dest>
 </download>
 
@@ -2534,7 +2534,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Direcions.xml]]>
 </dest>
 </download>
 
@@ -2543,7 +2543,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_white.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Traffic_proxy.xml]]>
 </dest>
 </download>
 
@@ -2552,7 +2552,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_gray.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Вело.png]]>
 </dest>
 </download>
 
@@ -2561,7 +2561,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_black.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_MTB.xml]]>
 </dest>
 </download>
 
@@ -2570,7 +2570,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_day.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_Cycling.xml]]>
 </dest>
 </download>
 
@@ -2579,7 +2579,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_night.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_HD.xml]]>
 </dest>
 </download>
 
@@ -2588,7 +2588,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2597,7 +2597,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Riding.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм.png]]>
 </dest>
 </download>
 
@@ -2606,7 +2606,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.xml]]>
 </dest>
 </download>
 
@@ -2615,7 +2615,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Slopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=WayMarkedTrails_Hiking.xml]]>
 </dest>
 </download>
 
@@ -2624,7 +2624,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_HD.xml]]>
 </dest>
 </download>
 
@@ -2633,7 +2633,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2642,7 +2642,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wiggle_wifi.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_RunAndRide_HD.xml]]>
 </dest>
 </download>
 
@@ -2651,7 +2651,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_HD.xml]]>
 </dest>
 </download>
 
@@ -2660,7 +2660,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-RosReestr.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2669,7 +2669,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм - Европа - Северная.png]]>
 </dest>
 </download>
 
@@ -2678,7 +2678,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex_narod.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
 </dest>
 </download>
 
@@ -2687,7 +2687,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Пробки.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм - Европа - Центральная.png]]>
 </dest>
 </download>
 
@@ -2696,7 +2696,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Bing.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
 </dest>
 </download>
 
@@ -2705,7 +2705,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Google.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Зимние.png]]>
 </dest>
 </download>
 
@@ -2714,7 +2714,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=OpenSnowMap_pistes.xml]]>
 </dest>
 </download>
 
@@ -2723,7 +2723,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here_flow.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=WayMarkedTrails_Slopes.xml]]>
 </dest>
 </download>
 
@@ -2732,7 +2732,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-NavitelSu_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_HD.xml]]>
 </dest>
 </download>
 
@@ -2741,7 +2741,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2750,7 +2750,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom_incidents.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Зимние - Европа - Центральная.png]]>
 </dest>
 </download>
 
@@ -2759,7 +2759,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
 </dest>
 </download>
 
@@ -2768,7 +2768,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_intensity.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
 </dest>
 </download>
 
@@ -2777,7 +2777,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_direcions.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Водные.png]]>
 </dest>
 </download>
 
@@ -2786,7 +2786,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - GPS треки.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Garmin_MarineImages.xml]]>
 </dest>
 </download>
 
@@ -2795,7 +2795,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Navionics_Marine_Charts.xml]]>
 </dest>
 </download>
 
@@ -2804,7 +2804,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_RunAndRide_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Navionics_Sonar_Charts.xml]]>
 </dest>
 </download>
 
@@ -2813,7 +2813,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Run_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_seamark.xml]]>
 </dest>
 </download>
 
@@ -2822,7 +2822,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 
@@ -2831,7 +2831,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Ride_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_traffic.xml]]>
 </dest>
 </download>
 
@@ -2840,7 +2840,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Ride_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_HD.xml]]>
 </dest>
 </download>
 
@@ -2849,7 +2849,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Bluered_HD.xml]]>
 </dest>
 </download>
 
@@ -2858,7 +2858,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Справочные.png]]>
 </dest>
 </download>
 
@@ -2867,7 +2867,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_All_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
 </dest>
 </download>
 
@@ -2876,7 +2876,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_All_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RainWiewer_Precipit.xml]]>
 </dest>
 </download>
 
@@ -2885,7 +2885,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Winter_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Wiggle_wifi_proxy.xml]]>
 </dest>
 </download>
 
@@ -2894,7 +2894,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Wikimapia.xml]]>
 </dest>
 </download>
 
@@ -2903,7 +2903,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Рельеф.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_white.xml]]>
 </dest>
 </download>
 
@@ -2912,7 +2912,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapbox_Contour_Lines.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_gray.xml]]>
 </dest>
 </download>
 
@@ -2921,7 +2921,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_black.xml]]>
 </dest>
 </download>
 
@@ -2930,7 +2930,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Waymarkedtrails.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Справочные - Евразия - Сотовые.png]]>
 </dest>
 </download>
 
@@ -2939,7 +2939,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Windy.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Skylink_4G.xml]]>
 </dest>
 </download>
 
@@ -2948,7 +2948,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-WmfLabs.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_2G.xml]]>
 </dest>
 </download>
 
@@ -2957,7 +2957,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Slopemap.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_3G.xml]]>
 </dest>
 </download>
 
@@ -2966,7 +2966,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Морские.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_4G.xml]]>
 </dest>
 </download>
 
@@ -2975,7 +2975,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Garmin_MarineImages.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_4G_450.xml]]>
 </dest>
 </download>
 
@@ -2984,7 +2984,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Navionics_Marine_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2.xml]]>
 </dest>
 </download>
 
@@ -2993,7 +2993,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Navionics_Sonar_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_2G.xml]]>
 </dest>
 </download>
 
@@ -3002,7 +3002,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_seamark.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_3G.xml]]>
 </dest>
 </download>
 
@@ -3011,7 +3011,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_deep.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_4G.xml]]>
 </dest>
 </download>
 
@@ -3020,7 +3020,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota.xml]]>
 </dest>
 </download>
 
@@ -3029,7 +3029,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_2G.xml]]>
 </dest>
 </download>
 
@@ -3038,7 +3038,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-GravelRunTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_3G.xml]]>
 </dest>
 </download>
 
@@ -3047,7 +3047,7 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-Waste.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_4G.xml]]>
 </dest>
 </download>
 
@@ -3056,7 +3056,277 @@ Updated: 31-01-2020 17:04
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-Drinking_Water.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_4G_planned.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_IOT.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_4Gplus.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Справочные - Европа - Восточная.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Инфраструктура.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenFireMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Public_Transport.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay_signals.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay_speed.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Разное.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Other=WayMarkedTrails_Riding.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Other=WayMarkedTrails_Skating.xml]]>
 </dest>
 </download>
 

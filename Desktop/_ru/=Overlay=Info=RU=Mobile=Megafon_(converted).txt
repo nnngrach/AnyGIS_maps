@@ -1,0 +1,11 @@
+[Name]
+Слои - Справочные - Евразия - Сотовые - Мегафон - Все слои (с конвертацией)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Megafon/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+12

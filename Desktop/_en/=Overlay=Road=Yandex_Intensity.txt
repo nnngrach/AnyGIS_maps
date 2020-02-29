@@ -1,0 +1,20 @@
+[Name]
+Overlay - Road - Yandex - Intensity
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Yandex_intensity_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://core-gpstiles.maps.yandex.net/tiles?style=point&x={x}&y={y}&z={z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+17
+
+[HTTP Referer]
+https://n.maps.yandex.ru/
+
+[Proection description]
+Ellipsoid

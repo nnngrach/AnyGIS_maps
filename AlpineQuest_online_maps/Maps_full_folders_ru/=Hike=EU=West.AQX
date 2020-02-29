@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Туризм - Европа - Западная</name>
+<description></description>
+
+    <source id="1054403">
+        <name>France Topo IGN.fr</name>
+        <copyright>IGN.fr</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>6.29908,44.9775,12</preview-location>
+        
+
+        <level>
+            <zoom-values>6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={z}&TileCol={x}&TileRow={y}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1054402">
+        <name>Great Britain Topo</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>-4.69054,56.6059,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://ecn.t0.tiles.virtualearth.net/tiles/r{q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

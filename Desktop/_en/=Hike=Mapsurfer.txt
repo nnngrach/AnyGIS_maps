@@ -1,0 +1,17 @@
+[Name]
+Hike - OSM Mapsurfer
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Mapsurfer_roads/{x}/{y}/{z}
+
+[URL direct]
+https://maps.heigit.org/openmapsurfer/tiles/roads/webmercator/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://qms.nextgis.com/geoservices/2573/

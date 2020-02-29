@@ -1,0 +1,17 @@
+[Name]
+Слои - Водные - Garmin MarineImages - Сонар
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Garmin_MarineImages/{x}/{y}/{z}
+
+[URL direct]
+https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{q}.png
+
+[Min Zoom level]
+2
+
+[Max Zoom level]
+20
+
+[HTTP Referer]
+https://connect.garmin.com/ru-RU/start/quickdraw

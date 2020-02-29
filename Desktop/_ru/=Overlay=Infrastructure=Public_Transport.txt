@@ -1,0 +1,14 @@
+[Name]
+Слои - Инфраструктура - OSM OpenPTMap - Общественный транспорт
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{x}/{y}/{z}
+
+[URL direct]
+http://www.openptmap.org/tiles/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

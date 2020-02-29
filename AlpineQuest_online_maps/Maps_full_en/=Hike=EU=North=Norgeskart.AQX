@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 29-02-2020 13:21
+-->
+
+
+<name>Hike - Europe - Northern</name>
+<description></description>
+
+    <source id="1054214">
+        <name>Topografisk Norgeskart</name>
+        <copyright>Norgeskart</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>9.58282,61.5979,9</preview-location>
+        <outline>3.9,71.3 31.6,71.3 31.6,57.8 3.9,57.8</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                
+                <server><![CDATA[http://opencache2.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
+                <server><![CDATA[http://opencache3.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={z}&x={x}&y={y}]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

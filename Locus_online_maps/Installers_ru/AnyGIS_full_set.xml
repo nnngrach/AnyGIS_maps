@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 31-01-2020 17:04
+Updated: 29-02-2020 13:21
 -->
 
 
@@ -11,3052 +11,3322 @@ Updated: 31-01-2020 17:04
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Городские.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Городские.png]]>
+<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-2gis.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Anygis_Compilation.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Anygis_Compilation.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Bing_map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Bing_birds_eye.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Bing_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Bing_birds_eye.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_map_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=ESRI.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_map_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=ESRI.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_bike_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=ESRI_Clarity.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_bike_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=ESRI_Clarity.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_terrain_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Google.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_terrain_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Google_Hybrid_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Google_transit_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Here.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Google_transit_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Here.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Here_map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Mapbox.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Mapbox.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Here_terrain.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Maxar_Premium_Imagery.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_terrain.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Maxar_Premium_Imagery.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Here_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Maxar_Standard_Imagery.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Here_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Maxar_Standard_Imagery.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-TomTom_base_day.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_day.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-TomTom_base_night.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Kosmosnimki.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-TomTom_base_night.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Kosmosnimki.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Waze.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Waze.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Yandex_map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Yandex_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Yandex_map_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Yandex_Hybrid.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_map_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Yandex_Hybrid.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Yandex_narodnaya.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Европа%20-%20Восточная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_narodnaya.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Восточная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-City-Yandex_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-City-Yandex_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Спутниковые.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=East=CadastrUA_sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые.png]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=East=CadastrUA_sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-All.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-All.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Bing_birds_eye.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=North=Eniro_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Bing_birds_eye.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Eniro_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-ESRI_Imagenary.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=North=Hitta_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-ESRI_Imagenary.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Hitta_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=North=Norgeskart_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Google.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Google_with_labels_ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=North=Norgeskart_Hybrid.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Google_with_labels_ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Hybrid.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Here.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Европа%20-%20Центральная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Here.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Европа - Центральная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Mapbox.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Mapbox.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Америка.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Maxar_Facebook_Imagery.xml]]>
+<![CDATA[/mapsOnline/custom/Спутниковые - Америка.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Kosmosnimki.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=US=USGS_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Kosmosnimki.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=US=USGS_Sat_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat_plus.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Yandex_proxy.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/Городские.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites-Yandex_with_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Bing_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites-Yandex_with_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Bing_Map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Спутниковые%20специальные.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Google_Map_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Спутниковые специальные.png]]>
+<![CDATA[/mapsOnline/custom/=City=Google_Map_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Google_Terrain_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Google_Terrain_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_January.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_February.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Terrain.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_February.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Terrain.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_March.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=MapyCZ_Base.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_March.xml]]>
+<![CDATA[/mapsOnline/custom/=City=MapyCZ_Base.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Kosmosnimki.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_April.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Kosmosnimki.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_May.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Mapnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_May.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Mapnik.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Mapnik_from_Osmand.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_June.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Mapnik_from_Osmand.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_July.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=2gis.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_August.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=2gis.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=Sputnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_September.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Sputnik.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_October.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=Yandex_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_October.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=Yandex_Map_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_November.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=Yandex_Narod.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_True_color_December.xml]]>
+<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Narod.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Geology.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские%20-%20Европа%20-%20Восточная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Geology.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Европа - Восточная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Urban.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=MetaUA.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Urban.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=MetaUA.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Moisture.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=Navlux.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Moisture.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=Navlux.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_SWIR.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=Visicom.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_SWIR.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=East=Visicom.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_NDVI.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_NDVI.xml]]>
+<![CDATA[/mapsOnline/custom/Городские - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Bathimetric.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Eniro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Bathimetric.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Eniro.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Satellites_Special-Sentinel_Agriculture.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Fonecta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Satellites_Special-Sentinel_Agriculture.xml]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Fonecta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Hitta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM.png]]>
+<![CDATA[/mapsOnline/custom/=City=EU=North=Hitta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Geofabrik.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авто.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Geofabrik.xml]]>
+<![CDATA[/mapsOnline/custom/Авто.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-HikeBike.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Google_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-HikeBike.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Google_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Komoot.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Here_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Komoot.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Here_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Kosmosnimki.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Michelin.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Kosmosnimki.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Michelin.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Mapbox_Terrain.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Thunderforest_Transport.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapbox_Terrain.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Thunderforest_Transport.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Mapnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Thunderforest_Transport_Dark.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Thunderforest_Transport_Dark.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Mapnik_Proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=TomTom_Base_day.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapnik_Proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=TomTom_Base_day.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Mapsurfer.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=TomTom_Base_night.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=TomTom_Base_night.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Michelin.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Yandex_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Michelin.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Yandex_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Вело.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap.xml]]>
+<![CDATA[/mapsOnline/custom/Вело.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-OpenTopoMap_RU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Cyclosm.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-OpenTopoMap_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Cyclosm.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Osmand_Mapnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=HikeBike.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Osmand_Mapnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=HikeBike.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Refuges.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Thunderforest_Cycle.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Refuges.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Thunderforest_Cycle.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Sputnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Strava_Ride.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Вело%20-%20Европа.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport.xml]]>
+<![CDATA[/mapsOnline/custom/Вело - Европа.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Thunderforest_Transport_Dark.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Eurasia=Google_Bike_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Thunderforest_Transport_Dark.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Eurasia=Google_Bike_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20OSM%20-%20Треки.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Europe=MTB_Map_CZ.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - OSM - Треки.png]]>
+<![CDATA[/mapsOnline/custom/=Bike=Europe=MTB_Map_CZ.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Cyclosm.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Cyclosm.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Mapy_Winter.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Geocashing.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapy_Winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Geocashing.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Opnvkarte.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Westra_Passes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Opnvkarte.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-OpenSnowMap.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=4umaps.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-OpenSnowMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=4umaps.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Komoot.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Mapnik_GPS_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Komoot.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Run.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Mapbox_Terrain.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Run.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Mapbox_Terrain.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Mapsurfer.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_RideAndRun.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Mapsurfer.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Ride.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=MapyCZ_outdoor.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Ride.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=MapyCZ_outdoor.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Water.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=OSM_GPS_Tracks.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Water.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=OSM_GPS_Tracks.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=OpenTopoMap_ORG.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=OpenTopoMap_ORG.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Strava_Winter.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Refuges.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Strava_Winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Refuges.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Cycle.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Thunderforest_Outdoor.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Thunderforest_Cycle.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Thunderforest_Outdoor.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-OSM-Ways-Thunderforest_Outdoor.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Strava_Run.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-OSM-Ways-Thunderforest_Outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Водные.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Strava_RideAndRun.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Водные.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_RideAndRun.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-ERSI_ocean.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Topomapper_1km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-ERSI_ocean.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Topomapper_1km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-Navionics_OSM.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_OSM.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-Navionics_Marine_Charts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=OpenTopoMap_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_Marine_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=OpenTopoMap_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-Navionics_Sonar_Charts.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся%20-%20Многослойные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-Navionics_Sonar_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Многослойные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-OpenSeaMap.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Combo=RusOutdoorMaps.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=RusOutdoorMaps.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-OpenSeaMap_deep.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Combo=RusOutdoorMaps_lite.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_deep.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=RusOutdoorMaps_lite.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Water-OpenSeaMap_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Combo=MarshrutiRU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Water-OpenSeaMap_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Combo=MarshrutiRU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Глобальные%20-%20Справочные.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся%20-%20ГГЦ.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Глобальные - Справочные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - ГГЦ.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Geocashing.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=All.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Geocashing.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=All.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Westra_Passes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=1000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Westra_Passes.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=1000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-OpenWeatherMap_Precipit.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=2000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-OpenWeatherMap_Precipit.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=2000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-RainWiewer_Precipit.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=0250.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-RainWiewer_Precipit.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=0250.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Wikimapia.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=0500.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=0500.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Global-Info-Wikimapia_satellite.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся%20-%20Генштаб.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Global-Info-Wikimapia_satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Генштаб.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20OSM.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=All.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - OSM.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=All.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-OSM-Chepezk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=01000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-OSM-Chepezk.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=01000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Топокарты%20-%20ГГЦ.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=10000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - ГГЦ.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=10000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-GGC-All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=02000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=02000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-GGC-1000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=02000_new.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-1000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=02000_new.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-GGC-2000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=20000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-2000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=20000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0250.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=00250.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-0250.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00250.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-GGC-0500.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=00500.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-GGC-0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00500.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Топокарты%20-%20Генштаб.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=00500_new.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - Генштаб.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=00500_new.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Genshtab=05000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-Topomapper_planet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Genshtab=05000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-All.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся%20-%20Разные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-All.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - Разные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-01000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Other=All.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-01000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Other=All.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-10000.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Московская%20область%20.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-10000.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Московская область .png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Moscow=MoscowMap.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-02000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=MoscowMap.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-02000_new.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Moscow=Arbalet.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-02000_new.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Arbalet.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-20000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Moscow=Slazav.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-20000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Slazav.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00250.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Moscow=Adraces.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00250.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Adraces.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-05000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Moscow=OSport.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-05000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=OSport.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Кавказ.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00500.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Кавказ.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Genshtab-00500_new.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Genshtab-00500_new.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Топокарты%20-%20Советские.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=West_Kot.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Топокарты - Советские.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=West_Kot.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Topo-Soviet-All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Kazbek.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Topo-Soviet-All.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Kazbek.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Многослойные.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Perevaly_West.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Многослойные.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_West.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Perevaly_Center.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_Center.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Perevaly_South.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-RusOutdoorMaps_lite.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Perevaly_South.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Gosgeodesiya.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Multylayer-MarshrutiRU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Gosgeodesiya.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Московская%20область.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=FGU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Московская область.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=FGU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Moscow-MoscowMap.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Svodnaya_1000.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-MoscowMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Svodnaya_1000.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Svodnaya_0500.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Arbalet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Svodnaya_0500.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Moscow-Slazav.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Prielbusye.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Slazav.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Prielbusye.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Moscow-Adraces.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Крым.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-Adraces.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Крым.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Moscow-OSport.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Crimea=Kartografiya.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Moscow-OSport.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Crimea=Kartografiya.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Кавказ.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Crimea=SoyusKarta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Кавказ.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Crimea=SoyusKarta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Хибины.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Abshira_Ahuba.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Хибины.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Khibiny=Hills.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-West_Kot.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Hills.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Kazbek.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Khibiny=Tundra_Old.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_West.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Tundra_Old.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Разное.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_Center.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Разное.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Altay.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Perevaly_South.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Altay.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Taganay.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Gosgeodesiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Taganay.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-FGU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Sayani.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-FGU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Sayani.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Terskey_Alatau.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_1000.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Terskey_Alatau.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Slazav_hrebtovki.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Svodnaya_0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Slazav_hrebtovki.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Восточная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Caucasus-Prielbusye.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Восточная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Крым.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=East=Belarus_LatLon.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Крым.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=East=Belarus_LatLon.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=East=Karpaty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-Kartografiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=East=Karpaty.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Crimea-SoyusKarta.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Хибины.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=FINN_Kart_Norge.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Хибины.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=FINN_Kart_Norge.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Khibiny-Hills.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Finland_topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Hills.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Finland_topo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Hitta_Frilufts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Aerogeodesiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Hitta_Frilufts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Lantmateriet_Fjallkarta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Khibiny-Tundra_Old.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Fjallkarta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Туристические%20-%20Разное.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Lantmateriet_Topowebb.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Туристические - Разное.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Topowebb.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Karpaty.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Norway_UtNo_Papirkart.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Karpaty.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Papirkart.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Altay.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Norway_UtNo_Topokart.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Altay.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Topokart.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=North=Norgeskart.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Kyrgizskiy_hrebet.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norgeskart.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Taganay.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Центральная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Taganay.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Центральная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Sayani.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=Central=Kompass_De.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Sayani.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=Kompass_De.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=Central=SwissTopo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-TianShan_and_Pamir.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=SwissTopo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Alagadar.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Западная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Alagadar.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Западная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=West=France_topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Terskey_Alatau.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=West=France_topo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=West=GB_topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Hiking-Other-Slazav_hrebtovki.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=West=GB_topo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Водные.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Европа%20-%20Юго-восточная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Водные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Европа - Юго-восточная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Rivers-Kuban.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=EU=Southeast=Montenegro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Kuban.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Southeast=Montenegro.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Rivers-Volga_kama.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Азия%20-%20Передняя.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Volga_kama.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Азия - Передняя.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Asia=West=Alagadar.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Rivers-Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=West=Alagadar.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Лётные.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Азия%20-%20Центральная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Лётные.png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Азия - Центральная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-ERSI_Navigation_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-Baionline.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Asia=Central=TianShan_and_Pamir.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-Baionline.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Central=TianShan_and_Pamir.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-RNK_2016.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Америка.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2016.xml]]>
+<![CDATA[/mapsOnline/custom/Туризм - Америка.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-RNK_2019.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=US=USGS_Topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-RNK_2019.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=US=USGS_Topo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Aviation-MVL.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Зимние.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Aviation-MVL.xml]]>
+<![CDATA[/mapsOnline/custom/Зимние.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Справочные.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Winter=MapyCZ_winter.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Справочные.png]]>
+<![CDATA[/mapsOnline/custom/=Winter=MapyCZ_winter.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Navizor.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Winter=OpenSnowMap.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Navizor.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=OpenSnowMap.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Tele2.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Winter=Strava_Winter.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Tele2.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Yota.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Зимние%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Yota.xml]]>
+<![CDATA[/mapsOnline/custom/Зимние - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Beeline.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Winter=EU=North=Skoterleder.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Beeline.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=EU=North=Skoterleder.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-MTS.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Водные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-MTS.xml]]>
+<![CDATA[/mapsOnline/custom/Водные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Megafon.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=ERSI_ocean.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Megafon.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=ERSI_ocean.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Rostelcom.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Navionics_OSM.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Rostelcom.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_OSM.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-Tinkoff.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Navionics_Marine_Charts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-Tinkoff.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Marine_Charts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Eurasia-Info-RosReestr.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Navionics_Sonar_Charts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Eurasia-Info-RosReestr.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Sonar_Charts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Евразия%20-%20Исторические.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=OpenSeaMap.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Евразия - Исторические.png]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Belarus_3v.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=OpenSeaMap_deep.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_3v.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Belarus_3v_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=OpenSeaMap_traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_3v_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Belarus_WIG_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Strava_Water.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_WIG_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Belarus_RKKA_plus.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Водные%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Belarus_RKKA_plus.xml]]>
+<![CDATA[/mapsOnline/custom/Водные - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Eur_Russia_Shubert.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=RU=Kuban.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Eur_Russia_Shubert.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Kuban.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Irkutsk_1km_1986.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=RU=Volga_kama.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_1km_1986.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Volga_kama.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Irkutsk_2km_1988.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_2km_1988.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Irkutsk_5km_1980.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Водные%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Irkutsk_5km_1980.xml]]>
+<![CDATA[/mapsOnline/custom/Водные - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kavkaz_1877.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=EU=North=Eniro_Navionics.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1877.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Navionics.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kavkaz_1926.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=EU=North=Eniro_Nautical.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1926.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Nautical.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kavkaz_1948_eng.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиа.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kavkaz_1948_eng.xml]]>
+<![CDATA[/mapsOnline/custom/Авиа.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Krim_1v.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=ERSI_Navigation_Charts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Krim_1v.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=ERSI_Navigation_Charts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kuban_1902.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиа%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1902.xml]]>
+<![CDATA[/mapsOnline/custom/Авиа - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kuban_1930.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RU=Baionline.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1930.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=Baionline.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kuban_1916.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RU=RNK_2016.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1916.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=RNK_2016.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Kuban_1918.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RU=RNK_2019.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Kuban_1918.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=RNK_2019.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Maykop_1925.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RU=MVL.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Maykop_1925.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=RU=MVL.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-MSK_1852.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Справочные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-MSK_1852.xml]]>
+<![CDATA[/mapsOnline/custom/Справочные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Info=Wikimapia.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[/mapsOnline/custom/=Info=Wikimapia.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Info=Wikimapia_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-German_Genshtab_3km.xml]]>
+<![CDATA[/mapsOnline/custom/=Info=Wikimapia_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1917.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Инфраструктура.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1917.xml]]>
+<![CDATA[/mapsOnline/custom/Инфраструктура.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-RKKA_2km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Infrastructure=Google_Transit_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-RKKA_2km.xml]]>
+<![CDATA[/mapsOnline/custom/=Infrastructure=Google_Transit_RU.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-RKKA_1km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Infrastructure=Opnvkarte.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-RKKA_1km.xml]]>
+<![CDATA[/mapsOnline/custom/=Infrastructure=Opnvkarte.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1705.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1705.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1725.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Eur_Russia_Shubert.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1725.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Eur_Russia_Shubert.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1883.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Strelbitsky_1882.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Strelbitsky_1882.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-SPB_1894.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Strelbitsky_1919.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-SPB_1894.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Strelbitsky_1919.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Strelbitsky_1882.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Центр.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Strelbitsky_1882.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Центр.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Strelbitsky_1919.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Strelbitsky_1919.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Hystoric-Tver_Mende.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric-Tver_Mende.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20OSM.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Северо-Запад.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - OSM.png]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Северо-Запад.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-OSM-4umaps.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-OSM-4umaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-OSM-MTB_Map_Europe.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-OSM-MTB_Map_Europe.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Восточная.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Восточная.png]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_LatLon.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_LatLon.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Belarus_Genshtab.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Крым.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Belarus_Genshtab.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Крым.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-MetaUA.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Crimean=Krim_1v.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Crimean=Krim_1v.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Navlux.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Кубань.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Navlux.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Кубань.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-Visicom.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Kuban_1902.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-Visicom.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1902.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_genshtab.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Kuban_1930.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_genshtab.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1930.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Kuban_1916.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_map.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1916.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Kuban_1918.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1918.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Eastern-CadastrUA_overlay.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Eastern-CadastrUA_overlay.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Северная.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Северная.png]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Genshtab_3km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Eniro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Eniro_Navionics.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Navionics.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Eniro_satellite.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Кавказ.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Кавказ.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Eniro_Nautical.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_Nautical.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Eniro_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Eniro_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-FINN_Kart_Norge.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-FINN_Kart_Norge.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Finland_topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Caucasian=Maykop_1925.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Finland_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Maykop_1925.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Fonecta.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Сибирь.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Сибирь.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Hitta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Siberian=Irkutsk_1km_1986.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_1km_1986.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Hitta_Frilufts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Siberian=Irkutsk_2km_1988.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_2km_1988.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Hitta_Satellit.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Европа%20-%20Восточная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Hitta_Satellit.xml]]>
+<![CDATA[/mapsOnline/custom/Исторические - Европа - Восточная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Europe=Eastern=Belarus_3v.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Fjallkarta.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Lantmateriet_Topowebb.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Europe=Eastern=Belarus_3v_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Lantmateriet_Topowebb.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v_plus.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norway_topo_UT.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Europe=Eastern=Belarus_WIG_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_WIG_plus.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_wintertrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Геологические%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norway_topo_UT_summertrails.xml]]>
+<![CDATA[/mapsOnline/custom/Геологические - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Skoterleder.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Geology=Eurasia=VsegeiRu_Geology.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Geology=Eurasia=VsegeiRu_Geology.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norgeskart.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Разное.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart.xml]]>
+<![CDATA[/mapsOnline/custom/Разное.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Hybrid.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Other=NewZeland_Topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=NewZeland_Topo.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Norgeskart_Satellite.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Разное%20-%20Overpass%20Turbo.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Norgeskart_Satellite.xml]]>
+<![CDATA[/mapsOnline/custom/Разное - Overpass Turbo.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Northern-Geoportal_Lt.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Other=Overpass=GravelRunTrails.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Northern-Geoportal_Lt.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=GravelRunTrails.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Западная.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Other=Overpass=Waste.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Западная.png]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=Waste.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Western-France_topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Other=Overpass=Drinking_Water.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Western-France_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Other=Overpass=Drinking_Water.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Western-GB_topo.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Рельеф.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Western-GB_topo.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Рельеф.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Центральная.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Mapsurfer.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Центральная.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Mapsurfer.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-Kompass_De.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Waymarkedtrails.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Kompass_De.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Waymarkedtrails.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-Czech_base.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Windy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_base.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Windy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-Czech_geo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=WmfLabs.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_geo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=WmfLabs.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-Czech_outdoor.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Slopemap.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Slopemap.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-Czech_winter.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Рельеф%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-Czech_winter.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Рельеф - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissSkiRoutes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=EU=Northern=Norway_UtNo_Bratthetskart.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissSkiRoutes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=Norway_UtNo_Bratthetskart.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissSlopes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=EU=Northern=Norway_UtNo_SkredSnoAktR.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissSlopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=Norway_UtNo_SkredSnoAktR.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissImage.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissImage.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissTopo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Ersi_admin_labels.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissTopo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ersi_admin_labels.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Central-SwissTrails.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Google.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Central-SwissTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Google.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Европа%20-%20Юго-восточная.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Mapbox.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Европа - Юго-восточная.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapbox.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Europe-Southeast-Montenegro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Mapsurfer_hybrid.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Europe-Southeast-Montenegro.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapsurfer_hybrid.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/США.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Mapsurfer_admin_labels.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/США.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Mapsurfer_admin_labels.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/USA-USGS_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=TomTom_day.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_day.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/USA-USGS_Sat_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=TomTom_night.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Sat_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_night.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/USA-USGS_Topo.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи%20-%20Евразия.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/USA-USGS_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи - Евразия.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Прочее.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=RU=Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Прочее.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Other-NewZeland_Topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=RU=Yandex_narod.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Other-NewZeland_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex_narod.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Надписи%20и%20дороги.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Надписи и дороги.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Ersi_admin_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=EU=North=Eniro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Ersi_admin_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=EU=North=Eniro.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Google.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Авто.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Google.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Авто.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapbox.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Bing_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapbox.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Bing_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapsurfer_admin_labels.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Google_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_admin_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Google_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Here_Flow.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Mapsurfer_hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Here_Flow.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Public_Transport.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Here_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Public_Transport.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Here_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenFireMap.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Navizor_Quality.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenFireMap.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Navizor_Quality.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=TomTom_Incidents.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=TomTom_Incidents.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay_signals.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=TomTom_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_signals.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=TomTom_Traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenRailWay_speed.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Yandex_Intensity.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenRailWay_speed.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Intensity.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Yandex_Direcions.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-OpenSnowMap_pistes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Direcions.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_white.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Yandex_Traffic_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_white.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Traffic_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_gray.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Вело.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_gray.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Вело.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Tile_grid_black.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Bike=WayMarkedTrails_MTB.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Tile_grid_black.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_MTB.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-TomTom_labels_day.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Bike=WayMarkedTrails_Cycling.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_day.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_Cycling.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-TomTom_labels_night.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Bike=Strava_Ride_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-TomTom_labels_night.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Bike=Strava_Ride_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Cycling.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Riding.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туризм.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Riding.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_MTB.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Slopes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=WayMarkedTrails_Hiking.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Slopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=WayMarkedTrails_Hiking.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_Run_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Skating.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_Run_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-WayMarkedTrails_Hiking.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Wiggle_wifi.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_RunAndRide_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wiggle_wifi.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_RunAndRide_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Wikimapia.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_All_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Wikimapia.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-RosReestr.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_All_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-RosReestr.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Yandex.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туризм%20-%20Европа%20-%20Северная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм - Европа - Северная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Hybrid-Yandex_narod.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Hybrid-Yandex_narod.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Пробки.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туризм%20-%20Европа%20-%20Центральная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Пробки.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Туризм - Европа - Центральная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Bing.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Bing.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Google.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Зимние.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Google.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Зимние.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Here.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=OpenSnowMap_pistes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=OpenSnowMap_pistes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Here_flow.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=WayMarkedTrails_Slopes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Here_flow.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=WayMarkedTrails_Slopes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-NavitelSu_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-NavitelSu_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-TomTom.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-TomTom_incidents.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Зимние%20-%20Европа%20-%20Центральная.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-TomTom_incidents.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Зимние - Европа - Центральная.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex_intensity.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_intensity.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Traffic-Yandex_direcions.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Водные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Traffic-Yandex_direcions.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Водные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20GPS%20треки.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Garmin_MarineImages.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - GPS треки.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Garmin_MarineImages.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Navionics_Marine_Charts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-OpenSreetMaps.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Navionics_Marine_Charts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_RunAndRide_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Navionics_Sonar_Charts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_RunAndRide_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Navionics_Sonar_Charts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_seamark.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Run_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_seamark.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_deep.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Run_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Ride_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Ride_Bluered_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Strava_Water_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Ride_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Strava_Water_Bluered_HD.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Bluered_HD.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Справочные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Water_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Справочные.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_All_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_All_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_All_Bluered_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RainWiewer_Precipit.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_All_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RainWiewer_Precipit.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Wiggle_wifi_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Winter_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Wiggle_wifi_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Wikimapia.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_GPS_tracks-Strava_Winter_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Wikimapia.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Рельеф.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Tile_grid_white.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Рельеф.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_white.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Mapbox_Contour_Lines.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Tile_grid_gray.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapbox_Contour_Lines.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_gray.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Mapsurfer.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Tile_grid_black.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_black.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Waymarkedtrails.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Справочные%20-%20Евразия%20-%20Сотовые.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Waymarkedtrails.xml]]>
+<![CDATA[/mapsOnline/custom/Слои - Справочные - Евразия - Сотовые.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Windy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Skylink_4G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Windy.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Skylink_4G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-WmfLabs.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tele2_2G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-WmfLabs.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_2G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Relief-Slopemap.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tele2_3G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Relief-Slopemap.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_3G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overlay%20-%20Морские.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tele2_4G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Морские.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_4G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-Garmin_MarineImages.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tele2_4G_450.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Garmin_MarineImages.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2_4G_450.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-Navionics_Marine_Charts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tele2.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Navionics_Marine_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tele2.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-Navionics_Sonar_Charts.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Yota_2G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-Navionics_Sonar_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_2G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-OpenSeaMap_seamark.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Yota_3G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_seamark.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_3G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-OpenSeaMap_deep.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Yota_4G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_deep.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota_4G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overlay_Nautical-OpenSeaMap_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Yota.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay_Nautical-OpenSeaMap_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Yota.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Overpass.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Beeline_2G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass.png]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_2G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overpass-GravelRunTrails.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Beeline_3G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-GravelRunTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_3G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overpass-Waste.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Beeline_4G.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-Waste.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline_4G.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/Overpass-Drinking_Water.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Beeline.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overpass-Drinking_Water.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Beeline.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS_2G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS_3G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS_4G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS_4G_planned.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_4G_planned.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS_IOT.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS_IOT.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=MTS.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=MTS.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Megafon_3G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Megafon_2G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Megafon_4G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Megafon_4Gplus.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon_4Gplus.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Megafon.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Megafon.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Rostelcom_2G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Rostelcom_3G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Rostelcom_4G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Rostelcom.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tinkoff_2G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tinkoff_3G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_3G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tinkoff_4G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff_4G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Tinkoff.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Tinkoff.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Справочные%20-%20Европа%20-%20Восточная.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Справочные - Европа - Восточная.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Инфраструктура.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Инфраструктура.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=OpenFireMap.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenFireMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=Public_Transport.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Public_Transport.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=OpenRailWay.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=OpenRailWay_signals.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay_signals.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=OpenRailWay_speed.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=OpenRailWay_speed.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Разное.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Разное.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Other=WayMarkedTrails_Riding.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Other=WayMarkedTrails_Riding.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Other=WayMarkedTrails_Skating.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Other=WayMarkedTrails_Skating.xml]]>
 </dest>
 </download>
 
