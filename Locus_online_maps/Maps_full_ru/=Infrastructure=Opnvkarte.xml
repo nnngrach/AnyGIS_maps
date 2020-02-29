@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Инфраструктура</name>
 <mode>OSM OpenBusMap (Opnvkarte.de)</mode>
 <countries>World</countries>
-<usage>city</usage>
+<usage>transport</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://tile.memomaps.de/tilegen/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 29-02-2020 13:21
         <copyright>Gov.ua</copyright>
         <data-source></data-source>
         <region>OTHE</region>
-        <type>ROAD</type>
+        <type>OTHE</type>
 
         <preview-location>30.66267,50.51538,9</preview-location>
         <outline>21.9,52.5 40.4,52.5 40.4,44.2 21.9,44.2</outline>

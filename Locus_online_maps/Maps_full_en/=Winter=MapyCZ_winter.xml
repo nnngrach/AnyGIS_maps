@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Winter</name>
 <mode>OSM Czech - Mapy.cz Winter</mode>
 <countries>Czech</countries>
-<usage>hiking</usage>
+<usage>ski</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://m{s}.mapserver.mapy.cz/winter-m/{z}-{x}-{y}]]></url>
 <serverPart>1;2;3;4</serverPart>

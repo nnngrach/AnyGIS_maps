@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -17,7 +17,7 @@ Updated: 29-02-2020 14:34
 <name>Туризм - Евразия</name>
 <mode>OSM OpenTopoMap.RU</mode>
 <countries>World</countries>
-<usage>hiking,ski</usage>
+<usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://tile-{s}.opentopomap.ru/{z}/{x}/{y}.png]]></url>
 <serverPart>a;b;c</serverPart>

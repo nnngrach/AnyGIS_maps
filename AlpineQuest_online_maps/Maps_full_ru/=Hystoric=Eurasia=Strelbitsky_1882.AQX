@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 29-02-2020 13:21
         
         <data-source></data-source>
         <region>OTHE</region>
-        <type>TOPO</type>
+        <type>ROAD</type>
 
         <preview-location>30.2,59.9,10</preview-location>
         <outline>15.9,71.1 72.1,71.1 72.1,38.09 15.9,38.09</outline>

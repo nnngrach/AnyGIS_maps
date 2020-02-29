@@ -1,6 +1,6 @@
 ﻿
 [PARAMS]
-GUID={2DAA1FA8-A0A6-42D7-813D-321FF56EF969}
+GUID={2E0529F0-4872-4356-AB17-852FB35A0758}
 ParentSubMenu_ru=Cотовые сети
 ParentSubMenu_uk=Cотовые сети
 ParentSubMenu=Mobile coverage area

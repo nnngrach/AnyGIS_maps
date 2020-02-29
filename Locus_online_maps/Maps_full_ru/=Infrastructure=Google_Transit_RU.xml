@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Инфраструктура</name>
 <mode>Google Транзит</mode>
 <countries>World</countries>
-<usage>city, road</usage>
+<usage>transport</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://mt{s}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={x}&y={y}&z={z}&hl=ru&{ts}]]></url>
 <serverPart>0;1;2;3</serverPart>

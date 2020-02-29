@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Московская область  - Ориентирование "O-Sport"
+Туризм - Евразия - Московская область - Ориентирование "O-Sport"
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Osport/{x}/{y}/{z}

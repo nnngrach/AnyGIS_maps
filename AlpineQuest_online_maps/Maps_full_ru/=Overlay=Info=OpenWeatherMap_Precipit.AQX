@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 29-02-2020 13:21
         <copyright>OpenWeatherMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
-        <type>TOPO</type>
+        <type>OTHE</type>
 
         <preview-location>38.06,55.7,5</preview-location>
         

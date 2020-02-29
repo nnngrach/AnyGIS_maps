@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Исторические - Евразия - Северо-Запад</name>
 <mode>Петроград 1917</mode>
 <countries>Russia</countries>
-<usage>photo</usage>
+<usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>
 <url><![CDATA[http://www.retromap.ru/tiles/h/1/1419173/Z{z}/{y}/{x}.jpg]]></url>
 <serverPart></serverPart>

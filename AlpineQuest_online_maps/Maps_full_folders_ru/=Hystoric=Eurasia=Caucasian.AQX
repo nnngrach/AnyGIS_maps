@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 29-02-2020 13:21
         
         <data-source></data-source>
         <region>OTHE</region>
-        <type>TOPO</type>
+        <type>ROAD</type>
 
         <preview-location>42.15,44.6,8</preview-location>
         <outline>35.8,47.1 47.4,47.1 47.4,42.6 35.8,42.6</outline>
@@ -38,7 +38,7 @@ Updated: 29-02-2020 13:21
         
         <data-source></data-source>
         <region>OTHE</region>
-        <type>TOPO</type>
+        <type>ROAD</type>
 
         <preview-location>42.15,44.6,10</preview-location>
         <outline>35.8,47.1 52.6,47.1 52.6,35.4 35.8,35.4</outline>
@@ -61,7 +61,7 @@ Updated: 29-02-2020 13:21
         
         <data-source></data-source>
         <region>OTHE</region>
-        <type>TOPO</type>
+        <type>ROAD</type>
 
         <preview-location>42.15,44.6,10</preview-location>
         <outline>35.8,47.1 50.7,47.1 50.7,39.01 35.8,39.01</outline>
@@ -84,7 +84,7 @@ Updated: 29-02-2020 13:21
         
         <data-source></data-source>
         <region>OTHE</region>
-        <type>TOPO</type>
+        <type>ROAD</type>
 
         <preview-location>40.1,44.61,11</preview-location>
         <outline>39.01,45.3 41.2,45.3 41.2,43.2 39.01,43.2</outline>

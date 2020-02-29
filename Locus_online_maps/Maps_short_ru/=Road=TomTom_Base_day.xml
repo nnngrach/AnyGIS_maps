@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Авто</name>
 <mode>TomTom День</mode>
 <countries>World</countries>
-<usage>city</usage>
+<usage>road</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://{s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <serverPart>a;b;c;d</serverPart>

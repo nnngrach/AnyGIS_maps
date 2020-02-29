@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Московская область  - MoscowMap.ru
+Туризм - Евразия - Московская область - MoscowMap.ru
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_MoscowMap/{x}/{y}/{z}

@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:20
+Updated: 29-02-2020 15:51
 -->
 
 
 <customMapSource>
-<name>Туризм - Евразия - Московская область  - MoscowMap.ru</name>
+<name>Туризм - Евразия - Московская область - MoscowMap.ru</name>
 <layers>
 
 <layer>

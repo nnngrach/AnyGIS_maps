@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -15,7 +15,7 @@ Updated: 29-02-2020 13:21
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
-        <type>SATE</type>
+        <type>ROAD</type>
 
         <preview-location>37.62,55.75,16</preview-location>
         <outline>37.5,55.81 32.72,55.81 32.72,55.7 37.5,55.7</outline>

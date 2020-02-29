@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Hike - Europe - Southeast</name>
 <mode>Montenecro 250m</mode>
 <countries>Montenegro</countries>
-<usage>overlay</usage>
+<usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://tiles.nakarte.me/montenegro250m/{z}/{x}/{y}]]></url>
 <serverPart></serverPart>

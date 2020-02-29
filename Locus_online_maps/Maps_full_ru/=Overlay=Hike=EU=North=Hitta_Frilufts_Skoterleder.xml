@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -31,7 +31,7 @@ Updated: 29-02-2020 14:34
 <name>Слои - Туризм - Европа - Северная</name>
 <mode>Hitta Frilufts + Skoterleder</mode>
 <countries>Sweden</countries>
-<usage>hiking</usage>
+<usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://overl.skoterleder.org/tiles/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>

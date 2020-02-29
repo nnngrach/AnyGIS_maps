@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -17,7 +17,7 @@ Updated: 29-02-2020 14:34
 <name>Туризм</name>
 <mode>OSM Thunderforest Outdoor</mode>
 <countries>World</countries>
-<usage>hiking,ski</usage>
+<usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://{s}.tile.thunderforest.com/outdoors/{z}/{x}/{y}{ts}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <serverPart>a;b;c</serverPart>

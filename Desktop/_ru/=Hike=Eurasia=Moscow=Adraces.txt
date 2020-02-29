@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Московская область  - Ориентирование "Adraces"
+Туризм - Евразия - Московская область - Ориентирование "Adraces"
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Adraces/{x}/{y}/{z}

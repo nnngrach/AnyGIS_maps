@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 14:34
+Updated: 29-02-2020 15:52
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 14:34
 <name>Слои - Справочные - Европа - Восточная</name>
 <mode>Украина - Кадастровые границы</mode>
 <countries>Ukraine</countries>
-<usage>city</usage>
+<usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
