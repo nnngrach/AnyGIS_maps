@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 14:34
 -->
 
 
@@ -1004,7 +1004,7 @@ Updated: 29-02-2020 13:21
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Туризм - Евразия - Московская область .png]]>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Московская область.png]]>
 </dest>
 </download>
 

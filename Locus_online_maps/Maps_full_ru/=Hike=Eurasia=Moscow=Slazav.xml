@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 13:21
+Updated: 29-02-2020 14:34
 -->
 
 
@@ -11,7 +11,7 @@ Updated: 29-02-2020 13:21
 <providers>
 
 <provider id="1053100" type="1" visible="true" background="-1">
-<name>Туризм - Евразия - Московская область </name>
+<name>Туризм - Евразия - Московская область</name>
 <mode>Карты Завьялова "ММБ"</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
