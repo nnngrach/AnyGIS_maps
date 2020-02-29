@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 15:52
+Updated: 29-02-2020 18:11
 -->
 
 
@@ -14,7 +14,7 @@ Updated: 29-02-2020 15:52
 <providers>
 
 <provider id="1051001" type="0" visible="true" background="-1">
-<name>Hike - Eurasia</name>
+<name>Hike - Eurasia - All</name>
 <mode>OSM OpenTopoMap.RU</mode>
 <countries>World</countries>
 <usage>hiking</usage>

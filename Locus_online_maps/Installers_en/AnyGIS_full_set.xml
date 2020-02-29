@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 15:52
+Updated: 29-02-2020 18:11
 -->
 
 
@@ -785,19 +785,19 @@ Updated: 29-02-2020 15:52
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike%20-%20Eurasia.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike%20-%20Eurasia%20-%20All.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hike - Eurasia.png]]>
+<![CDATA[/mapsOnline/custom/Hike - Eurasia - All.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Eurasia=OpenTopoMap_RU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Eurasia=All=OpenTopoMap_RU.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=OpenTopoMap_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=OpenTopoMap_RU.xml]]>
 </dest>
 </download>
 

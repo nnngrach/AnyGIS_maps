@@ -2,12 +2,12 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 15:51
+Updated: 29-02-2020 18:10
 -->
 
 
 <customMapSource>
-<name>Туризм - Евразия - OSM OpenTopoMap.RU</name>
+<name>Hike - Eurasia - All - OSM OpenTopoMap.RU</name>
 <layers>
 
 <layer>

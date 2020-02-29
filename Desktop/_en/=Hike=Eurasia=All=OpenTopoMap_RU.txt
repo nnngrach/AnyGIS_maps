@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - OSM OpenTopoMap.RU
+Hike - Eurasia - All - OSM OpenTopoMap.RU
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Topo_Map_RU/{x}/{y}/{z}

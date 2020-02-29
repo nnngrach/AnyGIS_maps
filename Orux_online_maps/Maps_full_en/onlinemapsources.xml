@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 29-02-2020 15:51
+Updated: 29-02-2020 18:10
 -->
 
 <onlinemapsource uid="1010001">
@@ -952,7 +952,7 @@ Updated: 29-02-2020 15:51
 </onlinemapsource>
 
 <onlinemapsource uid="1051001">
-<name>OSM OpenTopoMap.RU (HIKERU)</name>
+<name>OSM OpenTopoMap.RU (HIKERUALL)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
