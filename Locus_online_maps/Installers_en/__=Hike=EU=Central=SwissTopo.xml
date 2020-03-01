@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 01-03-2020 20:56
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=EU=Central=SwissTopo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=EU=Central=SwissTopo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike%20-%20Europe%20-%20Central.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hike - Europe - Central.png]]>
+</dest>
+</download>
+
+</locusActions>

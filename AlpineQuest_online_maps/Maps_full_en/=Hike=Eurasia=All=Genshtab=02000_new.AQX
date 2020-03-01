@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 01-03-2020 20:56
+-->
+
+
+<name>Hike - Eurasia - All - Soviet Military Map</name>
+<description></description>
+
+    <source id="1052206">
+        <name>Genshtab 2000m new</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>39.95,44.02,12</preview-location>
+        <outline>35.999,47.99 41.99,47.99 41.99,42.666 35.999,42.666</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Locals_Genshtab_02000_new/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

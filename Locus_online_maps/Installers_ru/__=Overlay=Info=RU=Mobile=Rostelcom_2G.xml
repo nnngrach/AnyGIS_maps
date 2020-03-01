@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 01-03-2020 20:56
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=RU=Mobile=Rostelcom_2G.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RU=Mobile=Rostelcom_2G.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Справочные%20-%20Евразия%20-%20Сотовые.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Слои - Справочные - Евразия - Сотовые.png]]>
+</dest>
+</download>
+
+</locusActions>

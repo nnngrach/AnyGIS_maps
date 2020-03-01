@@ -1,0 +1,14 @@
+[Name]
+Туризм - Евразия - Вся - Генштаб - Генштаб 5000 м
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Locals_Genshtab_05000/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/genshtab/5km/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+11

@@ -3,7 +3,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 01-03-2020 14:09
+Updated: 01-03-2020 20:55
 -->
 
 <onlinemapsource uid="1010001">
@@ -936,11 +936,71 @@ Updated: 01-03-2020 14:09
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1050018">
+<name>Topomapper - Soviet military map 1km (planet) (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Topomapper/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>13</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1051001">
 <name>OSM OpenTopoMap.RU (HIKERUALL)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052003">
+<name>Marshruty.ru (HIKERUALLCOMBO)</name>
+<url><![CDATA[http://maps.marshruty.ru/ml.ashx?al=1&x={$x}&y={$y}&z={$z}&i=1]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>8</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052001">
+<name>RusOutdoor maps (HIKERUALLCOMBO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052002">
+<name>RusOutdoor maps (lite) (HIKERUALLCOMBO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1014,6 +1074,156 @@ Updated: 01-03-2020 14:09
 <onlinemapsource uid="1052101">
 <name>GGC Compilation (HIKERUALLGGC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052203">
+<name>Genshtab 10 000m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_10000/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>10</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052202">
+<name>Genshtab 20 000m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_20000/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>9</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052205">
+<name>Genshtab 2000m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_02000/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052207">
+<name>Genshtab 2000m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_01000/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052206">
+<name>Genshtab 2000m new (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_02000_new/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052210">
+<name>Genshtab 250m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00250/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052204">
+<name>Genshtab 5000m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_05000/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>11</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052208">
+<name>Genshtab 500m (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00500/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052209">
+<name>Genshtab 500m new (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Locals_Genshtab_00500_new/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052201">
+<name>Genshtab Compilation (HIKERUALLGENSHTAB)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Genshtab/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -2126,36 +2336,6 @@ Updated: 01-03-2020 14:09
 <url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1111307">
-<name>German military 1941 2km (HYSTORYCRUSOUTH)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_2km/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1111308">
-<name>German military 1942 2km (HYSTORYCRUSOUTH)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Historic_German_Genshtab_3km/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

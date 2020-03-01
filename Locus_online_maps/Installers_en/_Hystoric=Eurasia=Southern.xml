@@ -2,7 +2,7 @@
 
 <!--
 Map pack from AnyGIS.ru
-Updated: 01-03-2020 14:10
+Updated: 01-03-2020 20:56
 -->
 
 
@@ -15,24 +15,6 @@ Updated: 01-03-2020 14:10
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Hystoric - Eurasia - Southern.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=German_Military_3km.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Military_3km.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=German_Military_3km.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=German_Military_3km.xml]]>
 </dest>
 </download>
 

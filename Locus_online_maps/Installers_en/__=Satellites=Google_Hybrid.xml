@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<!--
+Map pack from AnyGIS.ru
+Updated: 01-03-2020 20:56
+-->
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Google_Hybrid.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Satellites.png]]>
+</dest>
+</download>
+
+</locusActions>
