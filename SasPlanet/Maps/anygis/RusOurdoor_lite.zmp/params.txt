@@ -1,6 +1,6 @@
 ﻿
 [PARAMS]
-GUID={B4F42EE8-31CD-467E-9ED2-7D3BFF268B14}
+GUID={DF54F703-33CC-4061-B5FE-9F0A2E0E4F37}
 ParentSubMenu_ru=Туристические\Многослойные
 ParentSubMenu_uk=Туристические\Многослойные
 ParentSubMenu=Tourism\Karelia
