@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Khibiny=Tundra_Aerogeodesiya.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Хибины.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Туризм - Евразия - Хибины.png]]>
+</dest>
+</download>
+
+</locusActions>

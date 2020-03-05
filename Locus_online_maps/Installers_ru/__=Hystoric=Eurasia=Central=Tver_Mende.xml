@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Исторические%20-%20Евразия%20-%20Центр.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Исторические - Евразия - Центр.png]]>
+</dest>
+</download>
+
+</locusActions>
