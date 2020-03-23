@@ -16,19 +16,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=ERSI_ocean.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Esri_ocean.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=ERSI_ocean.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Esri_ocean.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Navionics_OSM.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Navionics_Osm.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=Navionics_OSM.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Osm.xml]]>
 </dest>
 </download>
 
@@ -88,28 +88,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=RU=Kuban.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Ru=Kuban.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Kuban.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Kuban.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=RU=Volga_kama.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Ru=Volga_kama.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Volga_kama.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Volga_kama.xml]]>
 </dest>
 </download>
 

@@ -25,82 +25,82 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Beeline_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_4g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_4g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_4G_planned.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_4g_planned.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_4G_planned.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_4g_planned.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_IOT.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_iot.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_IOT.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_iot.xml]]>
 </dest>
 </download>
 
@@ -115,37 +115,37 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4Gplus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4gPlus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4Gplus.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4gPlus.xml]]>
 </dest>
 </download>
 
@@ -160,37 +160,37 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Rostelcom_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_4g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Skylink_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Skylink_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Skylink_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Skylink_4g.xml]]>
 </dest>
 </download>
 
@@ -205,37 +205,37 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_4G_450.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tele2_4g_450.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4G_450.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4g_450.xml]]>
 </dest>
 </download>
 
@@ -250,28 +250,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Tinkoff_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_4g.xml]]>
 </dest>
 </download>
 
@@ -286,28 +286,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_2G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_2g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_2g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_3G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_3g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_3g.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Yota_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4g.xml]]>
 </dest>
 </download>
 

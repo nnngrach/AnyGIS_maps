@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Aviation=MVL.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Aviation=Mvl.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=MVL.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Mvl.xml]]>
 </dest>
 </download>
 

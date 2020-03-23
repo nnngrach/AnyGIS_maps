@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=OSM_GPS_Tracks.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Osm_Gos_Tracks.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=OSM_GPS_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Osm_Gos_Tracks.xml]]>
 </dest>
 </download>
 

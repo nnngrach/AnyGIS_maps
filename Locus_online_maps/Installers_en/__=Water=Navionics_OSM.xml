@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Navionics_OSM.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Navionics_Osm.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=Navionics_OSM.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Osm.xml]]>
 </dest>
 </download>
 

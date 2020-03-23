@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=US=USGS_Topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Us=Usgs_Topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=US=USGS_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Us=Usgs_Topo.xml]]>
 </dest>
 </download>
 

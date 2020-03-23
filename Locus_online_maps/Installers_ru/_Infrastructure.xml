@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Infrastructure=Google_Transit_RU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Infrastructure=Google_Transit_Ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Infrastructure=Google_Transit_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Infrastructure=Google_Transit_Ru.xml]]>
 </dest>
 </download>
 

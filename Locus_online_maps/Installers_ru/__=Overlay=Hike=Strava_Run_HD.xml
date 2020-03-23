@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_Run_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Strava_Run_Hd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Hd.xml]]>
 </dest>
 </download>
 

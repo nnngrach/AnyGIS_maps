@@ -43,10 +43,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Central=Msk_1852.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Msk_1852.xml]]>
 </dest>
 </download>
 
@@ -61,46 +61,46 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1917.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1917.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1705.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1705.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1725.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1725.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1894.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1894.xml]]>
 </dest>
 </download>
 
@@ -142,19 +142,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Rkka_2km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_2km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Southern=Rkka_1km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_1km.xml]]>
 </dest>
 </download>
 

@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=MTS_4G_planned.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Mts_4g_planned.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_4G_planned.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_4g_planned.xml]]>
 </dest>
 </download>
 

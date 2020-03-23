@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
 </dest>
 </download>
 

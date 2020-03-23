@@ -25,19 +25,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=ESRI.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Esri.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=ESRI.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Esri.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=ESRI_Clarity.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Esri_Clarity.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=ESRI_Clarity.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Esri_Clarity.xml]]>
 </dest>
 </download>
 
@@ -133,19 +133,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=CadastrUA_sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=CadastrUa_sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUa_sat.xml]]>
 </dest>
 </download>
 
@@ -196,19 +196,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=US=USGS_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Us=Usgs_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Us=Usgs_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=US=USGS_Sat_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Us=Usgs_Sat_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Us=Usgs_Sat_plus.xml]]>
 </dest>
 </download>
 

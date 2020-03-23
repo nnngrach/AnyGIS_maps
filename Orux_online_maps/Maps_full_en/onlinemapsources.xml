@@ -48,7 +48,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010001">
-<name>Ersi+Yandex+Google (SATELLITES)</name>
+<name>ESRI+Yandex+Google (SATELLITES)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -1833,7 +1833,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1080001">
-<name>ERSI World Navigation Charts (AVIA)</name>
+<name>ESRI World Navigation Charts (AVIA)</name>
 <url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>10</maxzoom>
@@ -2538,7 +2538,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2020001">
-<name>ERSI - Admin boundaries (OVERLAYHYBRID)</name>
+<name>ESRI - Admin boundaries (OVERLAYHYBRID)</name>
 <url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{$z}/{$y}/{$x}.jpg ]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>

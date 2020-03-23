@@ -28,7 +28,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=ESRI.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Esri.xml]]>
 </dest>
 </download>
 
@@ -37,7 +37,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=ESRI_Clarity.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Esri_Clarity.xml]]>
 </dest>
 </download>
 
@@ -136,7 +136,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
 </dest>
 </download>
 
@@ -145,7 +145,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUa_sat.xml]]>
 </dest>
 </download>
 
@@ -199,7 +199,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Us=Usgs_Sat.xml]]>
 </dest>
 </download>
 
@@ -208,7 +208,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=US=USGS_Sat_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Us=Usgs_Sat_plus.xml]]>
 </dest>
 </download>
 
@@ -298,7 +298,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=MapyCZ_Base.xml]]>
+<![CDATA[/mapsOnline/custom/=City=MapyCz_Base.xml]]>
 </dest>
 </download>
 
@@ -307,7 +307,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=2gis.xml]]>
 </dest>
 </download>
 
@@ -316,7 +316,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Sputnik.xml]]>
 </dest>
 </download>
 
@@ -325,7 +325,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map.xml]]>
 </dest>
 </download>
 
@@ -334,7 +334,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map_proxy.xml]]>
 </dest>
 </download>
 
@@ -343,7 +343,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Narod.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Narod.xml]]>
 </dest>
 </download>
 
@@ -352,7 +352,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUa.xml]]>
 </dest>
 </download>
 
@@ -415,7 +415,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Garmin_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Garmin_Ru.xml]]>
 </dest>
 </download>
 
@@ -550,7 +550,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=MTB_Map_CZ.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Mtb_Map_Cz.xml]]>
 </dest>
 </download>
 
@@ -604,7 +604,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=MapyCZ_outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=MapyCz_outdoor.xml]]>
 </dest>
 </download>
 
@@ -613,7 +613,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=OSM_GPS_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Osm_Gos_Tracks.xml]]>
 </dest>
 </download>
 
@@ -622,7 +622,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=OpenTopoMap_ORG.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=OpenTopoMap_org.xml]]>
 </dest>
 </download>
 
@@ -694,7 +694,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=OpenTopoMap_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=OpenTopoMap_Ru.xml]]>
 </dest>
 </download>
 
@@ -730,7 +730,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=OSport.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Moscow=Osport.xml]]>
 </dest>
 </download>
 
@@ -784,7 +784,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=FGU.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Fgu.xml]]>
 </dest>
 </download>
 
@@ -964,7 +964,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eu=North=FINN_Kart_Norge.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Finn_Kart_Norge.xml]]>
 </dest>
 </download>
 
@@ -1054,7 +1054,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eu=West=GB_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=West=Gb_topo.xml]]>
 </dest>
 </download>
 
@@ -1090,7 +1090,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=US=USGS_Topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Us=Usgs_Topo.xml]]>
 </dest>
 </download>
 
@@ -1108,7 +1108,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=1000.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=1000.xml]]>
 </dest>
 </download>
 
@@ -1117,7 +1117,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=2000.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=2000.xml]]>
 </dest>
 </download>
 
@@ -1126,7 +1126,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=0250.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=0250.xml]]>
 </dest>
 </download>
 
@@ -1135,7 +1135,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=0500.xml]]>
 </dest>
 </download>
 
@@ -1144,7 +1144,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=All.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=All.xml]]>
 </dest>
 </download>
 
@@ -1171,7 +1171,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Winter=MapyCZ_winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=MapyCz_winter.xml]]>
 </dest>
 </download>
 
@@ -1216,7 +1216,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=ERSI_ocean.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Esri_ocean.xml]]>
 </dest>
 </download>
 
@@ -1225,7 +1225,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=Navionics_OSM.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Navionics_Osm.xml]]>
 </dest>
 </download>
 
@@ -1288,7 +1288,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </dest>
 </download>
 
@@ -1297,7 +1297,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Kuban.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Kuban.xml]]>
 </dest>
 </download>
 
@@ -1306,7 +1306,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Volga_kama.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Volga_kama.xml]]>
 </dest>
 </download>
 
@@ -1342,7 +1342,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=ERSI_Navigation_Charts.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Esri_Navigation_Charts.xml]]>
 </dest>
 </download>
 
@@ -1360,7 +1360,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=MVL.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Mvl.xml]]>
 </dest>
 </download>
 
@@ -1369,7 +1369,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=RNK_2016.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Rnk_2016.xml]]>
 </dest>
 </download>
 
@@ -1378,7 +1378,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=RNK_2019.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Rnk_2019.xml]]>
 </dest>
 </download>
 
@@ -1477,7 +1477,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=MSK_1852.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Msk_1852.xml]]>
 </dest>
 </download>
 
@@ -1495,7 +1495,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1917.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1917.xml]]>
 </dest>
 </download>
 
@@ -1504,7 +1504,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1705.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1705.xml]]>
 </dest>
 </download>
 
@@ -1513,7 +1513,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1725.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1725.xml]]>
 </dest>
 </download>
 
@@ -1522,7 +1522,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
 </dest>
 </download>
 
@@ -1531,7 +1531,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=SPB_1894.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1894.xml]]>
 </dest>
 </download>
 
@@ -1576,7 +1576,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_2km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_2km.xml]]>
 </dest>
 </download>
 
@@ -1585,7 +1585,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=RKKA_1km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_1km.xml]]>
 </dest>
 </download>
 
@@ -1855,7 +1855,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ersi_admin_labels.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Esri_admin_labels.xml]]>
 </dest>
 </download>
 
@@ -1918,7 +1918,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ru=Yandex.xml]]>
 </dest>
 </download>
 
@@ -1927,7 +1927,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex_narod.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ru=Yandex_narod.xml]]>
 </dest>
 </download>
 
@@ -2062,7 +2062,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_MTB.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=WayMarkedTrails_Mtb.xml]]>
 </dest>
 </download>
 
@@ -2071,7 +2071,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Hd.xml]]>
 </dest>
 </download>
 
@@ -2080,7 +2080,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Bluered_Hd.xml]]>
 </dest>
 </download>
 
@@ -2098,7 +2098,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=OpenSreetMaps_GPS_Tracks.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=OpenSreetMaps_Gps_Tracks.xml]]>
 </dest>
 </download>
 
@@ -2116,7 +2116,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Hd.xml]]>
 </dest>
 </download>
 
@@ -2125,7 +2125,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_Hd.xml]]>
 </dest>
 </download>
 
@@ -2134,7 +2134,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Hd.xml]]>
 </dest>
 </download>
 
@@ -2143,7 +2143,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Bluered_Hd.xml]]>
 </dest>
 </download>
 
@@ -2152,7 +2152,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_RunAndRide_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_RunAndRide_Hd.xml]]>
 </dest>
 </download>
 
@@ -2206,7 +2206,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Hd.xml]]>
 </dest>
 </download>
 
@@ -2215,7 +2215,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_Hd.xml]]>
 </dest>
 </download>
 
@@ -2305,7 +2305,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Bluered_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Bluered_Hd.xml]]>
 </dest>
 </download>
 
@@ -2314,7 +2314,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Hd.xml]]>
 </dest>
 </download>
 
@@ -2395,7 +2395,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Eu=East=CadastrUA_overlay.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Eu=East=CadastrUa_overlay.xml]]>
 </dest>
 </download>
 
@@ -2422,7 +2422,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_2g.xml]]>
 </dest>
 </download>
 
@@ -2431,7 +2431,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_3g.xml]]>
 </dest>
 </download>
 
@@ -2440,7 +2440,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Beeline_4g.xml]]>
 </dest>
 </download>
 
@@ -2449,7 +2449,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts.xml]]>
 </dest>
 </download>
 
@@ -2458,7 +2458,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_2g.xml]]>
 </dest>
 </download>
 
@@ -2467,7 +2467,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_3g.xml]]>
 </dest>
 </download>
 
@@ -2476,7 +2476,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_4g.xml]]>
 </dest>
 </download>
 
@@ -2485,7 +2485,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_4G_planned.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_4g_planned.xml]]>
 </dest>
 </download>
 
@@ -2494,7 +2494,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=MTS_IOT.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Mts_iot.xml]]>
 </dest>
 </download>
 
@@ -2512,7 +2512,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_2g.xml]]>
 </dest>
 </download>
 
@@ -2521,7 +2521,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_3g.xml]]>
 </dest>
 </download>
 
@@ -2530,7 +2530,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4g.xml]]>
 </dest>
 </download>
 
@@ -2539,7 +2539,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4Gplus.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4gPlus.xml]]>
 </dest>
 </download>
 
@@ -2557,7 +2557,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_2g.xml]]>
 </dest>
 </download>
 
@@ -2566,7 +2566,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_3g.xml]]>
 </dest>
 </download>
 
@@ -2575,7 +2575,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Rostelcom_4g.xml]]>
 </dest>
 </download>
 
@@ -2584,7 +2584,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Skylink_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Skylink_4g.xml]]>
 </dest>
 </download>
 
@@ -2602,7 +2602,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_2g.xml]]>
 </dest>
 </download>
 
@@ -2611,7 +2611,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_3g.xml]]>
 </dest>
 </download>
 
@@ -2620,7 +2620,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4g.xml]]>
 </dest>
 </download>
 
@@ -2629,7 +2629,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4G_450.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tele2_4g_450.xml]]>
 </dest>
 </download>
 
@@ -2647,7 +2647,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_2g.xml]]>
 </dest>
 </download>
 
@@ -2656,7 +2656,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_3g.xml]]>
 </dest>
 </download>
 
@@ -2665,7 +2665,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Tinkoff_4g.xml]]>
 </dest>
 </download>
 
@@ -2683,7 +2683,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_2G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_2g.xml]]>
 </dest>
 </download>
 
@@ -2692,7 +2692,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_3G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_3g.xml]]>
 </dest>
 </download>
 
@@ -2701,7 +2701,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4g.xml]]>
 </dest>
 </download>
 

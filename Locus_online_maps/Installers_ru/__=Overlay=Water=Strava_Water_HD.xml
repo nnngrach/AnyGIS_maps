@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Strava_Water_HD.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=Strava_Water_Hd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_HD.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Hd.xml]]>
 </dest>
 </download>
 

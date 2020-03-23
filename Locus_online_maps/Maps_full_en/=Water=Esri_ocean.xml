@@ -6,22 +6,22 @@
 
 <providers>
 
-<provider id="2020001" type="0" visible="true" background="-1">
-<name>Слои - Подписи</name>
-<mode>⏹️ 🏷 = ERSI - Границы стран</mode>
+<provider id="1070002" type="0" visible="true" background="-1">
+<name>Water</name>
+<mode>⚓️ = 🌍 - ESRI Ocean</mode>
 <countries>World</countries>
-<usage>overlay</usage>
+<usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{z}/{y}/{x}.jpg ]]></url>
+<url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Ocean/World_Ocean_Base/MapServer/tile/{z}/{y}/{x}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>26</zoomMax>   <!-- 18 -->
+<zoomMax>24</zoomMax>   <!-- 16 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://esri.maps.arcgis.com/home/webmap/viewer.html]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[© ERSI <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<attribution><![CDATA[© ESRI <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

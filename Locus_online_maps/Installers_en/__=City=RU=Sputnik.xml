@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=Sputnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=Sputnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Sputnik.xml]]>
 </dest>
 </download>
 

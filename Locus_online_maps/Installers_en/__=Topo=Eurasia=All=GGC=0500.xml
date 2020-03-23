@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Topo=Eurasia=All=GGC=0500.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Topo=Eurasia=All=Ggc=0500.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=0500.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=0500.xml]]>
 </dest>
 </download>
 

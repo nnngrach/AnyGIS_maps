@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Mobile=Yota_4G.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Mobile=Yota_4g.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4G.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Yota_4g.xml]]>
 </dest>
 </download>
 

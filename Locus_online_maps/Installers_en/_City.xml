@@ -88,64 +88,64 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=MapyCZ_Base.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=MapyCz_Base.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=MapyCZ_Base.xml]]>
+<![CDATA[/mapsOnline/custom/=City=MapyCz_Base.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=2gis.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=2gis.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=2gis.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=Sputnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=Sputnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Sputnik.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=Yandex_Map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=Yandex_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=Yandex_Map_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=Yandex_Map_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Map_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=RU=Yandex_Narod.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Ru=Yandex_Narod.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=RU=Yandex_Narod.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Narod.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=East=MetaUA.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=East=MetaUa.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUa.xml]]>
 </dest>
 </download>
 

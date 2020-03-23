@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eu=West=GB_topo.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eu=West=Gb_topo.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eu=West=GB_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=West=Gb_topo.xml]]>
 </dest>
 </download>
 

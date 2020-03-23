@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=RU=Chusovaya_Novoutkinsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </dest>
 </download>
 

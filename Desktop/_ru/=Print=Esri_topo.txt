@@ -1,5 +1,5 @@
 [Name]
-Для печати - ERSI Topomap
+Для печати - ESRI Topomap
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Ersi_Topomap/{x}/{y}/{z}

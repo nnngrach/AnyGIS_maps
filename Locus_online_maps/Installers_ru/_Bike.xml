@@ -52,19 +52,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Google_Bike_RU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Google_Bike_Ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Google_Bike_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Google_Bike_Ru.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=MTB_Map_CZ.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Mtb_Map_Cz.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=MTB_Map_CZ.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Mtb_Map_Cz.xml]]>
 </dest>
 </download>
 

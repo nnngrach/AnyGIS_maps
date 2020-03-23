@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=MapyCZ_outdoor.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=MapyCz_outdoor.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=MapyCZ_outdoor.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=MapyCz_outdoor.xml]]>
 </dest>
 </download>
 

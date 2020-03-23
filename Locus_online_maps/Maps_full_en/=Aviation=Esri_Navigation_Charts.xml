@@ -8,7 +8,7 @@
 
 <provider id="1080001" type="0" visible="true" background="-1">
 <name>Aviation</name>
-<mode>✈️ = ERSI World Navigation Charts</mode>
+<mode>✈️ = ESRI World Navigation Charts</mode>
 <countries>World</countries>
 <usage>aero</usage>
 <cacheTimeout>8760</cacheTimeout>
@@ -21,7 +21,7 @@
 
 <extraHeader><![CDATA[Referer#https://esri.maps.arcgis.com/home/webmap/viewer.html]]></extraHeader>
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
-<attribution><![CDATA[© ERSI <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+<attribution><![CDATA[© ESRI <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
 
 </providers>

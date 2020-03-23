@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4Gplus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Mobile=Megafon_4gPlus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4Gplus.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Mobile=Megafon_4gPlus.xml]]>
 </dest>
 </download>
 

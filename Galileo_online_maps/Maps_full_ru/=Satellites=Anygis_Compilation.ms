@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Ersi+Yandex+Google</name>
+<name>🛰 = ESRI+Yandex+Google</name>
 <layers>
 
 <layer>

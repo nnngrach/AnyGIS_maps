@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=RU=Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Ru=Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=RU=Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ru=Yandex.xml]]>
 </dest>
 </download>
 

@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=MapyCZ_winter.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=MapyCz_winter.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Winter=MapyCZ_winter.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=MapyCz_winter.xml]]>
 </dest>
 </download>
 

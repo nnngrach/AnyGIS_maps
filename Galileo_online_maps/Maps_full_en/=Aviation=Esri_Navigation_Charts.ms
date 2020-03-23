@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>✈️ = ERSI World Navigation Charts</name>
+<name>✈️ = ESRI World Navigation Charts</name>
 <layers>
 
 <layer>

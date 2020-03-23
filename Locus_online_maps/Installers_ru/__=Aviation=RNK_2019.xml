@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RNK_2019.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=Rnk_2019.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Aviation=RNK_2019.xml]]>
+<![CDATA[/mapsOnline/custom/=Aviation=Rnk_2019.xml]]>
 </dest>
 </download>
 

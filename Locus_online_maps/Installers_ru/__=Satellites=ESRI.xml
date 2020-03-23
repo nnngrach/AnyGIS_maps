@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=ESRI.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Esri.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=ESRI.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Esri.xml]]>
 </dest>
 </download>
 

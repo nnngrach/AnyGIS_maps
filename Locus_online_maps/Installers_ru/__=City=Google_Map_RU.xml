@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Google_Map_RU.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Google_Map_Ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Google_Map_RU.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Google_Map_Ru.xml]]>
 </dest>
 </download>
 

@@ -1,5 +1,5 @@
 [Name]
-Авиационные - ERSI Navigation Charts
+Aviation - ESRI World Navigation Charts
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Ersi_Avia/{x}/{y}/{z}
