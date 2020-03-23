@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=EU=North=Fonecta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=North=Fonecta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Fonecta.xml]]>
 </dest>
 </download>
 

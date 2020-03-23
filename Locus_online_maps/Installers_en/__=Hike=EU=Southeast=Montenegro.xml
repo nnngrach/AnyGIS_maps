@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=EU=Southeast=Montenegro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Eu=Southeast=Montenegro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=Southeast=Montenegro.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=Southeast=Montenegro.xml]]>
 </dest>
 </download>
 

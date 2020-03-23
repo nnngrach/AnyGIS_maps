@@ -142,55 +142,55 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=MetaUA.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=MetaUA.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUA.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=Navlux.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=Navlux.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=Navlux.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=Navlux.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=Visicom.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=Visicom.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=Visicom.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=Visicom.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Eniro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Eniro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Eniro.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Fonecta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Fonecta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Fonecta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=North=Hitta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Hitta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Hitta.xml]]>
 </dest>
 </download>
 

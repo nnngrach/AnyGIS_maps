@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=North=Eniro_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eu=North=Eniro_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Eniro_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Eniro_Sat.xml]]>
 </dest>
 </download>
 

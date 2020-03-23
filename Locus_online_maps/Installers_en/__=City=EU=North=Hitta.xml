@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=EU=North=Hitta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=North=Hitta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Hitta.xml]]>
 </dest>
 </download>
 

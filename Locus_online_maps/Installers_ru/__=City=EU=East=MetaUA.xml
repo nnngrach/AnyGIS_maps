@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=EU=East=MetaUA.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=MetaUA.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUA.xml]]>
 </dest>
 </download>
 

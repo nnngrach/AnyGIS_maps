@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </dest>
 </download>
 

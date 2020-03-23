@@ -52,19 +52,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Eu=Central=SwissSkiRoutes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Eu=Central=SwissSkiRoutes.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Eu=Central=SwissSlopes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Eu=Central=SwissSlopes.xml]]>
 </dest>
 </download>
 

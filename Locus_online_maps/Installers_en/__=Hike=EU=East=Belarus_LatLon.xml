@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=EU=East=Belarus_LatLon.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Eu=East=Belarus_LatLon.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=East=Belarus_LatLon.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=East=Belarus_LatLon.xml]]>
 </dest>
 </download>
 

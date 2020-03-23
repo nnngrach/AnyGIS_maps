@@ -115,19 +115,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=EU=North=Eniro_Navionics.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Eu=North=Eniro_Navionics.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Navionics.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Eu=North=Eniro_Navionics.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=EU=North=Eniro_Nautical.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Eu=North=Eniro_Nautical.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Nautical.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Eu=North=Eniro_Nautical.xml]]>
 </dest>
 </download>
 

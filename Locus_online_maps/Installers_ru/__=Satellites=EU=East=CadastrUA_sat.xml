@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=EU=East=CadastrUA_sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eu=East=CadastrUA_sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=East=CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUA_sat.xml]]>
 </dest>
 </download>
 

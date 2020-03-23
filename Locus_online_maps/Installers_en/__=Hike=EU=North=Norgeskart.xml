@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=EU=North=Norgeskart.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Eu=North=Norgeskart.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norgeskart.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Norgeskart.xml]]>
 </dest>
 </download>
 

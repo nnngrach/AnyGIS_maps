@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Eu=North=Hitta_Frilufts_Skoterleder.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=North=Hitta_Frilufts_Skoterleder.xml]]>
 </dest>
 </download>
 

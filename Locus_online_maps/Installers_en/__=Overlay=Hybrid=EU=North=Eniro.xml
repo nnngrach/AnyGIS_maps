@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hybrid=EU=North=Eniro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hybrid=Eu=North=Eniro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=EU=North=Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Eu=North=Eniro.xml]]>
 </dest>
 </download>
 

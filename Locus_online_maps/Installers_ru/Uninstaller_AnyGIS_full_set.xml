@@ -136,7 +136,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=East=Belarus_DzzBY_need_a_PROXY.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBY_need_a_PROXY.xml]]>
 </dest>
 </download>
 
@@ -145,7 +145,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=East=CadastrUA_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUA_sat.xml]]>
 </dest>
 </download>
 
@@ -154,7 +154,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Eniro_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Eniro_Sat.xml]]>
 </dest>
 </download>
 
@@ -163,7 +163,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Hitta_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Hitta_Sat.xml]]>
 </dest>
 </download>
 
@@ -172,7 +172,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Norgeskart_Sat.xml]]>
 </dest>
 </download>
 
@@ -181,7 +181,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=North=Norgeskart_Hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Norgeskart_Hybrid.xml]]>
 </dest>
 </download>
 
@@ -190,7 +190,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=EU=Central=SwissTopo_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
 </dest>
 </download>
 
@@ -352,7 +352,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=MetaUA.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUA.xml]]>
 </dest>
 </download>
 
@@ -361,7 +361,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=Navlux.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=Navlux.xml]]>
 </dest>
 </download>
 
@@ -370,7 +370,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=East=Visicom.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=East=Visicom.xml]]>
 </dest>
 </download>
 
@@ -379,7 +379,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Eniro.xml]]>
 </dest>
 </download>
 
@@ -388,7 +388,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Fonecta.xml]]>
 </dest>
 </download>
 
@@ -397,7 +397,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=EU=North=Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=North=Hitta.xml]]>
 </dest>
 </download>
 
@@ -910,7 +910,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=East=Karpaty.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=East=Karpaty.xml]]>
 </dest>
 </download>
 
@@ -919,7 +919,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=East=Belarus_LatLon.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=East=Belarus_LatLon.xml]]>
 </dest>
 </download>
 
@@ -955,7 +955,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=FINN_Kart_Norge.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=FINN_Kart_Norge.xml]]>
 </dest>
 </download>
 
@@ -964,7 +964,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Hitta_Frilufts.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Hitta_Frilufts.xml]]>
 </dest>
 </download>
 
@@ -973,7 +973,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Fjallkarta.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Lantmateriet_Fjallkarta.xml]]>
 </dest>
 </download>
 
@@ -982,7 +982,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Lantmateriet_Topowebb.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Lantmateriet_Topowebb.xml]]>
 </dest>
 </download>
 
@@ -991,7 +991,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Finland_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Finland_topo.xml]]>
 </dest>
 </download>
 
@@ -1000,7 +1000,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norgeskart.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Norgeskart.xml]]>
 </dest>
 </download>
 
@@ -1009,7 +1009,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Papirkart.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Norway_UtNo_Papirkart.xml]]>
 </dest>
 </download>
 
@@ -1018,7 +1018,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=North=Norway_UtNo_Topokart.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=North=Norway_UtNo_Topokart.xml]]>
 </dest>
 </download>
 
@@ -1027,7 +1027,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=Central=Kompass_De.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=Central=Kompass_De.xml]]>
 </dest>
 </download>
 
@@ -1036,7 +1036,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=Central=SwissTopo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=Central=SwissTopo.xml]]>
 </dest>
 </download>
 
@@ -1045,7 +1045,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=West=GB_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=West=GB_topo.xml]]>
 </dest>
 </download>
 
@@ -1054,7 +1054,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=West=France_topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=West=France_topo.xml]]>
 </dest>
 </download>
 
@@ -1063,7 +1063,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=EU=Southeast=Montenegro.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eu=Southeast=Montenegro.xml]]>
 </dest>
 </download>
 
@@ -1189,7 +1189,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Winter=EU=North=Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Winter=Eu=North=Skoterleder.xml]]>
 </dest>
 </download>
 
@@ -1306,7 +1306,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Navionics.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Eu=North=Eniro_Navionics.xml]]>
 </dest>
 </download>
 
@@ -1315,7 +1315,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Water=EU=North=Eniro_Nautical.xml]]>
+<![CDATA[/mapsOnline/custom/=Water=Eu=North=Eniro_Nautical.xml]]>
 </dest>
 </download>
 
@@ -1819,7 +1819,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=UtNo_Bratthetskart.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Eu=Northern=UtNo_Bratthetskart.xml]]>
 </dest>
 </download>
 
@@ -1828,7 +1828,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Relief=EU=Northern=UtNo_SkredSnoAktR.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Eu=Northern=UtNo_SkredSnoAktR.xml]]>
 </dest>
 </download>
 
@@ -1927,7 +1927,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=EU=North=Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Eu=North=Eniro.xml]]>
 </dest>
 </download>
 
@@ -2152,7 +2152,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=North=Hitta_Frilufts_Skoterleder.xml]]>
 </dest>
 </download>
 
@@ -2161,7 +2161,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=Central=SwissTopoTrails.xml]]>
 </dest>
 </download>
 
@@ -2215,7 +2215,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSkiRoutes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Eu=Central=SwissSkiRoutes.xml]]>
 </dest>
 </download>
 
@@ -2224,7 +2224,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=EU=Central=SwissSlopes.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Eu=Central=SwissSlopes.xml]]>
 </dest>
 </download>
 
@@ -2386,7 +2386,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Eu=East=CadastrUA_overlay.xml]]>
 </dest>
 </download>
 
