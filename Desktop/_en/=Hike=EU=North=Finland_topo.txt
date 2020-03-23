@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Northern - Finland Topo Retkikartta.fi
+Hike - Retkikartta.fi Topo 
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_FinnTopo/{x}/{y}/{z}

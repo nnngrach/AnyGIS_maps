@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1056201" type="0" visible="true" background="-1">
-<name>Hike - Asia - Central</name>
-<mode>Kyrgyz Ala-Too Range</mode>
+<provider id="1054201" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇰🇬 - Kyrgyz Ala-Too Range</mode>
 <countries>Kyrgyzstan</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

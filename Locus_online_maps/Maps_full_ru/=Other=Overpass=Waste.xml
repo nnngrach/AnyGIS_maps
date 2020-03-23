@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1148002" type="0" visible="true" background="-1">
-<name>Разное - Overpass Turbo</name>
-<mode>Мусорные баки</mode>
+<name>Разное</name>
+<mode>🧩 = OverpassTurbo - Мусорные баки</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

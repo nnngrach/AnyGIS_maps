@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Here - Ландшафт</name>
+<name>🏠 = Here - Ландшафт</name>
 <layers>
 
 <layer>

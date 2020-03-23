@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Bing Bird's Eye
+Спутниковые - Bing Birds Eye
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Bing_sat_for_guru/{x}/{y}/{z}

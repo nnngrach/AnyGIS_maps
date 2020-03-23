@@ -1,5 +1,5 @@
 [Name]
-Overlay - Labels - Eurasia - Yandex - Hybrid
+Overlay - Labels - Yandex - Hybrid
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_sat_labels_WGS84/{x}/{y}/{z}

@@ -3,11 +3,11 @@
 
 
 
-<name>Слои - Туризм</name>
+<name>Слои - Туристические</name>
 <description></description>
 
     <source id="2050011">
-        <name>Strava Heatmap - Бег</name>
+        <name>⏹️ 🥾 = Strava - Бег</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>

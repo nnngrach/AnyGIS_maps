@@ -1,5 +1,5 @@
 [Name]
-Overlay - Winter - Europe - Central - Swiss Slope 30°
+Overlay - Winter - Swiss Slope 30°
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Swiss_SwissSlope30/{x}/{y}/{z}

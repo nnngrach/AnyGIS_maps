@@ -3,11 +3,11 @@
 
 
 
-<name>Спутниковые - Европа - Восточная</name>
+<name>Спутниковые</name>
 <description></description>
 
     <source id="1012102">
-        <name>Украина - Кадастр ортофото</name>
+        <name>🛰 = 🇺🇦- Gov.ua - ортофото</name>
         <copyright>Gov.ua</copyright>
         <data-source></data-source>
         <region>OTHE</region>

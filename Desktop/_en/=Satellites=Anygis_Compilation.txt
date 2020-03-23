@@ -1,5 +1,5 @@
 [Name]
-Satellites - AnyGIS Satellites compilation
+Satellites - Ersi+Yandex+Google
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Combo_All_Satellites/{x}/{y}/{z}

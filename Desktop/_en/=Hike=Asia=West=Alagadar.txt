@@ -1,5 +1,5 @@
 [Name]
-Hike - Asia - Western - Aladaglar
+Hike - Aladaglar
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}

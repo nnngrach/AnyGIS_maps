@@ -1,5 +1,5 @@
 [Name]
-Городские - Евразия - Яндекс
+Городские - Яндекс
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_map_WGS84/{x}/{y}/{z}

@@ -1,5 +1,5 @@
 [Name]
-Слои - Подписи - Европа - Северная - Eniro - Гибрид
+Слои - Подписи - Eniro - Гибрид
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Eniro_Sat_labels/{x}/{y}/{z}

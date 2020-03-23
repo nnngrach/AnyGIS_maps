@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Московская область - Ориентирование "Adraces"</name>
+<name>🥾 = 🇷🇺МосОбл - Adraces Ориентирование</name>
 <layers>
 
 <layer>

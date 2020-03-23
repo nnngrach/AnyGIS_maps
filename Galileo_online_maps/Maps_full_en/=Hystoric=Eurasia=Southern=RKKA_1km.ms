@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Southern - RKKA 1940 1km</name>
+<name>🏛 = 🇷🇺 Kuban - RKKA 1940 1km</name>
 <layers>
 
 <layer>

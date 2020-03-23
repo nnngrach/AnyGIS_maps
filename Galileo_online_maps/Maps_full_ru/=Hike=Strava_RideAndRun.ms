@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Strava Heatmap - Вело и Бег (beta)</name>
+<name>🥾 = Strava - Вело и Бег (beta)</name>
 <layers>
 
 <layer>

@@ -3,11 +3,11 @@
 
 
 
-<name>Overlay - Labels - Eurasia</name>
+<name>Overlay - Labels</name>
 <description></description>
 
     <source id="2021002" layer="true">
-        <name>Yandex - Hybrid Map Editor</name>
+        <name>⏹️ 🏷 = 🇷🇺 - Yandex - Hybrid Map Editor</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

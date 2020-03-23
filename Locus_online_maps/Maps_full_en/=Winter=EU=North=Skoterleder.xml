@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1062201" type="0" visible="true" background="-1">
-<name>Winter - Europe - Northern</name>
-<mode>Skoterleder</mode>
+<name>Winter</name>
+<mode>❄️ = 🌍 - Skoterleder</mode>
 <countries>Sweden</countries>
 <usage>ski</usage>
 <cacheTimeout>720</cacheTimeout>

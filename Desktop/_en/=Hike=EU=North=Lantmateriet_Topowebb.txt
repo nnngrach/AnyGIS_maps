@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Northern - Lantmäteriets Topografisk
+Hike - Lantmäteriets Topografisk
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Lantmateriet_topowebb/{x}/{y}/{z}

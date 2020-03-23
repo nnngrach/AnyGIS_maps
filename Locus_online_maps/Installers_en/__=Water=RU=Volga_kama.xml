@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Water%20-%20Eurasia.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Water.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Water - Eurasia.png]]>
+<![CDATA[/mapsOnline/custom/Water.png]]>
 </dest>
 </download>
 

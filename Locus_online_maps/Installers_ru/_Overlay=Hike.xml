@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туризм.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туристические.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Туризм.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Туристические.png]]>
 </dest>
 </download>
 
@@ -74,6 +74,24 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_HD.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=North=Hitta_Frilufts_Skoterleder.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=EU=Central=SwissTopoTrails.xml]]>
 </dest>
 </download>
 

@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Google - Пробки
+Слои - Автомобильные - Google - Пробки
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Google_Trafic_Layer/{x}/{y}/{z}

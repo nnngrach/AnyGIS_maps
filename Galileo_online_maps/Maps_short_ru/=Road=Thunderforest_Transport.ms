@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - OSM Thunderforest Transport День</name>
+<name>🚗 = OSM Thunderforest Transport День</name>
 <layers>
 
 <layer>

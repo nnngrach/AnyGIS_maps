@@ -52,19 +52,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_deep.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_deep.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_traffic.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Water=OpenSeaMap_deep.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=OpenSeaMap_deep.xml]]>
 </dest>
 </download>
 

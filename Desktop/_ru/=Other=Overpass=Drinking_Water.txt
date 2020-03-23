@@ -1,5 +1,5 @@
 [Name]
-Разное - Overpass Turbo - Питьевая вода
+Разное - OverpassTurbo - Питьевая вода
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Mapshooter_Water/{x}/{y}/{z}

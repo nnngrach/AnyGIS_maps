@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Eastern - Belarus LatLon.org
+Hike - LatLon.org
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Belarus_LatLon/{x}/{y}/{z}

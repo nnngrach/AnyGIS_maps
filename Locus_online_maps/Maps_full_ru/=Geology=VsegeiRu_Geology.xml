@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+<providers>
+
+<provider id="1120001" type="0" visible="true" background="-1">
+<name>Геологические</name>
+<mode>⛏ = Vsegei.ru</mode>
+<countries>Russia, Latvia, Lithuania, Belarus, Ukraine, Georgia, Armenia, Azerbaijan, Turkmenistan, Uzbekistan, Kyrgyzstan, Kazakhstan</countries>
+<usage>city</usage>
+<cacheTimeout>99999</cacheTimeout>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>9</zoomMin>    <!-- 1 -->
+<zoomMax>18</zoomMax>   <!-- 10 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#http://wms.vsegei.ru/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© Vsegei.ru  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

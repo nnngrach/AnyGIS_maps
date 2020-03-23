@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053102" type="1" visible="true" background="-1">
-<name>Туризм - Евразия - Московская область</name>
-<mode>Ориентирование "Adraces"</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺МосОбл - Adraces Ориентирование</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>8760</cacheTimeout>

@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="99999000" type="0" visible="false" background="-1">
-<name>Туризм</name>
-<mode>OSM OpenStreetMap - GPS Треки</mode>
+<name>Туристические</name>
+<mode>  Mapnik</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -25,8 +25,8 @@
 </provider>
 
 <provider id="1050009" type="0" visible="true" background="99999000">
-<name>Туризм</name>
-<mode>OSM OpenStreetMap - GPS Треки</mode>
+<name>Туристические</name>
+<mode>🥾 = OSM GPS Треки</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

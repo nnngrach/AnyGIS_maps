@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Southern - Kuban Stralbitsky 1918</name>
+<name>🏛 = 🇷🇺 Kuban - Kuban Stralbitsky 1918</name>
 <layers>
 
 <layer>

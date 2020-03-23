@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - Европа - Северная - Eniro Sjökort</name>
+<name>⚓️ = 🇸🇪 - Eniro Sjökort</name>
 <layers>
 
 <layer>

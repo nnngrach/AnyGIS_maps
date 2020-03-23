@@ -1,5 +1,5 @@
 [Name]
-City - Eurasia - Yandex MapEditor
+City - Yandex MapEditor
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_narod_WGS84/{x}/{y}/{z}

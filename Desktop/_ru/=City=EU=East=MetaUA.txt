@@ -1,5 +1,5 @@
 [Name]
-Городские - Европа - Восточная - Украина - Meta.ua
+Городские - Meta.ua
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ukr_Meta/{x}/{y}/{z}

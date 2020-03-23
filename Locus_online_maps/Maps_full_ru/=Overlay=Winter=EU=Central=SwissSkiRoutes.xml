@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="2062301" type="0" visible="true" background="-1">
-<name>Слои - Зимние - Европа - Центральная</name>
-<mode>Швейцария - Лыжные трассы</mode>
-<countries>Swiss</countries>
+<name>Слои - Зимние</name>
+<mode>⏹️ ❄️ = 🇨🇭 - Лыжные трассы</mode>
+<countries>Switzerland</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{z}/{x}/{y}.png]]></url>

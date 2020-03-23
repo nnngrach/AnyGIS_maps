@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Moscow Region - MoscowMap.ru
+Hike - MoscowMap.ru
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_MoscowMap/{x}/{y}/{z}

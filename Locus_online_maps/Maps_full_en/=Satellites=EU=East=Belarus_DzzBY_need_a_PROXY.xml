@@ -10,8 +10,8 @@
 <providers>
 
 <provider id="1012101" type="0" visible="true" background="-1">
-<name>Satellites - Europe - Eastern</name>
-<mode>Belarus - DZZ.by Orthophoto (need a proxy)</mode>
+<name>Satellites</name>
+<mode>🛰 = 🇧🇾- Dzz.by Orthophoto (need a proxy)</mode>
 <countries>Belarus</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

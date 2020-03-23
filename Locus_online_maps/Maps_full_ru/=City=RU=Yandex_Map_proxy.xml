@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1021004" type="2" visible="true" background="-1">
-<name>Городские - Евразия</name>
-<mode>Яндекс (proxy)</mode>
+<name>Городские</name>
+<mode>🏠 = 🇷🇺 - Яндекс (proxy)</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

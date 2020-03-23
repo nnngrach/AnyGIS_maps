@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1071001" type="0" visible="true" background="-1">
-<name>Водные - Евразия</name>
-<mode>Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)</mode>
+<name>Водные</name>
+<mode>⚓️ = 🇷🇺 - Река Чусовая-Новоуткинск</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
 <cacheTimeout>99999</cacheTimeout>

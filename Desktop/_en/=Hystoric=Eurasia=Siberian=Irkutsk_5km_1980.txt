@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Siberian - Irkutsk 5km 1980
+Hystoric - Irkutsk 5km 1980
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Irkutsk_1980_5km/{x}/{y}/{z}

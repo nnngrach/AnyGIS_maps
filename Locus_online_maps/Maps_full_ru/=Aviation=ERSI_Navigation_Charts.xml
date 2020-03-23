@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1080001" type="0" visible="true" background="-1">
-<name>Авиа</name>
-<mode>ERSI World Navigation Charts</mode>
+<name>Авиационные</name>
+<mode>✈️ = ERSI Navigation Charts</mode>
 <countries>World</countries>
 <usage>aero</usage>
 <cacheTimeout>8760</cacheTimeout>

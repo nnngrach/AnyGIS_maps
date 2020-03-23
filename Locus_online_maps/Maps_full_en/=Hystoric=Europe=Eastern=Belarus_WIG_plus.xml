@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1112204" type="0" visible="true" background="-1">
-<name>Hystoric - Europe - Eastern</name>
-<mode>Belarus WIG 1km</mode>
+<name>Hystoric</name>
+<mode>🏛 = 🇧🇾 - Belarus WIG 1km</mode>
 <countries>Belarus</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

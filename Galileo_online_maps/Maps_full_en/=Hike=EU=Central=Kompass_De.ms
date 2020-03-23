@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Central - Kompass.de</name>
+<name>🥾 = 🇪🇺 - Kompass.de</name>
 <layers>
 
 <layer>

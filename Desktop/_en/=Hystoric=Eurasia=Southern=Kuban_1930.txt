@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Southern - Kuban district 1930
+Hystoric - Kuban district 1930
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kuban_1930/{x}/{y}/{z}

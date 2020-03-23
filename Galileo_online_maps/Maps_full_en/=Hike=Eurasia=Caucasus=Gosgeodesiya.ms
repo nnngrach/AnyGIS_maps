@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - GosGeodesya 1991</name>
+<name>🥾 = 🇷🇺Caucasus - GosGeodesya 1991</name>
 <layers>
 
 <layer>

@@ -10,8 +10,8 @@
 <providers>
 
 <provider id="1012101" type="0" visible="true" background="-1">
-<name>Спутниковые - Европа - Восточная</name>
-<mode>Беларусь - DZZ.by ортофото (требуется прокси)</mode>
+<name>Спутниковые</name>
+<mode>🛰 = 🇧🇾- Dzz.by ортофото (нужен прокси)</mode>
 <countries>Belarus</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

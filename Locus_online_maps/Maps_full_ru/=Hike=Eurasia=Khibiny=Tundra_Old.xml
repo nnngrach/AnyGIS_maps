@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053403" type="0" visible="true" background="-1">
-<name>Туризм - Евразия - Хибины</name>
-<mode>Хибинские и Ловоозерские тундры (СССР)</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺Карелия - Хибины (СССР)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

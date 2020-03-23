@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Maxar Standard</name>
+<name>🛰 = Maxar Standard</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Europe - Eastern - Belarus RKKA 500m</name>
+<name>🏛 = 🇧🇾 - Belarus RKKA 500m</name>
 <layers>
 
 <layer>

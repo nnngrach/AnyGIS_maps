@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - AnyGIS Satellites compilation</name>
+<name>🛰 = 🌍 - Ersi+Yandex+Google</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Зимние - Европа - Северная - Skoterleder</name>
+<name>❄️ = 🇸🇪 - Skoterleder</name>
 <layers>
 
 <layer>

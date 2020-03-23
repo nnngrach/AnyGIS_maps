@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Восточная - Карпаты</name>
+<name>🥾 = 🇺🇦 - Карпаты</name>
 <layers>
 
 <layer>

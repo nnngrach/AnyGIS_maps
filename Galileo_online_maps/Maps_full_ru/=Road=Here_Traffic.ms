@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - Here Пробки</name>
+<name>🚗 = Here Пробки</name>
 <layers>
 
 <layer>

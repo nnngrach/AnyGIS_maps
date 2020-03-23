@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Mapbox Satellite</name>
+<name>🛰 = 🌍 - Mapbox Satellite</name>
 <layers>
 
 <layer>

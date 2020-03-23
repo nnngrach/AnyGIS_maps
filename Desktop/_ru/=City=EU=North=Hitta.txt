@@ -1,5 +1,5 @@
 [Name]
-Городские - Европа - Северная - Hitta
+Городские - Hitta
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Hitta/{x}/{y}/{z}

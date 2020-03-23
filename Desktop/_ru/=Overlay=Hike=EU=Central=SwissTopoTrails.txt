@@ -1,5 +1,5 @@
 [Name]
-Слои - Туризм - Европа - Центральная - Швейцария - SwissTopo Тропы
+Слои - Туристические - SwissTopo Тропы
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Swiss_SwissTrailsLayer/{x}/{y}/{z}

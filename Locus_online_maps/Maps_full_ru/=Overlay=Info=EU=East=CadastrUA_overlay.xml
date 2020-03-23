@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="2082101" type="5" visible="true" background="-1">
-<name>Слои - Справочные - Европа - Восточная</name>
-<mode>Украина - Кадастровые границы</mode>
+<provider id="2081401" type="5" visible="true" background="-1">
+<name>Слои - Справочные</name>
+<mode>⏹️ 📖 = 🇺🇦 - Gov.ua - Кадастровые границы</mode>
 <countries>Ukraine</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

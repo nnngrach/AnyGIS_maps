@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1030008" type="0" visible="true" background="-1">
-<name>Авто</name>
-<mode>TomTom Ночь</mode>
+<name>Автомобильные</name>
+<mode>🚗 = TomTom Ночь</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Зимние%20-%20Европа%20-%20Северная.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Зимние.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Зимние - Европа - Северная.png]]>
+<![CDATA[/mapsOnline/custom/Зимние.png]]>
 </dest>
 </download>
 

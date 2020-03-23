@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Lantmäteriets Topografisk</name>
+<name>🥾 = 🇸🇪 - Lantmäteriets Topografisk</name>
 <layers>
 
 <layer>

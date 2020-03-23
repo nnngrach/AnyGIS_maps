@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Navionics Marine Charts</name>
+<name>⚓️ = 🌍 - Navionics Marine Charts</name>
 <layers>
 
 <layer>

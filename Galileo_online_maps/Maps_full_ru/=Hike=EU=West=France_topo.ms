@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Западная - France Topo IGN.fr</name>
+<name>🥾 = 🇫🇷 - IGN.fr Topo</name>
 <layers>
 
 <layer>

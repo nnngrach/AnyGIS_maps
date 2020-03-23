@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Яндекс - Направления
+Слои - Автомобильные - Яндекс - Направления
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_direction_WGS84/{x}/{y}/{z}

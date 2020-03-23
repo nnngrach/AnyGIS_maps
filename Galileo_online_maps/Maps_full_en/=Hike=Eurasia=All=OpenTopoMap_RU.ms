@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - All - OSM OpenTopoMap.RU</name>
+<name>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</name>
 <layers>
 
 <layer>

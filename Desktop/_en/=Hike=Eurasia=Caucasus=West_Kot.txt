@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Caucasus - Caucasus West
+Hike - Caucasus West
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_05/{x}/{y}/{z}

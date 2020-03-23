@@ -1,5 +1,5 @@
 [Name]
-Туризм - Азия - Центральная - Киргизский хребет
+Туристические - Киргизский хребет
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}

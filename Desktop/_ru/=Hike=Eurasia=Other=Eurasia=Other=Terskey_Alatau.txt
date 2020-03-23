@@ -1,0 +1,14 @@
+[Name]
+Туристические - Терскей-Алатау (Цветков)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}
+
+[URL direct]
+http://map.g-utka.ru/{z}/{x}/{y}.png
+
+[Min Zoom level]
+2
+
+[Max Zoom level]
+15

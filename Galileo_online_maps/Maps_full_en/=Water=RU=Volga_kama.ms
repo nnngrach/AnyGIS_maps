@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Eurasia - Volga and Kama rivers location</name>
+<name>⚓️ = 🇷🇺 - Volga and Kama rivers location</name>
 <layers>
 
 <layer>

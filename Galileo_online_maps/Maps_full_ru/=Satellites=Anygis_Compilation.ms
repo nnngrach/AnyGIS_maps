@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - AnyGIS Спутниковый сборник</name>
+<name>🛰 = Ersi+Yandex+Google</name>
 <layers>
 
 <layer>

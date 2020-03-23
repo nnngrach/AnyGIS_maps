@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Info%20-%20Europe%20-%20Eastern.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Info.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Info - Europe - Eastern.png]]>
+<![CDATA[/mapsOnline/custom/Overlay - Info.png]]>
 </dest>
 </download>
 

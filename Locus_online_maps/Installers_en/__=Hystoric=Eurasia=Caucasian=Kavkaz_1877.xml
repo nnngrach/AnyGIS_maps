@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hystoric%20-%20Eurasia%20-%20North%20Caucasian.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hystoric.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric - Eurasia - North Caucasian.png]]>
+<![CDATA[/mapsOnline/custom/Hystoric.png]]>
 </dest>
 </download>
 

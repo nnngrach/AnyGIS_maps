@@ -8,7 +8,7 @@
 
 <provider id="89999016" type="0" visible="false" background="-1">
 <name>Water</name>
-<mode>OSM Open Sea Map + Traffic</mode>
+<mode>  Mapnik Proxy</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -26,7 +26,7 @@
 
 <provider id="89999002" type="0" visible="false" background="89999016">
 <name>Water</name>
-<mode>OSM Open Sea Map + Traffic</mode>
+<mode>  Open Sea Map trafficlayer</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -43,7 +43,7 @@
 
 <provider id="1070008" type="0" visible="true" background="89999002">
 <name>Water</name>
-<mode>OSM Open Sea Map + Traffic</mode>
+<mode>⚓️ = 🌍 - Open Sea Map + Traffic</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

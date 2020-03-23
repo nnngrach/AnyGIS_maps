@@ -43,15 +43,6 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Евразия.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Спутниковые - Евразия.png]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Yandex.xml]]>
 </source>
 <dest>
@@ -106,15 +97,6 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские%20-%20Евразия.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Городские - Евразия.png]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=RU=2gis.xml]]>
 </source>
 <dest>
@@ -142,10 +124,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авто.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Автомобильные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Авто.png]]>
+<![CDATA[/mapsOnline/custom/Автомобильные.png]]>
 </dest>
 </download>
 
@@ -187,10 +169,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Вело.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Велосипедные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Вело.png]]>
+<![CDATA[/mapsOnline/custom/Велосипедные.png]]>
 </dest>
 </download>
 
@@ -223,37 +205,19 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Вело%20-%20Европа.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=MTB_Map_CZ.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Вело - Европа.png]]>
+<![CDATA[/mapsOnline/custom/=Bike=MTB_Map_CZ.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Europe=MTB_Map_CZ.xml]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туристические.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Europe=MTB_Map_CZ.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Туризм.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Westra_Passes.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
+<![CDATA[/mapsOnline/custom/Туристические.png]]>
 </dest>
 </download>
 
@@ -304,10 +268,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Westra_Passes.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся.png]]>
+<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
 </dest>
 </download>
 
@@ -322,19 +286,19 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Туризм%20-%20Евразия%20-%20Вся%20-%20ГГЦ.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Топокарты.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Туризм - Евразия - Вся - ГГЦ.png]]>
+<![CDATA[/mapsOnline/custom/Топокарты.png]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=GGC=All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Topo=Eurasia=All=GGC=All.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=GGC=All.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=GGC=All.xml]]>
 </dest>
 </download>
 
@@ -457,10 +421,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Mapsurfer.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Relief=Overpass=Mapsurfer.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Relief=Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Overpass=Mapsurfer.xml]]>
 </dest>
 </download>
 
@@ -502,15 +466,6 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи%20-%20Евразия.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Слои - Подписи - Евразия.png]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=RU=Yandex.xml]]>
 </source>
 <dest>
@@ -520,10 +475,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Авто.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Автомобильные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Авто.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Автомобильные.png]]>
 </dest>
 </download>
 
@@ -574,10 +529,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Вело.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Велосипедные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Вело.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Велосипедные.png]]>
 </dest>
 </download>
 
@@ -610,10 +565,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туризм.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Туристические.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Туризм.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Туристические.png]]>
 </dest>
 </download>
 

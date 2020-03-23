@@ -50,4 +50,22 @@
 </dest>
 </download>
 
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Google_Bike.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=MTB_Map_CZ.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=MTB_Map_CZ.xml]]>
+</dest>
+</download>
+
 </locusActions>

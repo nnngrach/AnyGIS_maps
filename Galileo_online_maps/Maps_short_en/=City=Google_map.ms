@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Google</name>
+<name>🏠 = 🌍 - Google</name>
 <layers>
 
 <layer>

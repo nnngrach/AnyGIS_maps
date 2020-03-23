@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - Hitta Frilufts</name>
+<name>🥾 = 🇸🇪 - Hitta Frilufts</name>
 <layers>
 
 <layer>

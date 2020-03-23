@@ -3,11 +3,11 @@
 
 
 
-<name>Разное - Overpass Turbo</name>
+<name>Разное</name>
 <description></description>
 
     <source id="1148001">
-        <name>Гравийные дорожки для бега</name>
+        <name>🧩 = OverpassTurbo - Гравийные дорожки для бега</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Справочные - Евразия - RosReestr - Кадастровые границы</name>
+<name>📖 = 🇷🇺 - RosReestr - Кадастровые границы</name>
 <layers>
 
 <layer>

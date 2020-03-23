@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Caucasus West Passes 2014</name>
+<name>🥾 = 🇷🇺Caucasus - Caucasus West Passes 2014</name>
 <layers>
 
 <layer>

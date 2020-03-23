@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Google - Hybrid</name>
+<name>🛰 = 🌍 - Google - Hybrid</name>
 <layers>
 
 <layer>

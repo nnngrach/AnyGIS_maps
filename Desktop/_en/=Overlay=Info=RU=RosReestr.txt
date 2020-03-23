@@ -1,5 +1,5 @@
 [Name]
-Overlay - Info - Eurasia - RosReest.ru - Cadaster
+Overlay - Info - RosReest.ru - Cadaster
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Rosreestr_kadaster/{x}/{y}/{z}

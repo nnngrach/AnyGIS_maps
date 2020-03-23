@@ -3,11 +3,11 @@
 
 
 
-<name>Overlay - Labels - Eurasia</name>
+<name>Overlay - Labels</name>
 <description></description>
 
     <source id="2021003" layer="true">
-        <name>Rosreestr.ru - Labels</name>
+        <name>⏹️ 🏷 = 🇷🇺 - Rosreestr.ru - Labels</name>
         <copyright>Яндекс</copyright>
         <data-source></data-source>
         <region>WRLD</region>

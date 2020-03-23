@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Вся - OSM OpenTopoMap.RU</name>
+<name>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</name>
 <layers>
 
 <layer>

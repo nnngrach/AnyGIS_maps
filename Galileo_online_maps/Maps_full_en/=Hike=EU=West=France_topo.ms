@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Western - France Topo IGN.fr</name>
+<name>🥾 = 🇫🇷 - IGN.fr Topo</name>
 <layers>
 
 <layer>

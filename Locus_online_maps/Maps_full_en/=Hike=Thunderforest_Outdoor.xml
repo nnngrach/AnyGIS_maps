@@ -11,7 +11,7 @@
 
 <provider id="1050014" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>OSM Thunderforest Outdoor</mode>
+<mode>🥾 = 🌍 - OSM Thunderforest Outdoor</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

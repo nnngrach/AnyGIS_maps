@@ -1,5 +1,5 @@
 [Name]
-Слои - Подписи - Евразия - Яндекс - Гибрид Народная
+Слои - Подписи - Яндекс - Гибрид Народная
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_narod_layer_WGS84/{x}/{y}/{z}

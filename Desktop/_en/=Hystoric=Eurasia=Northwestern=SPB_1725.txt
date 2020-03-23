@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Northwestern - Saint Petersburg 1725
+Hystoric - Saint Petersburg 1725
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_SPB_1725/{x}/{y}/{z}

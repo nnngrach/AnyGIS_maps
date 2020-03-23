@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Кавказ - Западный Кавказ (КОТ ОРИЕНТ)</name>
+<name>🥾 = 🇷🇺Кавказ - Запад (КОТ ОРИЕНТ)</name>
 <layers>
 
 <layer>

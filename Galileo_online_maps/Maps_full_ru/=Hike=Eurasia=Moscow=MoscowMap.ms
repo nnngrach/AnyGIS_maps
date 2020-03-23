@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Московская область - MoscowMap.ru</name>
+<name>🥾 = 🇷🇺МосОбл - MoscowMap.ru</name>
 <layers>
 
 <layer>

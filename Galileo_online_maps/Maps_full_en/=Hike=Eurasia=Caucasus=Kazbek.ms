@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Caucasus Kazbek</name>
+<name>🥾 = 🇷🇺Caucasus - Caucasus Kazbek</name>
 <layers>
 
 <layer>

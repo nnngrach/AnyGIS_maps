@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="109999021" type="2" visible="false" background="-1">
-<name>Авто</name>
-<mode>Яндекс Пробки</mode>
+<name>Автомобильные</name>
+<mode>  Яндекс Map</mode>
 <countries>World</countries>
 <usage>city, road</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -28,8 +28,8 @@
 </provider>
 
 <provider id="1030010" type="2" visible="true" background="109999021">
-<name>Авто</name>
-<mode>Яндекс Пробки</mode>
+<name>Автомобильные</name>
+<mode>🚗 = Яндекс Пробки</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

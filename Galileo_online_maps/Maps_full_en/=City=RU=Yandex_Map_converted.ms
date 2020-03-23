@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Eurasia - Yandex (converted)</name>
+<name>🏠 = 🌍 - Yandex (converted)</name>
 <layers>
 
 <layer>

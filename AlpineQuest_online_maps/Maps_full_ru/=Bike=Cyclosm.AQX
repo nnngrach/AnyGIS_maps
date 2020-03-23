@@ -3,11 +3,11 @@
 
 
 
-<name>Вело</name>
+<name>Велосипедные</name>
 <description></description>
 
     <source id="1040001">
-        <name>OSM Cyclosm</name>
+        <name>🚲 = OSM Cyclosm</name>
         <copyright>OpenStreetMap, Cyclosm.org</copyright>
         <data-source></data-source>
         <region>WRLD</region>

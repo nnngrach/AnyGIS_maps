@@ -1,0 +1,20 @@
+[Name]
+Overlay - Mobile coverage - Skylink LTE 450
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Skylink_4G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://msk.skylink.ru/coverage/4g/{z}/{x}/{y}.png
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+12
+
+[HTTP Referer]
+https://msk.skylink.ru/#coverage
+
+[Proection description]
+Ellipsoid

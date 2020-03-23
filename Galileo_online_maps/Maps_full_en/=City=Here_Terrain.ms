@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Here - Terrain</name>
+<name>🏠 = 🌍 - Here - Terrain</name>
 <layers>
 
 <layer>

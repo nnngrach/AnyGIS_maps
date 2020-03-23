@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - America - USGS National Map - Topo</name>
+<name>🥾 = 🇺🇸 - USGS National Map - Topo</name>
 <layers>
 
 <layer>

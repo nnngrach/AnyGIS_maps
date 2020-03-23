@@ -1,5 +1,5 @@
 [Name]
-Авто - OSM Michelin Transport
+Автомобильные - OSM Michelin
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Michelin/{x}/{y}/{z}

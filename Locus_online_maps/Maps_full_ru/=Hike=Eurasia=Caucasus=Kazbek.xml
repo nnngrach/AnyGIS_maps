@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053203" type="0" visible="true" background="-1">
-<name>Туризм - Евразия - Кавказ</name>
-<mode>Казбек (Geoland)</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺Кавказ - Казбек (Geoland)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

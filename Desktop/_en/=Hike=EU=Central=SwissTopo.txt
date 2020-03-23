@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Central - Swiss Topo
+Hike - Swiss Topo
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Swiss_SwissTopo/{x}/{y}/{z}

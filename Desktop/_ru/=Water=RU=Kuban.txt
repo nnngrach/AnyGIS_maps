@@ -1,5 +1,5 @@
 [Name]
-Водные - Евразия - Река Кубань 1985 (От Краснодрского гидроузла до устья)
+Водные - Река Кубань 1985
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_River_Kuban/{x}/{y}/{z}

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Europe - Northern - Hitta</name>
+<name>🛰 = 🇸🇪 - Hitta</name>
 <layers>
 
 <layer>

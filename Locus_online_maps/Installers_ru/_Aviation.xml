@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиа.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиационные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Авиа.png]]>
+<![CDATA[/mapsOnline/custom/Авиационные.png]]>
 </dest>
 </download>
 
@@ -20,6 +20,42 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Aviation=ERSI_Navigation_Charts.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=Baionline.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Aviation=Baionline.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RNK_2016.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Aviation=RNK_2016.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=RNK_2019.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Aviation=RNK_2019.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=MVL.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Aviation=MVL.xml]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Strava Heatmap - All</name>
+<name>🥾 = 🌍 - Strava Heatmap - All</name>
 <layers>
 
 <layer>

@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Зимние%20-%20Европа%20-%20Центральная.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Зимние.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Зимние - Европа - Центральная.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Зимние.png]]>
 </dest>
 </download>
 

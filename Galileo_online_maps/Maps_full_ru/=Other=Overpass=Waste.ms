@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Разное - Overpass Turbo - Мусорные баки</name>
+<name>🧩 = OverpassTurbo - Мусорные баки</name>
 <layers>
 
 <layer>

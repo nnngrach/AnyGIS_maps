@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Europe - Northern - Eniro Hybrid</name>
+<name>🛰 = 🇸🇪 - Eniro Hybrid</name>
 <layers>
 
 <layer>

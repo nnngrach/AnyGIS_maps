@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Moscow Region - MoscowMap.ru</name>
+<name>🥾 = 🇷🇺Moscow - MoscowMap.ru</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [Name]
-Авто - OSM Thunderforest Transport Ночь
+Автомобильные - OSM Thunderforest Transport Ночь
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Transport_Map_dark/{x}/{y}/{z}

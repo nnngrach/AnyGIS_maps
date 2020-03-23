@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike%20-%20Eurasia%20-%20Caucasus.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hike - Eurasia - Caucasus.png]]>
+<![CDATA[/mapsOnline/custom/Hike.png]]>
 </dest>
 </download>
 

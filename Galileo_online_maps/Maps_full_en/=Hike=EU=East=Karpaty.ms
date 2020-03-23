@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Eastern - Carpathians</name>
+<name>🥾 = 🇺🇦 - Carpathians</name>
 <layers>
 
 <layer>

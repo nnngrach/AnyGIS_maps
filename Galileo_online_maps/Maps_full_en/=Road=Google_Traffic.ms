@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Road - Google Traffic</name>
+<name>🚗 = 🌍 - Google Traffic</name>
 <layers>
 
 <layer>

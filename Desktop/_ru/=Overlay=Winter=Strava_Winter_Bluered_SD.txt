@@ -1,5 +1,5 @@
 [Name]
-Слои - Зимние - Strava Heatmap - Зимние (сине-красный)
+Слои - Зимние - Strava - Зимние (сине-красный)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{x}/{y}/{z}

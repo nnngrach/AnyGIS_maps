@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Europe - Eastern - Ukraine - Meta.ua</name>
+<name>🏠 = 🇺🇦 - Meta.ua</name>
 <layers>
 
 <layer>

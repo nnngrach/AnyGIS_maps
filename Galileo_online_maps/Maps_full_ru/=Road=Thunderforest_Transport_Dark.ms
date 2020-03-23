@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - OSM Thunderforest Transport Ночь</name>
+<name>🚗 = OSM Thunderforest Transport Ночь</name>
 <layers>
 
 <layer>

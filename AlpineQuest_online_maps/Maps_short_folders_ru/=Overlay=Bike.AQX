@@ -3,11 +3,11 @@
 
 
 
-<name>Слои - Вело</name>
+<name>Слои - Велосипедные</name>
 <description></description>
 
     <source id="2040001">
-        <name>OSM Waymarkedtrails - MTB</name>
+        <name>⏹️ 🚲 = OSM Waymarkedtrails - MTB</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="2040002">
-        <name>OSM Waymarkedtrails - Вело</name>
+        <name>⏹️ 🚲 = OSM Waymarkedtrails - Вело</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="2040003">
-        <name>Strava Heatmap - Вело</name>
+        <name>⏹️ 🚲 = Strava - Вело</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>

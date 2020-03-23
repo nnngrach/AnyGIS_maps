@@ -1,5 +1,5 @@
 [Name]
-Water - Europe - Northern - Eniro Sjökort Nautical
+Water - Eniro Sjökort Nautical
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Eniro_Nautical/{x}/{y}/{z}

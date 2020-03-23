@@ -3,11 +3,11 @@
 
 
 
-<name>Туризм - Европа - Центральная</name>
+<name>Туристические</name>
 <description></description>
 
-    <source id="1054302">
-        <name>Швейцария - Топокарта</name>
+    <source id="1054402">
+        <name>🥾 =🇨🇭 - Swiss Topo</name>
         <copyright>Geo.admin.ch</copyright>
         <data-source></data-source>
         <region>OTHE</region>

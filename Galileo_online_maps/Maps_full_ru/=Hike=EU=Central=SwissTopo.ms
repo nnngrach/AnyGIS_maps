@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Центральная - Швейцария - Топокарта</name>
+<name>🥾 =🇨🇭 - Swiss Topo</name>
 <layers>
 
 <layer>

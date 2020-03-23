@@ -3,11 +3,11 @@
 
 
 
-<name>Satellites - Europe - Northern</name>
+<name>Satellites</name>
 <description></description>
 
     <source id="1012204">
-        <name>Topografisk Norgeskart Hybrid</name>
+        <name>🛰 = 🇳🇴 - Topografisk Norgeskart Hybrid</name>
         <copyright>Norgeskart</copyright>
         <data-source></data-source>
         <region>OTHE</region>

@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1012201" type="1" visible="true" background="-1">
-<name>Спутниковые - Европа - Северная</name>
-<mode>Eniro</mode>
-<countries>Norway, Sweden, Finland, Denmark</countries>
+<name>Спутниковые</name>
+<mode>🛰 = 🇸🇪 - Eniro</mode>
+<countries>Sweden, Norway</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
 <url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/aerial/{z}/{x}/{y}.jpeg]]></url>

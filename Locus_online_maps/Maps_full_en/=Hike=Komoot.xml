@@ -8,7 +8,7 @@
 
 <provider id="1050005" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>OSM Komoot</mode>
+<mode>🥾 = 🌍 - OSM Komoot</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

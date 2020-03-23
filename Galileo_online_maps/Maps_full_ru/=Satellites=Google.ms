@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Google</name>
+<name>🛰 = Google</name>
 <layers>
 
 <layer>

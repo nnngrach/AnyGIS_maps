@@ -3,15 +3,15 @@
 
 
 
-<name>Satellites - Europe - Northern</name>
+<name>Satellites</name>
 <description></description>
 
     <source id="1012205">
-        <name>Topografisk Norgeskart </name>
+        <name>🛰 = 🇳🇴 - Topografisk Norgeskart </name>
         <copyright>Norgeskart</copyright>
         <data-source></data-source>
         <region>OTHE</region>
-        <type>OTHE</type>
+        <type>SATE</type>
 
         <preview-location>9.58282,61.5979,9</preview-location>
         <outline>3.9,71.3 31.6,71.3 31.6,57.8 3.9,57.8</outline>

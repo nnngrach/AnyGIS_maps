@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Разное - Национальный парк Таганай</name>
+<name>🥾 = 🇷🇺Урал - Таганай</name>
 <layers>
 
 <layer>

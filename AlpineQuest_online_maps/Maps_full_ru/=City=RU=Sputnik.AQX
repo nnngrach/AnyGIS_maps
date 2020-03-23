@@ -3,14 +3,14 @@
 
 
 
-<name>Городские - Евразия</name>
+<name>Городские</name>
 <description></description>
 
     <source id="1021002">
-        <name>OSM Sputnik.ru</name>
+        <name>🏠 = 🇷🇺 - OSM Sputnik.ru</name>
         <copyright>OpenStreetMap, Ростелеком</copyright>
         <data-source></data-source>
-        <region>OTHE</region>
+        <region>WRLD</region>
         <type>ROAD</type>
 
         <preview-location>37.7,56.1,13</preview-location>

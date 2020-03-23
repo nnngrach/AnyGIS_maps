@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - OSM OpenStreetMap - GPS Tracks</name>
+<name>🥾 = 🌍 - OSM OpenStreetMap - GPS Tracks</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Khibiny - Khibiny's Tundra (Old)</name>
+<name>🥾 = 🇷🇺Khibiny - Khibiny Tundra (Old)</name>
 <layers>
 
 <layer>

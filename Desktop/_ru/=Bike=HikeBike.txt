@@ -1,5 +1,5 @@
 [Name]
-Вело - OSM Hike and bike
+Велосипедные - OSM Hike and bike
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Hike_Bike/{x}/{y}/{z}

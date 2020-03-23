@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054402" type="5" visible="true" background="-1">
-<name>Туризм - Европа - Западная</name>
-<mode>Great Britain Topo</mode>
+<provider id="1054502" type="5" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = 🇬🇧 - GB Topo</mode>
 <countries>GB</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

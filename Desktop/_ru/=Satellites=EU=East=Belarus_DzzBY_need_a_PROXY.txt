@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Европа - Восточная - Беларусь - DZZ.by ортофото (требуется прокси)
+Спутниковые - Dzz.by ортофото (нужен прокси)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Belarus_DDZ/{x}/{y}/{z}

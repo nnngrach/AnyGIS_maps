@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111001" type="0" visible="true" background="-1">
-<name>Исторические - Евразия</name>
-<mode>Европейская Россия Шуберт 3-х верстовая</mode>
+<name>Исторические</name>
+<mode>🏛 = 🇷🇺 - Европейская Россия Шуберт 3-х верстовая</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

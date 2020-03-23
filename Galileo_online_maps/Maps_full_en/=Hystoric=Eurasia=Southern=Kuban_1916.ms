@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Southern - Kuban district geologic1908-16</name>
+<name>🏛 = 🇷🇺 Kuban - Kuban district geologic1908-16</name>
 <layers>
 
 <layer>

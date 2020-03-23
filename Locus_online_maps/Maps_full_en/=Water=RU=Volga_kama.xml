@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1071003" type="0" visible="true" background="-1">
-<name>Water - Eurasia</name>
-<mode>Volga and Kama rivers location</mode>
+<name>Water</name>
+<mode>⚓️ = 🇷🇺 - Volga and Kama rivers location</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
 <cacheTimeout>99999</cacheTimeout>

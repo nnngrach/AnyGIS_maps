@@ -1,5 +1,5 @@
 [Name]
-Слои - Водные - OSM OpenSeaMap - Морской траффик
+Слои - Водные - OSM OpenSeaMap - Траффик
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_OpenSeaMap_Layer_Traffic/{x}/{y}/{z}

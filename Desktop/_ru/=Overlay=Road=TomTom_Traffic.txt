@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - TomTom - Пробки
+Слои - Автомобильные - TomTom - Пробки
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/TomTom_Traffic_layer/{x}/{y}/{z}

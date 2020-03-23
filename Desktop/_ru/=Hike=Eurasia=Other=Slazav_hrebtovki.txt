@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Разное - Хребтовки Завьялова
+Туристические - Завьялов (Хребтовки) 
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Slazav_hrebtovki_nakarte_direct/{x}/{y}/{z}

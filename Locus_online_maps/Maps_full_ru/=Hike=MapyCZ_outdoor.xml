@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1050008" type="0" visible="true" background="-1">
-<name>Туризм</name>
-<mode>OSM Mapy.cz - Outdoor</mode>
-<countries>Czech</countries>
+<name>Туристические</name>
+<mode>🥾 = OSM Mapy.cz - Outdoor</mode>
+<countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://m{s}.mapserver.mapy.cz/turist-m/{z}-{x}-{y}]]></url>

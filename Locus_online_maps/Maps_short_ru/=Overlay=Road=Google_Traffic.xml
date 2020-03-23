@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="2030003" type="0" visible="true" background="-1">
-<name>Слои - Авто</name>
-<mode>Google - Пробки</mode>
+<name>Слои - Автомобильные</name>
+<mode>⏹️ 🚗 = Google - Пробки</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>0</cacheTimeout>

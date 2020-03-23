@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM Refuges.info Горные приюты</name>
+<name>🥾 = OSM Горные приюты Refuges</name>
 <layers>
 
 <layer>

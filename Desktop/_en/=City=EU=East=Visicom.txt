@@ -1,5 +1,5 @@
 [Name]
-City - Europe - Eastern - Ukraine - Visicom
+City - Ukraine - Visicom
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ukr_Visicom_UK/{x}/{y}/{z}

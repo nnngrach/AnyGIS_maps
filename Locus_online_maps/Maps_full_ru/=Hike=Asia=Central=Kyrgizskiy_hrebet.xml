@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1056201" type="0" visible="true" background="-1">
-<name>Туризм - Азия - Центральная</name>
-<mode>Киргизский хребет</mode>
+<provider id="1054201" type="0" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = 🇰🇬 - Киргизский хребет</mode>
 <countries>Kyrgyzstan</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

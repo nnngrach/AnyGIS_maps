@@ -1,5 +1,5 @@
 [Name]
-Городские - OSM Mapnik HD (from OsmAnd)
+Городские - OSM Mapnik HD (OsmAnd)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Osmand_Mapnik/{x}/{y}/{z}

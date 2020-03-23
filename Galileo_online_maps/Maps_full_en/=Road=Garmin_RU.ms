@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Road - Garmin.ru (navicom)</name>
+<name>🚗 = 🌍 - Garmin.ru (navicom)</name>
 <layers>
 
 <layer>

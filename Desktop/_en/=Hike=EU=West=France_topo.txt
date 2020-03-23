@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Western - France Topo IGN.fr
+Hike - IGN.fr Topo
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_FranceTopo/{x}/{y}/{z}

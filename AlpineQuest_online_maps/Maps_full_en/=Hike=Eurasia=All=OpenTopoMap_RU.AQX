@@ -3,14 +3,14 @@
 
 
 
-<name>Hike - Eurasia - All</name>
+<name>Hike</name>
 <description></description>
 
-    <source id="1051001">
-        <name>OSM OpenTopoMap.RU</name>
+    <source id="1052001">
+        <name>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</name>
         <copyright>OpenStreetMap, OpenTopoMap.ru</copyright>
         <data-source></data-source>
-        <region>WRLD</region>
+        <region>OTHE</region>
         <type>TOPO</type>
 
         <preview-location>37.7,56.1,13</preview-location>

@@ -1,5 +1,5 @@
 [Name]
-Слои - Подписи - ERSI - Административные границы
+Слои - Подписи - ERSI - Границы стран
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Ersi_admin_labels/{x}/{y}/{z}

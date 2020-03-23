@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Other - Overpass Turbo - Waste Baskets</name>
+<name>🧩 = 🌍 - Overpass Turbo - Waste Baskets</name>
 <layers>
 
 <layer>

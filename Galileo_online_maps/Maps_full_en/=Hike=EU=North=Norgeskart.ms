@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - Topografisk Norgeskart</name>
+<name>🥾 = 🇳🇴 - Topografisk Norgeskart</name>
 <layers>
 
 <layer>

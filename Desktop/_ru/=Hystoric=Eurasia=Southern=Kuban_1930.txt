@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Кубань - Кубанский округ 1930
+Исторические - Кубанский округ 1930
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kuban_1930/{x}/{y}/{z}

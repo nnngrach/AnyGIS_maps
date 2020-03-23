@@ -3,11 +3,11 @@
 
 
 
-<name>Other - Overpass Turbo</name>
+<name>Other</name>
 <description></description>
 
     <source id="1148003">
-        <name>Drinking Water</name>
+        <name>🧩 = 🌍 - Overpass Turbo - Drinking Water</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

@@ -1,5 +1,5 @@
 [Name]
-Слои - Водные - Strava Heatmap - Водные
+Слои - Водные - Strava - Водные
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Water/{x}/{y}/{z}

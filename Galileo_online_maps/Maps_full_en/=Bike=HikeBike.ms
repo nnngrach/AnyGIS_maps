@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Bike - OSM Hike and bike</name>
+<name>🚲 = 🌍 - OSM Hike and bike</name>
 <layers>
 
 <layer>

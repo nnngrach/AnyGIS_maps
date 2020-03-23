@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="29999019" type="0" visible="false" background="-1">
-<name>Авто</name>
-<mode>Google Пробки</mode>
+<name>Автомобильные</name>
+<mode>  Google Map</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -28,8 +28,8 @@
 </provider>
 
 <provider id="1030002" type="0" visible="true" background="29999019">
-<name>Авто</name>
-<mode>Google Пробки</mode>
+<name>Автомобильные</name>
+<mode>🚗 = Google Пробки</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

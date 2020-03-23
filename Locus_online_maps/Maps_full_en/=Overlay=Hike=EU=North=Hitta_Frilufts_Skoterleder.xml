@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="19999048" type="1" visible="false" background="-1">
-<name>Overlay - Hike - Europe - Northern</name>
-<mode>Hitta Frilufts + Skoterleder</mode>
+<name>Overlay - Hike</name>
+<mode>  Hitta Frilufts</mode>
 <countries>Sweden</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -24,8 +24,8 @@
 </provider>
 
 <provider id="2054201" type="0" visible="true" background="19999048">
-<name>Overlay - Hike - Europe - Northern</name>
-<mode>Hitta Frilufts + Skoterleder</mode>
+<name>Overlay - Hike</name>
+<mode>⏹️ 🥾 = 🇸🇪 - Hitta Frilufts + Skoterleder</mode>
 <countries>Sweden</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

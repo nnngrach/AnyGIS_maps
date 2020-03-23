@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - ESRI</name>
+<name>🛰 = 🌍 - ESRI</name>
 <layers>
 
 <layer>

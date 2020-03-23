@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Western - Great Britain Topo</name>
+<name>🥾 = 🇬🇧 - GB Topo</name>
 <layers>
 
 <layer>

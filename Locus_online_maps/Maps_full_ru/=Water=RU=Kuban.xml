@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1071002" type="0" visible="true" background="-1">
-<name>Водные - Евразия</name>
-<mode>Река Кубань 1985 (От Краснодрского гидроузла до устья)</mode>
+<name>Водные</name>
+<mode>⚓️ = 🇷🇺 - Река Кубань 1985</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
 <cacheTimeout>99999</cacheTimeout>

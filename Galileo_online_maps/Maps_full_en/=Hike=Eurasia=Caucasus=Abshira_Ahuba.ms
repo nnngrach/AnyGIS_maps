@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Abishira Akhuba</name>
+<name>🥾 = 🇷🇺Caucasus - Abishira Akhuba</name>
 <layers>
 
 <layer>

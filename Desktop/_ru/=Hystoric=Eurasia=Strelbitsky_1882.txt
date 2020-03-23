@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Стрельбицкого 1882 10-верстовая
+Исторические - Стрельбицкого 1882 10-верстовая
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Strelbitsky_1882/{x}/{y}/{z}

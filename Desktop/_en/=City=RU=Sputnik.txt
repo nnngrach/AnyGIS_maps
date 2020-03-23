@@ -1,5 +1,5 @@
 [Name]
-City - Eurasia - OSM Sputnik.ru
+City - OSM Sputnik.ru
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Sputnik/{x}/{y}/{z}

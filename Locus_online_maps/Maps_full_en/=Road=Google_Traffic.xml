@@ -8,7 +8,7 @@
 
 <provider id="29999019" type="0" visible="false" background="-1">
 <name>Road</name>
-<mode>Google Traffic</mode>
+<mode>  Google Map</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -29,7 +29,7 @@
 
 <provider id="1030002" type="0" visible="true" background="29999019">
 <name>Road</name>
-<mode>Google Traffic</mode>
+<mode>🚗 = 🌍 - Google Traffic</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

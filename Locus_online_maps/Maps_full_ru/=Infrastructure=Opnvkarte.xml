@@ -8,7 +8,7 @@
 
 <provider id="1100003" type="0" visible="true" background="-1">
 <name>Инфраструктура</name>
-<mode>OSM OpenBusMap (Opnvkarte.de)</mode>
+<mode>🚥 = OSM OpenBusMap (Opnvkarte.de)</mode>
 <countries>World</countries>
 <usage>transport</usage>
 <cacheTimeout>720</cacheTimeout>

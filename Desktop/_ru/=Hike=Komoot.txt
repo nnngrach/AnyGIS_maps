@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM Komoot
+Туристические - OSM Komoot
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Komoot/{x}/{y}/{z}

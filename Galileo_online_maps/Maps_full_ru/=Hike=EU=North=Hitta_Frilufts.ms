@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Hitta Frilufts</name>
+<name>🥾 = 🇸🇪 - Hitta Frilufts</name>
 <layers>
 
 <layer>

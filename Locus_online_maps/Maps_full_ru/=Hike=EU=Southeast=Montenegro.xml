@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1054701" type="1" visible="true" background="-1">
-<name>Туризм - Европа - Юго-восточная</name>
-<mode>Черногория 250м 1970-72</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇲🇪 - Черногория 250м 1970</mode>
 <countries>Montenegro</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

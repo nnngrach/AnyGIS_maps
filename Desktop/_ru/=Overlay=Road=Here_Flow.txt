@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Here - Поток
+Слои - Автомобильные - Here - Поток
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Here_traffic_flow_layer/{x}/{y}/{z}

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Московская область - Ориентирование "O-Sport"</name>
+<name>🥾 = 🇷🇺МосОбл - O-Sport Ориентирование</name>
 <layers>
 
 <layer>

@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054204" type="1" visible="true" background="-1">
-<name>Hike - Europe - Northern</name>
-<mode>Hitta Frilufts</mode>
+<provider id="1054304" type="1" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇸🇪 - Hitta Frilufts</mode>
 <countries>Sweden</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

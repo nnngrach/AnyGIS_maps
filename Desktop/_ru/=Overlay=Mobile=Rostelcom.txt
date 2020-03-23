@@ -1,0 +1,17 @@
+[Name]
+Слои - Покрытие связи - Ростелком - Все слои
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/mobile/rt/{z}/{x}/{y}.png
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+12
+
+[Proection description]
+Ellipsoid

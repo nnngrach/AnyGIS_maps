@@ -3,11 +3,11 @@
 
 
 
-<name>Слои - Туризм</name>
+<name>Слои - Туристические</name>
 <description></description>
 
     <source id="2050016">
-        <name>OSM Waymarkedtrails - Пешие</name>
+        <name>⏹️ 🥾 = OSM Waymarkedtrails - Пешие</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>

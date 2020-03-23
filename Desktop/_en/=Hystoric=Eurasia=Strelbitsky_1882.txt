@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Strelbitsky 1882
+Hystoric - Strelbitsky 1882
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Strelbitsky_1882/{x}/{y}/{z}

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM Mapsurfer</name>
+<name>🥾 = OSM Mapsurfer</name>
 <layers>
 
 <layer>

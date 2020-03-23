@@ -77,4 +77,13 @@
 </dest>
 </download>
 
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=EU=East=CadastrUA_overlay.xml]]>
+</dest>
+</download>
+
 </locusActions>

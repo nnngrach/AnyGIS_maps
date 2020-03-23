@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Кавказ - Сводная карта Кавказа 1000м
+Туристические - Сводная 1000м
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_10/{x}/{y}/{z}

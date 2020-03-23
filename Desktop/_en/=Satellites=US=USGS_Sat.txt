@@ -1,5 +1,5 @@
 [Name]
-Satellites - America - USGS National Map - Satellite
+Satellites - USGS National Map - Satellite
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_US_USGS_Sat/{x}/{y}/{z}

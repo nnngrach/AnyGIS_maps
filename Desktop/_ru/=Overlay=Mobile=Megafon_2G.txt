@@ -1,0 +1,20 @@
+[Name]
+Слои - Покрытие связи - Мегафон - 2G
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Megafon_2G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://coverage-map.megafon.ru/{z}/{x}/{y}.png?layers=2g
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+12
+
+[HTTP Referer]
+http://moscow.megafon.ru/help/offices/#coverage
+
+[Proection description]
+Ellipsoid

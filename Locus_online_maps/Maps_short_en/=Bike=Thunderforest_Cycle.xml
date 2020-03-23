@@ -8,7 +8,7 @@
 
 <provider id="1040003" type="0" visible="true" background="-1">
 <name>Bike</name>
-<mode>OSM Thunderforest Cycle</mode>
+<mode>🚲 = 🌍 - OSM Thunderforest Cycle</mode>
 <countries>World</countries>
 <usage>cycle</usage>
 <cacheTimeout>720</cacheTimeout>

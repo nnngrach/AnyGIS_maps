@@ -3,11 +3,11 @@
 
 
 
-<name>Other - Overpass Turbo</name>
+<name>Other</name>
 <description></description>
 
     <source id="1148001">
-        <name>Gravel Running Trails</name>
+        <name>🧩 = 🌍 - Overpass Turbo - Gravel Running Trails</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

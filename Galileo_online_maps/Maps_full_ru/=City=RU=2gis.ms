@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Евразия - 2Gis</name>
+<name>🏠 = 🇷🇺 - 2Gis</name>
 <layers>
 
 <layer>

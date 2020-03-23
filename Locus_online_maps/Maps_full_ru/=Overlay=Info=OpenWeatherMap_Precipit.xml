@@ -8,7 +8,7 @@
 
 <provider id="2080004" type="0" visible="true" background="-1">
 <name>Слои - Справочные</name>
-<mode>OpenWeatherMap - Осадки сейчас</mode>
+<mode>⏹️ 📖 = OpenWeatherMap - Осадки сейчас</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>0</cacheTimeout>

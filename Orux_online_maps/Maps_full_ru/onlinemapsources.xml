@@ -2,23 +2,8 @@
 <onlinemapsources>
 
 
-<onlinemapsource uid="1010001">
-<name>AnyGIS Спутниковый сборник (SATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1010002">
-<name>Bing Bird's Eye (SATELLITES)</name>
+<name>Bing Birds Eye (SATELLITES)</name>
 <url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -52,6 +37,21 @@
 <url><![CDATA[https://clarity.maptiles.arcgis.com/arcgis/rest/services/World_Imagery/MapServer/tile/{$z}/{$y}/{$x}?blankTile=false]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1010001">
+<name>Ersi+Yandex+Google (SATELLITES)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -152,21 +152,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1011001">
-<name>Космоснимки.ру (SATELLITESEURASIA)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Kosmosnimki_WGS84/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1011003">
 <name>Яндекс (SATELLITESEURASIA)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
@@ -198,7 +183,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1012102">
-<name>Украина - Кадастр ортофото (SATELLITESEUEAST)</name>
+<name>Gov.ua - ортофото (SATELLITESEUEAST)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -288,7 +273,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1014002">
-<name>USGS National Map - Satellite (SATELLITESAMERICA)</name>
+<name>USGS National Map (SATELLITESAMERICA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryOnly/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -303,7 +288,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1014001">
-<name>USGS National Map - Satellite Plus (SATELLITESAMERICA)</name>
+<name>USGS National Map - Plus (SATELLITESAMERICA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSImageryTopo/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -392,21 +377,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1020009">
-<name>Mapy.cz - Base (CITY)</name>
-<url><![CDATA[https://m{$s}.mapserver.mapy.cz/base-m/{$z}-{$x}-{$y}]]></url>
-<servers>1,2,3,4</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1020010">
 <name>OSM Kosmosnimki (CITY)</name>
 <url><![CDATA[http://{$s}.tile.osm.kosmosnimki.ru/kosmo/{$z}/{$x}/{$y}.png]]></url>
@@ -423,7 +393,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020011">
-<name>OSM Mapnik (OpenStreetMap.org) (CITY)</name>
+<name>OSM Mapnik (OpenStreetMap) (CITY)</name>
 <url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
@@ -438,9 +408,24 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020014">
-<name>OSM Mapnik HD (from OsmAnd) (CITY)</name>
+<name>OSM Mapnik HD (OsmAnd) (CITY)</name>
 <url><![CDATA[http://tile.osmand.net/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1020009">
+<name>OSM Mapy.cz - Base (CITY)</name>
+<url><![CDATA[https://m{$s}.mapserver.mapy.cz/base-m/{$z}-{$x}-{$y}]]></url>
+<servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -528,7 +513,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1022001">
-<name>Украина - Meta.ua (CITYEUEAST)</name>
+<name>Meta.ua (CITYEUEAST)</name>
 <url><![CDATA[http://i1.map.meta.ua/cell.php?x={$x}&y={$y}&scale={$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -543,7 +528,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1022002">
-<name>Украина - Navlux (CITYEUEAST)</name>
+<name>Navlux (CITYEUEAST)</name>
 <url><![CDATA[http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -558,7 +543,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1022003">
-<name>Украина - Visicom (CITYEUEAST)</name>
+<name>Visicom (CITYEUEAST)</name>
 <url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -618,7 +603,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030004">
-<name>OSM Michelin Transport (ROAD)</name>
+<name>OSM Michelin (ROAD)</name>
 <url><![CDATA[https://map{$s}.viamichelin.com/map/mapdirect?map=viamichelin&z={$z}&x={$x}&y={$y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=https]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -767,36 +752,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050019">
-<name>Nakarte.me - Геокэшинг (HIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Geocashing/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1050020">
-<name>Nakarte.me - Перевалы Вестра (HIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1050003">
 <name>OSM 4U maps (HIKE)</name>
 <url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
@@ -887,21 +842,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050013">
-<name>OSM Refuges.info Горные приюты (HIKE)</name>
-<url><![CDATA[https://maps.refuges.info/hiking/{$z}/{$x}/{$y}.png]]></url>
-<servers>a,b,c</servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1050014">
 <name>OSM Thunderforest Outdoor (HIKE)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/outdoors/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
@@ -917,7 +857,67 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1051001">
+<onlinemapsource uid="1050013">
+<name>OSM Горные приюты Refuges (HIKE)</name>
+<url><![CDATA[https://maps.refuges.info/hiking/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1051019">
+<name>Геокэшинг (nakarte) (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Geocashing/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1051021">
+<name>Завьялов (Хребтовки)  (HIKERUOTHER)</name>
+<url><![CDATA[https://tiles.nakarte.me/map_hr/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>13</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1051020">
+<name>Перевалы Вестра (nakarte) (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052001">
 <name>OSM OpenTopoMap.RU (HIKERUALL)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
@@ -932,54 +932,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1052101">
-<name>ГосГисЦентр (Все масштабы) (HIKERUALLGGC)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1052103">
-<name>ГосГисЦентр 1000 м (HIKERUALLGGC)</name>
-<url><![CDATA[https://tiles.nakarte.me/ggc1000/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>13</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1052102">
-<name>ГосГисЦентр 2000 м (HIKERUALLGGC)</name>
-<url><![CDATA[https://tiles.nakarte.me/ggc2000/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>12</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1052105">
-<name>ГосГисЦентр 250 м (HIKERUALLGGC)</name>
-<url><![CDATA[https://tiles.nakarte.me/ggc250/{$z}/{$x}/{$y}]]></url>
+<onlinemapsource uid="1053102">
+<name>Adraces Ориентирование (HIKERUMOSCOW)</name>
+<url><![CDATA[https://tiles.nakarte.me/adraces/{$z}/{$x}/{$y}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -988,36 +943,6 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1052104">
-<name>ГосГисЦентр 500 м (HIKERUALLGGC)</name>
-<url><![CDATA[https://tiles.nakarte.me/ggc500/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1052301">
-<name>Советские топокарты с Nakarte.me (Все масштабы) (HIKERUALLOTHER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -1037,8 +962,23 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1053103">
+<name>O-Sport Ориентирование (HIKERUMOSCOW)</name>
+<url><![CDATA[https://tiles.nakarte.me/osport/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1053101">
-<name>Атлас издательства "Арбалет" (HIKERUMOSCOW)</name>
+<name>Атлас Арбалет (HIKERUMOSCOW)</name>
 <url><![CDATA[https://tiles.nakarte.me/ArbaletMO/{$z}/{$x}/{$y}]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -1053,40 +993,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053100">
-<name>Карты Завьялова "ММБ" (HIKERUMOSCOW)</name>
+<name>Завьялов (ММБ) (HIKERUMOSCOW)</name>
 <url><![CDATA[https://tiles.nakarte.me/map_podm/{$z}/{$x}/{$y}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053102">
-<name>Ориентирование "Adraces" (HIKERUMOSCOW)</name>
-<url><![CDATA[https://tiles.nakarte.me/adraces/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053103">
-<name>Ориентирование "O-Sport" (HIKERUMOSCOW)</name>
-<url><![CDATA[https://tiles.nakarte.me/osport/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1112,11 +1022,41 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1053207">
+<name>Госгеодезия 1991г (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_03/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1053202">
-<name>Западный Кавказ (КОТ ОРИЕНТ) (HIKERUCAUCASUS)</name>
+<name>Запад (КОТ ОРИЕНТ) (HIKERUCAUCASUS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_05/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1053204">
+<name>Западные перевалы 2014 (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_04/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1142,11 +1082,11 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053204">
-<name>Перевалы Западного Кавказа 2014 (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_04/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1053211">
+<name>Приэльбрусье (Ляпин) (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_08/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>14</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1157,9 +1097,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053205">
-<name>Перевалы Центрального Кавказа 2014 (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_07/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1053209">
+<name>Сводная 1000м (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://tiles.nakarte.me/new_gsh_100k/{$z}/{$x}/{$y}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1167,37 +1107,22 @@
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop></yop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053206">
-<name>Перевалы Южного Кавказа 2014 (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_02/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1053210">
+<name>Сводная 500м (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://tiles.nakarte.me/new_gsh_050k/{$z}/{$x}/{$y}]]></url>
 <servers></servers>
-<maxzoom>14</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053207">
-<name>Сводная Госгеодезия 1991г (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_03/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -1217,9 +1142,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053209">
-<name>Сводная карта Кавказа 1000м (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://tiles.nakarte.me/new_gsh_100k/{$z}/{$x}/{$y}]]></url>
+<onlinemapsource uid="1053205">
+<name>Центральные перевалы 2014 (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_07/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
@@ -1227,61 +1152,16 @@
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053210">
-<name>Сводная карта Кавказа 500м (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://tiles.nakarte.me/new_gsh_050k/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053211">
-<name>Хребтовка Приэльбрусья (Ляпин В.Г.) (HIKERUCAUCASUS)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_08/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
 <yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053302">
-<name>Горный Крым (Картография2010) (HIKERUCRIMEA)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1053206">
+<name>Южные перевалы 2014 (HIKERUCAUCASUS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Kavkaz_02/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053301">
-<name>Горный Крым (Союзкарта2011) (HIKERUCRIMEA)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1308,7 +1188,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053402">
-<name>Хибинские и Ловоозерские тундры (Аэрогеодезия 2008) (HIKERUKHIBINY)</name>
+<name>Хибины (2008) (HIKERUKHIBINY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Karelia1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -1323,7 +1203,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053403">
-<name>Хибинские и Ловоозерские тундры (СССР) (HIKERUKHIBINY)</name>
+<name>Хибины (СССР) (HIKERUKHIBINY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Karelia2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -1338,7 +1218,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053501">
-<name>Катунский Чуйский хребты.  Алтай (HIKERUOTHER)</name>
+<name>Катунский Чуйский хребты (HIKERUOTHER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Altay1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -1352,23 +1232,8 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053502">
-<name>Национальный парк Таганай (HIKERUOTHER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Taganay/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1053503">
-<name>Саяны. Ергаки - Арадан (HIKERUOTHER)</name>
+<name>Саяны Ергаки-Арадан (HIKERUOTHER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Sayany1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1382,41 +1247,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1053504">
-<name>Хребтовка Терскей-Алатау (А.Цветков) (HIKERUOTHER)</name>
-<url><![CDATA[http://map.g-utka.ru/{$z}/{$x}/{$y}.png]]></url>
+<onlinemapsource uid="1053502">
+<name>Таганай (HIKERUOTHER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Taganay/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1053902">
+<name>Атлас Картография 2010 (HIKERUCRIMEA)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
-<minzoom>2</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1053505">
-<name>Хребтовки Завьялова (HIKERUOTHER)</name>
-<url><![CDATA[https://tiles.nakarte.me/map_hr/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>13</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054102">
-<name>Беларусь - LatLon.org (HIKEEUEAST)</name>
-<url><![CDATA[http://tile.latlon.org/tiles/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1427,7 +1277,22 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1054103">
+<onlinemapsource uid="1053901">
+<name>Атлас Союзкарта 2011 (HIKERUCRIMEA)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054003">
 <name>Карпаты (HIKEEUEAST)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Karpaty/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -1442,217 +1307,22 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1054102">
+<name>LatLon.org (HIKEEUEAST)</name>
+<url><![CDATA[http://tile.latlon.org/tiles/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1054201">
-<name>FINN Kart Norge (HIKEEUNORTH)</name>
-<url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/normap/{$z}/{$x}/{$y}.png]]></url>
-<servers>1,2,3,4</servers>
-<maxzoom>21</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054202">
-<name>Finland Topo Retkikartta.fi (HIKEEUNORTH)</name>
-<url><![CDATA[https://retkikartta.fi/wmts/30c616a00f157e7357721900e8b0415c?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=maastokartta&STYLE=default&TILEMATRIXSET=WGS84_Pseudo-Mercator&TILEMATRIX={$z}&TILEROW={$y}&TILECOL={$x}&FORMAT=image/png]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054204">
-<name>Hitta Frilufts (HIKEEUNORTH)</name>
-<url><![CDATA[http://static.hitta.se/tile/v3/4_2x/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054207">
-<name>Lantmäteriets Fjällkarta (HIKEEUNORTH)</name>
-<url><![CDATA[https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg]]></url>
-<servers></servers>
-<maxzoom>12</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054208">
-<name>Lantmäteriets Topografisk (HIKEEUNORTH)</name>
-<url><![CDATA[https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={$z}&TILEROW={$y}&TILECOL={$x}&FORMAT=image/png]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054209">
-<name>Norway UT.no - Papirkart (HIKEEUNORTH)</name>
-<url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=toporaster3&zoom={$z}&x={$x}&y={$y}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054210">
-<name>Norway UT.no - Topolart (HIKEEUNORTH)</name>
-<url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054214">
-<name>Topografisk Norgeskart (HIKEEUNORTH)</name>
-<url><![CDATA[https://opencache{$s}.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
-<servers>2,3</servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054301">
-<name>Kompass.de (HIKEEUCENTRAL)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054302">
-<name>Швейцария - Топокарта (HIKEEUCENTRAL)</name>
-<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
-<servers></servers>
-<maxzoom>18</maxzoom>
-<minzoom>6</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054403">
-<name>France Topo IGN.fr (HIKEEUWEST)</name>
-<url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>6</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054401">
-<name>Great Britain Topo (HIKEEUWEST)</name>
-<url><![CDATA[https://ecn.t{$s}.tiles.virtualearth.net/tiles/r{q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></url>
-<servers>1,2,3</servers>
-<maxzoom>15</maxzoom>
-<minzoom>11</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1054701">
-<name>Черногория 250м 1970-72 (HIKEEUSOUTHEAST)</name>
-<url><![CDATA[https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$y}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1056101">
-<name>Хребет Аладаглар 2014 (HIKEASIAWEST)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Turk1/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1056201">
 <name>Киргизский хребет (HIKEASIACENTRAL)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Kyrgiz1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -1667,7 +1337,22 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1056202">
+<onlinemapsource uid="1054200">
+<name>Терскей-Алатау (Цветков) (HIKERUOTHER)</name>
+<url><![CDATA[http://map.g-utka.ru/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054202">
 <name>Тянь-Шань и Памир (HIKEASIACENTRAL)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Tyan_shan1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -1682,9 +1367,309 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1058001">
-<name>USGS National Map - Топокарта (HIKEAMERICA)</name>
+<onlinemapsource uid="1054301">
+<name>FINN Kart Norge (HIKEEUNORTH)</name>
+<url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/normap/{$z}/{$x}/{$y}.png]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>21</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054304">
+<name>Hitta Frilufts (HIKEEUNORTH)</name>
+<url><![CDATA[http://static.hitta.se/tile/v3/4_2x/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054307">
+<name>Lantmäteriets Fjällkarta (HIKEEUNORTH)</name>
+<url><![CDATA[https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054308">
+<name>Lantmäteriets Topografisk (HIKEEUNORTH)</name>
+<url><![CDATA[https://kso.etjanster.lantmateriet.se/karta/topowebb/v1.1/wmts?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=topowebb&STYLE=default&TILEMATRIXSET=3857&TILEMATRIX={$z}&TILEROW={$y}&TILECOL={$x}&FORMAT=image/png]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054302">
+<name>Retkikartta.fi Topo  (HIKEEUNORTH)</name>
+<url><![CDATA[https://retkikartta.fi/wmts/30c616a00f157e7357721900e8b0415c?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=maastokartta&STYLE=default&TILEMATRIXSET=WGS84_Pseudo-Mercator&TILEMATRIX={$z}&TILEROW={$y}&TILECOL={$x}&FORMAT=image/png]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054314">
+<name>Topografisk Norgeskart (HIKEEUNORTH)</name>
+<url><![CDATA[https://opencache{$s}.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
+<servers>2,3</servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054309">
+<name>UT.no - Papirkart (HIKEEUNORTH)</name>
+<url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=toporaster3&zoom={$z}&x={$x}&y={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054310">
+<name>UT.no - Topolart (HIKEEUNORTH)</name>
+<url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054401">
+<name>Kompass.de (HIKEEUCENTRAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054402">
+<name>Swiss Topo (HIKEEUCENTRAL)</name>
+<url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{$z}/{$x}/{$y}.jpeg]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054501">
+<name>GB Topo (HIKEEUWEST)</name>
+<url><![CDATA[https://ecn.t{$s}.tiles.virtualearth.net/tiles/r{q}?g=6948&lbl=l1&productSet=mmOS&key=AmHj4RMhOs0a4O3uk3m144GJik4Y-SIuy1bheg8rGeLFQA3N-Gqs0fJPLRFnuJSd]]></url>
+<servers>1,2,3</servers>
+<maxzoom>15</maxzoom>
+<minzoom>11</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054503">
+<name>IGN.fr Topo (HIKEEUWEST)</name>
+<url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054701">
+<name>Черногория 250м 1970 (HIKEEUSOUTHEAST)</name>
+<url><![CDATA[https://tiles.nakarte.me/montenegro250m/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1056101">
+<name>Аладаглар 2014 (HIKEASIAWEST)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Turk1/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1057001">
+<name>USGS National Map топо (HIKEAMERICA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{$z}/{$y}/{$x}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058101">
+<name>ГГЦ (Все масштабы) (HIKERUALLGGC)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058105">
+<name>ГосГисЦентр 0.25 км (HIKERUALLGGC)</name>
+<url><![CDATA[https://tiles.nakarte.me/ggc250/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058104">
+<name>ГосГисЦентр 0.5 км (HIKERUALLGGC)</name>
+<url><![CDATA[https://tiles.nakarte.me/ggc500/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058103">
+<name>ГосГисЦентр 1 км (HIKERUALLGGC)</name>
+<url><![CDATA[https://tiles.nakarte.me/ggc1000/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>13</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058102">
+<name>ГосГисЦентр 2 км (HIKERUALLGGC)</name>
+<url><![CDATA[https://tiles.nakarte.me/ggc2000/{$z}/{$x}/{$y}]]></url>
+<servers></servers>
+<maxzoom>12</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1058301">
+<name>Nakarte Топо (Все масштабы) (HIKERUALLOTHER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -1772,23 +1757,8 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1071002">
-<name>Река Кубань 1985 (От Краснодрского гидроузла до устья) (WATERRU)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_River_Kuban/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1071003">
-<name>Речная лоция Волги и Камы 1996 (gmap.camapka.ru) (WATERRU)</name>
+<name>Волга и Кама 1996 (WATERRU)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_River_Volga/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1802,8 +1772,23 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1071002">
+<name>Река Кубань 1985 (WATERRU)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_River_Kuban/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1071001">
-<name>Схема реки Чусовой (Пермь. Чусовой-Новоуткинск) (WATERRU)</name>
+<name>Река Чусовая-Новоуткинск (WATERRU)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_River_Chusovaya/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -1833,7 +1818,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1080001">
-<name>ERSI World Navigation Charts (AVIA)</name>
+<name>ERSI Navigation Charts (AVIA)</name>
 <url><![CDATA[https://services.arcgisonline.com/arcgis/rest/services/Specialty/World_Navigation_Charts/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>10</maxzoom>
@@ -2102,21 +2087,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1111301">
-<name>Крым 1880 1-верстовая (HYSTORYCRUKRIM)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1111302">
 <name>Кубанская область 1902 (HYSTORYCRUSOUTH)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Historic_Kuban_1902/{$x}/{$y}/{$z}]]></url>
@@ -2312,6 +2282,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1111901">
+<name>Крым 1880 1-верстовая (HYSTORYCRUKRIM)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1112201">
 <name>Беларусь 3-х верстовая (HYSTORYCEUEAST)</name>
 <url><![CDATA[https://globus.tut.by/.tiles/3v/Z{$z}/{$y}/{$x}.jpg]]></url>
@@ -2373,7 +2358,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1140001">
-<name>New-Zealand Topomaps (OTHER)</name>
+<name>New Zealand Topo (HIKE)</name>
 <url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -2388,7 +2373,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1148001">
-<name>Гравийные дорожки для бега (OTHEROVERPASS)</name>
+<name>OverpassTurbo - Гравийные дорожки для бега (OTHEROVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_GravelRunTrails/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2403,7 +2388,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1148002">
-<name>Мусорные баки (OTHEROVERPASS)</name>
+<name>OverpassTurbo - Мусорные баки (OTHEROVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Waste/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2418,7 +2403,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1148003">
-<name>Питьевая вода (OTHEROVERPASS)</name>
+<name>OverpassTurbo - Питьевая вода (OTHEROVERPASS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mapshooter_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2508,7 +2493,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012301">
-<name>Norway UT.no - Какрта крутизны (OVERLAYRELIEFEUNORTH)</name>
+<name>UT.no - Крутизна склонов (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -2523,7 +2508,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012302">
-<name>Norway UT.no - Лавиноопасность (OVERLAYRELIEFEUNORTH)</name>
+<name>UT.no - Лавиноопасность (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/map/rest/services/SkredSnoAktR/MapServer/export?dpi=96&transparent=true&format=png8&layers=show:0,1,2&bbox={bbox}&bboxSR=3857&imageSR=3857&size=512,512&f=image ]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -2538,7 +2523,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2020001">
-<name>ERSI - Административные границы (OVERLAYHYBRID)</name>
+<name>ERSI - Границы стран (OVERLAYHYBRID)</name>
 <url><![CDATA[http://server.arcgisonline.com/ArcGIS/rest/services/Reference/World_Boundaries_and_Places/MapServer/tile/{$z}/{$y}/{$x}.jpg ]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -2643,7 +2628,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2021003">
-<name>RosReestr - Подписи (OVERLAYHYBRIDRU)</name>
+<name>RosReestr.ru - Подписи (OVERLAYHYBRIDRU)</name>
 <url><![CDATA[https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -2883,7 +2868,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040004">
-<name>Strava Heatmap - Вело (OVERLAYBIKE)</name>
+<name>Strava - Вело (OVERLAYBIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2898,7 +2883,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040005">
-<name>Strava Heatmap - Вело (сине-красный) (OVERLAYBIKE)</name>
+<name>Strava - Вело (сине-красный) (OVERLAYBIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2943,7 +2928,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050012">
-<name>Strava Heatmap - Бег (OVERLAYHIKE)</name>
+<name>Strava - Бег (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2958,7 +2943,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050010">
-<name>Strava Heatmap - Бег (сине-красный) (OVERLAYHIKE)</name>
+<name>Strava - Бег (сине-красный) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2973,7 +2958,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050007">
-<name>Strava Heatmap - Вело и Бег (beta) (OVERLAYHIKE)</name>
+<name>Strava - Вело и Бег (beta) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2988,7 +2973,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050006">
-<name>Strava Heatmap - Все слои (OVERLAYHIKE)</name>
+<name>Strava - Все слои (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3003,7 +2988,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050004">
-<name>Strava Heatmap - Все слои (сине-красный) (OVERLAYHIKE)</name>
+<name>Strava - Все слои (сине-красный) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3018,7 +3003,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2054301">
-<name>Швейцария - SwissTopo Тропы (OVERLAYHIKEEUCENTRAL)</name>
+<name>SwissTopo Тропы (OVERLAYHIKEEUCENTRAL)</name>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3063,7 +3048,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060000">
-<name>Strava Heatmap - Зимние (OVERLAYWINTER)</name>
+<name>Strava - Зимние (OVERLAYWINTER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3078,7 +3063,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060003">
-<name>Strava Heatmap - Зимние (сине-красный) (OVERLAYWINTER)</name>
+<name>Strava - Зимние (сине-красный) (OVERLAYWINTER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3093,7 +3078,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2062301">
-<name>Швейцария - Лыжные трассы (OVERLAYWINTEREUCENTRAL)</name>
+<name>Лыжные трассы (OVERLAYWINTEREUCENTRAL)</name>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3108,7 +3093,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2062302">
-<name>Швейцария - Склоны 30° (OVERLAYWINTEREUCENTRAL)</name>
+<name>Склоны 30° (OVERLAYWINTEREUCENTRAL)</name>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.hangneigung-ueber_30/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3182,23 +3167,8 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070005">
-<name>OSM OpenSeaMap - Карта глубин (OVERLAYWATER)</name>
-<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>0</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2070006">
-<name>OSM OpenSeaMap - Морской траффик (OVERLAYWATER)</name>
+<name>OSM OpenSeaMap - Траффик (OVERLAYWATER)</name>
 <url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3212,8 +3182,23 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2070005">
+<name>OpenSeaMap - Рельеф (OVERLAYWATER)</name>
+<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2070008">
-<name>Strava Heatmap - Водные (OVERLAYWATER)</name>
+<name>Strava - Водные (OVERLAYWATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3228,7 +3213,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070009">
-<name>Strava Heatmap - Водные (сине-красный) (OVERLAYWATER)</name>
+<name>Strava - Водные (сине-красный) (OVERLAYWATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -3273,7 +3258,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2080007">
-<name>Wigle.net - Точки Wi-fi (proxy) (OVERLAYINFO)</name>
+<name>Wigle.net - Wi-fi (proxy) (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Info_Wiggle_wifi_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3303,7 +3288,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2080002">
-<name>Тайловая сетка TMS - Серая (OVERLAYINFO)</name>
+<name>Тайловая сетка Серая (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -3318,7 +3303,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2081001">
-<name>RosReestr - Кадастровые границы (OVERLAYINFORU)</name>
+<name>RosReestr.ru - Кадастровые границы (OVERLAYINFORU)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -3332,7 +3317,22 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081501">
+<onlinemapsource uid="2081401">
+<name>Gov.ua - Кадастровые границы (OVERLAYINFOEUEAST)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2085501">
 <name>Skylink - LTE 450 (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Skylink_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3347,7 +3347,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081502">
+<onlinemapsource uid="2085502">
 <name>Tele2 - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3362,7 +3362,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081503">
+<onlinemapsource uid="2085503">
 <name>Tele2 - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3377,7 +3377,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081504">
+<onlinemapsource uid="2085504">
 <name>Tele2 - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3392,7 +3392,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081505">
+<onlinemapsource uid="2085505">
 <name>Tele2 - LTE 450 (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_4G_450_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3407,7 +3407,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081506">
+<onlinemapsource uid="2085506">
 <name>Tele2 - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tele2_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3422,7 +3422,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081509">
+<onlinemapsource uid="2085509">
 <name>Yota - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3437,7 +3437,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081510">
+<onlinemapsource uid="2085510">
 <name>Yota - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3452,7 +3452,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081511">
+<onlinemapsource uid="2085511">
 <name>Yota - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3467,7 +3467,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081512">
+<onlinemapsource uid="2085512">
 <name>Yota - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Yota_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3482,7 +3482,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081515">
+<onlinemapsource uid="2085515">
 <name>Билайн - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Beeline_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3497,7 +3497,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081516">
+<onlinemapsource uid="2085516">
 <name>Билайн - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Beeline_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3512,7 +3512,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081517">
+<onlinemapsource uid="2085517">
 <name>Билайн - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Beeline_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3527,7 +3527,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081518">
+<onlinemapsource uid="2085518">
 <name>Билайн - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Beeline_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3542,7 +3542,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081521">
+<onlinemapsource uid="2085521">
 <name>МТС - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Mts_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3557,7 +3557,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081522">
+<onlinemapsource uid="2085522">
 <name>МТС - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Mts_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3572,7 +3572,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081523">
+<onlinemapsource uid="2085523">
 <name>МТС - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Mts_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3587,7 +3587,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081524">
+<onlinemapsource uid="2085524">
 <name>МТС - 4G Планируемое (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Mts_4G_planned_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3602,7 +3602,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081525">
+<onlinemapsource uid="2085525">
 <name>МТС - IoT Интернет вещей (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Mts_IOT_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3617,7 +3617,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081526">
+<onlinemapsource uid="2085526">
 <name>МТС - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_MTS_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3632,7 +3632,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081529">
+<onlinemapsource uid="2085529">
 <name>Мегафон  - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3647,7 +3647,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081530">
+<onlinemapsource uid="2085530">
 <name>Мегафон - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3662,7 +3662,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081531">
+<onlinemapsource uid="2085531">
 <name>Мегафон - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3677,7 +3677,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081532">
+<onlinemapsource uid="2085532">
 <name>Мегафон - 4G+ (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_4Gplus_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3692,7 +3692,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081533">
+<onlinemapsource uid="2085533">
 <name>Мегафон - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Megafon_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3707,7 +3707,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081536">
+<onlinemapsource uid="2085536">
 <name>Ростелком - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3722,7 +3722,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081537">
+<onlinemapsource uid="2085537">
 <name>Ростелком - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3737,7 +3737,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081538">
+<onlinemapsource uid="2085538">
 <name>Ростелком - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3752,7 +3752,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081539">
+<onlinemapsource uid="2085539">
 <name>Ростелком - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3767,7 +3767,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081542">
+<onlinemapsource uid="2085542">
 <name>Тинькофф - 2G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_2G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3782,7 +3782,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081543">
+<onlinemapsource uid="2085543">
 <name>Тинькофф - 3G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_3G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3797,7 +3797,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081544">
+<onlinemapsource uid="2085544">
 <name>Тинькофф - 4G (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_4G_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3812,28 +3812,13 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2081545">
+<onlinemapsource uid="2085545">
 <name>Тинькофф - Все слои (OVERLAYINFORUMOBILE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff_WGS84/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2082101">
-<name>Украина - Кадастровые границы (OVERLAYINFOEUEAST)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>
@@ -3858,7 +3843,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090002">
-<name>OSM OpenPTMap - Общественный транспорт (OVERLAYINFOSTRUCT)</name>
+<name>OSM OpenPTMap - Общ.транспорт (OVERLAYINFOSTRUCT)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>

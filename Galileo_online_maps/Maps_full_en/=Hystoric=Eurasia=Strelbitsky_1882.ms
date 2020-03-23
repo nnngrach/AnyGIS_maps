@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Strelbitsky 1882</name>
+<name>🏛 = 🇷🇺 - Strelbitsky 1882</name>
 <layers>
 
 <layer>

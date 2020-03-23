@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Разное - Саяны. Ергаки - Арадан</name>
+<name>🥾 = 🇷🇺Сибирь - Саяны Ергаки-Арадан</name>
 <layers>
 
 <layer>

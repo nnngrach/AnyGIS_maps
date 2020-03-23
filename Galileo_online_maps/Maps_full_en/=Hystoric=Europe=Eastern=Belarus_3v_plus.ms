@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Europe - Eastern - Belarus 3 verstovaya+</name>
+<name>🏛 = 🇧🇾 - Belarus 3 verstovaya+</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Bing</name>
+<name>🏠 = Bing</name>
 <layers>
 
 <layer>

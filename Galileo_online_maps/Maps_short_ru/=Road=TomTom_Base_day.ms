@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - TomTom День</name>
+<name>🚗 = TomTom День</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Восточная - Беларусь - LatLon.org</name>
+<name>🥾 = 🇧🇾 - LatLon.org</name>
 <layers>
 
 <layer>

@@ -6,10 +6,10 @@
 
 <providers>
 
-<provider id="1054301" type="0" visible="true" background="-1">
-<name>Туризм - Европа - Центральная</name>
-<mode>Kompass.de</mode>
-<countries>World</countries>
+<provider id="1054401" type="0" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = 🇪🇺 - Kompass.de</mode>
+<countries>Europe</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Kompass_De/{x}/{y}/{z}]]></url>

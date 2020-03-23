@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1021001" type="0" visible="true" background="-1">
-<name>City - Eurasia</name>
-<mode>2Gis</mode>
-<countries>Russia</countries>
+<name>City</name>
+<mode>🏠 = 🌍 - 2Gis</mode>
+<countries>Russia, Kazakhstan, Ukraine, Italy, Czech, UAE, Kyrgyzstan, Uzbekistan, Azerbaijan, Cyprus</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://tile{s}.maps.2gis.com/tiles?x={x}&y={y}&z={z}&r=g&ts=online_{ts}]]></url>

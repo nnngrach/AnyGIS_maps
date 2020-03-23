@@ -1,5 +1,5 @@
 [Name]
-Overlay - Labels - Europe - Northern - Eniro - Hybrid
+Overlay - Labels - Eniro - Hybrid
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Eniro_Sat_labels/{x}/{y}/{z}

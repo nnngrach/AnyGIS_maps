@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054103" type="0" visible="true" background="-1">
-<name>Hike - Europe - Eastern</name>
-<mode>Carpathians</mode>
+<provider id="1054003" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇺🇦 - Carpathians</mode>
 <countries>Ukraine</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

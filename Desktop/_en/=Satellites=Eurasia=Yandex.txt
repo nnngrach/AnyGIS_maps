@@ -1,5 +1,5 @@
 [Name]
-Satellites - Eurasia - Yandex
+Satellites - Yandex
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_sat_clean_WGS84/{x}/{y}/{z}

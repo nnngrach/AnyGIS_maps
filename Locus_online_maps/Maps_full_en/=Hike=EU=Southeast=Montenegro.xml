@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1054701" type="1" visible="true" background="-1">
-<name>Hike - Europe - Southeast</name>
-<mode>Montenecro 250m</mode>
+<name>Hike</name>
+<mode>🥾 = 🇲🇪 - Montenecro 250m</mode>
 <countries>Montenegro</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,11 +3,11 @@
 
 
 
-<name>Слои - Справочные - Европа - Восточная</name>
+<name>Слои - Справочные</name>
 <description></description>
 
-    <source id="2082101">
-        <name>Украина - Кадастровые границы</name>
+    <source id="2081401">
+        <name>⏹️ 📖 = 🇺🇦 - Gov.ua - Кадастровые границы</name>
         <copyright>Gov.ua</copyright>
         <data-source></data-source>
         <region>OTHE</region>

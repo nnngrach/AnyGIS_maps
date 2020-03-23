@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053204" type="0" visible="true" background="-1">
-<name>Туризм - Евразия - Кавказ</name>
-<mode>Перевалы Западного Кавказа 2014</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺Кавказ - Западные перевалы 2014</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

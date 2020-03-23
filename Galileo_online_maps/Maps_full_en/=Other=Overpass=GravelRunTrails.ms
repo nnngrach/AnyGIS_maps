@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Other - Overpass Turbo - Gravel Running Trails</name>
+<name>🧩 = 🌍 - Overpass Turbo - Gravel Running Trails</name>
 <layers>
 
 <layer>

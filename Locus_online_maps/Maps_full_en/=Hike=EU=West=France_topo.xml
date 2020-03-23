@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054403" type="0" visible="true" background="-1">
-<name>Hike - Europe - Western</name>
-<mode>France Topo IGN.fr</mode>
+<provider id="1054503" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇫🇷 - IGN.fr Topo</mode>
 <countries>France</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

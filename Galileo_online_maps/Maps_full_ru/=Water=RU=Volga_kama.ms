@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - Евразия - Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</name>
+<name>⚓️ = 🇷🇺 - Волга и Кама 1996</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [Name]
-Туризм - Европа - Восточная - Карпаты
+Туристические - Карпаты
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Karpaty/{x}/{y}/{z}

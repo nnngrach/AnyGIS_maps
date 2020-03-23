@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Northwestern - Petrograd 1917
+Hystoric - Petrograd 1917
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_SPB_1917/{x}/{y}/{z}

@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1012203" type="1" visible="true" background="-1">
-<name>Спутниковые - Европа - Северная</name>
-<mode>Hitta</mode>
+<name>Спутниковые</name>
+<mode>🛰 = 🇸🇪 - Hitta</mode>
 <countries>Sweden</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>

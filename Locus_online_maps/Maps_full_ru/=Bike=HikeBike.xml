@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1040002" type="0" visible="true" background="-1">
-<name>Вело</name>
-<mode>OSM Hike and bike</mode>
+<name>Велосипедные</name>
+<mode>🚲 = OSM Hike and bike</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

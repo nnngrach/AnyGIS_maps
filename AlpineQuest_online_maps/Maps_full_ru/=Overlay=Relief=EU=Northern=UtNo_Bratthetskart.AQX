@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Слои - Рельеф</name>
+<description></description>
+
+    <source id="2012301">
+        <name>⏹️ 🏔️ = 🇳🇴 - UT.no - Крутизна склонов</name>
+        <copyright>UT.no</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>9.58282,61.5979,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{z}/{y}/{x}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

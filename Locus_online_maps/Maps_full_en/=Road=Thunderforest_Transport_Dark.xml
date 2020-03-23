@@ -8,7 +8,7 @@
 
 <provider id="1030006" type="0" visible="true" background="-1">
 <name>Road</name>
-<mode>OSM Thunderforest Transport Night</mode>
+<mode>🚗 = 🌍 - OSM Thunderforest Transport Night</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

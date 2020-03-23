@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/City%20-%20Eurasia.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/City.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/City - Eurasia.png]]>
+<![CDATA[/mapsOnline/custom/City.png]]>
 </dest>
 </download>
 

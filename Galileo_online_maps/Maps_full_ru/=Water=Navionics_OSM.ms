@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - Navionics + OSM</name>
+<name>⚓️ = Navionics + OSM</name>
 <layers>
 
 <layer>

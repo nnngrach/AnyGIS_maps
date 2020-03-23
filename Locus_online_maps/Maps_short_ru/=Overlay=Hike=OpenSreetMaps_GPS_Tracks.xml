@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="2050017" type="0" visible="true" background="-1">
-<name>Слои - Туризм</name>
-<mode>OSM OpenStreetMap - GPS Треки</mode>
+<name>Слои - Туристические</name>
+<mode>⏹️ 🥾 = OSM OpenStreetMap - GPS Треки</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

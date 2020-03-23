@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - Lantmäteriets Topografisk</name>
+<name>🥾 = 🇸🇪 - Lantmäteriets Topografisk</name>
 <layers>
 
 <layer>

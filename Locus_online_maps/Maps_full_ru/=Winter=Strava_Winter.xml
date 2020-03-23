@@ -8,7 +8,7 @@
 
 <provider id="39999045" type="0" visible="false" background="-1">
 <name>Зимние</name>
-<mode>Strava Heatmap - Зимние</mode>
+<mode>  Mapquest Dark</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -25,7 +25,7 @@
 
 <provider id="1060003" type="0" visible="true" background="39999045">
 <name>Зимние</name>
-<mode>Strava Heatmap - Зимние</mode>
+<mode>❄️ = Strava - Зимние</mode>
 <countries>World</countries>
 <usage>ski</usage>
 <cacheTimeout>720</cacheTimeout>

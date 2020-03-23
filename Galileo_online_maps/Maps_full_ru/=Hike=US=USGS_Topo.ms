@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Америка - USGS National Map - Топокарта</name>
+<name>🥾 = 🇺🇸 - USGS National Map топо</name>
 <layers>
 
 <layer>

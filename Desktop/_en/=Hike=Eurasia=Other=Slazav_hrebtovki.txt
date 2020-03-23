@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Other - Slazav Mountains
+Hike - Slazav Mountains
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Slazav_hrebtovki_nakarte_direct/{x}/{y}/{z}

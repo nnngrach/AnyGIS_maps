@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Norway UT.no - Topolart</name>
+<name>🥾 = 🇳🇴 - UT.no - Topolart</name>
 <layers>
 
 <layer>

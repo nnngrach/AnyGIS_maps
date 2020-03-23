@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Winter%20-%20Europe%20-%20Central.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Winter.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Winter - Europe - Central.png]]>
+<![CDATA[/mapsOnline/custom/Overlay - Winter.png]]>
 </dest>
 </download>
 

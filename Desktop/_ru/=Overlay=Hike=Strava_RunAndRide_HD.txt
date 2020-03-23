@@ -1,5 +1,5 @@
 [Name]
-Слои - Туризм - Strava Heatmap - Вело и Бег (beta)
+Слои - Туристические - Strava - Вело и Бег (beta)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_RunAndRide_HD/{x}/{y}/{z}

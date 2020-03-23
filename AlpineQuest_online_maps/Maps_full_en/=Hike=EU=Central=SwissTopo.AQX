@@ -3,11 +3,11 @@
 
 
 
-<name>Hike - Europe - Central</name>
+<name>Hike</name>
 <description></description>
 
-    <source id="1054302">
-        <name>Swiss Topo</name>
+    <source id="1054402">
+        <name>🥾 =🇨🇭 - Swiss Topo</name>
         <copyright>Geo.admin.ch</copyright>
         <data-source></data-source>
         <region>OTHE</region>

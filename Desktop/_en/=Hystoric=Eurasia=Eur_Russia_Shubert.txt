@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - European Russia - Shubert
+Hystoric - European Russia - Shubert
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Shubert/{x}/{y}/{z}

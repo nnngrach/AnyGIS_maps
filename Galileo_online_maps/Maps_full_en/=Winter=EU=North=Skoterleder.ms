@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Winter - Europe - Northern - Skoterleder</name>
+<name>❄️ = 🌍 - Skoterleder</name>
 <layers>
 
 <layer>

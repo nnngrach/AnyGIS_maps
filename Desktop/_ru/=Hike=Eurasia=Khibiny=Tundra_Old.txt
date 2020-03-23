@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Хибины - Хибинские и Ловоозерские тундры (СССР)
+Туристические - Хибины (СССР)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Karelia2/{x}/{y}/{z}

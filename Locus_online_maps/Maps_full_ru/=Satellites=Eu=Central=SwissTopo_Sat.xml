@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1012301" type="0" visible="true" background="-1">
-<name>Спутниковые - Европа - Центральная</name>
-<mode>SwissTopo</mode>
-<countries>Swiss</countries>
+<name>Спутниковые</name>
+<mode>🛰 =🇨🇭 - SwissTopo</mode>
+<countries>Switzerland</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swissimage-product/default/current/3857/{z}/{x}/{y}.jpeg]]></url>

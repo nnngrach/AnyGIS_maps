@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Eastern - Belarus LatLon.org</name>
+<name>🥾 = 🇧🇾 - LatLon.org</name>
 <layers>
 
 <layer>

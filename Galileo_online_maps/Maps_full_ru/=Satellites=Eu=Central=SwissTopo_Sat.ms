@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Европа - Центральная - SwissTopo</name>
+<name>🛰 =🇨🇭 - SwissTopo</name>
 <layers>
 
 <layer>

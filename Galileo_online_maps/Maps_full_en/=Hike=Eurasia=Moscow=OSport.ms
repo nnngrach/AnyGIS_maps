@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Moscow Region - O-Sport</name>
+<name>🥾 = 🇷🇺Moscow - O-Sport</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Europe - Northern - Eniro + Navionics</name>
+<name>⚓️ = 🇸🇪 - Eniro + Navionics</name>
 <layers>
 
 <layer>

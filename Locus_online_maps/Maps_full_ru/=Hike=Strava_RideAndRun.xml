@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="179999045" type="0" visible="false" background="-1">
-<name>Туризм</name>
-<mode>Strava Heatmap - Вело и Бег (beta)</mode>
+<name>Туристические</name>
+<mode>  Mapquest Dark</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -24,8 +24,8 @@
 </provider>
 
 <provider id="1050017" type="0" visible="true" background="179999045">
-<name>Туризм</name>
-<mode>Strava Heatmap - Вело и Бег (beta)</mode>
+<name>Туристические</name>
+<mode>🥾 = Strava - Вело и Бег (beta)</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1012102" type="1" visible="true" background="-1">
-<name>Спутниковые - Европа - Восточная</name>
-<mode>Украина - Кадастр ортофото</mode>
+<name>Спутниковые</name>
+<mode>🛰 = 🇺🇦- Gov.ua - ортофото</mode>
 <countries>Ukraine</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>

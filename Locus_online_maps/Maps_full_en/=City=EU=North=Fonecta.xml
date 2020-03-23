@@ -2,14 +2,19 @@
 
 
 
+<!--
+Вся европа, кроме восточной
+
+...Finland, Estonia, Latvia, Lithuania, Poland, Czechia, Slovakia...
+-->
 
 
 <providers>
 
 <provider id="1022202" type="0" visible="true" background="-1">
-<name>City - Europe - Northern</name>
-<mode>Fonecta.fi</mode>
-<countries>Finland</countries>
+<name>City</name>
+<mode>🏠 = 🇪🇺 - Fonecta.fi</mode>
+<countries>Europe</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{x}/{y}/{z}]]></url>

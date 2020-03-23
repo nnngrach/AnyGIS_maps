@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Mapy.cz - Base</name>
+<name>🏠 = OSM Mapy.cz - Base</name>
 <layers>
 
 <layer>

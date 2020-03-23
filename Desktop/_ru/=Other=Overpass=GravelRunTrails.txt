@@ -1,5 +1,5 @@
 [Name]
-Разное - Overpass Turbo - Гравийные дорожки для бега
+Разное - OverpassTurbo - Гравийные дорожки для бега
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Mapshooter_GravelRunTrails/{x}/{y}/{z}

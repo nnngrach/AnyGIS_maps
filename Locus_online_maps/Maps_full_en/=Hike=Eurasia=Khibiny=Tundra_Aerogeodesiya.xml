@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053402" type="0" visible="true" background="-1">
-<name>Hike - Eurasia - Khibiny</name>
-<mode>Khibiny's Tundra (2008)</mode>
+<name>Hike</name>
+<mode>🥾 = 🇷🇺Khibiny - Khibiny Tundra (2008)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1071003" type="0" visible="true" background="-1">
-<name>Водные - Евразия</name>
-<mode>Речная лоция Волги и Камы 1996 (gmap.camapka.ru)</mode>
+<name>Водные</name>
+<mode>⚓️ = 🇷🇺 - Волга и Кама 1996</mode>
 <countries>Russia</countries>
 <usage>nautical</usage>
 <cacheTimeout>99999</cacheTimeout>

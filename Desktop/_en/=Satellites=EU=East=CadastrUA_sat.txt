@@ -1,5 +1,5 @@
 [Name]
-Satellites - Europe - Eastern - Ukraine - Cadaster Orthophoto
+Satellites - Gov.ua - Orthophoto
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{x}/{y}/{z}

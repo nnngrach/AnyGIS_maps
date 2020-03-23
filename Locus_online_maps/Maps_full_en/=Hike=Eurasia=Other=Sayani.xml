@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053503" type="0" visible="true" background="-1">
-<name>Hike - Eurasia - Other</name>
-<mode>Ergaki - Ardan</mode>
+<name>Hike</name>
+<mode>🥾 = 🇷🇺Siberia - Ergaki - Ardan</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

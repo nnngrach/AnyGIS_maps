@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="2021002" type="2" visible="true" background="-1">
-<name>Слои - Подписи - Евразия</name>
-<mode>Яндекс - Гибрид Народная</mode>
+<name>Слои - Подписи</name>
+<mode>⏹️ 🏷 = 🇷🇺 - Яндекс - Гибрид Народная</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Europe - Northern - Fonecta.fi</name>
+<name>🏠 = 🇪🇺 - Fonecta.fi</name>
 <layers>
 
 <layer>

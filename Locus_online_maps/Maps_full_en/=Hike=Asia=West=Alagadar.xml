@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1056101" type="0" visible="true" background="-1">
-<name>Hike - Asia - Western</name>
-<mode>Aladaglar</mode>
+<name>Hike</name>
+<mode>🥾 = 🇹🇷 - Aladaglar</mode>
 <countries>Turkey</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

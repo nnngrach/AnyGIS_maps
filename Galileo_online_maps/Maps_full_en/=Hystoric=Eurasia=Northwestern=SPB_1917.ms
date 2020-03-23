@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Northwestern - Petrograd 1917</name>
+<name>🏛 = 🇷🇺 Northwestern - Petrograd 1917</name>
 <layers>
 
 <layer>

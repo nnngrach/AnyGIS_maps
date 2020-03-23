@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hystoric%20-%20Europe%20-%20Eastern.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hystoric.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hystoric - Europe - Eastern.png]]>
+<![CDATA[/mapsOnline/custom/Hystoric.png]]>
 </dest>
 </download>
 

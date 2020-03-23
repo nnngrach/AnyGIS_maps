@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053100" type="1" visible="true" background="-1">
-<name>Hike - Eurasia - Moscow Region</name>
-<mode>Slazav MMB</mode>
+<name>Hike</name>
+<mode>🥾 = 🇷🇺Moscow - Slazav MMB</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>8760</cacheTimeout>

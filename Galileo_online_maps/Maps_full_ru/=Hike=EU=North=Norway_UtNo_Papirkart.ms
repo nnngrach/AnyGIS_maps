@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Norway UT.no - Papirkart</name>
+<name>🥾 = 🇳🇴 - UT.no - Papirkart</name>
 <layers>
 
 <layer>

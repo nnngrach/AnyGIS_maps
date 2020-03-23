@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Moscow Region - Arbalet</name>
+<name>🥾 = 🇷🇺Moscow - Arbalet</name>
 <layers>
 
 <layer>

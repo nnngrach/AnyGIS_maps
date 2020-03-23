@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Справочные - Wikimapia.org + Спутник</name>
+<name>📖 = Wikimapia.org + Спутник</name>
 <layers>
 
 <layer>

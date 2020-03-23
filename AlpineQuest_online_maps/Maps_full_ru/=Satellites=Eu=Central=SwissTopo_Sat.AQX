@@ -3,11 +3,11 @@
 
 
 
-<name>Спутниковые - Европа - Центральная</name>
+<name>Спутниковые</name>
 <description></description>
 
     <source id="1012301">
-        <name>SwissTopo</name>
+        <name>🛰 =🇨🇭 - SwissTopo</name>
         <copyright>Geo.admin.ch</copyright>
         <data-source></data-source>
         <region>OTHE</region>

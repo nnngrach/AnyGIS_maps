@@ -1,0 +1,17 @@
+[Name]
+Туристические - New Zealand Topo
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_NZ_NewZeland_Topo/{x}/{y}/{z}
+
+[URL direct]
+http://nz1.nztopomaps.com/{z}/{x}/{-y}.png
+
+[Min Zoom level]
+6
+
+[Max Zoom level]
+15
+
+[Proection description]
+With inverted Y

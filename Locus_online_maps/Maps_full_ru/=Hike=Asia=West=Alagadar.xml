@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1056101" type="0" visible="true" background="-1">
-<name>Туризм - Азия - Передняя</name>
-<mode>Хребет Аладаглар 2014</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇹🇷 - Аладаглар 2014</mode>
 <countries>Turkey</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

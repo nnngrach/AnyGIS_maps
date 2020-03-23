@@ -1,5 +1,5 @@
 [Name]
-Satellites - Europe - Northern - Hitta
+Satellites - Hitta
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Hitta_sat/{x}/{y}/{z}

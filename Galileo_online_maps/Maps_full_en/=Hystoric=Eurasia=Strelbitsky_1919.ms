@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Strelbitsky 1919</name>
+<name>🏛 = 🇷🇺 - Strelbitsky 1919</name>
 <layers>
 
 <layer>

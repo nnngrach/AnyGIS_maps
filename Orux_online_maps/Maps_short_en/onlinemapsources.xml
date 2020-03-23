@@ -3,7 +3,7 @@
 
 
 <onlinemapsource uid="1010002">
-<name>Bing Bird's Eye (SATELLITES)</name>
+<name>Bing Birds Eye (SATELLITES)</name>
 <url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>

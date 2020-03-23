@@ -7,10 +7,10 @@
 <providers>
 
 <provider id="1012205" type="0" visible="true" background="-1">
-<name>Спутниковые - Европа - Северная</name>
-<mode>Topografisk Norgeskart</mode>
+<name>Спутниковые</name>
+<mode>🛰 = 🇳🇴 - Topografisk Norgeskart</mode>
 <countries>Norway</countries>
-<usage>phoro</usage>
+<usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://maptiles{s}.finncdn.no/tileService/1.0.3/norortho/{z}/{x}/{y}.png]]></url>
 <serverPart>1;2;3;4</serverPart>

@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1022201" type="1" visible="true" background="-1">
-<name>City - Europe - Northern</name>
-<mode>Eniro</mode>
-<countries>Norway, Sweden, Finland, Denmark, Poland</countries>
+<name>City</name>
+<mode>🏠 = 🇸🇪 - Eniro</mode>
+<countries>Norway, Sweden, Finland, Denmark</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/map/{z}/{x}/{y}.png]]></url>

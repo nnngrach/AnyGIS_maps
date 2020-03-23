@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Europe - Eastern - Ukraine - Visicom</name>
+<name>🏠 = 🇺🇦 - Ukraine - Visicom</name>
 <layers>
 
 <layer>

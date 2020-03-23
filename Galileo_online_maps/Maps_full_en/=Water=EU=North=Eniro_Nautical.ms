@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Europe - Northern - Eniro Sjökort Nautical</name>
+<name>⚓️ = 🇸🇪 - Eniro Sjökort Nautical</name>
 <layers>
 
 <layer>

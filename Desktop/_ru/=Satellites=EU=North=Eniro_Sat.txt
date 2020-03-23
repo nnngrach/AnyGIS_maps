@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Европа - Северная - Eniro
+Спутниковые - Eniro
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Eniro_Sat_clean/{x}/{y}/{z}

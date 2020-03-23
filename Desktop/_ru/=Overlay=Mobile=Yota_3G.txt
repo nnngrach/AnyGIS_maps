@@ -1,0 +1,20 @@
+[Name]
+Слои - Покрытие связи - Yota - 3G
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Yota_3G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://map.yota.ru/tiles/3g_voice/{z}/{x}/{y}.png
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+13
+
+[HTTP Referer]
+https://www.yota.ru/map?mode=cover&filter=2g,3g,4g
+
+[Proection description]
+Ellipsoid

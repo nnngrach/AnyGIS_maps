@@ -6,10 +6,10 @@
 
 <providers>
 
-<provider id="1054302" type="0" visible="true" background="-1">
-<name>Hike - Europe - Central</name>
-<mode>Swiss Topo</mode>
-<countries>Swiss</countries>
+<provider id="1054402" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 =🇨🇭 - Swiss Topo</mode>
+<countries>Switzerland</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-farbe/default/current/3857/{z}/{x}/{y}.jpeg]]></url>

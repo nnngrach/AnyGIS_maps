@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Разное - Overpass Turbo - Гравийные дорожки для бега</name>
+<name>🧩 = OverpassTurbo - Гравийные дорожки для бега</name>
 <layers>
 
 <layer>

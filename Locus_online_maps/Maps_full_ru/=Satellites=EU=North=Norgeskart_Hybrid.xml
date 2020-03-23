@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1012204" type="0" visible="true" background="-1">
-<name>Спутниковые - Европа - Северная</name>
-<mode>Topografisk Norgeskart - Гибрид</mode>
+<name>Спутниковые</name>
+<mode>🛰 = 🇳🇴 - Topografisk Norgeskart - Гибрид</mode>
 <countries>Norway</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>

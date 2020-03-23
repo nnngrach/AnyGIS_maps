@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Caucasus - Caucasus Kazbek
+Hike - Caucasus Kazbek
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}

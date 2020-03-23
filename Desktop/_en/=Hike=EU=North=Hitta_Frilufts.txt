@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Northern - Hitta Frilufts
+Hike - Hitta Frilufts
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Hitta_Frilufts/{x}/{y}/{z}

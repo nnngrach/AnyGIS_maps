@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Кавказ - Перевалы Южного Кавказа 2014</name>
+<name>🥾 = 🇷🇺Кавказ - Южные перевалы 2014</name>
 <layers>
 
 <layer>

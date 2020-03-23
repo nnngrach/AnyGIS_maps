@@ -3,11 +3,11 @@
 
 
 
-<name>Разное - Overpass Turbo</name>
+<name>Разное</name>
 <description></description>
 
     <source id="1148002">
-        <name>Мусорные баки</name>
+        <name>🧩 = OverpassTurbo - Мусорные баки</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

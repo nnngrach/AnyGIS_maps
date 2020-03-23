@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="29999043" type="1" visible="false" background="-1">
-<name>Водные - Европа - Северная</name>
-<mode>Eniro + Navionics</mode>
-<countries>Norway, Sweden, Finland, Denmark, Poland</countries>
+<name>Водные</name>
+<mode>  Eniro map</mode>
+<countries>Norway, Sweden, Finland, Denmark</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/map/{z}/{x}/{y}.png]]></url>
@@ -24,9 +24,9 @@
 </provider>
 
 <provider id="1072202" type="0" visible="true" background="29999043">
-<name>Водные - Европа - Северная</name>
-<mode>Eniro + Navionics</mode>
-<countries>Norway, Sweden, Denmark</countries>
+<name>Водные</name>
+<mode>⚓️ = 🇸🇪 - Eniro + Navionics</mode>
+<countries>Norway, Sweden, Finland, Denmark</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{x}/{y}/{z}]]></url>

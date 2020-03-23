@@ -1,5 +1,5 @@
 [Name]
-Городские - Mapy.cz - Base
+Городские - OSM Mapy.cz - Base
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Czech_base/{x}/{y}/{z}

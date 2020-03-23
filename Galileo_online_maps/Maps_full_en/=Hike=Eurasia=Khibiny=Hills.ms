@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Khibiny - Khibiny's Mountains</name>
+<name>🥾 = 🇷🇺Khibiny - Khibiny Mountains</name>
 <layers>
 
 <layer>

@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Вело.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Велосипедные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Вело.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Велосипедные.png]]>
 </dest>
 </download>
 

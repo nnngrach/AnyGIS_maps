@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Central - Swiss Topo</name>
+<name>🥾 =🇨🇭 - Swiss Topo</name>
 <layers>
 
 <layer>

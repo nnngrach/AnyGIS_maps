@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Southern - Kuban district 1930</name>
+<name>🏛 = 🇷🇺 Kuban - Kuban district 1930</name>
 <layers>
 
 <layer>

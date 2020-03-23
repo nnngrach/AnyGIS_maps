@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - OSM Mapsurfer</name>
+<name>🥾 = 🌍 - OSM Mapsurfer</name>
 <layers>
 
 <layer>

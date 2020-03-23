@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Infrastructure - OSM OpenBusMap (Opnvkarte.de)</name>
+<name>🚥 = OSM OpenBusMap (Opnvkarte.de)</name>
 <layers>
 
 <layer>

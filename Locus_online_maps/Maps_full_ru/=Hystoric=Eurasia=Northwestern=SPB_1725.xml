@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111202" type="0" visible="true" background="-1">
-<name>Исторические - Евразия - Северо-Запад</name>
-<mode>Санкт-Петербург 1725</mode>
+<name>Исторические</name>
+<mode>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1725</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

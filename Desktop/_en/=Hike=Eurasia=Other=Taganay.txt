@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Other - Taganay Park
+Hike - Taganay Park
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Taganay/{x}/{y}/{z}

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM OpenTopoMap.ORG</name>
+<name>🥾 = OSM OpenTopoMap.ORG</name>
 <layers>
 
 <layer>

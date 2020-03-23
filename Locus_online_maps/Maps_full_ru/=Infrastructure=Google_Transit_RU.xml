@@ -8,7 +8,7 @@
 
 <provider id="1100001" type="0" visible="true" background="-1">
 <name>Инфраструктура</name>
-<mode>Google Транзит</mode>
+<mode>🚥 = Google Транзит</mode>
 <countries>World</countries>
 <usage>transport</usage>
 <cacheTimeout>720</cacheTimeout>

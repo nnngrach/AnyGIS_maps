@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Siberian - Irkutsk 5km 1980</name>
+<name>🏛 = 🇷🇺 Siberia - Irkutsk 5km 1980</name>
 <layers>
 
 <layer>

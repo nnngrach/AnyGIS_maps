@@ -9,10 +9,10 @@
 
 <providers>
 
-<provider id="1051001" type="0" visible="true" background="-1">
-<name>Hike - Eurasia - All</name>
-<mode>OSM OpenTopoMap.RU</mode>
-<countries>World</countries>
+<provider id="1052001" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</mode>
+<countries>Russia, Ukraine, Belarus, Latvia, Lithuania, Estonia, Kazakhstan, Czech</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://tile-{s}.opentopomap.ru/{z}/{x}/{y}.png]]></url>

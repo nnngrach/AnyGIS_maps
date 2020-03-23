@@ -1,5 +1,5 @@
 [Name]
-Слои - Справочные - Тайловая сетка TMS - Черная
+Слои - Справочные - Тайловая сетка Черная
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/TILE_GRID_BLACK/{x}/{y}/{z}

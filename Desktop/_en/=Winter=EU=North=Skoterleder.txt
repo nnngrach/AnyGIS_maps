@@ -1,5 +1,5 @@
 [Name]
-Winter - Europe - Northern - Skoterleder
+Winter - Skoterleder
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Skoterleder/{x}/{y}/{z}

@@ -1,5 +1,5 @@
 [Name]
-Городские - Евразия - 2Gis
+Городские - 2Gis
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ru_2gis/{x}/{y}/{z}

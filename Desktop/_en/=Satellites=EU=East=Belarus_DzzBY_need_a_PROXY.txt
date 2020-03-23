@@ -1,5 +1,5 @@
 [Name]
-Satellites - Europe - Eastern - Belarus - DZZ.by Orthophoto (need a proxy)
+Satellites - Dzz.by Orthophoto (need a proxy)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Belarus_DDZ/{x}/{y}/{z}

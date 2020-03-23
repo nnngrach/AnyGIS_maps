@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Moscow Region - Adraces</name>
+<name>🥾 = 🇷🇺Moscow - Adraces</name>
 <layers>
 
 <layer>

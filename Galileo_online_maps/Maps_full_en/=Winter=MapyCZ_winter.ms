@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Winter - OSM Czech - Mapy.cz Winter</name>
+<name>❄️ = 🌍 - OSM Czech - Mapy.cz Winter</name>
 <layers>
 
 <layer>

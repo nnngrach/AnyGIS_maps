@@ -1,5 +1,5 @@
 [Name]
-Слои - Справочные - Европа - Восточная - Украина - Кадастровые границы
+Слои - Справочные - Gov.ua - Кадастровые границы
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{x}/{y}/{z}

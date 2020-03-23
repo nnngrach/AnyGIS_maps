@@ -1,5 +1,5 @@
 [Name]
-Туризм - Европа - Северная - Lantmäteriets Topografisk
+Туристические - Lantmäteriets Topografisk
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Lantmateriet_topowebb/{x}/{y}/{z}

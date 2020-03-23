@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиа.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авиационные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Авиа.png]]>
+<![CDATA[/mapsOnline/custom/Авиационные.png]]>
 </dest>
 </download>
 

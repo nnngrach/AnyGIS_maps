@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Here</name>
+<name>🛰 = Here</name>
 <layers>
 
 <layer>

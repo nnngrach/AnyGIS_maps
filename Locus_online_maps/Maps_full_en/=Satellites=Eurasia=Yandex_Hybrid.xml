@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="69999018" type="2" visible="false" background="-1">
-<name>Satellites - Eurasia</name>
-<mode>Yandex - Hybrid</mode>
+<name>Satellites</name>
+<mode>  Yandex Satellite</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -25,8 +25,8 @@
 </provider>
 
 <provider id="1011006" type="2" visible="true" background="69999018">
-<name>Satellites - Eurasia</name>
-<mode>Yandex - Hybrid</mode>
+<name>Satellites</name>
+<mode>🛰 = 🌍 - Yandex - Hybrid</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

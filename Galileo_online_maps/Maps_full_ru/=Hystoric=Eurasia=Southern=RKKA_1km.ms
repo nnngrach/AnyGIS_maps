@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Исторические - Евразия - Кубань - РККА 1940 1км</name>
+<name>🏛 = 🇷🇺 Кубань - РККА 1940 1км</name>
 <layers>
 
 <layer>

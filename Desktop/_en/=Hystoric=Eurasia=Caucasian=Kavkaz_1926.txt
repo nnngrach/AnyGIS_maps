@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - North Caucasian - Caucasus 1926
+Hystoric - Caucasus 1926
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kavkaz_1926/{x}/{y}/{z}

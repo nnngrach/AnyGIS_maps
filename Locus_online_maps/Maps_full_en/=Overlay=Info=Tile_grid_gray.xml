@@ -8,7 +8,7 @@
 
 <provider id="2080002" type="0" visible="true" background="-1">
 <name>Overlay - Info</name>
-<mode>TMS Tile Grid - Gray</mode>
+<mode>⏹️ 📖 = 🌍 - TMS Tile Grid - Gray</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>99999</cacheTimeout>

@@ -1,5 +1,5 @@
 [Name]
-Туризм - Америка - USGS National Map - Топокарта
+Туристические - USGS National Map топо
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_US_USGS_Topo/{x}/{y}/{z}

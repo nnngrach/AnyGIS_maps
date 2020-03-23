@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="2062302" type="0" visible="true" background="-1">
-<name>Слои - Зимние - Европа - Центральная</name>
-<mode>Швейцария - Склоны 30°</mode>
-<countries>Swiss</countries>
+<name>Слои - Зимние</name>
+<mode>⏹️ ❄️ = 🇨🇭 - Склоны 30°</mode>
+<countries>Switzerland</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.hangneigung-ueber_30/default/current/3857/{z}/{x}/{y}.png]]></url>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Elbrus Region</name>
+<name>🥾 = 🇷🇺Caucasus - Elbrus Region</name>
 <layers>
 
 <layer>

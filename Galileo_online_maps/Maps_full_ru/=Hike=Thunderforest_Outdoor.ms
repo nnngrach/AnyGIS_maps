@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM Thunderforest Outdoor</name>
+<name>🥾 = OSM Thunderforest Outdoor</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - Google Пробки</name>
+<name>🚗 = Google Пробки</name>
 <layers>
 
 <layer>

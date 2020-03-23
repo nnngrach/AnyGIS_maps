@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи%20-%20Евразия.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Слои%20-%20Подписи.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Слои - Подписи - Евразия.png]]>
+<![CDATA[/mapsOnline/custom/Слои - Подписи.png]]>
 </dest>
 </download>
 

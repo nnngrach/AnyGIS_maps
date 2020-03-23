@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - FINN Kart Norge</name>
+<name>🥾 = 🇳🇴 - FINN Kart Norge</name>
 <layers>
 
 <layer>

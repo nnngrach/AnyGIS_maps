@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM Thunderforest Outdoor
+Туристические - OSM Thunderforest Outdoor
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Outdoors/{x}/{y}/{z}

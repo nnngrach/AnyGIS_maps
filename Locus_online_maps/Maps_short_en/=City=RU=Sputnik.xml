@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1021002" type="0" visible="true" background="-1">
-<name>City - Eurasia</name>
-<mode>OSM Sputnik.ru</mode>
-<countries>Russia</countries>
+<name>City</name>
+<mode>🏠 = 🌍 - OSM Sputnik.ru</mode>
+<countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://tiles.maps.sputnik.ru/tiles/kmt2/{z}/{x}/{y}.png]]></url>

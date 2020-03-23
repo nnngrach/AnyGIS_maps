@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1022003" type="1" visible="true" background="-1">
-<name>City - Europe - Eastern</name>
-<mode>Ukraine - Visicom</mode>
-<countries>Ukraine</countries>
+<name>City</name>
+<mode>🏠 = 🇺🇦 - Ukraine - Visicom</mode>
+<countries>Ukraine, Russia, Belarus, Estonia, Georgia, Armenia, Azerbaijan, Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://tms{s}.visicom.ua/2.0.0/planet3/base/{z}/{x}/{y}.png]]></url>

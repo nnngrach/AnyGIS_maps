@@ -1,5 +1,5 @@
 [Name]
-Вело - OSM Thunderforest Cycle
+Велосипедные - OSM Thunderforest Cycle
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Cycle_Map/{x}/{y}/{z}

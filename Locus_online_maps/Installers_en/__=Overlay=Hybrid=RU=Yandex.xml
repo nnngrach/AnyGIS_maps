@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Labels%20-%20Eurasia.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Labels.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Overlay - Labels - Eurasia.png]]>
+<![CDATA[/mapsOnline/custom/Overlay - Labels.png]]>
 </dest>
 </download>
 

@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1050020" type="0" visible="true" background="-1">
-<name>Туризм</name>
-<mode>Nakarte.me - Перевалы Вестра</mode>
+<provider id="1051020" type="0" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = Перевалы Вестра (nakarte)</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

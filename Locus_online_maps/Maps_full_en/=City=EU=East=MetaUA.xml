@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1022001" type="0" visible="true" background="-1">
-<name>City - Europe - Eastern</name>
-<mode>Ukraine - Meta.ua</mode>
+<name>City</name>
+<mode>🏠 = 🇺🇦 - Meta.ua</mode>
 <countries>Ukraine</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

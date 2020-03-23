@@ -3,11 +3,11 @@
 
 
 
-<name>Satellites - Europe - Eastern</name>
+<name>Satellites</name>
 <description></description>
 
     <source id="1012102">
-        <name>Ukraine - Cadaster Orthophoto</name>
+        <name>🛰 = 🇺🇦- Gov.ua - Orthophoto</name>
         <copyright>Gov.ua</copyright>
         <data-source></data-source>
         <region>OTHE</region>

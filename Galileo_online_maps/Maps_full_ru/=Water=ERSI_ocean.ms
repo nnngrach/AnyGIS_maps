@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - ESRI Ocean</name>
+<name>⚓️ = ESRI Ocean</name>
 <layers>
 
 <layer>

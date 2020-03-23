@@ -41,4 +41,13 @@
 </dest>
 </download>
 
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=EU=North=Skoterleder.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Winter=EU=North=Skoterleder.xml]]>
+</dest>
+</download>
+
 </locusActions>

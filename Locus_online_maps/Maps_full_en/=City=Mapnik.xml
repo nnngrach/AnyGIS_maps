@@ -8,7 +8,7 @@
 
 <provider id="1020011" type="0" visible="true" background="-1">
 <name>City</name>
-<mode>OSM Mapnik (OpenStreetMap.org)</mode>
+<mode>🏠 = 🌍 - OSM Mapnik (OpenStreetMap.org)</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

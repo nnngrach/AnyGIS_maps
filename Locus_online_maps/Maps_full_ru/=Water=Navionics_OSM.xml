@@ -8,7 +8,7 @@
 
 <provider id="39999016" type="0" visible="false" background="-1">
 <name>Водные</name>
-<mode>Navionics + OSM</mode>
+<mode>  Mapnik Proxy</mode>
 <countries>World</countries>
 <usage>city,hiking</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -26,7 +26,7 @@
 
 <provider id="1070003" type="0" visible="true" background="39999016">
 <name>Водные</name>
-<mode>Navionics + OSM</mode>
+<mode>⚓️ = Navionics + OSM</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

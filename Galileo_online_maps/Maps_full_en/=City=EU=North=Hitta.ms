@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Europe - Northern - Hitta</name>
+<name>🏠 = 🇸🇪 - Hitta</name>
 <layers>
 
 <layer>

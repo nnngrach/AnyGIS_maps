@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Asia - Central - Kyrgyz Ala-Too Range</name>
+<name>🥾 = 🇰🇬 - Kyrgyz Ala-Too Range</name>
 <layers>
 
 <layer>

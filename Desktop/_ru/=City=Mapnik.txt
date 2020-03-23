@@ -1,5 +1,5 @@
 [Name]
-Городские - OSM Mapnik (OpenStreetMap.org)
+Городские - OSM Mapnik (OpenStreetMap)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Mapnik/{x}/{y}/{z}

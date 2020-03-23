@@ -1,5 +1,5 @@
 [Name]
-Water - Eurasia - Chusovaya river
+Water - Chusovaya river
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_River_Chusovaya/{x}/{y}/{z}

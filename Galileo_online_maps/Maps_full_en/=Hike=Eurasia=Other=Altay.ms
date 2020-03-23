@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Other - Altai Katun Ridge</name>
+<name>🥾 = 🇷🇺Altay - Altai Katun Ridge</name>
 <layers>
 
 <layer>

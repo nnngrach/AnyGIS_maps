@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM Geofabrik
+Туристические - OSM Geofabrik
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Geofabrik/{x}/{y}/{z}

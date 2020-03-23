@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM Mapbox Terrain
+Туристические - OSM Mapbox Terrain
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Mapbox_Terrain/{x}/{y}/{z}

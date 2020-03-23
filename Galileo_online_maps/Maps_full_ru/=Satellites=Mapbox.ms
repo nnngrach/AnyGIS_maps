@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Mapbox</name>
+<name>🛰 = Mapbox</name>
 <layers>
 
 <layer>

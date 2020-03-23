@@ -1,0 +1,14 @@
+[Name]
+Геологические - Vsegei.ru
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{x}/{y}/{z}
+
+[Min Zoom level]
+1
+
+[Max Zoom level]
+10
+
+[HTTP Referer]
+http://wms.vsegei.ru/

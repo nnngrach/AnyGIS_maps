@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM 4U maps
+Туристические - OSM 4U maps
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_4umaps/{x}/{y}/{z}

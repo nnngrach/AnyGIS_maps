@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Moscow Region - Slazav MMB</name>
+<name>🥾 = 🇷🇺Moscow - Slazav MMB</name>
 <layers>
 
 <layer>

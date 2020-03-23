@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Southern - RKKA 1940 1km
+Hystoric - RKKA 1940 1km
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_RKKA_1km/{x}/{y}/{z}

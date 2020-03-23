@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Navizor - Оценка качества дорог
+Слои - Автомобильные - Navizor - Оценка качества дорог
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Navizor/{x}/{y}/{z}

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Разное - Хребтовки Завьялова</name>
+<name>🥾 = Завьялов (Хребтовки) </name>
 <layers>
 
 <layer>

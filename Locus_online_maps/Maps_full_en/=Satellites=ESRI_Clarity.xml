@@ -8,7 +8,7 @@
 
 <provider id="1010014" type="0" visible="true" background="-1">
 <name>Satellites</name>
-<mode>ESRI Clarity</mode>
+<mode>🛰 = 🌍 - ESRI Clarity</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

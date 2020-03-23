@@ -3,11 +3,11 @@
 
 
 
-<name>Hike - Europe - Northern</name>
+<name>Hike</name>
 <description></description>
 
-    <source id="1054202">
-        <name>Finland Topo Retkikartta.fi</name>
+    <source id="1054302">
+        <name>🥾 = 🇫🇮 - Retkikartta.fi Topo </name>
         <copyright>Retkikartta.fi</copyright>
         <data-source></data-source>
         <region>OTHE</region>

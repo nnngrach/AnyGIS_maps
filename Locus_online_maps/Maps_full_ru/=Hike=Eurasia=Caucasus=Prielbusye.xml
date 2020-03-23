@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053211" type="0" visible="true" background="-1">
-<name>Туризм - Евразия - Кавказ</name>
-<mode>Хребтовка Приэльбрусья (Ляпин В.Г.)</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺Кавказ - Приэльбрусье (Ляпин)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

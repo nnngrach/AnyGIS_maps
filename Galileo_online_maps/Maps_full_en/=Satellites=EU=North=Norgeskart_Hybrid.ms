@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Europe - Northern - Topografisk Norgeskart Hybrid</name>
+<name>🛰 = 🇳🇴 - Topografisk Norgeskart Hybrid</name>
 <layers>
 
 <layer>

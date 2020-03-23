@@ -1,5 +1,5 @@
 [Name]
-Слои - Справочные - Wigle.net - Точки Wi-fi (proxy)
+Слои - Справочные - Wigle.net - Wi-fi (proxy)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Info_Wiggle_wifi_proxy/{x}/{y}/{z}

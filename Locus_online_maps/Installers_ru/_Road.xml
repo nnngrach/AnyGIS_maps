@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Авто.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Автомобильные.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Авто.png]]>
+<![CDATA[/mapsOnline/custom/Автомобильные.png]]>
 </dest>
 </download>
 

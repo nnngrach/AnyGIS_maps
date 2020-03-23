@@ -3,11 +3,11 @@
 
 
 
-<name>Спутниковые - Европа - Северная</name>
+<name>Спутниковые</name>
 <description></description>
 
     <source id="1012204">
-        <name>Topografisk Norgeskart - Гибрид</name>
+        <name>🛰 = 🇳🇴 - Topografisk Norgeskart - Гибрид</name>
         <copyright>Norgeskart</copyright>
         <data-source></data-source>
         <region>OTHE</region>

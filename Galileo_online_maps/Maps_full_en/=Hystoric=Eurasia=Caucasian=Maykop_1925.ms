@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - North Caucasian - Maykop 1925</name>
+<name>🏛 = 🇷🇺 Caucasian - Maykop 1925</name>
 <layers>
 
 <layer>

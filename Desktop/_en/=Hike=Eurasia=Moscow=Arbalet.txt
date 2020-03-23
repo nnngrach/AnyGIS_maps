@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Moscow Region - Arbalet
+Hike - Arbalet
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_ArbaletMO/{x}/{y}/{z}

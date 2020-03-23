@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Europe - Eastern - Ukraine - Cadaster Orthophoto</name>
+<name>🛰 = 🇺🇦- Gov.ua - Orthophoto</name>
 <layers>
 
 <layer>

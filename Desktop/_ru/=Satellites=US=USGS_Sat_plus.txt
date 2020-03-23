@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Америка - USGS National Map - Satellite Plus
+Спутниковые - USGS National Map - Plus
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_US_USGS_Sat_plus/{x}/{y}/{z}

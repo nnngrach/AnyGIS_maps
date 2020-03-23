@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Info - Wikimapia.org</name>
+<name>📖 = 🌍 - Wikimapia.org</name>
 <layers>
 
 <layer>

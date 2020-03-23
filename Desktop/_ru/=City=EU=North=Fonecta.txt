@@ -1,5 +1,5 @@
 [Name]
-Городские - Европа - Северная - Fonecta.fi
+Городские - Fonecta.fi
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{x}/{y}/{z}

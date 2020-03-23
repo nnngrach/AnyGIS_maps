@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Кавказ - Кавказ 1877 5-верстовая
+Исторические - Кавказ 1877 5-верстовая
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kavkaz_1877/{x}/{y}/{z}

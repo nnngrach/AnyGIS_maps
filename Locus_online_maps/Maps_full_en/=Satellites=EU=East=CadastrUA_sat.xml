@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1012102" type="1" visible="true" background="-1">
-<name>Satellites - Europe - Eastern</name>
-<mode>Ukraine - Cadaster Orthophoto</mode>
+<name>Satellites</name>
+<mode>🛰 = 🇺🇦- Gov.ua - Orthophoto</mode>
 <countries>Ukraine</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>

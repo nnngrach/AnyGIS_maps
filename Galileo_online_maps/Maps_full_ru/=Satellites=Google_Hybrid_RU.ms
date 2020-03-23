@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Google - Гибрид</name>
+<name>🛰 = Google - Гибрид</name>
 <layers>
 
 <layer>

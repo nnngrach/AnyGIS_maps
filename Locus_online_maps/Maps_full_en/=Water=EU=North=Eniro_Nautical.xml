@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="1072201" type="1" visible="true" background="-1">
-<name>Water - Europe - Northern</name>
-<mode>Eniro Sjökort Nautical</mode>
-<countries>Norway, Sweden, Denmark</countries>
+<name>Water</name>
+<mode>⚓️ = 🇸🇪 - Eniro Sjökort Nautical</mode>
+<countries>Norway, Sweden, Finland, Denmark</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[http://map0{s}.eniro.no/geowebcache/service/tms1.0.0/nautical/{z}/{x}/{y}.png]]></url>

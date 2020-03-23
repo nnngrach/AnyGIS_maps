@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - Navionics Sonar Charts</name>
+<name>⚓️ = Navionics Sonar Charts</name>
 <layers>
 
 <layer>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+<!--
+Дорогой друг, читающий исходники!
+
+		Если ты собираешься использовать эти карты сотового покрытия в какой-либо
+		ещё программе, проекте, или каким-либо другим образом планируешь их выкачивать
+		в больших объёмах - очень тебя прошу, свяжись, пожалуйста, сначала со мной:
+
+			https://melda.ru/contacts/
+
+		Массовая генерация этих карт создаёт ощутимую нагрузку на мой сервер. И если эта
+		нагрузка будет создавать мне сложности - я очень расстроюсь. Но если сперва всё
+		обсудить - мы обязательно найдём устраивающее всех решение.
+
+		Заранее спасибо за понимание и этичность в использовании чужих ресурсов.
+-->
+
+
+<providers>
+
+<provider id="2085506" type="2" visible="true" background="-1">
+<name>Слои - Покрытие связи</name>
+<mode>⏹️ 📞 = 🇷🇺 - Tele2 - Все слои</mode>
+<countries>Russia</countries>
+<usage>overlay</usage>
+<cacheTimeout>8760</cacheTimeout>
+<url><![CDATA[https://maps.melda.ru/mobile/tele2/{z}/{x}/{y}.png]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>20</zoomMax>   <!-- 12 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[  <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Авто - OSM Michelin Transport</name>
+<name>🚗 = OSM Michelin</name>
 <layers>
 
 <layer>

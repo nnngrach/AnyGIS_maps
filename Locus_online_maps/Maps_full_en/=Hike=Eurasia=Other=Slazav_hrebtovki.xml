@@ -6,10 +6,10 @@
 
 <providers>
 
-<provider id="1053505" type="1" visible="true" background="-1">
-<name>Hike - Eurasia - Other</name>
-<mode>Slazav Mountains</mode>
-<countries>Russia</countries>
+<provider id="1051021" type="1" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🌍 - Slazav Mountains</mode>
+<countries>Russia, Georgia, Tajikistan, Kyrgyzstan, India, Mongolia, Chilie</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>
 <url><![CDATA[https://tiles.nakarte.me/map_hr/{z}/{x}/{y}]]></url>

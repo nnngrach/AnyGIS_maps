@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Caucasus 1000m</name>
+<name>🥾 = 🇷🇺Caucasus - Caucasus 1000m</name>
 <layers>
 
 <layer>

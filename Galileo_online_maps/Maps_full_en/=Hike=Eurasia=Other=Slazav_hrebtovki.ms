@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Other - Slazav Mountains</name>
+<name>🥾 = 🌍 - Slazav Mountains</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Europe - Central - SwissTopo</name>
+<name>🛰 =🇨🇭 - SwissTopo</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Европа - Восточная - Украина - Visicom</name>
+<name>🏠 = 🇺🇦 - Visicom</name>
 <layers>
 
 <layer>

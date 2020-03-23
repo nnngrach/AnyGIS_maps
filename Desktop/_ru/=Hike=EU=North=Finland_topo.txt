@@ -1,5 +1,5 @@
 [Name]
-Туризм - Европа - Северная - Finland Topo Retkikartta.fi
+Туристические - Retkikartta.fi Topo 
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_FinnTopo/{x}/{y}/{z}

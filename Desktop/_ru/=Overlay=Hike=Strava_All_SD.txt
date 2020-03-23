@@ -1,5 +1,5 @@
 [Name]
-Слои - Туризм - Strava Heatmap - Все слои
+Слои - Туристические - Strava - Все слои
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_All/{x}/{y}/{z}

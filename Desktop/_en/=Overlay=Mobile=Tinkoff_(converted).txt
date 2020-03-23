@@ -1,0 +1,11 @@
+[Name]
+Overlay - Mobile coverage - Tinkoff (with convertation)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Tinkoff/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+12

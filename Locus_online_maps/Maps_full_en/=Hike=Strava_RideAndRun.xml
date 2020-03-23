@@ -8,7 +8,7 @@
 
 <provider id="179999045" type="0" visible="false" background="-1">
 <name>Hike</name>
-<mode>Strava Heatmap - Ride + Run (beta)</mode>
+<mode>  Mapquest Dark</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -25,7 +25,7 @@
 
 <provider id="1050017" type="0" visible="true" background="179999045">
 <name>Hike</name>
-<mode>Strava Heatmap - Ride + Run (beta)</mode>
+<mode>🥾 = 🌍 - Strava Heatmap - Ride + Run (beta)</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

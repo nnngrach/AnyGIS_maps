@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Strava Heatmap - Все слои</name>
+<name>🥾 = Strava - Все слои</name>
 <layers>
 
 <layer>

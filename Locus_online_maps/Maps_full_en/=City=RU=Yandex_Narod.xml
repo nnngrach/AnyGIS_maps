@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1021006" type="2" visible="true" background="-1">
-<name>City - Eurasia</name>
-<mode>Yandex MapEditor</mode>
+<name>City</name>
+<mode>🏠 = 🇷🇺 - Yandex MapEditor</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

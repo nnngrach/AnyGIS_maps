@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Eurasia - Chusovaya river</name>
+<name>⚓️ = 🇷🇺 - Chusovaya river</name>
 <layers>
 
 <layer>

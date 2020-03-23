@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Кавказ - Сводная ФГУ СК АГП</name>
+<name>🥾 = 🇷🇺Кавказ - Сводная ФГУ СК АГП</name>
 <layers>
 
 <layer>

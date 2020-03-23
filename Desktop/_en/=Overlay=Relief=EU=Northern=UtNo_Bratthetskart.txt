@@ -1,0 +1,11 @@
+[Name]
+Overlay - Relief - UT.no - Bratthetskart
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Eu_Norway_UT_Bratthetskart/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

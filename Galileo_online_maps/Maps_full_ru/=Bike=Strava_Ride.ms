@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Вело - Strava Heatmap Вело</name>
+<name>🚲 = Strava - Вело</name>
 <layers>
 
 <layer>

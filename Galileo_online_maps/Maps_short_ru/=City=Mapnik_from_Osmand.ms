@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - OSM Mapnik HD (from OsmAnd)</name>
+<name>🏠 = OSM Mapnik HD (OsmAnd)</name>
 <layers>
 
 <layer>

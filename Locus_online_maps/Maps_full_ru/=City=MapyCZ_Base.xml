@@ -8,8 +8,8 @@
 
 <provider id="1020009" type="0" visible="true" background="-1">
 <name>Городские</name>
-<mode>Mapy.cz - Base</mode>
-<countries>Czech</countries>
+<mode>🏠 = OSM Mapy.cz - Base</mode>
+<countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://m{s}.mapserver.mapy.cz/base-m/{z}-{x}-{y}]]></url>

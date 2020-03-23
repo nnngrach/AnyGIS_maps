@@ -3,11 +3,11 @@
 
 
 
-<name>Туризм - Европа - Западная</name>
+<name>Туристические</name>
 <description></description>
 
-    <source id="1054402">
-        <name>Great Britain Topo</name>
+    <source id="1054502">
+        <name>🥾 = 🇬🇧 - GB Topo</name>
         
         <data-source></data-source>
         <region>OTHE</region>

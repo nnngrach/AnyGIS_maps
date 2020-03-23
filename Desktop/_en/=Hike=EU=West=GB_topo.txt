@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Western - Great Britain Topo
+Hike - GB Topo
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_GB_Topo_locus/{x}/{y}/{z}

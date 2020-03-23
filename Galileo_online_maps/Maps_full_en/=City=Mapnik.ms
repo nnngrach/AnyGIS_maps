@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - OSM Mapnik (OpenStreetMap.org)</name>
+<name>🏠 = 🌍 - OSM Mapnik (OpenStreetMap.org)</name>
 <layers>
 
 <layer>

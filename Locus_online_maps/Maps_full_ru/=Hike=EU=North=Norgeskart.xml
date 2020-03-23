@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054214" type="0" visible="true" background="-1">
-<name>Туризм - Европа - Северная</name>
-<mode>Topografisk Norgeskart</mode>
+<provider id="1054314" type="0" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = 🇳🇴 - Topografisk Norgeskart</mode>
 <countries>Norway</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

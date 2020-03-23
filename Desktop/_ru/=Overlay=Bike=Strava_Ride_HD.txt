@@ -1,5 +1,5 @@
 [Name]
-Слои - Вело - Strava Heatmap - Вело HD
+Слои - Велосипедные - Strava - Вело HD
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Ride_HD/{x}/{y}/{z}

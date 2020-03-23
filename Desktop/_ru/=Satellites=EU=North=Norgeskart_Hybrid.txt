@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Европа - Северная - Topografisk Norgeskart - Гибрид
+Спутниковые - Topografisk Norgeskart - Гибрид
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norge_Hybrid/{x}/{y}/{z}

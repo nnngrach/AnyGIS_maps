@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Water - Eurasia - Kuban river</name>
+<name>⚓️ = 🇷🇺 - Kuban river</name>
 <layers>
 
 <layer>

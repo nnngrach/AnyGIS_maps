@@ -1,5 +1,5 @@
 [Name]
-Туризм - OSM Refuges.info Горные приюты
+Туристические - OSM Горные приюты Refuges
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Refuges/{x}/{y}/{z}

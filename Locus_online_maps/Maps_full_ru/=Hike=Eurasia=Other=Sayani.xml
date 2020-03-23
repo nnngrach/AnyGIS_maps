@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053503" type="0" visible="true" background="-1">
-<name>Туризм - Евразия - Разное</name>
-<mode>Саяны. Ергаки - Арадан</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇷🇺Сибирь - Саяны Ергаки-Арадан</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

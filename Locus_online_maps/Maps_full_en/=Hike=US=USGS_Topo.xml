@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1058001" type="0" visible="true" background="-1">
-<name>Hike - America</name>
-<mode>USGS National Map - Topo</mode>
+<provider id="1057001" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇺🇸 - USGS National Map - Topo</mode>
 <countries>USA</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

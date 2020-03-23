@@ -8,7 +8,7 @@
 
 <provider id="2060006" type="0" visible="true" background="-1">
 <name>Слои - Зимние</name>
-<mode>OSM OpenSnowMap - Лыжные трассы</mode>
+<mode>⏹️ ❄️ = OSM OpenSnowMap - Лыжные трассы</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Стрельбицкого 1919 10 верст
+Исторические - Стрельбицкого 1919 10 верст
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Strelbitsky_1919/{x}/{y}/{z}

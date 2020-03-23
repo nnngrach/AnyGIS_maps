@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111404" type="0" visible="true" background="-1">
-<name>Исторические - Евразия - Кавказ</name>
-<mode>Майкопский округ 1925</mode>
+<name>Исторические</name>
+<mode>🏛 = 🇷🇺 Кавказ - Майкопский округ 1925</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM 4U maps</name>
+<name>🥾 = OSM 4U maps</name>
 <layers>
 
 <layer>

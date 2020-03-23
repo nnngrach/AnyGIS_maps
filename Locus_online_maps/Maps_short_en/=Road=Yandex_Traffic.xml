@@ -8,7 +8,7 @@
 
 <provider id="109999021" type="2" visible="false" background="-1">
 <name>Road</name>
-<mode>Yandex Traffic</mode>
+<mode>  Yandex Map</mode>
 <countries>World</countries>
 <usage>city, road</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -29,7 +29,7 @@
 
 <provider id="1030010" type="2" visible="true" background="109999021">
 <name>Road</name>
-<mode>Yandex Traffic</mode>
+<mode>🚗 = 🌍 - Yandex Traffic</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

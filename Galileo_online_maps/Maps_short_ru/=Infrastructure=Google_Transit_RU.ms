@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Инфраструктура - Google Транзит</name>
+<name>🚥 = Google Транзит</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Infrastructure - Google Transit EN</name>
+<name>🚥 = Google Transit EN</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Southern - Kuban 1902</name>
+<name>🏛 = 🇷🇺 Kuban - Kuban 1902</name>
 <layers>
 
 <layer>

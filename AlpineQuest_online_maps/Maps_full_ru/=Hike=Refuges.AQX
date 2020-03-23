@@ -3,11 +3,11 @@
 
 
 
-<name>Туризм</name>
+<name>Туристические</name>
 <description></description>
 
     <source id="1050013">
-        <name>OSM Refuges.info Горные приюты</name>
+        <name>🥾 = OSM Горные приюты Refuges</name>
         <copyright>OpenStreetMap, Refuges.info </copyright>
         <data-source></data-source>
         <region>WRLD</region>

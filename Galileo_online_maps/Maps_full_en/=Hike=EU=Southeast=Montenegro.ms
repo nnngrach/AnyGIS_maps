@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Southeast - Montenecro 250m</name>
+<name>🥾 = 🇲🇪 - Montenecro 250m</name>
 <layers>
 
 <layer>

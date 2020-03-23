@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Европа - Северная - Topografisk Norgeskart - Гибрид</name>
+<name>🛰 = 🇳🇴 - Topografisk Norgeskart - Гибрид</name>
 <layers>
 
 <layer>

@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054209" type="0" visible="true" background="-1">
-<name>Туризм - Европа - Северная</name>
-<mode>Norway UT.no - Papirkart</mode>
+<provider id="1054309" type="0" visible="true" background="-1">
+<name>Туристические</name>
+<mode>🥾 = 🇳🇴 - UT.no - Papirkart</mode>
 <countries>Norway</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

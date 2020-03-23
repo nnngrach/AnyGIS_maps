@@ -1,5 +1,5 @@
 [Name]
-Слои - Зимние - Strava Heatmap - Зимние
+Слои - Зимние - Strava - Зимние
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Winter/{x}/{y}/{z}

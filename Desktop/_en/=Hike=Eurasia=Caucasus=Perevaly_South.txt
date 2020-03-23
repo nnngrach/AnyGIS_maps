@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Caucasus - Caucasus Southern 2014
+Hike - Caucasus Southern 2014
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_02/{x}/{y}/{z}

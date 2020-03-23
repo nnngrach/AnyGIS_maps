@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Яндекс - Пробки (с конвертацией)
+Слои - Автомобильные - Яндекс - Пробки (converted)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_traffic_layer/{x}/{y}/{z}

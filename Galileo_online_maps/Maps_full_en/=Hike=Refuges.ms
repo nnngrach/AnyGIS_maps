@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - OSM Refuges - Mountain Shelters</name>
+<name>🥾 = 🌍 - OSM Refuges - Mountain Shelters</name>
 <layers>
 
 <layer>

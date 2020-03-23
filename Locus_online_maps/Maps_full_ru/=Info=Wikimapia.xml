@@ -8,7 +8,7 @@
 
 <provider id="1090002" type="0" visible="true" background="-1">
 <name>Справочные</name>
-<mode>Wikimapia.org</mode>
+<mode>📖 = Wikimapia.org</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

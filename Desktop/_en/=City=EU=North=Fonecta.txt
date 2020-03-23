@@ -1,5 +1,5 @@
 [Name]
-City - Europe - Northern - Fonecta.fi
+City - Fonecta.fi
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{x}/{y}/{z}

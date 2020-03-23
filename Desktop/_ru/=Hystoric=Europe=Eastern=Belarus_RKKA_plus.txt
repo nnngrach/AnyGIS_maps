@@ -1,5 +1,5 @@
 [Name]
-Исторические - Европа - Восточная - Беларусь РККА 500м
+Исторические - Беларусь РККА 500м
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Belarus_RKKA_plus/{x}/{y}/{z}

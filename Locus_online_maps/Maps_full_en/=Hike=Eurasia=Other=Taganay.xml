@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053502" type="0" visible="true" background="-1">
-<name>Hike - Eurasia - Other</name>
-<mode>Taganay Park</mode>
+<name>Hike</name>
+<mode>🥾 = 🇷🇺Ural - Taganay Park</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

@@ -8,7 +8,7 @@
 
 <provider id="39999012" type="0" visible="false" background="-1">
 <name>Справочные</name>
-<mode>Wikimapia.org + Спутник</mode>
+<mode>  Google Satellite</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -26,7 +26,7 @@
 
 <provider id="1090003" type="0" visible="true" background="39999012">
 <name>Справочные</name>
-<mode>Wikimapia.org + Спутник</mode>
+<mode>📖 = Wikimapia.org + Спутник</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

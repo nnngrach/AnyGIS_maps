@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские%20-%20Европа%20-%20Восточная.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Городские.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Городские - Европа - Восточная.png]]>
+<![CDATA[/mapsOnline/custom/Городские.png]]>
 </dest>
 </download>
 

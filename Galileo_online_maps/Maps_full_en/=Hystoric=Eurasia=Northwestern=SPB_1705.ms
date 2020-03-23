@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - Northwestern - Saint Petersburg 1705</name>
+<name>🏛 = 🇷🇺 Northwestern - Saint Petersburg 1705</name>
 <layers>
 
 <layer>

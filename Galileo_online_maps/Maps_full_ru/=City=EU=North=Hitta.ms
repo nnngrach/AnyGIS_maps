@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Европа - Северная - Hitta</name>
+<name>🏠 = 🇸🇪 - Hitta</name>
 <layers>
 
 <layer>

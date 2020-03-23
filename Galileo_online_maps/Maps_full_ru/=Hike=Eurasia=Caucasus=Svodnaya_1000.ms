@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Евразия - Кавказ - Сводная карта Кавказа 1000м</name>
+<name>🥾 = 🇷🇺Кавказ - Сводная 1000м</name>
 <layers>
 
 <layer>

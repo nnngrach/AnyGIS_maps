@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - OSM Mapnik (OpenStreetMap.org)</name>
+<name>🏠 = OSM Mapnik (OpenStreetMap)</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [Name]
-Исторические - Европа - Восточная - Беларусь WIG 1km
+Исторические - Беларусь WIG 1km
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Belarus_WIG_plus/{x}/{y}/{z}

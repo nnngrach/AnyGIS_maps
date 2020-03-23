@@ -1,5 +1,5 @@
 [Name]
-City - Eurasia - 2Gis
+City - 2Gis
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ru_2gis/{x}/{y}/{z}

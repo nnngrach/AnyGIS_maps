@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Nakarte.me - Перевалы Вестра</name>
+<name>🥾 = Перевалы Вестра (nakarte)</name>
 <layers>
 
 <layer>

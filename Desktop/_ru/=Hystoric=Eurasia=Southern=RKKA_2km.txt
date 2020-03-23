@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Кубань - РККА 1932-1942 2км
+Исторические - РККА 1932-1942 2км
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}

@@ -1,5 +1,5 @@
 [Name]
-Слои - Авто - Яндекс - Интенсивность
+Слои - Автомобильные - Яндекс - Интенсивность
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_intensity_WGS84/{x}/{y}/{z}

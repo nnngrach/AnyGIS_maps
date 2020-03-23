@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1054102" type="0" visible="true" background="-1">
-<name>Туризм - Европа - Восточная</name>
-<mode>Беларусь - LatLon.org</mode>
+<name>Туристические</name>
+<mode>🥾 = 🇧🇾 - LatLon.org</mode>
 <countries>Belarus</countries>
 <usage>hiking</usage>
 <cacheTimeout>2160</cacheTimeout>

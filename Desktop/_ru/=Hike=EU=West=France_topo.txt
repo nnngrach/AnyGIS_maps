@@ -1,5 +1,5 @@
 [Name]
-Туризм - Европа - Западная - France Topo IGN.fr
+Туристические - IGN.fr Topo
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_FranceTopo/{x}/{y}/{z}

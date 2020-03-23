@@ -1,5 +1,5 @@
 [Name]
-Слои - Зимние - Европа - Центральная - Швейцария - Лыжные трассы
+Слои - Зимние - Лыжные трассы
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Swiss_SwissSkiRoutes/{x}/{y}/{z}

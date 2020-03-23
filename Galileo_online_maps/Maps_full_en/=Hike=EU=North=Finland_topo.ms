@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - Finland Topo Retkikartta.fi</name>
+<name>🥾 = 🇫🇮 - Retkikartta.fi Topo </name>
 <layers>
 
 <layer>

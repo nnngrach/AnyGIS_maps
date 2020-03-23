@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Europe - Northern - Norway UT.no - Topolart</name>
+<name>🥾 = 🇳🇴 - UT.no - Papirkart</name>
 <layers>
 
 <layer>

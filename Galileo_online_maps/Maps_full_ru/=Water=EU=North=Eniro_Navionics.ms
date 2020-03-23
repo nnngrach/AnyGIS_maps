@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - Европа - Северная - Eniro + Navionics</name>
+<name>⚓️ = 🇸🇪 - Eniro + Navionics</name>
 <layers>
 
 <layer>

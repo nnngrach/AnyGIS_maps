@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1030004" type="0" visible="true" background="-1">
-<name>Авто</name>
-<mode>OSM Michelin Transport</mode>
+<name>Автомобильные</name>
+<mode>🚗 = OSM Michelin</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

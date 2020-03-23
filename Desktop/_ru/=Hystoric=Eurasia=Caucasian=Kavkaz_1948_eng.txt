@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Кавказ - Кавказ 1941-48 5-верстовая (ENG)
+Исторические - Кавказ 1941-48 5-верстовая (ENG)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kavkaz_1948_eng/{x}/{y}/{z}

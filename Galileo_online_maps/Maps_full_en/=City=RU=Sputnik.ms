@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Eurasia - OSM Sputnik.ru</name>
+<name>🏠 = 🌍 - OSM Sputnik.ru</name>
 <layers>
 
 <layer>

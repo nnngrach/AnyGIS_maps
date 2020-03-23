@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Satellites - Maxar Premium</name>
+<name>🛰 = 🌍 - Maxar Premium</name>
 <layers>
 
 <layer>

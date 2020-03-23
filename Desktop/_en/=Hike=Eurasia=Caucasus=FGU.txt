@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Caucasus - Caucasus FGU SK AGP
+Hike - Caucasus FGU SK AGP
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_01/{x}/{y}/{z}

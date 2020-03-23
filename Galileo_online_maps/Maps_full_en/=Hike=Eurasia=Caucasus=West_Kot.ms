@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Eurasia - Caucasus - Caucasus West</name>
+<name>🥾 = 🇷🇺Caucasus - Caucasus West</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [Name]
-Водные - Евразия - Речная лоция Волги и Камы 1996 (gmap.camapka.ru)
+Водные - Волга и Кама 1996
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_River_Volga/{x}/{y}/{z}

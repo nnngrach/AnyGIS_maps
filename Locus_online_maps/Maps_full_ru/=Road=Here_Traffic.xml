@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="39999020" type="0" visible="false" background="-1">
-<name>Авто</name>
-<mode>Here Пробки</mode>
+<name>Автомобильные</name>
+<mode>  Here Map</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
@@ -28,8 +28,8 @@
 </provider>
 
 <provider id="1030003" type="0" visible="true" background="39999020">
-<name>Авто</name>
-<mode>Here Пробки</mode>
+<name>Автомобильные</name>
+<mode>🚗 = Here Пробки</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

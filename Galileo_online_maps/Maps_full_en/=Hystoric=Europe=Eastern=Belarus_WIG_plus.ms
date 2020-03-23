@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Europe - Eastern - Belarus WIG 1km</name>
+<name>🏛 = 🇧🇾 - Belarus WIG 1km</name>
 <layers>
 
 <layer>

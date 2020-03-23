@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Asia - Western - Aladaglar</name>
+<name>🥾 = 🇹🇷 - Aladaglar</name>
 <layers>
 
 <layer>

@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Хибины - Горы Хибинской тундры
+Туристические - Горы Хибинской тундры
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Karelia3/{x}/{y}/{z}

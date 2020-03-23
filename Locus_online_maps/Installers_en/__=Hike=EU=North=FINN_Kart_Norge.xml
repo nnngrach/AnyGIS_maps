@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike%20-%20Europe%20-%20Northern.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Hike - Europe - Northern.png]]>
+<![CDATA[/mapsOnline/custom/Hike.png]]>
 </dest>
 </download>
 

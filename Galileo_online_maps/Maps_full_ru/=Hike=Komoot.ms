@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - OSM Komoot</name>
+<name>🥾 = OSM Komoot</name>
 <layers>
 
 <layer>

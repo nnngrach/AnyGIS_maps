@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hystoric - Eurasia - North Caucasian - Caucasus 1941</name>
+<name>🏛 = 🇷🇺 Caucasian - Caucasus 1941</name>
 <layers>
 
 <layer>

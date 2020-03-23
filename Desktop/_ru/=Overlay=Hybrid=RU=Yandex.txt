@@ -1,5 +1,5 @@
 [Name]
-Слои - Подписи - Евразия - Яндекс - Гибрид
+Слои - Подписи - Яндекс - Гибрид
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_sat_labels_WGS84/{x}/{y}/{z}

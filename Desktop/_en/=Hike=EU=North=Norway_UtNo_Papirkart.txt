@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Northern - Norway UT.no - Papirkart
+Hike - UT.no - Papirkart
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_Papirkart/{x}/{y}/{z}

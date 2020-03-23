@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Западная - Great Britain Topo</name>
+<name>🥾 = 🇬🇧 - GB Topo</name>
 <layers>
 
 <layer>

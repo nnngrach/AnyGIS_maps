@@ -1,5 +1,5 @@
 [Name]
-Слои - Туризм - OSM OpenStreetMap - GPS Треки
+Слои - Туристические - OSM OpenStreetMap - GPS Треки
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Gps_Tracks_layer/{x}/{y}/{z}

@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="2054301" type="0" visible="true" background="-1">
-<name>Слои - Туризм - Европа - Центральная</name>
-<mode>Швейцария - SwissTopo Тропы</mode>
-<countries>Swiss</countries>
+<name>Слои - Туристические</name>
+<mode>⏹️ 🥾 = 🇨🇭 - SwissTopo Тропы</mode>
+<countries>Switzerland</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{z}/{x}/{y}.png]]></url>

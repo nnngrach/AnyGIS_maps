@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Европа - Восточная - Украина - Кадастр ортофото
+Спутниковые - Gov.ua - ортофото
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{x}/{y}/{z}

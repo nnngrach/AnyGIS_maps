@@ -7,9 +7,9 @@
 <providers>
 
 <provider id="2062301" type="0" visible="true" background="-1">
-<name>Overlay - Winter - Europe - Central</name>
-<mode>Swiss Ski Routes</mode>
-<countries>Swiss</countries>
+<name>Overlay - Winter</name>
+<mode>⏹️ ❄️ = 🇨🇭 - Swiss Ski Routes</mode>
+<countries>Switzerland</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo-karto.skitouren/default/current/3857/{z}/{x}/{y}.png]]></url>

@@ -3,11 +3,11 @@
 
 
 
-<name>Overlay - Info - Europe - Eastern</name>
+<name>Overlay - Info</name>
 <description></description>
 
-    <source id="2082101" layer="true">
-        <name>Ukraine - Cadaster map borders</name>
+    <source id="2081401" layer="true">
+        <name>⏹️ 📖 = 🇺🇦 - Gov.ua - Cadaster map borders</name>
         <copyright>Gov.ua</copyright>
         <data-source></data-source>
         <region>OTHE</region>

@@ -1,5 +1,5 @@
 [Name]
-City - Eurasia - Yandex (converted)
+City - Yandex (converted)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_map/{x}/{y}/{z}

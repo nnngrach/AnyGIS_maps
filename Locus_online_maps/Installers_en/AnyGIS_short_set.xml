@@ -52,15 +52,6 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Eurasia.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Satellites - Eurasia.png]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eurasia=Yandex.xml]]>
 </source>
 <dest>
@@ -119,15 +110,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=City=Mapnik_from_Osmand.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/City%20-%20Eurasia.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/City - Eurasia.png]]>
 </dest>
 </download>
 
@@ -241,19 +223,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Bike%20-%20Europe.png]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=MTB_Map_CZ.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Bike - Europe.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Europe=MTB_Map_CZ.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Bike=Europe=MTB_Map_CZ.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=MTB_Map_CZ.xml]]>
 </dest>
 </download>
 
@@ -430,10 +403,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Relief=Mapsurfer.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Relief=Overpass=Mapsurfer.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Relief=Mapsurfer.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Overpass=Mapsurfer.xml]]>
 </dest>
 </download>
 

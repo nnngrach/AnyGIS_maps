@@ -1,5 +1,5 @@
 [Name]
-Hike - Asia - Central - Kyrgyz Ala-Too Range
+Hike - Kyrgyz Ala-Too Range
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kyrgiz1/{x}/{y}/{z}

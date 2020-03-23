@@ -1,5 +1,5 @@
 [Name]
-Водные - Евразия - Схема реки Чусовой (Пермь. Чусовой-Новоуткинск)
+Водные - Река Чусовая-Новоуткинск
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_River_Chusovaya/{x}/{y}/{z}

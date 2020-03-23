@@ -1,5 +1,5 @@
 [Name]
-Исторические - Евразия - Северо-Запад - Петроград 1917
+Исторические - Петроград 1917
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_SPB_1917/{x}/{y}/{z}

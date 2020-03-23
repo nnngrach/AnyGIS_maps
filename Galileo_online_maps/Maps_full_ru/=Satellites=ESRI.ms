@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - ESRI</name>
+<name>🛰 = ESRI</name>
 <layers>
 
 <layer>

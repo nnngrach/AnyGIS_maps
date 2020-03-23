@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Европа - Северная - Eniro - Гибрид</name>
+<name>🛰 = 🇸🇪 - Eniro - Гибрид</name>
 <layers>
 
 <layer>

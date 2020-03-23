@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Зимние - OSM OpenSnowMap</name>
+<name>❄️ = OSM OpenSnowMap</name>
 <layers>
 
 <layer>

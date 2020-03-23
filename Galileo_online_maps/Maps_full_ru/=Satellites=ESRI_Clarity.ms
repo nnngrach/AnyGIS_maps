@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - ESRI Clarity</name>
+<name>🛰 = ESRI Clarity</name>
 <layers>
 
 <layer>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+<providers>
+
+<provider id="2012301" type="0" visible="true" background="-1">
+<name>Overlay - Relief</name>
+<mode>⏹️ 🏔️ = 🇳🇴 - UT.no - Bratthetskart</mode>
+<countries>Norway</countries>
+<usage>overlay</usage>
+<cacheTimeout>720</cacheTimeout>
+<url><![CDATA[https://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{z}/{y}/{x}]]></url>
+<serverPart></serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>8</zoomMin>    <!-- 0 -->
+<zoomMax>27</zoomMax>   <!-- 19 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© UT.no <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

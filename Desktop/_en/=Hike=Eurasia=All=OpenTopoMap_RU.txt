@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - All - OSM OpenTopoMap.RU
+Hike - OSM OpenTopoMap.RU
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Topo_Map_RU/{x}/{y}/{z}

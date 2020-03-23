@@ -1,5 +1,5 @@
 [Name]
-Hike - America - USGS National Map - Topo
+Hike - USGS National Map - Topo
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_US_USGS_Topo/{x}/{y}/{z}

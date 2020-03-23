@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111304" type="0" visible="true" background="-1">
-<name>Hystoric - Eurasia - Southern</name>
-<mode>Kuban district geologic1908-16</mode>
+<name>Hystoric</name>
+<mode>🏛 = 🇷🇺 Kuban - Kuban district geologic1908-16</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

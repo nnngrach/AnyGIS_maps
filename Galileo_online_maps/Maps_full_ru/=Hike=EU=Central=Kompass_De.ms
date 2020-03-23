@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Центральная - Kompass.de</name>
+<name>🥾 = 🇪🇺 - Kompass.de</name>
 <layers>
 
 <layer>

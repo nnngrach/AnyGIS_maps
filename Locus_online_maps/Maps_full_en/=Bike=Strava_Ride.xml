@@ -8,7 +8,7 @@
 
 <provider id="49999045" type="0" visible="false" background="-1">
 <name>Bike</name>
-<mode>Strava Heatmap - Ride</mode>
+<mode>  Mapquest Dark</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>2160</cacheTimeout>
@@ -25,7 +25,7 @@
 
 <provider id="1040004" type="0" visible="true" background="49999045">
 <name>Bike</name>
-<mode>Strava Heatmap - Ride</mode>
+<mode>🚲 = 🌍 - Strava Heatmap - Ride</mode>
 <countries>World</countries>
 <usage>cycle</usage>
 <cacheTimeout>720</cacheTimeout>

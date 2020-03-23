@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Европа - Северная - Eniro</name>
+<name>🏠 = 🇸🇪 - Eniro</name>
 <layers>
 
 <layer>

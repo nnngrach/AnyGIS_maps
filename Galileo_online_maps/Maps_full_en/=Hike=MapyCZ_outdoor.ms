@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - OSM Mapy.cz Outdoor</name>
+<name>🥾 = 🌍 - OSM Mapy.cz Outdoor</name>
 <layers>
 
 <layer>

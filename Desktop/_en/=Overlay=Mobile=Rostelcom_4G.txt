@@ -1,0 +1,20 @@
+[Name]
+Overlay - Mobile coverage - Rostelcom 4G
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Mobile_Coverage_Rostelcom_4G_WGS84/{x}/{y}/{z}
+
+[URL direct]
+https://tele2.tilessputnik.ru/tiles4g/{z}/{x}/{y}.png
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+12
+
+[HTTP Referer]
+https://moscow.rt.ru/mobile/mobile_tariff
+
+[Proection description]
+Ellipsoid

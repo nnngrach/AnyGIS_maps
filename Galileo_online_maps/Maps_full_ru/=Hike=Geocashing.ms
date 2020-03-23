@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Nakarte.me - Геокэшинг</name>
+<name>🥾 = Геокэшинг (nakarte)</name>
 <layers>
 
 <layer>

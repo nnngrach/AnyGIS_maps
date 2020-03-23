@@ -1,5 +1,5 @@
 [Name]
-Hike - Eurasia - Khibiny - Khibiny's Mountains
+Hike - Khibiny Mountains
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Karelia3/{x}/{y}/{z}

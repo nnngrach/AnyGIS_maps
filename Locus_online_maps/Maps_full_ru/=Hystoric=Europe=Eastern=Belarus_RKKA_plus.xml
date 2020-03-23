@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1112203" type="0" visible="true" background="-1">
-<name>Исторические - Европа - Восточная</name>
-<mode>Беларусь РККА 500м</mode>
+<name>Исторические</name>
+<mode>🏛 = 🇧🇾 - Беларусь РККА 500м</mode>
 <countries>Belarus</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

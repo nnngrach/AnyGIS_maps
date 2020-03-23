@@ -1,5 +1,5 @@
 [Name]
-Hike - Europe - Southeast - Montenecro 250m
+Hike - Montenecro 250m
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Montenegro/{x}/{y}/{z}

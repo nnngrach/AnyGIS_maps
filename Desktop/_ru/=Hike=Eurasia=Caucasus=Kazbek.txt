@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Кавказ - Казбек (Geoland)
+Туристические - Казбек (Geoland)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Kavkaz_06/{x}/{y}/{z}

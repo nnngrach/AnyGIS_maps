@@ -3,11 +3,11 @@
 
 
 
-<name>Слои - Вело</name>
+<name>Слои - Велосипедные</name>
 <description></description>
 
     <source id="2040001">
-        <name>OSM Waymarkedtrails - MTB</name>
+        <name>⏹️ 🚲 = OSM Waymarkedtrails - MTB</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>

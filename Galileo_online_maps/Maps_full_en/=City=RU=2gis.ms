@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>City - Eurasia - 2Gis</name>
+<name>🏠 = 🌍 - 2Gis</name>
 <layers>
 
 <layer>

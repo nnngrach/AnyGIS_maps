@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Спутниковые - Америка - USGS National Map - Satellite Plus</name>
+<name>🛰 = 🇺🇸 - USGS National Map - Plus</name>
 <layers>
 
 <layer>

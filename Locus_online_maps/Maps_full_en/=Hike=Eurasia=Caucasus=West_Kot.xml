@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1053202" type="0" visible="true" background="-1">
-<name>Hike - Eurasia - Caucasus</name>
-<mode>Caucasus West</mode>
+<name>Hike</name>
+<mode>🥾 = 🇷🇺Caucasus - Caucasus West</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

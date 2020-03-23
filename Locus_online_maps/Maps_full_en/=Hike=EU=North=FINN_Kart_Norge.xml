@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1054201" type="0" visible="true" background="-1">
-<name>Hike - Europe - Northern</name>
-<mode>FINN Kart Norge</mode>
+<provider id="1054301" type="0" visible="true" background="-1">
+<name>Hike</name>
+<mode>🥾 = 🇳🇴 - FINN Kart Norge</mode>
 <countries>Norway</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

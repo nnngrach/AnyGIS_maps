@@ -1,5 +1,5 @@
 [Name]
-Туризм - Евразия - Разное - Саяны. Ергаки - Арадан
+Туристические - Саяны Ергаки-Арадан
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Sayany1/{x}/{y}/{z}

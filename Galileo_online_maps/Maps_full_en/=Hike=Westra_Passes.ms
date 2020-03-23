@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Hike - Nakarte - Westra mountain passes</name>
+<name>🥾 = 🌍 - Nakarte - Westra mountain passes</name>
 <layers>
 
 <layer>

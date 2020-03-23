@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="2021001" type="2" visible="true" background="-1">
-<name>Overlay - Labels - Eurasia</name>
-<mode>Yandex - Hybrid</mode>
+<name>Overlay - Labels</name>
+<mode>⏹️ 🏷 = 🇷🇺 - Yandex - Hybrid</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

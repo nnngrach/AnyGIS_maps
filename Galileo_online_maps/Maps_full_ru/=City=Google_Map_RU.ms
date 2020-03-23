@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Городские - Google</name>
+<name>🏠 = Google</name>
 <layers>
 
 <layer>

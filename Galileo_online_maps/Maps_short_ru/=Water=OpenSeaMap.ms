@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Водные - OSM Open Sea Map</name>
+<name>⚓️ = OpenSeaMap</name>
 <layers>
 
 <layer>

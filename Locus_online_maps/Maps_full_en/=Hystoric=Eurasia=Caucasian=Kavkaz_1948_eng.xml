@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111403" type="0" visible="true" background="-1">
-<name>Hystoric - Eurasia - North Caucasian</name>
-<mode>Caucasus 1941</mode>
+<name>Hystoric</name>
+<mode>🏛 = 🇷🇺 Caucasian - Caucasus 1941</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

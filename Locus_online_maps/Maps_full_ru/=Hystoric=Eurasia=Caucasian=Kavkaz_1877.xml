@@ -7,8 +7,8 @@
 <providers>
 
 <provider id="1111401" type="0" visible="true" background="-1">
-<name>Исторические - Евразия - Кавказ</name>
-<mode>Кавказ 1877 5-верстовая</mode>
+<name>Исторические</name>
+<mode>🏛 = 🇷🇺 Кавказ - Кавказ 1877 5-верстовая</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

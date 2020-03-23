@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Topografisk Norgeskart</name>
+<name>🥾 = 🇳🇴 - Topografisk Norgeskart</name>
 <layers>
 
 <layer>

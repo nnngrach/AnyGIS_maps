@@ -1,5 +1,5 @@
 [Name]
-Туризм - Европа - Юго-восточная - Черногория 250м 1970-72
+Туристические - Черногория 250м 1970
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Montenegro/{x}/{y}/{z}

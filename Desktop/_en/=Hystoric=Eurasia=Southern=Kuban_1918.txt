@@ -1,5 +1,5 @@
 [Name]
-Hystoric - Eurasia - Southern - Kuban Stralbitsky 1918
+Hystoric - Kuban Stralbitsky 1918
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Historic_Kuban_1918/{x}/{y}/{z}

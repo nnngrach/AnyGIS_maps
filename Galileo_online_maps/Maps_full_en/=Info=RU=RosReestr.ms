@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Info - Eurasia - RosReest.ru - Cadaster</name>
+<name>📖 = 🇷🇺 - RosReest.ru - Cadaster</name>
 <layers>
 
 <layer>

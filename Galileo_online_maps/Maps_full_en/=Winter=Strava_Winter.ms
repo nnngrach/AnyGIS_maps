@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Winter - Strava Heatmap - Winter</name>
+<name>❄️ = 🌍 - Strava Heatmap - Winter</name>
 <layers>
 
 <layer>

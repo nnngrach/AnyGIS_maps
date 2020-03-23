@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>Туризм - Европа - Северная - Finland Topo Retkikartta.fi</name>
+<name>🥾 = 🇫🇮 - Retkikartta.fi Topo </name>
 <layers>
 
 <layer>
