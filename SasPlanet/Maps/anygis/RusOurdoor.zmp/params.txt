@@ -1,6 +1,6 @@
 ﻿
 [PARAMS]
-GUID={479277B5-56AE-4B7B-8B31-E9370BC5A37D}
+GUID={41B5F6BE-6108-4158-AD04-9317E841AE92}
 ParentSubMenu_ru=Туристические\Многослойные
 ParentSubMenu_uk=Туристические\Многослойные
 ParentSubMenu=Tourism\Karelia
@@ -14,4 +14,3 @@ DefURLBase=https://anygis.ru/api/v1/Combo_RusOutdoor/{x}/{y}/{z}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.jpg
-

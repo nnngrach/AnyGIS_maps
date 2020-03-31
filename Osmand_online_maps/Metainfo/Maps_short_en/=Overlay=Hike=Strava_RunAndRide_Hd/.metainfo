@@ -1,5 +1,5 @@
 [url_template]
-
+https://anygis.ru/api/v1/Tracks_Strava_RunAndRide_HD/{1}/{2}/{0}
 [randoms]
 a,b,c
 [min_zoom]
