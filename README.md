@@ -13,6 +13,6 @@ For online data processing it uses the [AnyGIS Server](https://github.com/nnngra
 If you have any suggestions what other sources of maps should be added to the collection (and what to remove), then write me an e-mail. It is desirable to attach a link to the page with the map of interest to the letter. And, of course, report bugs and inaccuracies on the site.
 
 <p align="center">
-	<a href="https://t.me/anygis">Telegram: https://t.me/anygis</a>
+	<a href="https://t.me/anygis">Telegram: https://t.me/anygis</a> <br>
 	<a href="mailto:anygis@bk.ru">Email: anygis@bk.ru</a> 
 </p>
