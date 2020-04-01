@@ -5,7 +5,6 @@ This is a my collection with many interesting preset files for mobile navigation
 
 You can also download these maps from [AnyGIS.ru](https://anygis.ru/Web/Html/Download_ru) download page.
 
-For online data processing it uses the [AnyGIS Server](https://github.com/nnngrach/AnyGIS_server) utility.
 
 
 ---
