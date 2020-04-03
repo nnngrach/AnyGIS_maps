@@ -52,6 +52,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Road=NavitelSu_Traffic.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=NavitelSu_Traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Road=Navizor_Quality.xml]]>
 </source>
 <dest>

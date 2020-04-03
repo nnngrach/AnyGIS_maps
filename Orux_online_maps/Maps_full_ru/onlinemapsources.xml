@@ -602,6 +602,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1030012">
+<name>Navitel.su (ROAD)</name>
+<url><![CDATA[https://anygis.ru/api/v1/NavitelSu_Base/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>4</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1030004">
 <name>OSM Michelin (ROAD)</name>
 <url><![CDATA[https://map{$s}.viamichelin.com/map/mapdirect?map=viamichelin&z={$z}&x={$x}&y={$y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=https]]></url>
@@ -2738,6 +2753,21 @@
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2030006">
+<name>Navitel.su - Пробки (OVERLAYROAD)</name>
+<url><![CDATA[https://anygis.ru/api/v1/NavitelSu_Traffic/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>6</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>

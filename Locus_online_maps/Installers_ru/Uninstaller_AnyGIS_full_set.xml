@@ -1981,6 +1981,15 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=NavitelSu_Traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Road=Navizor_Quality.xml]]>
 </dest>
 </download>

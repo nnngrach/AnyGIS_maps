@@ -1,0 +1,14 @@
+[Name]
+Слои - Автомобильные - Navitel.su - Пробки
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/NavitelSu_Traffic/{x}/{y}/{z}
+
+[Min Zoom level]
+6
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+http://maps.navitel.su/
