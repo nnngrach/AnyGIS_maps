@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Туристические</name>
+<description></description>
+
+    <source id="1054302">
+        <name>🥾 = 🇫🇮 - Retkikartta.fi Topo </name>
+        <copyright>Retkikartta.fi</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        <outline>20.3,70.1 31.64,70.1 31.64,59.4 20.3,59.4</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://retkikartta.fi/wmts/30c616a00f157e7357721900e8b0415c?SERVICE=WMTS&REQUEST=GetTile&VERSION=1.0.0&LAYER=maastokartta&STYLE=default&TILEMATRIXSET=WGS84_Pseudo-Mercator&TILEMATRIX={z}&TILEROW={y}&TILECOL={x}&FORMAT=image/png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

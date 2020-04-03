@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Road</name>
+<description></description>
+
+    <source id="2030006" layer="true">
+        <name>⏹️ 🚗 = 🌍 - Navitel.su - Traffic</name>
+        <copyright>Navitel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://maps.navitel.su/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/NavitelSu_Traffic/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

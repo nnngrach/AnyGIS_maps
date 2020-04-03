@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Hike</name>
+<description></description>
+
+    <source id="1056101">
+        <name>🥾 = 🇹🇷 - Aladaglar</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>35.29,37.8,12</preview-location>
+        <outline>34.9964,38.0011 35.4977,38.0011 35.4977,37.4962 34.9964,37.4962</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

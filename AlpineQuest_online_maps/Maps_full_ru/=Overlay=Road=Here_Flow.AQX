@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Слои - Автомобильные</name>
+<description></description>
+
+    <source id="2030004">
+        <name>⏹️ 🚗 = Here - Поток</name>
+        <copyright>Here</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>40.1298,43.6064,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://wego.here.com/]]></referer>
+                
+                <server><![CDATA[http://1.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://2.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://3.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+                <server><![CDATA[http://4.traffic.maps.cit.api.here.com/maptile/2.1/flowtile/newest/normal.day/{z}/{x}/{y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

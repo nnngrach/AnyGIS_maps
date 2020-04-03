@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Туристические</name>
+<description></description>
+
+    <source id="1054308">
+        <name>🥾 = 🇸🇪 - Lantmäteriets Topografisk</name>
+        <copyright>Lantmäteriets</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>22.0511,60.435,10</preview-location>
+        <outline>11.1,69.1 24.3,69.1 24.3,55.6 11.1,55.6</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Lantmateriet_topowebb/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

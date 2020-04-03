@@ -34,6 +34,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=NavitelSu_Base.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Road=NavitelSu_Base.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Michelin.xml]]>
 </source>
 <dest>

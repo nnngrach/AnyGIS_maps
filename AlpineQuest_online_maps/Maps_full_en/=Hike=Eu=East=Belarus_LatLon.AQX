@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Hike</name>
+<description></description>
+
+    <source id="1054102">
+        <name>🥾 = 🇧🇾 - LatLon.org</name>
+        <copyright>OpenStreetMap, LatLon.by</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>27.61301,53.89062,11</preview-location>
+        <outline>23.1,56.3 32.8,56.3 32.8,50.8 23.1,50.8</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://tile.latlon.org/tiles/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -1,0 +1,14 @@
+[Name]
+Автомобильные - Navitel.su
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/NavitelSu_Base/{x}/{y}/{z}
+
+[Min Zoom level]
+4
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+http://maps.navitel.su/

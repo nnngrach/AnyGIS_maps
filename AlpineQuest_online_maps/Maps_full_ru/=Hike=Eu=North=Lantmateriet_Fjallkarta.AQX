@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Туристические</name>
+<description></description>
+
+    <source id="1054307">
+        <name>🥾 = 🇸🇪 - Lantmäteriets Fjällkarta</name>
+        <copyright>Lantmäteriets</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>18.38395,67.91592,12</preview-location>
+        <outline>11.1,69.1 21.55,69.1 21.55,60.9 11.1,60.9</outline>
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Lantmateriet_Fjallkarta/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Water</name>
+<description></description>
+
+    <source id="2070001" layer="true">
+        <name>⏹️ ⚓️ = 🌍 - Garmin Quickdraw - MarineImages</name>
+        <copyright>Garmin</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>30.19091,59.9707,16</preview-location>
+        
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://connect.garmin.com/ru-RU/start/quickdraw]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Garmin_MarineImages/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

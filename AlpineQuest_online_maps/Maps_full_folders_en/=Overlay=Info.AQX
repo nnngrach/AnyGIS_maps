@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Info</name>
+<description></description>
+
+    <source id="2080004" layer="true">
+        <name>⏹️ 📖 = 🌍 - OpenWeatherMap - Precipitation</name>
+        <copyright>OpenWeatherMap</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://openweathermap.org/weathermap]]></referer>
+                
+                <server><![CDATA[http://a.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://b.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://c.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://d.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://e.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://f.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://g.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+                <server><![CDATA[http://h.maps.owm.io:8099/57456d1237fb4e01009cbb17/{z}/{x}/{y}?hash=042a4b4c8ec6bc8392aabf46fa91003c]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080009" layer="true">
+        <name>⏹️ 📖 = 🌍 - RainWiewer - Precipitation</name>
+        <copyright>RainWiewer</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/RainWiewer_Precipit_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080001" layer="true">
+        <name>⏹️ 📖 = 🌍 - TMS Tile Grid - White</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080007" layer="true">
+        <name>⏹️ 📖 = 🌍 - Wigle.net - Wi-fi location (proxy)</name>
+        <copyright>Wiggle.net</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.2621,56.1324,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://wigle.net]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Info_Wiggle_wifi_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2081401" layer="true">
+        <name>⏹️ 📖 = 🇺🇦 - Gov.ua - Cadaster map borders</name>
+        <copyright>Gov.ua</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>30.66267,50.51538,9</preview-location>
+        <outline>21.9,52.5 40.4,52.5 40.4,44.2 21.9,44.2</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://map.land.gov.ua/kadastrova-karta]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Ukr_Kadastr_layer/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

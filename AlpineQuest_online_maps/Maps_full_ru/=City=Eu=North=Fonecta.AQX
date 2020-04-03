@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Городские</name>
+<description></description>
+
+    <source id="1022202">
+        <name>🏠 = 🇪🇺 - Fonecta.fi</name>
+        <copyright>Fonecta</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>ROAD</type>
+
+        <preview-location>24.94,60.16,13</preview-location>
+        
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14,15,16,17</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.fonecta.fi/kartat/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Eu_Fonecta_map/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>
