@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 =🔧- Sentinel True Color - 00 Last version</name>
+<name>🛰 =🔧- Sentinel True Color </name>
 <layers>
 
 <layer>

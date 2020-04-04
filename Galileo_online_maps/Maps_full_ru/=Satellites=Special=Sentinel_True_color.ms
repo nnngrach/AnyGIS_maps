@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 =🔧- Sentinel - Чистый - 00 Актуальная дата</name>
+<name>🛰 =🔧- Sentinel - Натуральные цвета</name>
 <layers>
 
 <layer>

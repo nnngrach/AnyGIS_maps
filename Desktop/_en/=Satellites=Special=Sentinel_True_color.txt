@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel True Color - 00 Last version
+Satellites - Special - Sentinel True Color 
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color/{x}/{y}/{z}

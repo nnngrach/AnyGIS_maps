@@ -302,8 +302,8 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1019018">
-<name>Sentinel - Чистый - 00 Актуальная дата (SATELLITESSPECIAL)</name>
+<onlinemapsource uid="1019001">
+<name>Sentinel - Натуральные цвета (SATELLITESSPECIAL)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
