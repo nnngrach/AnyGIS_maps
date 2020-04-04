@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Натуральные цвета
+Спутниковые - Специальные - Sentinel - Чистый - 00 Актуальная дата
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color/{x}/{y}/{z}

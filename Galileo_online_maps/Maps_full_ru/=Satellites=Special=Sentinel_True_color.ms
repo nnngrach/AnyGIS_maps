@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 =🔧- Sentinel - Натуральные цвета</name>
+<name>🛰 = Sentinel - Натуральные цвета</name>
 <layers>
 
 <layer>

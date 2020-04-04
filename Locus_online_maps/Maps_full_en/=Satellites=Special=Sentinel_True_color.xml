@@ -8,7 +8,7 @@
 
 <provider id="1019001" type="0" visible="true" background="-1">
 <name>Satellites - Special</name>
-<mode>🛰 =🔧- Sentinel True Color </mode>
+<mode>🛰 = 🌍 - Sentinel True Color </mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 =🔧- Sentinel True Color </name>
+<name>🛰 = 🌍 - Sentinel True Color </name>
 <layers>
 
 <layer>
