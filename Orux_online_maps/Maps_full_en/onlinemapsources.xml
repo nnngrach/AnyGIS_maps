@@ -317,6 +317,291 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1019007">
+<name>Sentinel Agriculture (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Agriculture/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019006">
+<name>Sentinel Bathimetric (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Bathimetric/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019005">
+<name>Sentinel Geology (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Geology/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019004">
+<name>Sentinel Moisture index (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Moisture/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019009">
+<name>Sentinel NDVI (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_NDVI/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019000">
+<name>Sentinel SWIR (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_SWIR/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019019">
+<name>Sentinel True Color - 01 January (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_January/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019020">
+<name>Sentinel True Color - 02 February (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_February/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019021">
+<name>Sentinel True Color - 03 March (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_March/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019022">
+<name>Sentinel True Color - 04 April (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_April/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019023">
+<name>Sentinel True Color - 05 May (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_May/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019024">
+<name>Sentinel True Color - 06 June (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_June/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019025">
+<name>Sentinel True Color - 07 July (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_July/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019026">
+<name>Sentinel True Color - 08 August (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_August/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019027">
+<name>Sentinel True Color - 09 September (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_September/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019028">
+<name>Sentinel True Color - 10 October (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_October/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019029">
+<name>Sentinel True Color - 11 November (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_November/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019030">
+<name>Sentinel True Color - 12 December (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_True_color_December/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1019008">
+<name>Sentinel Urban (SATELLITESSPECIAL)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Sentinel_Urban/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1020001">
 <name>Bing (CITY)</name>
 <url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>

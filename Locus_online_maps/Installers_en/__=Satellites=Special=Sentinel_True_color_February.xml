@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Special=Sentinel_True_color_February.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Special=Sentinel_True_color_February.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Special.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Satellites - Special.png]]>
+</dest>
+</download>
+
+</locusActions>
