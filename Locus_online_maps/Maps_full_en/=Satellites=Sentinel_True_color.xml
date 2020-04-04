@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1019001" type="0" visible="true" background="-1">
-<name>Спутниковые - Специальные</name>
-<mode>🛰 = Sentinel - Натуральные цвета</mode>
+<provider id="1010015" type="0" visible="true" background="-1">
+<name>Satellites</name>
+<mode>🛰 = 🌍 - Sentinel True Color </mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

@@ -3,11 +3,11 @@
 
 
 
-<name>Спутниковые - Специальные</name>
+<name>Satellites</name>
 <description></description>
 
-    <source id="1019002">
-        <name>🛰 = Sentinel - Натуральные цвета</name>
+    <source id="1010016">
+        <name>🛰 = 🌍 - Sentinel True Color </name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
         <region>WRLD</region>

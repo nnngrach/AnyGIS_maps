@@ -3,10 +3,10 @@
 
 
 
-<name>Спутниковые - Специальные</name>
+<name>Спутниковые</name>
 <description></description>
 
-    <source id="1019002">
+    <source id="1010016">
         <name>🛰 = Sentinel - Натуральные цвета</name>
         <copyright>Sentinel</copyright>
         <data-source></data-source>
