@@ -3017,6 +3017,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2081001">
+<name>RosReest.ru - Cadaster (OVERLAYINFORU)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2022201">
 <name>Eniro - Hybrid (OVERLAYHYBRIDEUNORTH)</name>
 <url><![CDATA[http://map0{$s}.eniro.no/geowebcache/service/tms1.0.0/hybrid/{$z}/{$x}/{$y}.png]]></url>
@@ -3652,21 +3667,6 @@
 <url><![CDATA[https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2081001">
-<name>RosReest.ru - Cadaster (OVERLAYINFORU)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
