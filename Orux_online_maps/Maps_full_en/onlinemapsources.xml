@@ -2972,7 +2972,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2021003">
+<onlinemapsource uid="2081002">
 <name>Rosreestr.ru - Labels (OVERLAYINFORU)</name>
 <url><![CDATA[https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}?blankTile=true]]></url>
 <servers></servers>
