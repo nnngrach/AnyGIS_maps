@@ -1,5 +1,5 @@
 [Name]
-Слои - Подписи - RosReestr.ru - Подписи
+Overlay - Info - Rosreestr.ru - Labels
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Rosreestr_labels/{x}/{y}/{z}

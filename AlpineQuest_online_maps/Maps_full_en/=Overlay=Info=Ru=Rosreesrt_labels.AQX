@@ -3,12 +3,12 @@
 
 
 
-<name>Overlay - Labels</name>
+<name>Overlay - Info</name>
 <description></description>
 
     <source id="2021003" layer="true">
-        <name>⏹️ 🏷 = 🇷🇺 - Rosreestr.ru - Labels</name>
-        <copyright>Яндекс</copyright>
+        <name>⏹️ 📖 = 🇷🇺 - Rosreestr.ru - Labels</name>
+        <copyright>Rosreestr</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

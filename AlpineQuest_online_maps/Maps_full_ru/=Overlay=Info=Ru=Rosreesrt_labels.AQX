@@ -3,12 +3,12 @@
 
 
 
-<name>Слои - Подписи</name>
+<name>Слои - Справочные</name>
 <description></description>
 
     <source id="2021003">
-        <name>⏹️ 🏷 = 🇷🇺 - RosReestr.ru - Подписи</name>
-        <copyright>Яндекс</copyright>
+        <name>⏹️ 📖 = 🇷🇺 - RosReestr.ru - Подписи</name>
+        <copyright>Rosreestr</copyright>
         <data-source></data-source>
         <region>WRLD</region>
         <type>OTHE</type>

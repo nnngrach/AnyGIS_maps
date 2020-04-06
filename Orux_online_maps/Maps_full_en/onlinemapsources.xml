@@ -2973,7 +2973,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2021003">
-<name>Rosreestr.ru - Labels (OVERLAYHYBRIDRU)</name>
+<name>Rosreestr.ru - Labels (OVERLAYINFORU)</name>
 <url><![CDATA[https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}?blankTile=true]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
