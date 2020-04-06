@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={0A2AF16D-E8ED-4F6B-BFD3-8120EA0F4F13}
+ParentSubMenu_ru=Маршруты и GPS-Треки
+ParentSubMenu_uk=Маршруты и GPS-Треки
+ParentSubMenu=Ways and GPS-Tracks
+name_ru=OSM Waymarkedtrails - Верховая езда
+name_uk=OSM Waymarkedtrails - Верховая езда
+name=OSM Waymarkedtrails.org - Riding
+NameInCache=waymarkedtrails_riding
+asLayer=1
+EPSG=3785
+DefURLBase=http://tile.waymarkedtrails.org/riding/{z}/{x}/{y}.png
+RequestHead=Referer:https://riding.waymarkedtrails.org/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © WayMarkeredTrails

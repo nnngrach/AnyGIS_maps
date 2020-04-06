@@ -1,5 +1,5 @@
 [Name]
-Слои - Водные - OpenSeaMap - Рельеф
+Слои - Водные - OSM OpenSeaMap - Рельеф
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_OpenSeaMap_Layer_Depth/{x}/{y}/{z}

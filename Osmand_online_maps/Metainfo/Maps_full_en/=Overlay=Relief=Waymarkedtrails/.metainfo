@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{1}/{2}/{0}
+https://hillshading.waymarkedtrails.org/srtm/{0}/{1}/{2}.png
 [randoms]
 
 [min_zoom]

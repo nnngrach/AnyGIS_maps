@@ -16,6 +16,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Relief=Heywhatsthat_Counturs.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Relief=Heywhatsthat_Counturs.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Relief=Overpass=Mapsurfer.xml]]>
 </source>
 <dest>

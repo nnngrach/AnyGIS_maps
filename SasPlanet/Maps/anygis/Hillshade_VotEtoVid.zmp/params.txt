@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={26E3A985-26F6-4322-B51A-3DB3623A6682}
+ParentSubMenu_ru=Рельеф и тополинии
+ParentSubMenu_uk=Рельєф і тополинии
+ParentSubMenu=Hillshade
+name_ru=Карта уклонов
+name_uk=Карта уклонов
+name=Slope map
+NameInCache=Hillshade_VotEtoVid
+asLayer=1
+EPSG=3785
+DefURLBase=https://anygis.ru/api/v1/Hillshade_VotEtoVid/{x}/{y}/{z}
+RequestHead=Referer:http://votetovid.ru\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © VotEtoVid

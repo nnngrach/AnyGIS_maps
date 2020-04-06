@@ -1,5 +1,5 @@
 [Name]
-Слои - Туристические - OSM Waymarkedtrails - Пешие
+Слои - Туристические - OSM WayMarkedTrails - Пешие
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_Hiking/{x}/{y}/{z}

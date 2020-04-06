@@ -43,7 +43,7 @@
 
 <provider id="1070008" type="0" visible="true" background="89999002">
 <name>Water</name>
-<mode>⚓️ = 🌍 - Open Sea Map + Traffic</mode>
+<mode>⚓️ = 🌍 - OSM Open Sea Map + Traffic</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

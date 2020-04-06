@@ -43,7 +43,7 @@
 
 <provider id="1070008" type="0" visible="true" background="89999002">
 <name>Водные</name>
-<mode>⚓️ = OpenSeaMap + Траффик</mode>
+<mode>⚓️ = OSM OpenSeaMap + Траффик</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

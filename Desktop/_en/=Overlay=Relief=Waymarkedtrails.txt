@@ -1,8 +1,8 @@
 [Name]
-Overlay - Relief - Waymarkedtrails.org
+Overlay - Relief - Waymarkedtrails.org (Opacity 30%)
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Hillshade_Waymarkedtrails/{x}/{y}/{z}
+https://anygis.ru/api/v1/Hillshade_Waymarkedtrails_opacity/{x}/{y}/{z}
 
 [Min Zoom level]
 0

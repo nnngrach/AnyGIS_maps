@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = OpenSeaMap + Рельеф</name>
+<name>⚓️ = OSM OpenSeaMap + Рельеф</name>
 <layers>
 
 <layer>

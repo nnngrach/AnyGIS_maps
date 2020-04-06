@@ -11,7 +11,7 @@
 <mode>⏹️ ⚓️ = Garmin MarineImages - Сонар</mode>
 <countries>World</countries>
 <usage>overlay</usage>
-<cacheTimeout>0</cacheTimeout>
+<cacheTimeout>720</cacheTimeout>
 <url><![CDATA[https://downloadqdc.garmin.com/GCSProxyServlet/MarineImages/{c}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>

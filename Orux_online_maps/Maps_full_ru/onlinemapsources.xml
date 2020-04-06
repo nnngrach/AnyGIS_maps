@@ -2732,6 +2732,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2010009">
+<name>Heywhatsthat.com - контурные линии (OVERLAYRELIEF)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Heywhatsthat_Counturs/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>12</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2010001">
 <name>OpenMapSurfer (OVERLAYRELIEF)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
@@ -2944,7 +2959,7 @@
 
 <onlinemapsource uid="2021003">
 <name>RosReestr.ru - Подписи (OVERLAYHYBRIDRU)</name>
-<url><![CDATA[https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}]]></url>
+<url><![CDATA[https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}?blankTile=true]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -3168,7 +3183,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040001">
-<name>OSM Waymarkedtrails - MTB (OVERLAYBIKE)</name>
+<name>OSM WayMarkedTrails - MTB (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/mtb/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3183,7 +3198,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040002">
-<name>OSM Waymarkedtrails - Вело (OVERLAYBIKE)</name>
+<name>OSM WayMarkedTrails - Вело (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/cycling/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3243,7 +3258,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050016">
-<name>OSM Waymarkedtrails - Пешие (OVERLAYHIKE)</name>
+<name>OSM WayMarkedTrails - Пешие (OVERLAYHIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/hiking/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3363,7 +3378,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060007">
-<name>OSM Waymarkedtrails - Зимние (OVERLAYWINTER)</name>
+<name>OSM WayMarkedTrails- Зимние (OVERLAYWINTER)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/slopes/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3445,7 +3460,7 @@
 <minzoom>2</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
-<cacheable>0</cacheable>
+<cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>
@@ -3497,9 +3512,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070006">
-<name>OSM OpenSeaMap - Траффик (OVERLAYWATER)</name>
-<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
+<onlinemapsource uid="2070005">
+<name>OSM OpenSeaMap - Рельеф (OVERLAYWATER)</name>
+<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -3512,9 +3527,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070005">
-<name>OpenSeaMap - Рельеф (OVERLAYWATER)</name>
-<url><![CDATA[http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{$z}&TileCol={$x}&TileRow={$y}]]></url>
+<onlinemapsource uid="2070006">
+<name>OSM OpenSeaMap - Траффик (OVERLAYWATER)</name>
+<url><![CDATA[https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={$z}&X={$x}&Y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

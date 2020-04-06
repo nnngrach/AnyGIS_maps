@@ -528,7 +528,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040001">
-<name>OSM Waymarkedtrails - MTB (OVERLAYBIKE)</name>
+<name>OSM WayMarkedTrails - MTB (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/mtb/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -543,7 +543,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040002">
-<name>OSM Waymarkedtrails - Вело (OVERLAYBIKE)</name>
+<name>OSM WayMarkedTrails - Вело (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/cycling/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -588,7 +588,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050016">
-<name>OSM Waymarkedtrails - Пешие (OVERLAYHIKE)</name>
+<name>OSM WayMarkedTrails - Пешие (OVERLAYHIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/hiking/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = 🌍 - Open Sea Map + Traffic</name>
+<name>⚓️ = 🌍 - OSM Open Sea Map + Traffic</name>
 <layers>
 
 <layer>

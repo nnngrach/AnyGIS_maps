@@ -5,7 +5,7 @@ Overlay - Labels - Rosreestr.ru - Labels
 https://anygis.ru/api/v1/Rosreestr_labels/{x}/{y}/{z}
 
 [URL direct]
-https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/{y}/{x}
+https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/{y}/{x}?blankTile=true
 
 [Min Zoom level]
 0
@@ -14,7 +14,7 @@ https://pkk5.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{z}/
 20
 
 [HTTP Referer]
-https://pkk5.rosreestr.ru/
+https://pkk.rosreestr.ru
 
 [Proection description]
 Ellipsoid

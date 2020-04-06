@@ -1,5 +1,5 @@
 [Name]
-Overlay - Winter - OSM Waymarkedtrails.org - Slopes
+Overlay - Winter - OSM WayMarkedTrails - Slopes
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_Slopes/{x}/{y}/{z}

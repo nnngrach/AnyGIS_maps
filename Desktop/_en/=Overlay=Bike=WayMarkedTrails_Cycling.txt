@@ -1,5 +1,5 @@
 [Name]
-Overlay - Bike - OSM Waymarkedtrails.org - Cycling
+Overlay - Bike - OSM WayMarkedTrails - Cycling
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_Cycling/{x}/{y}/{z}

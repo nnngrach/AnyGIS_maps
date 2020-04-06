@@ -1,0 +1,23 @@
+﻿
+[PARAMS]
+GUID={492DFDB6-4959-44B8-B39A-3E5CE947800C}
+ParentSubMenu_ru=Инфраструктура
+ParentSubMenu_uk=Инфраструктура
+ParentSubMenu=Infrastucture
+name_ru=OSM OpenPTMap - Общ.транспорт
+name_uk=OSM OpenPTMap - Общ.транспорт
+name=OSM OpenPTMap  - Public Transport
+NameInCache=Osm_Public_Transport_Layer
+asLayer=1
+EPSG=3785
+DefURLBase=http://www.openptmap.org/tiles/{z}/{x}/{y}.png
+RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+CacheType=9
+UseMemCache=1
+MemCacheCapacity=100
+MemCacheTTL=60000
+MemCacheClearStrategy=1
+RestartDownloadOnMemCacheTTL=1
+License= © OpenStreetMap

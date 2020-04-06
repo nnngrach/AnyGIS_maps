@@ -1,0 +1,17 @@
+[Name]
+Satellites - Maxar (via Facebook RapID) zoom 11-18
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Maxar_Facebook/{x}/{y}/{z}
+
+[URL direct]
+https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={x}&y={y}&z={z}
+
+[Min Zoom level]
+11
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://mapwith.ai/rapid

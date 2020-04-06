@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={FD0F19A9-6A16-48A9-A139-FFD89B5689AB}
+ParentSubMenu_ru=Справочные\Украина
+ParentSubMenu_uk=Справочные\Украина
+ParentSubMenu=Info\Ukraine
+name_ru=Gov.ua - Кадастровые границы
+name_uk=Gov.ua - Кадастровые границы
+name=Gov.ua - Cadaster map borders
+NameInCache=Other_Ukr_Kadastr_layer
+asLayer=1
+EPSG=3785
+DefURLBase=https://map.land.gov.ua/geowebcache/service/wms?tiled=true&LAYERS=kadastr&STYLES=&FORMAT=image%2Fpng&TRANSPARENT=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&SRS=EPSG%3A900913&BBOX={bbox}&WIDTH=256&HEIGHT=256
+RequestHead=Referer:https://map.land.gov.ua/kadastrova-karta\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © Gov.ua

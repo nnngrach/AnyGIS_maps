@@ -1,5 +1,5 @@
 [Name]
-Overlay - Hike - OSM Waymarkedtrails.org - Hiking
+Overlay - Hike - OSM WayMarkedTrails - Hiking
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_Hiking/{x}/{y}/{z}

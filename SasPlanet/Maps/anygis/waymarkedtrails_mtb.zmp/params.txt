@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={C1570B16-4322-49BC-A279-D8D444AFA938}
+ParentSubMenu_ru=Маршруты и GPS-Треки
+ParentSubMenu_uk=Маршруты и GPS-Треки
+ParentSubMenu=Ways and GPS-Tracks
+name_ru=OSM WayMarkedTrails - MTB
+name_uk=OSM WayMarkedTrails - MTB
+name=OSM WayMarkedTrails - MTB
+NameInCache=waymarkedtrails_mtb
+asLayer=1
+EPSG=3785
+DefURLBase=http://tile.waymarkedtrails.org/mtb/{z}/{x}/{y}.png
+RequestHead=Referer:https://mtb.waymarkedtrails.org/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © WayMarkeredTrails

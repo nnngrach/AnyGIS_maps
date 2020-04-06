@@ -1,0 +1,14 @@
+[Name]
+Overlay - Relief - Heywhatsthat.com
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Heywhatsthat_Counturs/{x}/{y}/{z}
+
+[URL direct]
+http://contour.heywhatsthat.com/api/contour_tiles_sasgis.png?src=sasgis&x={x}&y={y}&zoom={z}&interval=19&color=e29526
+
+[Min Zoom level]
+12
+
+[Max Zoom level]
+18

@@ -1,5 +1,5 @@
 [Name]
-Слои - Зимние - OSM Waymarkedtrails - Зимние
+Слои - Зимние - OSM WayMarkedTrails- Зимние
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_WayMarkeredTrails_Slopes/{x}/{y}/{z}

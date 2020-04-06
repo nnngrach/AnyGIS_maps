@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={B28492AA-34F4-4D6E-8AAE-A360DD5FCF4C}
+ParentSubMenu_ru=Справочные
+ParentSubMenu_uk=Справочные
+ParentSubMenu=Info
+name_ru=Wigle.net - Wi-fi (proxy)
+name_uk=Wigle.net - Wi-fi (proxy)
+name=Wigle.net - Wi-fi location (proxy)
+NameInCache=Other_Info_Wiggle_wifi
+asLayer=1
+EPSG=3785
+DefURLBase=https://wigle.net/tile?tileX={x}&tileY={y}&tileZoom={z}&coloring=density
+RequestHead=Referer:https://wigle.net\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+License= © Wiggle.net

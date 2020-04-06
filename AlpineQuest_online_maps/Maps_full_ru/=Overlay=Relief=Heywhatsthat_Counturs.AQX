@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Слои - Рельеф</name>
+<description></description>
+
+    <source id="2010009">
+        <name>⏹️ 🏔️ = Heywhatsthat.com - контурные линии</name>
+        <copyright>VotEtoVid</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>42.5,43.3,13</preview-location>
+        
+
+        <level>
+            <zoom-values>12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Heywhatsthat_Counturs/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

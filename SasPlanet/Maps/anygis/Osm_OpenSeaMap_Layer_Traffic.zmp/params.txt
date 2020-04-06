@@ -1,0 +1,23 @@
+﻿
+[PARAMS]
+GUID={D614CDB9-BE8A-4A6D-AF00-CE3406FF524A}
+ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водные карты
+ParentSubMenu=Water maps
+name_ru=OSM OpenSeaMap - Траффик
+name_uk=OSM OpenSeaMap - Траффик
+name=OSM OpenSeaMap - Traffic
+NameInCache=Osm_OpenSeaMap_Layer_Traffic
+asLayer=1
+EPSG=3785
+DefURLBase=https://tiles.marinetraffic.com/ais_helpers/shiptilesingle.aspx?output=png&sat=1&grouping=shiptype&tile_size=256&legends=1&zoom={z}&X={x}&Y={y}
+RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+CacheType=9
+UseMemCache=1
+MemCacheCapacity=100
+MemCacheTTL=60000
+MemCacheClearStrategy=1
+RestartDownloadOnMemCacheTTL=1
+License= © OpenStreetMap, OpenSeaMap

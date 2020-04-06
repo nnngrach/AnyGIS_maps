@@ -1,0 +1,23 @@
+﻿
+[PARAMS]
+GUID={1A674180-FD5B-43C4-A3FB-93B36B141719}
+ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водные карты
+ParentSubMenu=Water maps
+name_ru=OSM OpenSeaMap - Рельеф
+name_uk=OSM OpenSeaMap - Рельеф
+name=OSM OpenSeaMap - Deep Map
+NameInCache=Osm_OpenSeaMap_Layer_Depth
+asLayer=1
+EPSG=3785
+DefURLBase=http://osm.franken.de:8080/geoserver/gwc/service/wmts?layer=gebco_2014&style=&tilematrixset=EPSG%3A900913&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fpng&TileMatrix=EPSG%3A900913%3A{z}&TileCol={x}&TileRow={y}
+RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.png
+CacheType=9
+UseMemCache=1
+MemCacheCapacity=100
+MemCacheTTL=60000
+MemCacheClearStrategy=1
+RestartDownloadOnMemCacheTTL=1
+License= © OpenSeaMap
