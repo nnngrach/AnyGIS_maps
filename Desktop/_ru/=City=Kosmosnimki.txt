@@ -1,5 +1,5 @@
 [Name]
-Городские - OSM Kosmosnimki
+Городские - OSM Kosmosnimki (день)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Kosmosnimki/{x}/{y}/{z}

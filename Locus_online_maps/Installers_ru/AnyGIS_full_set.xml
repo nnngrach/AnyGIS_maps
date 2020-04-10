@@ -115,6 +115,33 @@
 
 <download>
 <source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые%20-%20Евразия.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Спутниковые - Евразия.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Kosmosnimki.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Kosmosnimki.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Спутниковые.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Satellites=Eurasia=Yandex.xml]]>
 </source>
 <dest>
@@ -461,6 +488,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=City=Kosmosnimki.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Kosmosnimki_night.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=City=Kosmosnimki_night.xml]]>
 </dest>
 </download>
 
@@ -875,6 +911,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=Kosmosnimki_relief.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=Kosmosnimki_relief.xml]]>
 </dest>
 </download>
 

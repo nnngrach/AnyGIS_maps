@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={D6A4DEC7-4BBC-4411-8707-28F4E4A683CF}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Зимние
+ParentSubMenu_uk=Зимние
+ParentSubMenu=Winter
 name_ru=OSM WayMarkedTrails- Зимние
 name_uk=OSM WayMarkedTrails- Зимние
 name=OSM WayMarkedTrails - Slopes

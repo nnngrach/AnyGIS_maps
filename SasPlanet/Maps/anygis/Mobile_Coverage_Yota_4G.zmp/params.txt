@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={E2A08052-019B-4611-8FFC-1A80F19D0730}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Yota - 4G
 name_uk=Yota - 4G

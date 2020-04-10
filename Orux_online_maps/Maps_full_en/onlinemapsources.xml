@@ -167,6 +167,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1011001">
+<name>Kosmosnimki.ru (SATELLITESEURASIA)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Kosmosnimki_sat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1011003">
 <name>Yandex (SATELLITESEURASIA)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
@@ -678,8 +693,23 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020010">
-<name>OSM Kosmosnimki (CITY)</name>
+<name>OSM Kosmosnimki (day) (CITY)</name>
 <url><![CDATA[http://{$s}.tile.osm.kosmosnimki.ru/kosmo/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>17</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1020015">
+<name>OSM Kosmosnimki (night) (CITY)</name>
+<url><![CDATA[http://{$s}.tile.osm.kosmosnimki.ru/night/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
@@ -1243,6 +1273,21 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1052002">
+<name>OSM Kosmosnimki.ru - relief (HIKERUALL)</name>
+<url><![CDATA[https://{$s}tilecart.kosmosnimki.ru/rw/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c,d</servers>
+<maxzoom>13</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>

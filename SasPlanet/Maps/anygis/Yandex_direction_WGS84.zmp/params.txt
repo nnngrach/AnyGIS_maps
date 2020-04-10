@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={24C05D41-56F4-4316-BE4A-465BE9C4E90D}
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобильные
+ParentSubMenu=Transport
 name_ru=Яндекс - Направления
 name_uk=Яндекс - Направления
 name=Yandex - Directions

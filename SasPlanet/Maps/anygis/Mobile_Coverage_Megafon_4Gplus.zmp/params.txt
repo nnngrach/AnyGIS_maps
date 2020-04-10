@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={34EA0BAA-5E99-45C5-A6EA-2BFBA9062DA9}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Мегафон - 4G+
 name_uk=Мегафон - 4G+

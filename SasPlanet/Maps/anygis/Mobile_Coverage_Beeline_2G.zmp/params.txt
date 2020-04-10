@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={917C7B42-52B2-42DD-9BA3-37543880AE71}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Билайн - 2G
 name_uk=Билайн - 2G

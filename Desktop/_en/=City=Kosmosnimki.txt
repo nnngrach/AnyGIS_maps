@@ -1,5 +1,5 @@
 [Name]
-City - OSM Kosmosnimki
+City - OSM Kosmosnimki (day)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Kosmosnimki/{x}/{y}/{z}

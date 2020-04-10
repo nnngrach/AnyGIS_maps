@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={C1570B16-4322-49BC-A279-D8D444AFA938}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Велосипедные
+ParentSubMenu_uk=Велосипедные
+ParentSubMenu=Cycle
 name_ru=OSM WayMarkedTrails - MTB
 name_uk=OSM WayMarkedTrails - MTB
 name=OSM WayMarkedTrails - MTB

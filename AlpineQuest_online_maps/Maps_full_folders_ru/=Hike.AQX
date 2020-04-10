@@ -156,6 +156,34 @@
     </source>
 
 
+    <source id="1052002">
+        <name>🥾 = 🇷🇺 - OSM Kosmosnimki.ru - рельеф</name>
+        <copyright>OpenStreetMap, Kosmosnimki</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://kosmosnimki.ru/]]></referer>
+                
+                <server><![CDATA[http://atilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://btilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://ctilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://dtilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
     <source id="1052001">
         <name>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</name>
         <copyright>OpenStreetMap, OpenTopoMap.ru</copyright>

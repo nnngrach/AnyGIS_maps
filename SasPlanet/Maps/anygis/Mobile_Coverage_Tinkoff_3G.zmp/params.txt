@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={2641E02D-25C9-4CE9-97B6-1D712CC4C2AF}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Тинькофф - 3G
 name_uk=Тинькофф - 3G

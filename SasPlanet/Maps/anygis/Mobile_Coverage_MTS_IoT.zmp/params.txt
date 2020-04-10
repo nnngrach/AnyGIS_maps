@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={70A56637-B8F6-4286-8816-A9B03836ADB4}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=МТС - IoT Интернет вещей
 name_uk=МТС - IoT Интернет вещей

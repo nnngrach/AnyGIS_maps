@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={F29497A8-4ADA-4076-8590-22006ED00111}
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобильные
+ParentSubMenu=Transport
 name_ru=Яндекс - Интенсивность
 name_uk=Яндекс - Интенсивность
 name=Yandex - Intensity

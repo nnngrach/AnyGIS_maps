@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={05B740B9-AC77-4834-A944-16D0DCDF96A5}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Tele2 - 3G
 name_uk=Tele2 - 3G

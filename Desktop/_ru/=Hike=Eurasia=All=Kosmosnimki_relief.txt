@@ -1,0 +1,20 @@
+[Name]
+Туристические - OSM Kosmosnimki.ru - рельеф
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Kosmosnimki_relief/{x}/{y}/{z}
+
+[URL direct]
+https://{s}tilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png
+
+[Server parts]
+a;b;c;d
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+13
+
+[HTTP Referer]
+https://kosmosnimki.ru/

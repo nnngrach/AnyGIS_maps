@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={9442ADAB-F5FD-4184-BAE5-8FBABC507E9F}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Велосипедные
+ParentSubMenu_uk=Велосипедные
+ParentSubMenu=Cycle
 name_ru=Strava Heatmap - Велоспорт
 name_uk=Strava Heatmap - Велоспорт
 name=Strava Heatmap - Ride

@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={0D15104A-781C-4881-B705-72AA33E745C7}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Водные карты
+ParentSubMenu_uk=Водные карты
+ParentSubMenu=Water maps
 name_ru=Strava Heatmap - Водный спорт
 name_uk=Strava Heatmap - Водный спорт
 name=Strava Heatmap - Water

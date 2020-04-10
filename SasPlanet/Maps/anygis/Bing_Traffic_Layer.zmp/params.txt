@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={5E00A1FC-1A81-496E-BA77-0487635AF520}
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобильные
+ParentSubMenu=Transport
 name_ru=Bing - Пробки
 name_uk=Bing - Пробки
 name=Bing - Traffic

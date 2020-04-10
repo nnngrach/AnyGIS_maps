@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={915BE79F-1CEA-4371-A46F-6D9B409C0490}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=МТС - 3G
 name_uk=МТС - 3G

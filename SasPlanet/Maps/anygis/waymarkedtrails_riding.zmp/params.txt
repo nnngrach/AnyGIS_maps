@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={0A2AF16D-E8ED-4F6B-BFD3-8120EA0F4F13}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Разное
+ParentSubMenu_uk=Разное
+ParentSubMenu=Other
 name_ru=OSM Waymarkedtrails - Верховая езда
 name_uk=OSM Waymarkedtrails - Верховая езда
 name=OSM Waymarkedtrails.org - Riding

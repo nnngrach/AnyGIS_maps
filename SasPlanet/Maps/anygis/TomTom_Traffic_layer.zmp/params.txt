@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={66296328-4641-4A95-A994-5DE87A4D022E}
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобильные
+ParentSubMenu=Transport
 name_ru=TomTom - Пробки
 name_uk=TomTom - Пробки
 name=TomTom - Traffic

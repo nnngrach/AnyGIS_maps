@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={0A364683-4027-4560-A464-85DA2DE7445D}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Разное
+ParentSubMenu_uk=Разное
+ParentSubMenu=Other
 name_ru=OSM Waymarkedtrails - Коньки
 name_uk=OSM Waymarkedtrails - Коньки
 name=OSM Waymarkedtrails.org - Skating

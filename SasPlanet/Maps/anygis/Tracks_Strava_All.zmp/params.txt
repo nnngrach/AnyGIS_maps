@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={A26CA77D-E37A-42FF-AB59-A6211163C2BB}
-ParentSubMenu_ru=Маршруты и GPS-Треки
-ParentSubMenu_uk=Маршруты и GPS-Треки
-ParentSubMenu=Ways and GPS-Tracks
+ParentSubMenu_ru=Городские и универсальные
+ParentSubMenu_uk=Городские и универсальные
+ParentSubMenu=City
 name_ru=Strava Heatmap - Все слои
 name_uk=Strava Heatmap - Все слои
 name=Strava Heatmap - All layers

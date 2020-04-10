@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={3FDF3156-0F4D-4C28-B340-E7B979ACFF2A}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Билайн - 3G
 name_uk=Билайн - 3G

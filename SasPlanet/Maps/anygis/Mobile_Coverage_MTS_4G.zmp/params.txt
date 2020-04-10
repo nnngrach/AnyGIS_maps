@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={81A6C5E7-18BB-4CA8-9F7E-9F6DE583AD0C}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=МТС - 4G
 name_uk=МТС - 4G

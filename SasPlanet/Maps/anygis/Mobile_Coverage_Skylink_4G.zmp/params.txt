@@ -1,8 +1,8 @@
 ﻿
 [PARAMS]
 GUID={7A084E8A-6063-47E7-A2D7-CB81768F15FD}
-ParentSubMenu_ru=Cотовые сети
-ParentSubMenu_uk=Cотовые сети
+ParentSubMenu_ru=Сотовые сети
+ParentSubMenu_uk=Сотовые сети
 ParentSubMenu=Mobile coverage area
 name_ru=Skylink - LTE 450
 name_uk=Skylink - LTE 450

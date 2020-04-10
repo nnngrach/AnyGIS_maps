@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={EC51489A-9D1C-41EA-AC68-AD13DE81B0F0}
-ParentSubMenu_ru=Пробки
-ParentSubMenu_uk=Пробки
-ParentSubMenu=Traffic
+ParentSubMenu_ru=Автомобильные
+ParentSubMenu_uk=Автомобильные
+ParentSubMenu=Transport
 name_ru=Navizor - Оценка качества дорог
 name_uk=Navizor - Оценка качества дорог
 name=Navizor - Roads quality

@@ -1,0 +1,20 @@
+[Name]
+Satellites - Eurasia - Kosmosnimki.ru
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Kosmosnimki_sat/{x}/{y}/{z}
+
+[URL direct]
+https://maps.kosmosnimki.ru/TileSender.ashx?ModeKey=tile&ftc=osm&z={z}&x={x}&y={y}&srs=3857&sw=1&LayerName=C9458F2DCB754CEEACC54216C7D1EB0A&key=N%2BAz7iqqkgEre1TcrZ09kjGG7KYIRZb8VI6E3K5EhXugkv3rRQMm2Zc74w7S1ILt0QU8kCiQdHlUr%2BRksXWYs3QZhT%2B1yvc35G58bgSaKRQ%3D
+
+[Server parts]
+a;b;c;d
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+17
+
+[HTTP Referer]
+https://kosmosnimki.ru/
