@@ -172,6 +172,33 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/Спутниковые - Казахстан.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
 </dest>
 </download>
@@ -2576,6 +2603,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Слои - Справочные.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Clouds.xml]]>
 </dest>
 </download>
 

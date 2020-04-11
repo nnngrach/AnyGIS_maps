@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+<providers>
+
+<provider id="2080010" type="0" visible="true" background="-1">
+<name>Слои - Справочные</name>
+<mode>⏹️ 📖 = OpenWeatherMap - Облака</mode>
+<countries>World</countries>
+<usage>overlay</usage>
+<cacheTimeout>0</cacheTimeout>
+<url><![CDATA[http://{s}.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></url>
+<serverPart>a;b;c;d;e;f;g;h</serverPart>
+<zoomPart>{z}-8</zoomPart>
+<zoomMin>10</zoomMin>    <!-- 2 -->
+<zoomMax>16</zoomMax>   <!-- 8 -->
+<tileSize>256</tileSize>
+
+<extraHeader><![CDATA[Referer#http://openweathermap.org/weathermap]]></extraHeader>
+<extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
+<attribution><![CDATA[© OpenWeatherMap <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
+</provider>
+
+</providers>

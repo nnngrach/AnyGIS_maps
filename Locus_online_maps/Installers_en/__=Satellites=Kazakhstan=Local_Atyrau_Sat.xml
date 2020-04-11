@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+<locusActions>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Kazakhstan.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Satellites - Kazakhstan.png]]>
+</dest>
+</download>
+
+</locusActions>

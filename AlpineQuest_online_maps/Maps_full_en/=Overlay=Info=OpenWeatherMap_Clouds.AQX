@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Info</name>
+<description></description>
+
+    <source id="2080010" layer="true">
+        <name>⏹️ 📖 = 🌍 - OpenWeatherMap - Clouds</name>
+        <copyright>OpenWeatherMap</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8</zoom-values>
+            
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[http://openweathermap.org/weathermap]]></referer>
+                
+                <server><![CDATA[http://a.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://b.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://c.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://d.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://e.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://f.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://g.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+                <server><![CDATA[http://h.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

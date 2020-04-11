@@ -1,0 +1,20 @@
+[Name]
+Overlay - Info - OpenWeatherMap - Clouds
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/OpenWeatherMap_Clouds/{x}/{y}/{z}
+
+[URL direct]
+http://{s}.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{z}/{x}/{y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1
+
+[Server parts]
+a;b;c;d;e;f;g;h
+
+[Min Zoom level]
+2
+
+[Max Zoom level]
+8
+
+[HTTP Referer]
+http://openweathermap.org/weathermap

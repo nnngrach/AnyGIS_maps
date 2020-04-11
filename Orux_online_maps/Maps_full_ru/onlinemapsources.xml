@@ -212,6 +212,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1012001">
+<name>Атырау 2019 (SATELLITESKAZAKH)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Atyrau_Sat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1012102">
 <name>Gov.ua - ортофото (SATELLITESEUEAST)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{$x}/{$y}/{$z}]]></url>
@@ -3596,6 +3611,21 @@
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080010">
+<name>OpenWeatherMap - Облака (OVERLAYINFO)</name>
+<url><![CDATA[http://{$s}.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{$z}/{$x}/{$y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></url>
+<servers>a,b,c,d,e,f,g,h</servers>
+<maxzoom>8</maxzoom>
+<minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>

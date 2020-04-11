@@ -1,0 +1,14 @@
+[Name]
+Спутниковые - Казахстан - Атырау 2019
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Atyrau_Sat/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://geo.eatyrau.kz/geoserver/gwc/demo/atyrau:afs_2019_atyrau_5cm
