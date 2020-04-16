@@ -2012,6 +2012,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1057501">
+<name>New Zealand Topo (HIKE)</name>
+<url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1058101">
 <name>ГГЦ (Все масштабы) (HIKERUALLGGC)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Combo_Best_GGC/{$x}/{$y}/{$z}]]></url>
@@ -2098,21 +2113,6 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1140001">
-<name>New Zealand Topo (HIKE)</name>
-<url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>6</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -2783,6 +2783,21 @@
 <servers></servers>
 <maxzoom>10</maxzoom>
 <minzoom>1</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1120002">
+<name>Геологическая карта СССР (GEOLOGYRU)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

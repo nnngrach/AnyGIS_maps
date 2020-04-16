@@ -1393,6 +1393,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=NewZeland_Topo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=NewZeland_Topo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Topo.png]]>
 </source>
 <dest>
@@ -1451,24 +1460,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Other=All.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Hike.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=NewZeland_Topo.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=NewZeland_Topo.xml]]>
 </dest>
 </download>
 
@@ -2018,6 +2009,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Geology.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Geology=Geology_Ussr.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Geology=Geology_Ussr.xml]]>
 </dest>
 </download>
 
