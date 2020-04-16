@@ -30,7 +30,7 @@
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[https://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[https://gps.tile.openstreetmap.org/lines/{z}/{x}/{y}.png]]></url>
 <serverPart>a;b;c</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

@@ -1,7 +1,7 @@
 [url_template]
 https://anygis.ru/api/v1/Sentinel_True_color/{1}/{2}/{0}
 [randoms]
-3bc84f8b-2fe7-4a11-a924-b1dbd5193ec8,a14b8591-2127-4d2a-b5df-b47a9f2895e1
+a14b8591-2127-4d2a-b5df-b47a9f2895e1
 [min_zoom]
 0
 [max_zoom]

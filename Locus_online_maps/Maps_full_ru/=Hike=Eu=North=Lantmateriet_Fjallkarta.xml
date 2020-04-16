@@ -12,7 +12,7 @@
 <countries>Sweden</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg]]></url>
+<url><![CDATA[https://git.beroni.us/Lantmateriets-Fjallkarta/tiles/{z}/{x}/{y}.jpg]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>13</zoomMin>    <!-- 5 -->

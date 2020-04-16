@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={A4694424-B8C8-4469-B80F-2470A8209BA5}
-ParentSubMenu_ru=Туристические\Многослойные
-ParentSubMenu_uk=Туристические\Многослойные
-ParentSubMenu=Tourism\Karelia
+ParentSubMenu_ru=Топокарты\Многослойные
+ParentSubMenu_uk=Топокарти\Багатошаровий
+ParentSubMenu=Topomaps\Multilayer
 name_ru=RusOutdoor maps iite
 name_uk=RusOutdoor maps iite
 name=RusOutdoor maps iite
@@ -14,3 +14,4 @@ DefURLBase=https://anygis.ru/api/v1/Combo_RusOutdoor_lite/{x}/{y}/{z}
 RequestHead=Referer:http://www.sasgis.org/
 ContentType=image/jpeg,image/png
 Ext=.jpg
+DetectContentType=1

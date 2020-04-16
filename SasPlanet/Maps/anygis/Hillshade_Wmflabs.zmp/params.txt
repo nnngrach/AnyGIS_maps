@@ -14,4 +14,5 @@ DefURLBase=https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
 ContentType=image/jpeg,image/png
 Ext=.png
+DetectContentType=1
 License= © Wmflabs.org

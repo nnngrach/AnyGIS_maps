@@ -5,7 +5,7 @@
 https://anygis.ru/api/v1/Tracks_Gps_Tracks_layer/{x}/{y}/{z}
 
 [URL direct]
-https://gps-{s}.tile.openstreetmap.org/lines/{z}/{x}/{y}.png
+https://gps.tile.openstreetmap.org/lines/{z}/{x}/{y}.png
 
 [Server parts]
 a;b;c

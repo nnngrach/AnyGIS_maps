@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - OSM Thunderforest Transport Day</name>
+<name>🚗 = 🌍 - OSM Thunderforest Transport (day)</name>
 <layers>
 
 <layer>

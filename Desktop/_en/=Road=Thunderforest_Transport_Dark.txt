@@ -1,5 +1,5 @@
 [Name]
-Road - OSM Thunderforest Transport Night
+Road - OSM Thunderforest Transport (night)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Transport_Map_dark/{x}/{y}/{z}

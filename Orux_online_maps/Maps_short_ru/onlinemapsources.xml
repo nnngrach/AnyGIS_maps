@@ -153,7 +153,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030005">
-<name>OSM Thunderforest Transport День (ROAD)</name>
+<name>OSM Thunderforest Transport (день) (ROAD)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -168,7 +168,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030007">
-<name>TomTom День (ROAD)</name>
+<name>TomTom (день) (ROAD)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -212,8 +212,23 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1041001">
+<name>OSM Чепецк.net (BIKEEURASIA)</name>
+<url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1042003">
-<name>OSM Mtbmap.cz (BIKEEUROPE)</name>
+<name>OSM MTBmap.cz (BIKEEUROPE)</name>
 <url><![CDATA[http://tile.mtbmap.cz/mtbmap_tiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -229,7 +244,7 @@
 
 <onlinemapsource uid="1050003">
 <name>OSM 4U maps (HIKE)</name>
-<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[https://tileserver.4umaps.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -574,7 +589,7 @@
 
 <onlinemapsource uid="2050017">
 <name>OSM OpenStreetMap - GPS Треки (OVERLAYHIKE)</name>
-<url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[https://gps.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

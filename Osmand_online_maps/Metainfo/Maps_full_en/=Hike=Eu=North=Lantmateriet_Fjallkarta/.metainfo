@@ -1,5 +1,5 @@
 [url_template]
-https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{0}/{1}/{2}.jpg
+https://git.beroni.us/Lantmateriets-Fjallkarta/tiles/{0}/{1}/{2}.jpg
 [randoms]
 
 [min_zoom]

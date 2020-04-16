@@ -5,7 +5,7 @@
 https://anygis.ru/api/v1/Other_Ukr_Luxena/{x}/{y}/{z}
 
 [URL direct]
-http://tiles.luxena.com/navlux/{z}/{x}/{y}.png
+http://tiles.mq.ua/{z}/{x}/{y}.png
 
 [Min Zoom level]
 0

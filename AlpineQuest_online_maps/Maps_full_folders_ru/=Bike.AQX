@@ -33,6 +33,29 @@
     </source>
 
 
+    <source id="1041001">
+        <name>🚲 = 🇷🇺 - OSM Чепецк.net</name>
+        <copyright>OpenStreetMap</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>50.03,58.54,14</preview-location>
+        
+
+        <level>
+            <zoom-values>2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="1042001">
         <name>🚲 = 🇪🇺- Google Велодорожки</name>
         <copyright>Google & others</copyright>
@@ -62,7 +85,7 @@
 
 
     <source id="1042003">
-        <name>🚲 = 🇪🇺- OSM Mtbmap.cz</name>
+        <name>🚲 = 🇪🇺- OSM MTBmap.cz</name>
         <copyright>OpenStreetMap, Mtbmap.cz</copyright>
         <data-source></data-source>
         <region>WRLD</region>

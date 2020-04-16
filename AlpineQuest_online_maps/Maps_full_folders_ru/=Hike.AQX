@@ -805,6 +805,29 @@
     </source>
 
 
+    <source id="1054101">
+        <name>🥾 = 🇧🇾 - ГШ векторный</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>27.6,53.9,12</preview-location>
+        <outline>22.9,56.3 32.9,56.3 32.9,51.1 22.9,51.1</outline>
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://orda.of.by/.map/?53.889612,27.404438&m=ev/13]]></referer>
+                <server><![CDATA[http://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="1054201">
         <name>🥾 = 🇰🇬 - Киргизский хребет</name>
         
@@ -1148,6 +1171,29 @@
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Local_Turk1/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1056501">
+        <name>🥾 = 🇳🇵 - Непал</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>82.92,28.71,5</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_Nepal/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

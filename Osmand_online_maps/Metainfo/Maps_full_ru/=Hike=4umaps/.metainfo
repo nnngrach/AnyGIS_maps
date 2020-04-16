@@ -1,5 +1,5 @@
 [url_template]
-http://www.4umaps.eu/{0}/{1}/{2}.png
+https://tileserver.4umaps.com/{0}/{1}/{2}.png
 [randoms]
 
 [min_zoom]

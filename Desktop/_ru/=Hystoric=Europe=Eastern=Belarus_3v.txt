@@ -5,10 +5,13 @@
 https://anygis.ru/api/v1/Historic_Belarus_3v/{x}/{y}/{z}
 
 [URL direct]
-https://globus.tut.by/.tiles/3v/Z{z}/{y}/{x}.jpg
+https://globus.tut.by/.tiles/3v_jan20/Z{z}/{y}/{x}.jpg
 
 [Min Zoom level]
 10
 
 [Max Zoom level]
 14
+
+[HTTP Referer]
+https://orda.of.by/.map/?53.896475,27.547618&m=3v/13

@@ -12,7 +12,7 @@
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[http://www.4umaps.eu/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[https://tileserver.4umaps.com/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

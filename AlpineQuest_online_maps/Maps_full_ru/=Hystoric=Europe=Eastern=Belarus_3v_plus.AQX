@@ -22,8 +22,8 @@
             <update-delay>4166D</update-delay>
 
             <servers>
-                
-                <server><![CDATA[http://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg]]></server>
+                <referer><![CDATA[https://orda.of.by/.map/?53.896475,27.547618&m=gm/17]]></referer>
+                <server><![CDATA[http://fgb.by/.tiles/3v_tmp56/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>
     </source>

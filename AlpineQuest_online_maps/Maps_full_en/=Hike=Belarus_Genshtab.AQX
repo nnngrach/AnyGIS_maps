@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Hike</name>
+<description></description>
+
+    <source id="1054101">
+        <name>🥾 = 🇧🇾 - Vector map</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>TOPO</type>
+
+        <preview-location>27.6,53.9,12</preview-location>
+        <outline>22.9,56.3 32.9,56.3 32.9,51.1 22.9,51.1</outline>
+
+        <level>
+            <zoom-values>5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://orda.of.by/.map/?53.889612,27.404438&m=ev/13]]></referer>
+                <server><![CDATA[http://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

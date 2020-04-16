@@ -1,5 +1,5 @@
 [Name]
-Автомобильные - TomTom Ночь
+Автомобильные - TomTom (ночь)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/TomTom_base_night/{x}/{y}/{z}

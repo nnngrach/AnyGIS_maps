@@ -52,6 +52,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Chepezk.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Chepezk.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Google_Bike_Ru.xml]]>
 </source>
 <dest>

@@ -11,7 +11,7 @@
 
 <provider id="1030005" type="0" visible="true" background="-1">
 <name>Автомобильные</name>
-<mode>🚗 = OSM Thunderforest Transport День</mode>
+<mode>🚗 = OSM Thunderforest Transport (день)</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

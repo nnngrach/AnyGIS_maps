@@ -1,9 +1,9 @@
 ﻿
 [PARAMS]
 GUID={6501F521-FF39-42B8-BBF6-F4024B86EEA2}
-ParentSubMenu_ru=Справочные\Россия
-ParentSubMenu_uk=Справочные\Россия
-ParentSubMenu=Info\Russia
+ParentSubMenu_ru=Подписи и границы\Россия
+ParentSubMenu_uk=Підписи та межі\Росія
+ParentSubMenu=Labels and borders\Russia
 name_ru=RosReestr.ru - Кадастровые границы
 name_uk=RosReestr.ru - Кадастровые границы
 name=RosReest.ru - Cadaster
@@ -14,4 +14,5 @@ DefURLBase=https://pkk.rosreestr.ru/arcgis/rest/services/PKK6/Cadastre/MapServer
 RequestHead=Referer:https://pkk.rosreestr.ru\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
 ContentType=image/jpeg,image/png
 Ext=.png
+DetectContentType=1
 License= © Rosreestr

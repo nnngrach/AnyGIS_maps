@@ -874,7 +874,7 @@
 
 <onlinemapsource uid="1022002">
 <name>Ukraine - Navlux (CITYEUEAST)</name>
-<url><![CDATA[http://tiles.luxena.com/navlux/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[http://tiles.mq.ua/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -993,7 +993,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030005">
-<name>OSM Thunderforest Transport Day (ROAD)</name>
+<name>OSM Thunderforest Transport (day) (ROAD)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -1008,7 +1008,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030006">
-<name>OSM Thunderforest Transport Night (ROAD)</name>
+<name>OSM Thunderforest Transport (night) (ROAD)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport-dark/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -1023,7 +1023,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030007">
-<name>TomTom Day (ROAD)</name>
+<name>TomTom (day) (ROAD)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -1038,7 +1038,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030008">
-<name>TomTom Night (ROAD)</name>
+<name>TomTom (night) (ROAD)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -1097,6 +1097,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1041001">
+<name>OSM Chepezk.Net cycle map (BIKEEURASIA)</name>
+<url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>2</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1042002">
 <name>Google Bike EN (BIKEEUROPE)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=en&scale=1]]></url>
@@ -1113,7 +1128,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1042003">
-<name>OSM Mtbmap.cz (BIKEEUROPE)</name>
+<name>OSM MTBmap.cz (BIKEEUROPE)</name>
 <url><![CDATA[http://tile.mtbmap.cz/mtbmap_tiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -1129,7 +1144,7 @@
 
 <onlinemapsource uid="1050003">
 <name>OSM 4U maps (HIKE)</name>
-<url><![CDATA[http://www.4umaps.eu/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[https://tileserver.4umaps.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -1712,6 +1727,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1054101">
+<name>Vector map (HIKEEUEAST)</name>
+<url><![CDATA[https://globus.tut.by/.tiles/ev/Z{$z}/{$y}/{$x}.png]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1054201">
 <name>Kyrgyz Ala-Too Range (HIKEASIACENTRAL)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Kyrgiz1/{$x}/{$y}/{$z}]]></url>
@@ -1789,7 +1819,7 @@
 
 <onlinemapsource uid="1054307">
 <name>Lantmäteriets Fjällkarta (HIKEEUNORTH)</name>
-<url><![CDATA[https://johanberonius.github.io/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg]]></url>
+<url><![CDATA[https://git.beroni.us/Lantmateriets-Fjallkarta/tiles/{$z}/{$x}/{$y}.jpg]]></url>
 <servers></servers>
 <maxzoom>12</maxzoom>
 <minzoom>5</minzoom>
@@ -1967,6 +1997,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1056501">
+<name>Nepal (HIKEASIASOUTH)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Nepal/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1057001">
 <name>USGS National Map - Topo (HIKEAMERICA)</name>
 <url><![CDATA[http://basemap.nationalmap.gov/ArcGIS/rest/services/USGSTopo/MapServer/tile/{$z}/{$y}/{$x}]]></url>
@@ -2068,6 +2113,21 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1140001">
+<name>New Zealand Topo (HIKE)</name>
+<url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>6</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -2689,7 +2749,7 @@
 
 <onlinemapsource uid="1112201">
 <name>Belarus 3 verstovaya (HYSTORYCEUEAST)</name>
-<url><![CDATA[https://globus.tut.by/.tiles/3v/Z{$z}/{$y}/{$x}.jpg]]></url>
+<url><![CDATA[https://globus.tut.by/.tiles/3v_jan20/Z{$z}/{$y}/{$x}.jpg]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
 <minzoom>10</minzoom>
@@ -2743,21 +2803,6 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1140001">
-<name>New Zealand Topo (HIKE)</name>
-<url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>6</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -3334,7 +3379,7 @@
 
 <onlinemapsource uid="2050017">
 <name>OSM OpenStreetMap - GPS Tracks (OVERLAYHIKE)</name>
-<url><![CDATA[https://gps-{$s}.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[https://gps.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -4254,6 +4299,22 @@
 <maxzoom>13</maxzoom>
 <minzoom>3</minzoom>
 <projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2090101">
+<name>OSM Electric Transmission Lines (OVERLAYINFOSTRUCT)</name>
+<url><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}
+]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
 <xop></xop>

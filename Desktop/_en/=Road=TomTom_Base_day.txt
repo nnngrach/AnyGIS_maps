@@ -1,5 +1,5 @@
 [Name]
-Road - TomTom Day
+Road - TomTom (day)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/TomTom_base_day/{x}/{y}/{z}

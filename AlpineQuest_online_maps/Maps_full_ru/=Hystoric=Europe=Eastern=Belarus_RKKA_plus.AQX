@@ -22,7 +22,7 @@
             <update-delay>4166D</update-delay>
 
             <servers>
-                
+                <referer><![CDATA[https://orda.of.by/.map/?53.893452,27.499336&m=rkka_v2/13]]></referer>
                 <server><![CDATA[http://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>

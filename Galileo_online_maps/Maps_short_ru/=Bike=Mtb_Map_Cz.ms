@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🇪🇺- OSM Mtbmap.cz</name>
+<name>🚲 = 🇪🇺- OSM MTBmap.cz</name>
 <layers>
 
 <layer>

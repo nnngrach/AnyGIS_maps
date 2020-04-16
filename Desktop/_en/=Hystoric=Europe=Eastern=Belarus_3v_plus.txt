@@ -5,10 +5,13 @@ Hystoric - Belarus 3 verstovaya+
 https://anygis.ru/api/v1/Historic_Belarus_3v_plus/{x}/{y}/{z}
 
 [URL direct]
-https://orda.of.by/.tiles/3vq/Z{z}/{y}/{x}.jpg
+https://fgb.by/.tiles/3v_tmp56/Z{z}/{y}/{x}.jpg
 
 [Min Zoom level]
 10
 
 [Max Zoom level]
 14
+
+[HTTP Referer]
+https://orda.of.by/.map/?53.896475,27.547618&m=gm/17

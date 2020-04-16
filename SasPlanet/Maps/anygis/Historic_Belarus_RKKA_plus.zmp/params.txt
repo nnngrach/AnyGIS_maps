@@ -1,0 +1,17 @@
+﻿
+[PARAMS]
+GUID={57B15A24-C570-4B3D-B86F-C66D86CEFEDB}
+ParentSubMenu_ru=Исторические\Беларусь
+ParentSubMenu_uk=Історичні\Білорусь
+ParentSubMenu=Historic\Belarus
+name_ru=Беларусь РККА 500м
+name_uk=Беларусь РККА 500м
+name=Belarus RKKA 500m
+NameInCache=Historic_Belarus_RKKA_plus
+asLayer=0
+EPSG=3785
+DefURLBase=https://globus.tut.by/.tiles/rkka_v2/Z{z}/{y}/{x}.jpg
+RequestHead=Referer:https://orda.of.by/.map/?53.893452,27.499336&m=rkka_v2/13\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.jpg
+DetectContentType=1

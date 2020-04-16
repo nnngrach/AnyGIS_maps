@@ -5,7 +5,7 @@ Satellites - Gov.ua - Orthophoto
 https://anygis.ru/api/v1/Other_Ukr_Kadastr_Sat/{x}/{y}/{z}
 
 [URL direct]
-https://map.land.gov.ua/map/ortho10k_all/{z}/{x}/{-y}.jpg
+https://m1.land.gov.ua/map/ortho10k_all/8/145/168.jpg/{z}/{x}/{-y}.jpg
 
 [Min Zoom level]
 0

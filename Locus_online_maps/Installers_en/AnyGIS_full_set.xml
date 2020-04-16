@@ -799,6 +799,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Chepezk.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Chepezk.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike.xml]]>
 </source>
 <dest>
@@ -1204,6 +1213,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Belarus_Genshtab.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Belarus_Genshtab.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
 </source>
 <dest>
@@ -1357,6 +1375,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Asia=South=Nepal.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=South=Nepal.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Us=Usgs_Topo.xml]]>
 </source>
 <dest>
@@ -1424,6 +1451,24 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Other=All.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Hike.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=NewZeland_Topo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=NewZeland_Topo.xml]]>
 </dest>
 </download>
 
@@ -1982,24 +2027,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Geology=VsegeiRu_Geology.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Hike.png]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Hike.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=NewZeland_Topo.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=NewZeland_Topo.xml]]>
 </dest>
 </download>
 
@@ -3008,6 +3035,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay - Infrastructure.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Infrastructure=Local_Ru_Energy.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Local_Ru_Energy.xml]]>
 </dest>
 </download>
 

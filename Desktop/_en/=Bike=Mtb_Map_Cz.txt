@@ -1,5 +1,5 @@
 [Name]
-Bike - OSM Mtbmap.cz
+Bike - OSM MTBmap.cz
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_MTB_Map_Europe/{x}/{y}/{z}

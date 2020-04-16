@@ -59,4 +59,13 @@
 </dest>
 </download>
 
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=Local_Ru_Energy.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Local_Ru_Energy.xml]]>
+</dest>
+</download>
+
 </locusActions>

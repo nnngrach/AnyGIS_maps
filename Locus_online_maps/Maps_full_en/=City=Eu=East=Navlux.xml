@@ -12,7 +12,7 @@
 <countries>Ukraine</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[http://tiles.luxena.com/navlux/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[http://tiles.mq.ua/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

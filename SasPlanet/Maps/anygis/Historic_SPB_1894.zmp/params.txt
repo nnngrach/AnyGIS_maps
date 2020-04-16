@@ -1,0 +1,18 @@
+﻿
+[PARAMS]
+GUID={933BE2FE-6AC3-4BF0-9D3D-7D6D80930E30}
+ParentSubMenu_ru=Исторические\Россия\Санкт-Петербург и ЛенОбласть
+ParentSubMenu_uk=Історичні\Росія\Санкт-Петербург i ЛенОбласть
+ParentSubMenu=Historic\Russia\Sankt-Peterburg region
+name_ru=Санкт-Петербург 1894
+name_uk=Санкт-Петербург 1894
+name=Saint Petersburg 1894
+NameInCache=Historic_SPB_1894
+asLayer=0
+EPSG=3785
+DefURLBase=http://www.retromap.ru/tiles/h/9/141894/Z{z}/{y}/{x}.jpg
+RequestHead=Referer:http://www.retromap.ru/m/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.jpg
+DetectContentType=1
+License= © Retromap.ru

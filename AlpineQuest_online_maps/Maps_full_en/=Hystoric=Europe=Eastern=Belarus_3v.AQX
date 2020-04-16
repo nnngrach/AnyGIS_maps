@@ -22,8 +22,8 @@
             <update-delay>4166D</update-delay>
 
             <servers>
-                
-                <server><![CDATA[http://globus.tut.by/.tiles/3v/Z{z}/{y}/{x}.jpg]]></server>
+                <referer><![CDATA[https://orda.of.by/.map/?53.896475,27.547618&m=3v/13]]></referer>
+                <server><![CDATA[http://globus.tut.by/.tiles/3v_jan20/Z{z}/{y}/{x}.jpg]]></server>
             </servers>
         </level>
     </source>

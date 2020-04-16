@@ -81,7 +81,7 @@
 
 
     <source id="1030007">
-        <name>🚗 = 🌍 - TomTom Day</name>
+        <name>🚗 = 🌍 - TomTom (day)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -109,7 +109,7 @@
 
 
     <source id="1030008">
-        <name>🚗 = 🌍 - TomTom Night</name>
+        <name>🚗 = 🌍 - TomTom (night)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>

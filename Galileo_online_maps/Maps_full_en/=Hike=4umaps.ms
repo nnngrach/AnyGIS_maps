@@ -9,7 +9,7 @@
 <layer>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>
-    <url>http://www.4umaps.eu/{$z}/{$x}/{$y}.png</url>
+    <url>https://tileserver.4umaps.com/{$z}/{$x}/{$y}.png</url>
 </layer>
 
 </layers>

@@ -1,0 +1,14 @@
+[Name]
+Hike - Nepal
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Nepal/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/tourism/nepal/{z}/{x}/{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+18

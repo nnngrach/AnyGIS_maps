@@ -1,0 +1,18 @@
+﻿
+[PARAMS]
+GUID={5D257A26-3493-4ADC-97EB-E9B7130A709F}
+ParentSubMenu_ru=Исторические\Россия\Санкт-Петербург и ЛенОбласть
+ParentSubMenu_uk=Історичні\Росія\Санкт-Петербург i ЛенОбласть
+ParentSubMenu=Historic\Russia\Sankt-Peterburg region
+name_ru=Санкт-Петербург 1883 (план Вортникова)
+name_uk=Санкт-Петербург 1883 (план Вортникова)
+name=Saint Petersburg 1883
+NameInCache=Historic_SPB_1883
+asLayer=0
+EPSG=3785
+DefURLBase=http://www.hutun.ru/tiles/8/1418833/Z{z}/{y}/{x}.jpg
+RequestHead=Referer:http://www.retromap.ru/m/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+ContentType=image/jpeg,image/png
+Ext=.jpg
+DetectContentType=1
+License= © Retromap.ru

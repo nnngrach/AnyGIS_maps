@@ -8,7 +8,7 @@
 
 <provider id="1042003" type="0" visible="true" background="-1">
 <name>Bike</name>
-<mode>🚲 = 🇪🇺- OSM Mtbmap.cz</mode>
+<mode>🚲 = 🇪🇺- OSM MTBmap.cz</mode>
 <countries>World</countries>
 <usage>cycle</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -1,5 +1,5 @@
 [Name]
-Автомобильные - OSM Thunderforest Transport День
+Автомобильные - OSM Thunderforest Transport (день)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Osm_Transport_Map/{x}/{y}/{z}

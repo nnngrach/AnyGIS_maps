@@ -2,7 +2,7 @@
 [PARAMS]
 GUID={F224BE12-F871-4F9A-8109-9FFDD6592261}
 ParentSubMenu_ru=Спутниковые
-ParentSubMenu_uk=Спутниковые
+ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
 name_ru=Maxar (via Facebook RapID) zoom 11-18
 name_uk=Maxar (via Facebook RapID) zoom 11-18
@@ -14,4 +14,5 @@ DefURLBase=https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collabora
 RequestHead=Referer:https://mapwith.ai/rapid\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
 ContentType=image/jpeg,image/png
 Ext=.jpg
+DetectContentType=1
 License= © Maxar
