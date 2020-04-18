@@ -2102,21 +2102,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1058301">
-<name>Nakarte Топо (Все масштабы) (HIKERUALLOTHER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Combo_Best_Topo/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1060001">
 <name>OSM Mapy.cz - Winter (WINTER)</name>
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/winter-m/{$z}-{$x}-{$y}]]></url>
