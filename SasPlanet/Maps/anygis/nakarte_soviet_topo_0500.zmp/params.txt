@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={4065B464-4C05-4BA0-A08C-C621022B0827}
-ParentSubMenu_ru=Топокарты\Советские
-ParentSubMenu_uk=Топокарти\Радянський
-ParentSubMenu=Topomaps\Soviet
-name_ru=Nakarte Топо 0.5 км
-name_uk=Nakarte Топо 0.5 км
-name=Nakarte Topomaps 500m
+
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
+
+name_ru=Генштаб 500 м (Nakarte.me)
+name_uk=Генштаб 500 м (Nakarte.me)
+name=Genshtab 500 m (Nakarte.me)
+
 NameInCache=nakarte_soviet_topo_0500
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://tiles.nakarte.me/topo500/{z}/{x}/{-y}
+
 RequestHead=Referer:http://www.sasgis.org/
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png

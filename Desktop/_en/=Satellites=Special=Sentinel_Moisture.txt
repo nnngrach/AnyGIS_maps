@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel Moisture index
+Satellites - Sentinel Moisture index
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_Moisture/{x}/{y}/{z}

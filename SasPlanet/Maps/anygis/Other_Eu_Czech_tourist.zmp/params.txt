@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={4D6FDAF8-8DCA-439C-B10E-67A8410DA7AA}
+
 ParentSubMenu_ru=Туристические
 ParentSubMenu_uk=Туристичний
 ParentSubMenu=Hike
+
 name_ru=OSM Mapy.cz - Outdoor
 name_uk=OSM Mapy.cz - Outdoor
 name=OSM Mapy.cz Outdoor
+
 NameInCache=Other_Eu_Czech_tourist
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://m{s}.mapserver.mapy.cz/turist-m/{z}-{x}-{y}
+
 ServerNames=1,2,3,4
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Mapy.cz

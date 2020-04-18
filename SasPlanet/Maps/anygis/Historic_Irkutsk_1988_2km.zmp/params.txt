@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={D39BA288-DB9A-444F-90DE-D8B80198A3DA}
+
 ParentSubMenu_ru=Исторические\Россия\Сибирь
 ParentSubMenu_uk=Історичні\Росія\Сибір
 ParentSubMenu=Historic\Russia\Syberia
+
 name_ru=Иркутск и окрестноски 2км 1988
 name_uk=Иркутск и окрестноски 2км 1988
 name=Irkutsk 2km 1988
+
 NameInCache=Historic_Irkutsk_1988_2km
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://www.retromap.ru/tiles/r/8/1419884/Z{z}/{y}/{x}.jpg
+
 RequestHead=Referer:http://www.retromap.ru/m/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Retromap.ru

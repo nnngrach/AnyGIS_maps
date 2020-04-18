@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={5C505FA2-28D1-4008-84A6-3571E5F063BB}
+
 ParentSubMenu_ru=Спутниковые
 ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
+
 name_ru=Google - Гибрид
 name_uk=Google - Гибрид
 name=Google - Hybrid RU
+
 NameInCache=Google_Sat_RU_SD
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://mt{s}.google.com/vt/lyrs=y@176103410&x={x}&y={y}&z={z}&s=Galileo&scale=1&hl=ru
+
 ServerNames=0,1,2,3
 RequestHead=Referer:https://www.google.com/maps/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Google & others

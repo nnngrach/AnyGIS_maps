@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={89BA4332-E79A-40F0-9BC1-AF05BCFE52FC}
+
 ParentSubMenu_ru=Туристические
 ParentSubMenu_uk=Туристичний
 ParentSubMenu=Hike
+
 name_ru=Strava Heatmap - Бег
 name_uk=Strava Heatmap - Бег
 name=Strava Heatmap - Run
+
 NameInCache=Tracks_Strava_Run
 asLayer=1
 EPSG=3785
+
 DefURLBase=https://anygis.ru/api/v1/Tracks_Strava_Run/{x}/{y}/{z}
+
 RequestHead=Referer:https://www.strava.com/heatmap\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Strava

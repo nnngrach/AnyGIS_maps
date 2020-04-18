@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={917C7B42-52B2-42DD-9BA3-37543880AE71}
+
 ParentSubMenu_ru=Сотовые сети
 ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
+
 name_ru=Билайн - 2G
 name_uk=Билайн - 2G
 name=Beeline - 2G
+
 NameInCache=Mobile_Coverage_Beeline_2G
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://static.beeline.ru/upload/tiles/2G/current/{z}/{x}/{y}.png
+
 RequestHead=Referer:https://moskva.beeline.ru/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Билайн

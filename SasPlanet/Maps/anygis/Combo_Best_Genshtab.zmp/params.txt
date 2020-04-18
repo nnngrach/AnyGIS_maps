@@ -1,0 +1,23 @@
+﻿
+[PARAMS]
+GUID={1B4DBA95-88DC-483F-AC55-5EB5C592B280}
+
+ParentSubMenu_ru=Топокарты\Генштаб
+ParentSubMenu_uk=Топокарти\Генштаб
+ParentSubMenu=Topomaps\Soviet military maps
+
+name_ru=Генштаб (Все масштабы)
+name_uk=Генштаб (Все масштабы)
+name=Genshtab Compilation
+
+NameInCache=Combo_Best_Genshtab
+asLayer=0
+EPSG=3785
+
+DefURLBase=https://anygis.ru/api/v1/Combo_Best_Genshtab/{x}/{y}/{z}
+
+RequestHead=Referer:http://www.sasgis.org/
+
+Ext=.jpg
+DetectContentType=1
+ContentType=image/jpeg,image/png

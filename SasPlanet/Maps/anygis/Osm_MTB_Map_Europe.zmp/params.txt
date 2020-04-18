@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={396912D3-0DC8-483B-99CE-D50919242615}
+
 ParentSubMenu_ru=Велосипедные
 ParentSubMenu_uk=Велосипедний
 ParentSubMenu=Cycle
+
 name_ru=OSM MTBmap.cz
 name_uk=OSM MTBmap.cz
 name=OSM MTBmap.cz
+
 NameInCache=Osm_MTB_Map_Europe
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://tile.mtbmap.cz/mtbmap_tiles/{z}/{x}/{y}.png
+
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © OpenStreetMap, Mtbmap.cz

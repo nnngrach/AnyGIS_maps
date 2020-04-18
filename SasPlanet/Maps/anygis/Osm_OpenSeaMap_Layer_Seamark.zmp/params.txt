@@ -1,20 +1,26 @@
 ﻿
 [PARAMS]
 GUID={AB8A8685-AEC6-4E16-80DA-DC4AC37E4777}
+
 ParentSubMenu_ru=Водные карты
 ParentSubMenu_uk=Водні карти
 ParentSubMenu=Water maps
+
 name_ru=OSM OpenSeaMap
 name_uk=OSM OpenSeaMap
 name=OSM OpenSeaMap
+
 NameInCache=Osm_OpenSeaMap_Layer_Seamark
 asLayer=1
 EPSG=3785
+
 DefURLBase=http://tiles.openseamap.org/seamark/{z}/{x}/{y}.png
+
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 CacheType=9
 UseMemCache=1
 MemCacheCapacity=100

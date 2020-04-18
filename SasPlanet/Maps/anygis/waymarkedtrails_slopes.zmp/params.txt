@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={D6A4DEC7-4BBC-4411-8707-28F4E4A683CF}
+
 ParentSubMenu_ru=Зимние
 ParentSubMenu_uk=Зимовий
 ParentSubMenu=Winter
+
 name_ru=OSM WayMarkedTrails- Зимние
 name_uk=OSM WayMarkedTrails- Зимние
 name=OSM WayMarkedTrails - Slopes
+
 NameInCache=waymarkedtrails_slopes
 asLayer=1
 EPSG=3785
+
 DefURLBase=http://tile.waymarkedtrails.org/slopes/{z}/{x}/{y}.png
+
 RequestHead=Referer:https://slopes.waymarkedtrails.org/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © WayMarkeredTrails

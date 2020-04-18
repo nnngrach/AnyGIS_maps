@@ -7,7 +7,7 @@
 <providers>
 
 <provider id="1012001" type="0" visible="true" background="-1">
-<name>Спутниковые - Казахстан</name>
+<name>Спутниковые</name>
 <mode>🛰 = 🇰🇿 - Атырау 2019</mode>
 <countries>Kazakhstan</countries>
 <usage>photo</usage>

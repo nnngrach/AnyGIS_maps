@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Чистый - 02 Февраль
+Спутниковые - Sentinel - Чистый - 02 Февраль
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_February/{x}/{y}/{z}

@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={1119C731-E127-482B-B22C-CE51F9C0593A}
+
 ParentSubMenu_ru=Велосипедные
 ParentSubMenu_uk=Велосипедний
 ParentSubMenu=Cycle
+
 name_ru=OSM Cyclosm
 name_uk=OSM Cyclosm
 name=OSM Cyclosm
+
 NameInCache=Osm_Cyclosm
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://dev.{s}.tile.openstreetmap.fr/cyclosm/{z}/{x}/{y}.png
+
 ServerNames=a,b,c
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © OpenStreetMap, Cyclosm.org

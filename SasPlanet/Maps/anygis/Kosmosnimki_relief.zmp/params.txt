@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={C45DEEF8-E62D-4415-AB3A-25CA54DF8EF8}
+
 ParentSubMenu_ru=Городские и универсальные\Россия
 ParentSubMenu_uk=Міські та універсальні\Росія
 ParentSubMenu=City\Russia
+
 name_ru=OSM Kosmosnimki.ru - рельеф
 name_uk=OSM Kosmosnimki.ru - рельеф
 name=OSM Kosmosnimki.ru - relief
+
 NameInCache=Kosmosnimki_relief
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://{s}tilecart.kosmosnimki.ru/rw/{z}/{x}/{y}.png
+
 ServerNames=a,b,c,d
 RequestHead=Referer:https://kosmosnimki.ru/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © OpenStreetMap, Kosmosnimki

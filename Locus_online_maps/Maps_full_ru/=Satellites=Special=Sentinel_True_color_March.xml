@@ -7,7 +7,7 @@
 <providers>
 
 <provider id="1019021" type="0" visible="true" background="-1">
-<name>Спутниковые - Специальные</name>
+<name>Спутниковые</name>
 <mode>🛰 =🔧- Sentinel - Чистый - 03 Март</mode>
 <countries>World</countries>
 <usage>photo</usage>

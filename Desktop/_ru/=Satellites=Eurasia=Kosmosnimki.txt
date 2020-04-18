@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Евразия - Космоснимки.ру
+Спутниковые - Космоснимки.ру
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Kosmosnimki_sat/{x}/{y}/{z}

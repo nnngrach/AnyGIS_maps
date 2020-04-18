@@ -12,7 +12,7 @@
 <countries>Kyrgyzstan</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>
-<url><![CDATA[http://map.g-utka.ru/{z}/{x}/{y}.png]]></url>
+<url><![CDATA[https://nakartetiles.s3.eu-central-1.amazonaws.com/{z}/{x}/{y}.png]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>10</zoomMin>    <!-- 2 -->

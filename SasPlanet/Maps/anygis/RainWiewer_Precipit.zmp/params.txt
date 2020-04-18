@@ -1,20 +1,26 @@
 ﻿
 [PARAMS]
 GUID={BFD4F879-1325-4F70-8380-2FE1D9A80757}
+
 ParentSubMenu_ru=Справочные
 ParentSubMenu_uk=Інформаційний
 ParentSubMenu=Info
+
 name_ru=RainWiewer - Осадки сейчас
 name_uk=RainWiewer - Осадки сейчас
 name=RainWiewer - Precipitation
+
 NameInCache=RainWiewer_Precipit
 asLayer=1
 EPSG=3785
+
 DefURLBase=https://anygis.ru/api/v1/RainWiewer_Precipit/{x}/{y}/{z}
+
 RequestHead=Referer:http://www.sasgis.org/
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 CacheType=9
 UseMemCache=1
 MemCacheCapacity=100

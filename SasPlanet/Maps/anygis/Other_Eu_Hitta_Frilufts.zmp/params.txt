@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={0F70F7E5-0F05-4899-93D4-52118BCC524B}
+
 ParentSubMenu_ru=Туристические\Европа Северная
 ParentSubMenu_uk=Туристичний\Європа Північна
 ParentSubMenu=Hike\Europe Northern
+
 name_ru=Hitta Frilufts
 name_uk=Hitta Frilufts
 name=Hitta Frilufts
+
 NameInCache=Other_Eu_Hitta_Frilufts
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://static.hitta.se/tile/v3/4_2x/{z}/{x}/{-y}
+
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Hitta

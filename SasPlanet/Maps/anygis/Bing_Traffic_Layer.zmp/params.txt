@@ -1,20 +1,26 @@
 ﻿
 [PARAMS]
 GUID={5E00A1FC-1A81-496E-BA77-0487635AF520}
+
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
+
 name_ru=Bing - Пробки
 name_uk=Bing - Пробки
 name=Bing - Traffic
+
 NameInCache=Bing_Traffic_Layer
 asLayer=1
 EPSG=3785
+
 DefURLBase=https://anygis.ru/api/v1/Bing_traffic_layer/{x}/{y}/{z}
+
 RequestHead=Referer:https://www.bing.com/maps\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 CacheType=9
 UseMemCache=1
 MemCacheCapacity=100

@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel True Color - 09 September
+Satellites - Sentinel True Color - 09 September
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_September/{x}/{y}/{z}

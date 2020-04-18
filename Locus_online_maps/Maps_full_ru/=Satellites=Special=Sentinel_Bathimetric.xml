@@ -7,7 +7,7 @@
 <providers>
 
 <provider id="1019006" type="0" visible="true" background="-1">
-<name>Спутниковые - Специальные</name>
+<name>Спутниковые</name>
 <mode>🛰 =🔧- Sentinel - Подводный (Bathimetric)</mode>
 <countries>World</countries>
 <usage>photo</usage>

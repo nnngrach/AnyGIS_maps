@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={689A806C-BD86-4239-B276-27930B0B50EF}
+
 ParentSubMenu_ru=Спутниковые\Казахстан
 ParentSubMenu_uk=Супутниковий\Казахстан
 ParentSubMenu=Satellite\Kazakhstan
+
 name_ru=Атырау 2019
 name_uk=Атырау 2019
 name=Atyrau 2019
+
 NameInCache=Kazakhstan_Atyrau_Sat
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://geo.eatyrau.kz/geoserver/gwc/service/wms?LAYERS=atyrau%3Aafs_2019_atyrau_5cm&FORMAT=image%2Fpng&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&SRS=EPSG%3A3857&WIDTH=256&HEIGHT=256&BBOX={bbox}
+
 RequestHead=Referer:https://geo.eatyrau.kz/geoserver/gwc/demo/atyrau:afs_2019_atyrau_5cm\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png

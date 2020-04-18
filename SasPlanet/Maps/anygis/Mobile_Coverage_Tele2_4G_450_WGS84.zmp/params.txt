@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={389293D0-7958-4F78-AB74-779005735811}
+
 ParentSubMenu_ru=Сотовые сети
 ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
+
 name_ru=Tele2 - LTE 450
 name_uk=Tele2 - LTE 450
 name=Tele2 - LTE 450
+
 NameInCache=Mobile_Coverage_Tele2_4G_450_WGS84
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://spb.tele2.ru/maps/_skylink/{z}/{x}/{y}.png
+
 RequestHead=Referer:https://spb.tele2.ru/coverage\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Tele2

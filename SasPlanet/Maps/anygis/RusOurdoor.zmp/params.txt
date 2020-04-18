@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={41B5F6BE-6108-4158-AD04-9317E841AE92}
+
 ParentSubMenu_ru=Топокарты\Многослойные
 ParentSubMenu_uk=Топокарти\Багатошаровий
 ParentSubMenu=Topomaps\Multilayer
+
 name_ru=RusOutdoor maps
 name_uk=RusOutdoor maps
 name=RusOutdoor maps
+
 NameInCache=RusOurdoor
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://anygis.ru/api/v1/Combo_RusOutdoor/{x}/{y}/{z}
+
 RequestHead=Referer:http://www.sasgis.org/
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png

@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Казахстан - Атырау 2019
+Спутниковые - Атырау 2019
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Atyrau_Sat/{x}/{y}/{z}

@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={77484D08-28A0-45BC-9EC2-F16428E18D4C}
+
 ParentSubMenu_ru=Сотовые сети
 ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
+
 name_ru=Тинькофф - 4G
 name_uk=Тинькофф - 4G
 name=Tinkoff - 4G
+
 NameInCache=Mobile_Coverage_Tinkoff_4G
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://mobilestatic.tinkoff.ru/coverage/4g/{z}/{x}/{y}.png
+
 RequestHead=Referer:https://www.tinkoff.ru/mobile-operator/coverage\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Тинькофф Мобайл

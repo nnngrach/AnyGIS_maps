@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={EC51489A-9D1C-41EA-AC68-AD13DE81B0F0}
+
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
+
 name_ru=Navizor - Оценка качества дорог
 name_uk=Navizor - Оценка качества дорог
 name=Navizor - Roads quality
+
 NameInCache=Navizor
 asLayer=1
 EPSG=3785
+
 DefURLBase=http://navizor.com:8080/fg/{z}/{x}/{y}.png
+
 RequestHead=Referer:http://www.garmin.ru/maponline/marshruty.php\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= @ Navizor

@@ -821,7 +821,7 @@
             <update-delay>4166D</update-delay>
 
             <servers>
-                <referer><![CDATA[https://orda.of.by/.map/?53.889612,27.404438&m=ev/13]]></referer>
+                <referer><![CDATA[https://orda.of.by/.map/?53.897044,27.482894&m=ev/13]]></referer>
                 <server><![CDATA[http://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png]]></server>
             </servers>
         </level>

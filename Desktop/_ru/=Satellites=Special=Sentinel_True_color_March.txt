@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Чистый - 03 Март
+Спутниковые - Sentinel - Чистый - 03 Март
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_March/{x}/{y}/{z}

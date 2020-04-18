@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={EFD8AF1B-809D-48E0-8E14-1A5DE6670620}
+
 ParentSubMenu_ru=Сотовые сети
 ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
+
 name_ru=МТС - 4G Планируемое
 name_uk=МТС - 4G Планируемое
 name=MTS - 4G Planned
+
 NameInCache=Mobile_Coverage_MTS_4G_planned
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://tiles.qsupport.mts.ru/lte_plan_New/{z}/{x}/{y}
+
 RequestHead=Referer:https://moskva.mts.ru/personal/podderzhka/zoni-obsluzhivaniya/nasha-set/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © ПАО «МТС»

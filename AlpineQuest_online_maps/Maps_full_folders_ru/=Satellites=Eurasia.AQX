@@ -3,11 +3,11 @@
 
 
 
-<name>Спутниковые - Евразия</name>
+<name>Спутниковые</name>
 <description></description>
 
     <source id="1011001">
-        <name>🛰 = 🌍 - Космоснимки.ру</name>
+        <name>🛰 = 🇷🇺 - Космоснимки.ру</name>
         <copyright>Kosmosnimki</copyright>
         <data-source></data-source>
         <region>WRLD</region>

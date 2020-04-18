@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={0E987389-174C-4E94-87A0-E4C3C2677934}
+
 ParentSubMenu_ru=Исторические\Беларусь
 ParentSubMenu_uk=Історичні\Білорусь
 ParentSubMenu=Historic\Belarus
+
 name_ru=Беларусь 3-х верстовая
 name_uk=Беларусь 3-х верстовая
 name=Belarus 3 verstovaya
+
 NameInCache=Historic_Belarus_3v
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://globus.tut.by/.tiles/3v_jan20/Z{z}/{y}/{x}.jpg
+
 RequestHead=Referer:https://orda.of.by/.map/?53.896475,27.547618&m=3v/13\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png

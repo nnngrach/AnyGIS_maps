@@ -1,5 +1,5 @@
 [Name]
-Satellites - Eurasia - Kosmosnimki.ru
+Satellites - Kosmosnimki.ru
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Kosmosnimki_sat/{x}/{y}/{z}

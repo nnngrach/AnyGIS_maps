@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel True Color - 02 February
+Satellites - Sentinel True Color - 02 February
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_February/{x}/{y}/{z}

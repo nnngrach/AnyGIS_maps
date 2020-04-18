@@ -3,11 +3,11 @@
 
 
 
-<name>Satellites - Eurasia</name>
+<name>Satellites</name>
 <description></description>
 
     <source id="1011001">
-        <name>🛰 = 🌍 - Kosmosnimki.ru</name>
+        <name>🛰 = 🇷🇺 - Kosmosnimki.ru</name>
         <copyright>Kosmosnimki</copyright>
         <data-source></data-source>
         <region>WRLD</region>

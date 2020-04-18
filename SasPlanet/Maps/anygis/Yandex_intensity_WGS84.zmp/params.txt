@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={F29497A8-4ADA-4076-8590-22006ED00111}
+
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
+
 name_ru=Яндекс - Интенсивность
 name_uk=Яндекс - Интенсивность
 name=Yandex - Intensity
+
 NameInCache=Yandex_intensity_WGS84
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://core-gpstiles.maps.yandex.net/tiles?style=point&x={x}&y={y}&z={z}
+
 RequestHead=Referer:https://n.maps.yandex.ru/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Яндекс

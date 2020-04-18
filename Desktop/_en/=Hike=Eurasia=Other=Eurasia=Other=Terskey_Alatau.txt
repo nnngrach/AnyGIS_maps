@@ -5,7 +5,7 @@ Hike - Terskey Alatau
 https://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}
 
 [URL direct]
-http://map.g-utka.ru/{z}/{x}/{y}.png
+https://nakartetiles.s3.eu-central-1.amazonaws.com/{z}/{x}/{y}.png
 
 [Min Zoom level]
 2

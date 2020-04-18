@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={16BBE393-814C-4A37-BF28-F7362EC5FB9F}
+
 ParentSubMenu_ru=Спутниковые
 ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
+
 name_ru=Mapbox - Спутник
 name_uk=Mapbox - Спутник
 name=Mapbox - Satellite
+
 NameInCache=Mapbox_Sat
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://api.tiles.mapbox.com/v4/mapbox.satellite/{z}/{x}/{y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg
+
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Mapbox

@@ -9,7 +9,7 @@
 <layer>
     <minZoom>2</minZoom>
     <maxZoom>15</maxZoom>
-    <url>http://map.g-utka.ru/{$z}/{$x}/{$y}.png</url>
+    <url>https://nakartetiles.s3.eu-central-1.amazonaws.com/{$z}/{$x}/{$y}.png</url>
 </layer>
 
 </layers>

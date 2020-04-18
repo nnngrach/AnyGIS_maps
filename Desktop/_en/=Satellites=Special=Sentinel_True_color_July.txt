@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel True Color - 07 July
+Satellites - Sentinel True Color - 07 July
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_July/{x}/{y}/{z}

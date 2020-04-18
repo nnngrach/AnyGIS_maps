@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={0CCADFBF-B5C0-4253-A5B0-55CA47A4996C}
+
 ParentSubMenu_ru=Подписи и границы
 ParentSubMenu_uk=Підписи та межі
 ParentSubMenu=Labels and borders
+
 name_ru=TomTom - Гибрид (день)
 name_uk=TomTom - Гибрид (день)
 name=TomTom - Hybrid (day)
+
 NameInCache=TomTom_labels_day
 asLayer=1
 EPSG=3785
+
 DefURLBase=https://{s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+
 ServerNames=a,b,c,d
 RequestHead=Referer:https://mydrive.tomtom.com/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © TomTom

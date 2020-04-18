@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={E2A08052-019B-4611-8FFC-1A80F19D0730}
+
 ParentSubMenu_ru=Сотовые сети
 ParentSubMenu_uk=Стільниковий зв'язок
 ParentSubMenu=Mobile coverage area
+
 name_ru=Yota - 4G
 name_uk=Yota - 4G
 name=Yota - 4G
+
 NameInCache=Mobile_Coverage_Yota_4G
 asLayer=1
 EPSG=3395
+
 DefURLBase=https://map.yota.ru/tiles/lte/{z}/{x}/{y}.png
+
 RequestHead=Referer:https://www.yota.ru/map?mode=cover&filter=2g,3g,4g\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Yota

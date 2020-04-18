@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={619F193C-1A8D-40E1-8955-7A2D63D735EE}
-ParentSubMenu_ru=Исторические\Беларусь
-ParentSubMenu_uk=Історичні\Білорусь
-ParentSubMenu=Historic\Belarus
+
+ParentSubMenu_ru=Топокарты\Беларусь
+ParentSubMenu_uk=Топокарти\Білорусь
+ParentSubMenu=Topomaps\Belarus
+
 name_ru=Беларусь - Генштаб векторный
 name_uk=Беларусь - Генштаб векторный
-name=Vector map
+name=Belarus - Genshtab (vector)
+
 NameInCache=Historic_Belarus_Genstab
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png
-RequestHead=Referer:https://orda.of.by/.map/?53.889612,27.404438&m=ev/13\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
+RequestHead=Referer:https://orda.of.by/.map/?53.897044,27.482894&m=ev/13\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png

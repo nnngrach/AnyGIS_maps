@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel Geology
+Satellites - Sentinel Geology
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_Geology/{x}/{y}/{z}

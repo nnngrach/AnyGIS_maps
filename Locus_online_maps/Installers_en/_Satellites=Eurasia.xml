@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Eurasia.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Satellites - Eurasia.png]]>
+<![CDATA[/mapsOnline/custom/Satellites.png]]>
 </dest>
 </download>
 

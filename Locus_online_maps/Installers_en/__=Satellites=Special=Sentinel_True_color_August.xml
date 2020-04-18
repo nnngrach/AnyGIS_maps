@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites%20-%20Special.png]]>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Satellites.png]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Satellites - Special.png]]>
+<![CDATA[/mapsOnline/custom/Satellites.png]]>
 </dest>
 </download>
 

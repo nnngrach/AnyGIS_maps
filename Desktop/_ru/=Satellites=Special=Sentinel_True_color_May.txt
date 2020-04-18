@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Чистый - 05 Май
+Спутниковые - Sentinel - Чистый - 05 Май
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_May/{x}/{y}/{z}

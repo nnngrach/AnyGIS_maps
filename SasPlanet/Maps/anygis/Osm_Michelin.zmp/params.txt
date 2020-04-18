@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={B1CC69FC-1151-453F-AD4A-DFEAFC1B383A}
+
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
+
 name_ru=OSM Michelin
 name_uk=OSM Michelin
 name=OSM Michelin transport
+
 NameInCache=Osm_Michelin
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://map{s}.viamichelin.com/map/mapdirect?map=viamichelin&z={z}&x={x}&y={y}&format=png&version=201901161110&layer=background&locale=default&cs=1&protocol=https
+
 ServerNames=1,2,3,4
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © OpenStreetMap, Michelin

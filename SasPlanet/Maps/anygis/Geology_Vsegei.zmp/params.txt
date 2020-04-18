@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={540DED85-9C79-4ADA-B81D-67D6DD0B7558}
+
 ParentSubMenu_ru=Геологические
 ParentSubMenu_uk=Геологічний
 ParentSubMenu=Geology
+
 name_ru=Vsegei.ru
 name_uk=Vsegei.ru
 name=Vsegei.ru
+
 NameInCache=Geology_Vsegei
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://wms.vsegei.ru/VSEGEI_Bedrock_geology/wms?LAYERS=RUSSIA_VSEGEI_1M_BLS&TRANSPARENT=true&FORMAT=image%2Fpng&PROJECTION=EPSG%3A3857&REPROJECT=true&SERVICE=WMS&VERSION=1.1.1&REQUEST=GetMap&STYLES=&SRS=EPSG%3A3857&BBOX={bbox}&WIDTH=256&HEIGHT=256
+
 RequestHead=Referer:http://wms.vsegei.ru/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Vsegei.ru 

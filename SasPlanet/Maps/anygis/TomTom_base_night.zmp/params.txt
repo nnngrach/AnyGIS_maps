@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={6CD6A865-9B99-4856-9C4B-1D5A2F27C85A}
+
 ParentSubMenu_ru=Автомобильные
 ParentSubMenu_uk=Автомобільний
 ParentSubMenu=Transport
+
 name_ru=TomTom (ночь)
 name_uk=TomTom (ночь)
 name=TomTom (night)
+
 NameInCache=TomTom_base_night
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://{s}-mydrive.api-system.tomtom.com/map/1/tile/basic/night/{z}/{x}/{y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg
+
 ServerNames=a,b,c,d
 RequestHead=Referer:https://mydrive.tomtom.com/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © TomTom

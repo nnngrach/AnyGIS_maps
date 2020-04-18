@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Подводный (Bathimetric)
+Спутниковые - Sentinel - Подводный (Bathimetric)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_Bathimetric/{x}/{y}/{z}

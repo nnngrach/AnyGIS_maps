@@ -1,5 +1,5 @@
 [Name]
-Satellites - Special - Sentinel NDVI
+Satellites - Sentinel NDVI
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_NDVI/{x}/{y}/{z}

@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Чистый - 07 Июль
+Спутниковые - Sentinel - Чистый - 07 Июль
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_July/{x}/{y}/{z}

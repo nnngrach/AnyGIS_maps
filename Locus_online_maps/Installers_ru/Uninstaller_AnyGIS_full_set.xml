@@ -118,25 +118,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Спутниковые - Евразия.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
 <![CDATA[/mapsOnline/custom/=Satellites=Eurasia=Kosmosnimki.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
 </dest>
 </download>
 
@@ -172,25 +154,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/Спутниковые - Казахстан.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
 <![CDATA[/mapsOnline/custom/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Спутниковые.png]]>
 </dest>
 </download>
 
@@ -272,15 +236,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Satellites=Us=Usgs_Sat_plus.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Спутниковые - Специальные.png]]>
 </dest>
 </download>
 

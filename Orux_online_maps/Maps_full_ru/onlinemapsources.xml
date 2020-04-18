@@ -1744,7 +1744,7 @@
 
 <onlinemapsource uid="1054200">
 <name>Терскей-Алатау (Цветков) (HIKERUOTHER)</name>
-<url><![CDATA[http://map.g-utka.ru/{$z}/{$x}/{$y}.png]]></url>
+<url><![CDATA[https://nakartetiles.s3.eu-central-1.amazonaws.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>2</minzoom>

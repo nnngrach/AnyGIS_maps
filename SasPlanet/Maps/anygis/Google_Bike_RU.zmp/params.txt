@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={87D99589-0C60-4282-AF59-CC5810083A55}
+
 ParentSubMenu_ru=Велосипедные
 ParentSubMenu_uk=Велосипедний
 ParentSubMenu=Cycle
+
 name_ru=Google Велодорожки
 name_uk=Google Велодорожки
 name=Google Bike RU
+
 NameInCache=Google_Bike_RU
 asLayer=0
 EPSG=3785
+
 DefURLBase=http://mt{s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=ru&scale=1
+
 ServerNames=0,1,2,3
 RequestHead=Referer:https://www.google.com/maps/\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Google & others

@@ -14,4 +14,4 @@ https://globus.tut.by/.tiles/ev/Z{z}/{y}/{x}.png
 14
 
 [HTTP Referer]
-https://orda.of.by/.map/?53.889612,27.404438&m=ev/13
+https://orda.of.by/.map/?53.897044,27.482894&m=ev/13

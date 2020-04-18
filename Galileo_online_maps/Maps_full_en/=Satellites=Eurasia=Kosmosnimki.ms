@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = 🌍 - Kosmosnimki.ru</name>
+<name>🛰 = 🇷🇺 - Kosmosnimki.ru</name>
 <layers>
 
 <layer>

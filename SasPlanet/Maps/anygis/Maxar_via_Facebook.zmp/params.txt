@@ -1,18 +1,24 @@
 ﻿
 [PARAMS]
 GUID={F224BE12-F871-4F9A-8109-9FFDD6592261}
+
 ParentSubMenu_ru=Спутниковые
 ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
+
 name_ru=Maxar (via Facebook RapID) zoom 11-18
 name_uk=Maxar (via Facebook RapID) zoom 11-18
 name=Maxar (via Facebook RapID) zoom 11-18
+
 NameInCache=Maxar_via_Facebook
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://www.facebook.com/maps/ml_roads?theme=ml_road_vector&collaborator=fbid&token=ASZUVdYpCkd3M6ZrzjXdQzHulqRMnxdlkeBJWEKOeTUoY_Gwm9fuEd2YObLrClgDB_xfavizBsh0oDfTWTF7Zb4C&hash=ASYM8LPNy8k1XoJiI7A&result_type=satellite_raster_tile&materialize=true&x={x}&y={y}&z={z}
+
 RequestHead=Referer:https://mapwith.ai/rapid\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
-ContentType=image/jpeg,image/png
+
 Ext=.jpg
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © Maxar

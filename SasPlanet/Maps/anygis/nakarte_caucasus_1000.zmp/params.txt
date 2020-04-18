@@ -1,17 +1,23 @@
 ﻿
 [PARAMS]
 GUID={A0019992-1FC0-4F3E-B8EA-892B813122E7}
+
 ParentSubMenu_ru=Туристические\Россия\Кавказ
 ParentSubMenu_uk=Туристичний\Росія\Кавказ
 ParentSubMenu=Hike\Russia\Caucasus
+
 name_ru=Сводная 1000м
 name_uk=Сводная 1000м
 name=Caucasus 1000m
+
 NameInCache=nakarte_caucasus_1000
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://tiles.nakarte.me/new_gsh_100k/{z}/{x}/{-y}
+
 RequestHead=Referer:http://www.sasgis.org/
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png

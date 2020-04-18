@@ -1,5 +1,5 @@
 [Name]
-Satellites - Kazakhstan - Atyrau 2019
+Satellites - Atyrau 2019
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Atyrau_Sat/{x}/{y}/{z}

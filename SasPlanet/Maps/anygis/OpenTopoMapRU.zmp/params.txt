@@ -1,19 +1,25 @@
 ﻿
 [PARAMS]
 GUID={8D5C7041-474A-468E-A37E-63BE5194E759}
+
 ParentSubMenu_ru=Туристические\Россия и сосединие страны
 ParentSubMenu_uk=Топокарти\Росія і сусідні країни
 ParentSubMenu=Hike\Russia and neighboring countries
+
 name_ru=OSM OpenTopoMap.RU
 name_uk=OSM OpenTopoMap.RU
 name=OSM OpenTopoMap.RU
+
 NameInCache=OpenTopoMapRU
 asLayer=0
 EPSG=3785
+
 DefURLBase=https://tile-{s}.opentopomap.ru/{z}/{x}/{y}.png
+
 ServerNames=a,b,c
 RequestHead=Referer:http://www.sasgis.org/
-ContentType=image/jpeg,image/png
+
 Ext=.png
 DetectContentType=1
+ContentType=image/jpeg,image/png
 License= © OpenStreetMap, OpenTopoMap.ru

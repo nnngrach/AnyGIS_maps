@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Специальные - Sentinel - Чистый - 11 Ноябрь
+Спутниковые - Sentinel - Чистый - 11 Ноябрь
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Sentinel_True_color_November/{x}/{y}/{z}
