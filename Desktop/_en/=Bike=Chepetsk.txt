@@ -1,5 +1,5 @@
 [Name]
-Bike - OSM Chepezk.Net cycle map
+Bike - OSM Chepetsk
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Chepezk/{x}/{y}/{z}

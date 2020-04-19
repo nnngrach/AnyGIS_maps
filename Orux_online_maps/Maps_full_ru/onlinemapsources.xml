@@ -109,7 +109,7 @@
 
 <onlinemapsource uid="1010009">
 <name>Mapbox (SATELLITES)</name>
-<url><![CDATA[http://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoienZlcmlrIiwiYSI6IjVLMGxwbGsifQ.pdb83NbjTrfl9ibbdjPSsg]]></url>
+<url><![CDATA[https://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
 <minzoom>0</minzoom>
@@ -4374,6 +4374,21 @@
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2090102">
+<name>ЛесФонд - Границы кварталов (OVERLAYINFOSTRUCT)</name>
+<url><![CDATA[http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>8</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

@@ -6,6 +6,53 @@
 <name>Overlay - Infrastructure</name>
 <description></description>
 
+    <source id="2090102" layer="true">
+        <name>⏹️ 🚥 =🇷🇺 - Forest districts</name>
+        <copyright>Roslesinforg.ru</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,10</preview-location>
+        
+
+        <level>
+            <zoom-values>8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2090101" layer="true">
+        <name>⏹️ 🚥 =🇷🇺 - OSM Electric Transmission Lines</name>
+        <copyright>OpenStreetMap</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}
+]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="2090001" layer="true">
         <name>⏹️ 🚥 = 🌍 - OSM OpenFireMap</name>
         <copyright>OpenFireMap</copyright>

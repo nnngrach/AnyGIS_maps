@@ -8,7 +8,7 @@
 
 <provider id="1041001" type="0" visible="true" background="-1">
 <name>Bike</name>
-<mode>🚲 = 🇷🇺 - OSM Chepezk.Net cycle map</mode>
+<mode>🚲 = 🇷🇺 - OSM Chepetsk</mode>
 <countries>Russia</countries>
 <usage>cycle</usage>
 <cacheTimeout>720</cacheTimeout>

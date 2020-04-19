@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Слои - Инфраструктура</name>
+<description></description>
+
+    <source id="2090102">
+        <name>⏹️ 🚥 =🇷🇺- ЛесФонд - Границы кварталов</name>
+        <copyright>Roslesinforg.ru</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,10</preview-location>
+        
+
+        <level>
+            <zoom-values>8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -754,10 +754,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Chepezk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Chepetsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Chepezk.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Chepetsk.xml]]>
 </dest>
 </download>
 
@@ -2981,6 +2981,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/Overlay - Infrastructure.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Infrastructure=Other_Ru_Leshoz_Kvartaly.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Other_Ru_Leshoz_Kvartaly.xml]]>
 </dest>
 </download>
 

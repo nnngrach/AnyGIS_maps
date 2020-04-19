@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🇷🇺 - OSM Chepezk.Net cycle map</name>
+<name>🚲 = 🇷🇺 - OSM Chepetsk</name>
 <layers>
 
 <layer>
