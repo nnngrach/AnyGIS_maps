@@ -12,15 +12,13 @@
 <countries>Russia</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox}?locusScale={ts}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Leshoz_Kvartaly/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>16</zoomMin>    <!-- 8 -->
 <zoomMax>28</zoomMax>   <!-- 20 -->
 <tileSize>256</tileSize>
-<tileScales>
-    <tileScale dpi="0" multi="2" replace="" />
-</tileScales>
+
 <extraHeader><![CDATA[User-Agent#Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/77.0.3865.90 Safari/537.36]]></extraHeader>
 <attribution><![CDATA[© Roslesinforg.ru <br> 	Map pack from AnyGIS.ru. <a href="https://anygis.ru/Web/Html/Changelog_ru">Check for updates</a>]]></attribution>
 </provider>
