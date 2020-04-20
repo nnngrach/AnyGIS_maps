@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇳🇵 - Непал</name>
+<name>⛺ = 🇳🇵 - Непал</name>
 <layers>
 
 <layer>

@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1058103">
-        <name>🧭 = 🇷🇺 - GGC 1000m</name>
+        <name>🌐 = 🇷🇺 - GGC 1000m</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -30,7 +30,7 @@
 
 
     <source id="1058102">
-        <name>🧭 = 🇷🇺 - GGC 2000m</name>
+        <name>🌐 = 🇷🇺 - GGC 2000m</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -53,7 +53,7 @@
 
 
     <source id="1058105">
-        <name>🧭 = 🇷🇺 - GGC 250m</name>
+        <name>🌐 = 🇷🇺 - GGC 250m</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -76,7 +76,7 @@
 
 
     <source id="1058104">
-        <name>🧭 = 🇷🇺 - GGC 500m</name>
+        <name>🌐 = 🇷🇺 - GGC 500m</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -99,7 +99,7 @@
 
 
     <source id="1058101">
-        <name>🧭 = 🇷🇺 - GGC Compilation</name>
+        <name>🌐 = 🇷🇺 - GGC Compilation</name>
         
         <data-source></data-source>
         <region>OTHE</region>

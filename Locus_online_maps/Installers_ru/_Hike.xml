@@ -88,15 +88,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Refuges.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Refuges.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Strava_Run.xml]]>
 </source>
 <dest>
@@ -119,24 +110,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Geocashing.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Slazav_hrebtovki.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Slazav_hrebtovki.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Westra_Passes.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
 </dest>
 </download>
 
@@ -205,24 +178,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Gosgeodesiya.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Gosgeodesiya.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=West_Kot.xml]]>
 </source>
 <dest>
@@ -245,15 +200,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Kazbek.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Caucasus=Prielbusye.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Caucasus=Prielbusye.xml]]>
 </dest>
 </download>
 
@@ -331,15 +277,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Altay.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Altay.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Sayani.xml]]>
 </source>
 <dest>
@@ -398,33 +335,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Belarus_Genshtab.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Asia=Central=Kyrgizskiy_hrebet.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=Other=Eurasia=Other=Terskey_Alatau.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=Other=Eurasia=Other=Terskey_Alatau.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=TianShan_and_Pamir.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=TianShan_and_Pamir.xml]]>
 </dest>
 </download>
 
@@ -542,15 +452,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Eu=Southeast=Montenegro.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Asia=West=Alagadar.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Asia=West=Alagadar.xml]]>
 </dest>
 </download>
 

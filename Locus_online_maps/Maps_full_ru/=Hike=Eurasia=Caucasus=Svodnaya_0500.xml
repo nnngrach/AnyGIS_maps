@@ -8,7 +8,7 @@
 
 <provider id="1053210" type="1" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = 🇷🇺Кавказ - Сводная 500м</mode>
+<mode>⛺ = 🇷🇺Кавказ - Сводная 500м</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

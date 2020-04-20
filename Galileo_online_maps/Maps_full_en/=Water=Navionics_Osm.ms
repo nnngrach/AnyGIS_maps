@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = 🌍 - Navionics + OSM</name>
+<name>⚓️ = Navionics + OSM</name>
 <layers>
 
 <layer>

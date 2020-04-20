@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 =🇨🇭 - Swiss Topo</name>
+<name>⛺ =🇨🇭 - Swiss Topo</name>
 <layers>
 
 <layer>

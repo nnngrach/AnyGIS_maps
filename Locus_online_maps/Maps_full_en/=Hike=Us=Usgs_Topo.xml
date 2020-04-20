@@ -8,7 +8,7 @@
 
 <provider id="1057001" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>🥾 = 🇺🇸 - USGS National Map - Topo</mode>
+<mode>⛺ = 🇺🇸 - USGS National Map - Topo</mode>
 <countries>USA</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

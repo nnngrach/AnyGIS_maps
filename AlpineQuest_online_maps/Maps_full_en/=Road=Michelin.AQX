@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1030004">
-        <name>🚗 = 🌍 - OSM Michelin transport</name>
+        <name>🚗 = OSM Michelin transport</name>
         <copyright>OpenStreetMap, Michelin</copyright>
         <data-source></data-source>
         <region>WRLD</region>

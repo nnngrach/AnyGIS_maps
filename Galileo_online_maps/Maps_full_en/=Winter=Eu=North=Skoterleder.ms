@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>❄️ = 🌍 - Skoterleder</name>
+<name>❄️ = 🇸🇪 - Skoterleder</name>
 <layers>
 
 <layer>

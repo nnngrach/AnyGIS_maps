@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇪🇺 - Kompass.de</name>
+<name>⛺ = 🇪🇺 - Kompass.de</name>
 <layers>
 
 <layer>

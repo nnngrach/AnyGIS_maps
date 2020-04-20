@@ -25,7 +25,7 @@
 
 <provider id="1070009" type="0" visible="true" background="99999045">
 <name>Water</name>
-<mode>⚓️ = 🌍 - Strava Heatmap - Water</mode>
+<mode>⚓️ = Strava Heatmap - Water</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

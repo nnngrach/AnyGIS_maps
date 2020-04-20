@@ -8,7 +8,7 @@
 
 <provider id="1053104" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = 🇷🇺МосОбл - MoscowMap.ru</mode>
+<mode>⛺ = 🇷🇺МосОбл - MoscowMap.ru</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>8760</cacheTimeout>

@@ -25,7 +25,7 @@
 
 <provider id="1050017" type="0" visible="true" background="179999045">
 <name>Hike</name>
-<mode>🥾 = 🌍 - Strava Heatmap - Ride + Run (beta)</mode>
+<mode>⛺ = Strava Heatmap - Ride + Run (beta)</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = 🌍 - Maxar Standard</name>
+<name>🛰 = Maxar Standard</name>
 <layers>
 
 <layer>

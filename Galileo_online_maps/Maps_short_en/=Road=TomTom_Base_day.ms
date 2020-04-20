@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - TomTom (day)</name>
+<name>🚗 = TomTom (day)</name>
 <layers>
 
 <layer>

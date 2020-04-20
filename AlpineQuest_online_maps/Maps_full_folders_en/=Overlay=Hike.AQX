@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2050016" layer="true">
-        <name>⏹️ 🥾 = 🌍 - OSM WayMarkedTrails - Hiking</name>
+        <name>⏹️ ⛺ = OSM WayMarkedTrails - Hiking</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="2050005" layer="true">
-        <name>⏹️ 🥾 = 🌍 - Strava Heatmap - All</name>
+        <name>⏹️ ⛺ = Strava Heatmap - All</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="2050011" layer="true">
-        <name>⏹️ 🥾 = 🌍 - Strava Heatmap - Run</name>
+        <name>⏹️ ⛺ = Strava Heatmap - Run</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -76,7 +76,7 @@
 
 
     <source id="2054301" layer="true">
-        <name>⏹️ 🥾 = 🇨🇭 - SwissTopo - Tails</name>
+        <name>⏹️ ⛺ = 🇨🇭 - SwissTopo - Tails</name>
         <copyright>Geo.admin.ch</copyright>
         <data-source></data-source>
         <region>OTHE</region>

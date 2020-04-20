@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2010009" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - Heywhatsthat.com</name>
+        <name>⏹️ 🏔️ = Heywhatsthat.com</name>
         <copyright>VotEtoVid</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="2010001" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - Openmapsurfer</name>
+        <name>⏹️ 🏔️ = Openmapsurfer</name>
         <copyright>Heigit.org</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="2010006" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - Slope map</name>
+        <name>⏹️ 🏔️ = Slope map</name>
         <copyright>VotEtoVid</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -76,7 +76,7 @@
 
 
     <source id="2010002" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - Waymarkedtrails.org</name>
+        <name>⏹️ 🏔️ = Waymarkedtrails.org</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -99,7 +99,7 @@
 
 
     <source id="2010003" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - Windy.com</name>
+        <name>⏹️ 🏔️ = Windy.com</name>
         <copyright>Windy.com</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -122,7 +122,7 @@
 
 
     <source id="2010004" layer="true">
-        <name>⏹️ 🏔️ = 🌍 - WmfLabs.org</name>
+        <name>⏹️ 🏔️ = WmfLabs.org</name>
         <copyright>Wmflabs.org</copyright>
         <data-source></data-source>
         <region>WRLD</region>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Moscow - Arbalet</name>
+<name>⛺ = 🇷🇺Moscow - Arbalet</name>
 <layers>
 
 <layer>

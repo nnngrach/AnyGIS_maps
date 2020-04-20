@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺МосОбл - MoscowMap.ru</name>
+<name>⛺ = 🇷🇺МосОбл - MoscowMap.ru</name>
 <layers>
 
 <layer>

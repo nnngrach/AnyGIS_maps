@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1148003">
-        <name>🧩 = 🌍 - Overpass Turbo - Drinking Water</name>
+        <name>📦 = Overpass Turbo - Drinking Water</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="1148001">
-        <name>🧩 = 🌍 - Overpass Turbo - Gravel Running Trails</name>
+        <name>📦 = Overpass Turbo - Gravel Running Trails</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="1148002">
-        <name>🧩 = 🌍 - Overpass Turbo - Waste Baskets</name>
+        <name>📦 = Overpass Turbo - Waste Baskets</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

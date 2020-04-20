@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇺🇸 - USGS National Map топо</name>
+<name>⛺ = 🇺🇸 - USGS National Map топо</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇸🇪 - Hitta Frilufts</name>
+<name>⛺ = 🇸🇪 - Hitta Frilufts</name>
 <layers>
 
 <layer>

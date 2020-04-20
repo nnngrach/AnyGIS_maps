@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = Геокэшинг (nakarte)</name>
+<name>⛺ = Геокэшинг (nakarte)</name>
 <layers>
 
 <layer>

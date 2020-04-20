@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧭 = 🇷🇺 - GGC 250m</name>
+<name>🌐 = 🇷🇺 - GGC 250m</name>
 <layers>
 
 <layer>

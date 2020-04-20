@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇳🇿 - New Zealand Topo</name>
+<name>⛺ = 🇳🇿 - New Zealand Topo</name>
 <layers>
 
 <layer>

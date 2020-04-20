@@ -8,7 +8,7 @@
 
 <provider id="2050016" type="0" visible="true" background="-1">
 <name>Overlay - Hike</name>
-<mode>⏹️ 🥾 = 🌍 - OSM WayMarkedTrails - Hiking</mode>
+<mode>⏹️ ⛺ = OSM WayMarkedTrails - Hiking</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

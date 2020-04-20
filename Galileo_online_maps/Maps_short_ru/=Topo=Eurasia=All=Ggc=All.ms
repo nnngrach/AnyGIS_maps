@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧭 = 🇷🇺 - ГГЦ (Все масштабы)</name>
+<name>🌐 = 🇷🇺 - ГГЦ (Все масштабы)</name>
 <layers>
 
 <layer>

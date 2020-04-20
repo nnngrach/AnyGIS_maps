@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Caucasus - Caucasus 500m</name>
+<name>⛺ = 🇷🇺Caucasus - Caucasus 500m</name>
 <layers>
 
 <layer>

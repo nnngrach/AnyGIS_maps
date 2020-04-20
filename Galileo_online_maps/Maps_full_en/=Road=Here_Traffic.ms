@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - Here Traffic</name>
+<name>🚗 = Here Traffic</name>
 <layers>
 
 <layer>

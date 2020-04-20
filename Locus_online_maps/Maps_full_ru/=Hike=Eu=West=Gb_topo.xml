@@ -8,7 +8,7 @@
 
 <provider id="1054502" type="5" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = 🇬🇧 - GB Topo</mode>
+<mode>⛺ = 🇬🇧 - GB Topo</mode>
 <countries>GB</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

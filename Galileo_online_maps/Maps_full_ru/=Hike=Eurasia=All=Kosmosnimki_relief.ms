@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺 - OSM Kosmosnimki.ru - рельеф</name>
+<name>⛺ = 🇷🇺 - OSM Kosmosnimki.ru - рельеф</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🌍 - OSM Mapy.cz Outdoor</name>
+<name>⛺ = OSM Mapy.cz Outdoor</name>
 <layers>
 
 <layer>

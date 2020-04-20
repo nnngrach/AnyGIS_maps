@@ -8,7 +8,7 @@
 
 <provider id="1050008" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = OSM Mapy.cz - Outdoor</mode>
+<mode>⛺ = OSM Mapy.cz - Outdoor</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

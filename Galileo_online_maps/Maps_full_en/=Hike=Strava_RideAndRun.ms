@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🌍 - Strava Heatmap - Ride + Run (beta)</name>
+<name>⛺ = Strava Heatmap - Ride + Run (beta)</name>
 <layers>
 
 <layer>

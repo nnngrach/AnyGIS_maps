@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2080004" layer="true">
-        <name>⏹️ 📖 = 🌍 - OpenWeatherMap - Precipitation</name>
+        <name>⏹️ 📖 = OpenWeatherMap - Precipitation</name>
         <copyright>OpenWeatherMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

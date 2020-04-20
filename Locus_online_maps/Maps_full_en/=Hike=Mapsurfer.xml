@@ -8,7 +8,7 @@
 
 <provider id="1050007" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>🥾 = 🌍 - OSM Mapsurfer</mode>
+<mode>⛺ = OSM Mapsurfer</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

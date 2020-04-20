@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = 🌍 - Bing Birds Eye</name>
+<name>🛰 = Bing Birds Eye</name>
 <layers>
 
 <layer>

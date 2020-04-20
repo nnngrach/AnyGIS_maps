@@ -8,7 +8,7 @@
 
 <provider id="1020015" type="0" visible="true" background="-1">
 <name>City</name>
-<mode>🏠 = 🌍 - OSM Kosmosnimki (night)</mode>
+<mode>🏠 = OSM Kosmosnimki (night)</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

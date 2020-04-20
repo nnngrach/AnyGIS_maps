@@ -25,7 +25,7 @@
 
 <provider id="1060003" type="0" visible="true" background="39999045">
 <name>Winter</name>
-<mode>❄️ = 🌍 - Strava Heatmap - Winter</mode>
+<mode>❄️ = Strava Heatmap - Winter</mode>
 <countries>World</countries>
 <usage>ski</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -8,7 +8,7 @@
 
 <provider id="2040002" type="0" visible="true" background="-1">
 <name>Overlay - Bike</name>
-<mode>⏹️ 🚲 = 🌍 - OSM WayMarkedTrails - Cycling</mode>
+<mode>⏹️ 🚲 = OSM WayMarkedTrails - Cycling</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

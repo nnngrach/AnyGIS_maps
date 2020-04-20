@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧭 = 🇷🇺 - ГосГисЦентр 1 км</name>
+<name>🌐 = 🇷🇺 - ГосГисЦентр 1 км</name>
 <layers>
 
 <layer>

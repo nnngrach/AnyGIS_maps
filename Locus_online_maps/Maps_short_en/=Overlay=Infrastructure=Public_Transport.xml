@@ -8,7 +8,7 @@
 
 <provider id="2090002" type="0" visible="true" background="-1">
 <name>Overlay - Infrastructure</name>
-<mode>⏹️ 🚥 = 🌍 - OSM OpenPTMap  - Public Transport</mode>
+<mode>⏹️ 🚥 = OSM OpenPTMap  - Public Transport</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>0</cacheTimeout>

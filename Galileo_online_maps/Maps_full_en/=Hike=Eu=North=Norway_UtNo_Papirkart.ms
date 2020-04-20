@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇳🇴 - UT.no - Papirkart</name>
+<name>⛺ = 🇳🇴 - UT.no - Papirkart</name>
 <layers>
 
 <layer>

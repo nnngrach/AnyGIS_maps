@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Khibiny - Khibiny Tundra (2008)</name>
+<name>⛺ = 🇷🇺Khibiny - Khibiny Tundra (2008)</name>
 <layers>
 
 <layer>

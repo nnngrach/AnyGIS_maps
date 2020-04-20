@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧩 = OverpassTurbo - Питьевая вода</name>
+<name>📦 = OverpassTurbo - Питьевая вода</name>
 <layers>
 
 <layer>

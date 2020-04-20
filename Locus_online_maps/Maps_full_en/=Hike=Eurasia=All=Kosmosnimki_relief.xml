@@ -11,7 +11,7 @@
 
 <provider id="1052002" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>🥾 = 🇷🇺 - OSM Kosmosnimki.ru - relief</mode>
+<mode>⛺ = 🇷🇺 - OSM Kosmosnimki.ru - relief</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = Strava  - Бег</name>
+<name>⛺ = Strava  - Бег</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺 - OSM OpenTopoMap.RU</name>
+<name>⛺ = 🇷🇺 - OSM OpenTopoMap.RU</name>
 <layers>
 
 <layer>

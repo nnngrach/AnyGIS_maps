@@ -8,7 +8,7 @@
 
 <provider id="1051019" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = Геокэшинг (nakarte)</mode>
+<mode>⛺ = Геокэшинг (nakarte)</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

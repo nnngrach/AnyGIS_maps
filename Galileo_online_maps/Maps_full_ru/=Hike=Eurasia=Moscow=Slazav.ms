@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺МосОбл - Завьялов (ММБ)</name>
+<name>⛺ = 🇷🇺МосОбл - Завьялов (ММБ)</name>
 <layers>
 
 <layer>

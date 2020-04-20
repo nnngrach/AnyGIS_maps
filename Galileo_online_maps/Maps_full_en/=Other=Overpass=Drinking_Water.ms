@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧩 = 🌍 - Overpass Turbo - Drinking Water</name>
+<name>📦 = Overpass Turbo - Drinking Water</name>
 <layers>
 
 <layer>

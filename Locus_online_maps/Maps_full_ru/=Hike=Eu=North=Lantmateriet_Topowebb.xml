@@ -8,7 +8,7 @@
 
 <provider id="1054308" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = 🇸🇪 - Lantmäteriets Topografisk</mode>
+<mode>⛺ = 🇸🇪 - Lantmäteriets Topografisk</mode>
 <countries>Sweden</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

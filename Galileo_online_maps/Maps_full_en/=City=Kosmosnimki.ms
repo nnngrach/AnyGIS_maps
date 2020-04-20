@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = 🌍 - OSM Kosmosnimki (day)</name>
+<name>🏠 = OSM Kosmosnimki (day)</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇺🇦Crimea - Crimea Souskarta 2011</name>
+<name>⛺ = 🇺🇦Crimea - Crimea Souskarta 2011</name>
 <layers>
 
 <layer>

@@ -8,7 +8,7 @@
 
 <provider id="1070002" type="0" visible="true" background="-1">
 <name>Water</name>
-<mode>⚓️ = 🌍 - ESRI Ocean</mode>
+<mode>⚓️ = ESRI Ocean</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -8,7 +8,7 @@
 
 <provider id="1050011" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = OSM OpenTopoMap.ORG</mode>
+<mode>⛺ = OSM OpenTopoMap.ORG</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

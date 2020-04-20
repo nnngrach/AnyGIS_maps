@@ -8,7 +8,7 @@
 
 <provider id="1054101" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>🥾 = 🇧🇾 - Vector map</mode>
+<mode>⛺ = 🇧🇾 - Vector map</mode>
 <countries>Belarus</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

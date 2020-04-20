@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇺🇦 - Карпаты</name>
+<name>⛺ = 🇺🇦 - Карпаты</name>
 <layers>
 
 <layer>

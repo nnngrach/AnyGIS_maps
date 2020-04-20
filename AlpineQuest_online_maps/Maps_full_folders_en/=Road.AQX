@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1030001">
-        <name>🚗 = 🌍 - Garmin.ru (navicom)</name>
+        <name>🚗 = Garmin.ru (navicom)</name>
         <copyright>ЗАО Навиком</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="1030012">
-        <name>🚗 = 🌍 - Navitel.su</name>
+        <name>🚗 = Navitel.su</name>
         <copyright>Navitel</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="1030004">
-        <name>🚗 = 🌍 - OSM Michelin transport</name>
+        <name>🚗 = OSM Michelin transport</name>
         <copyright>OpenStreetMap, Michelin</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -81,7 +81,7 @@
 
 
     <source id="1030007">
-        <name>🚗 = 🌍 - TomTom (day)</name>
+        <name>🚗 = TomTom (day)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -109,7 +109,7 @@
 
 
     <source id="1030008">
-        <name>🚗 = 🌍 - TomTom (night)</name>
+        <name>🚗 = TomTom (night)</name>
         <copyright>TomTom</copyright>
         <data-source></data-source>
         <region>WRLD</region>

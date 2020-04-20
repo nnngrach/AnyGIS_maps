@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2020002" layer="true">
-        <name>⏹️ 🏷 = 🌍 - Google - Hybrid</name>
+        <name>⏹️ 🏷 = Google - Hybrid</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -35,7 +35,7 @@
 
 
     <source id="2020003" layer="true">
-        <name>⏹️ 🏷 = 🌍 - OSM Mapbox - Hybrid</name>
+        <name>⏹️ 🏷 = OSM Mapbox - Hybrid</name>
         <copyright>Mapbox</copyright>
         <data-source></data-source>
         <region>WRLD</region>

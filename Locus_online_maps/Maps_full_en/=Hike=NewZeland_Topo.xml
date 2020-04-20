@@ -8,7 +8,7 @@
 
 <provider id="1057501" type="1" visible="true" background="-1">
 <name>Hike</name>
-<mode>  New Zealand Topo</mode>
+<mode>⛺ = 🇳🇿 - New Zealand Topo</mode>
 <countries>NZ</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

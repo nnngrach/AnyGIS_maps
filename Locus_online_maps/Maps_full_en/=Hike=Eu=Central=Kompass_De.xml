@@ -8,7 +8,7 @@
 
 <provider id="1054401" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>🥾 = 🇪🇺 - Kompass.de</mode>
+<mode>⛺ = 🇪🇺 - Kompass.de</mode>
 <countries>Europe</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

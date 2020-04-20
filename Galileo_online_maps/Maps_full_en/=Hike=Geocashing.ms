@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🌍 - Nakarte - Geocashing</name>
+<name>⛺ = Nakarte - Geocashing</name>
 <layers>
 
 <layer>

@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1148001">
-        <name>🧩 = OverpassTurbo - Гравийные дорожки для бега</name>
+        <name>📦 = OverpassTurbo - Гравийные дорожки для бега</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="1148002">
-        <name>🧩 = OverpassTurbo - Мусорные баки</name>
+        <name>📦 = OverpassTurbo - Мусорные баки</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="1148003">
-        <name>🧩 = OverpassTurbo - Питьевая вода</name>
+        <name>📦 = OverpassTurbo - Питьевая вода</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>WRLD</region>

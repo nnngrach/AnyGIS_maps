@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🌍 - OSM Thunderforest Cycle</name>
+<name>🚲 = OSM Thunderforest Cycle</name>
 <layers>
 
 <layer>

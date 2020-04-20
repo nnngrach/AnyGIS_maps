@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - OSM Thunderforest Transport (night)</name>
+<name>🚗 = OSM Thunderforest Transport (night)</name>
 <layers>
 
 <layer>

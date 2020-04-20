@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - Yandex Traffic (converted)</name>
+<name>🚗 = Yandex Traffic (converted)</name>
 <layers>
 
 <layer>

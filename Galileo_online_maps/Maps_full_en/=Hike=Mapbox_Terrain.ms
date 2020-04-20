@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🌍 - OSM Mapbox Terrain</name>
+<name>⛺ = OSM Mapbox Terrain</name>
 <layers>
 
 <layer>

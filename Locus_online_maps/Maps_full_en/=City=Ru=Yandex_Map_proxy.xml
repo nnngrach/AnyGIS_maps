@@ -8,7 +8,7 @@
 
 <provider id="1021004" type="2" visible="true" background="-1">
 <name>City</name>
-<mode>🏠 = 🌍 - Yandex (proxy)</mode>
+<mode>🏠 = 🇷🇺 - Yandex (proxy)</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

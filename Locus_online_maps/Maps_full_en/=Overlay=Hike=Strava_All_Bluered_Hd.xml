@@ -8,7 +8,7 @@
 
 <provider id="2050002" type="0" visible="true" background="-1">
 <name>Overlay - Hike</name>
-<mode>⏹️ 🥾 = 🌍 - Strava Heatmap - All HD (Bluered)</mode>
+<mode>⏹️ ⛺ = Strava Heatmap - All HD (Bluered)</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

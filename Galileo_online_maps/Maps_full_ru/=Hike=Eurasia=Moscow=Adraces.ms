@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺МосОбл - Adraces Ориентирование</name>
+<name>⛺ = 🇷🇺МосОбл - Adraces Ориентирование</name>
 <layers>
 
 <layer>

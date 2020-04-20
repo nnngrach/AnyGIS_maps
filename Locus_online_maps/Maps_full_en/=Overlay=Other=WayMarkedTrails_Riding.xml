@@ -8,7 +8,7 @@
 
 <provider id="2100001" type="0" visible="true" background="-1">
 <name>Overlay - Other</name>
-<mode>⏹️ 🧩 = 🌍 - OSM Waymarkedtrails.org - Riding</mode>
+<mode>⏹️ 📦 = OSM Waymarkedtrails.org - Riding</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

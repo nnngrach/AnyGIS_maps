@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇸🇪 - Lantmäteriets Topografisk</name>
+<name>⛺ = 🇸🇪 - Lantmäteriets Topografisk</name>
 <layers>
 
 <layer>

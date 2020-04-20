@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Карелия - Горы Хибинской тундры</name>
+<name>⛺ = 🇷🇺Карелия - Горы Хибинской тундры</name>
 <layers>
 
 <layer>

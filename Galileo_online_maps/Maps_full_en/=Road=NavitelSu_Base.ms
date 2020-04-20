@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚗 = 🌍 - Navitel.su</name>
+<name>🚗 = Navitel.su</name>
 <layers>
 
 <layer>

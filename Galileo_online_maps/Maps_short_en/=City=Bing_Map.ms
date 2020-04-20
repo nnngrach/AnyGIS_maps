@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = 🌍 - Bing</name>
+<name>🏠 = Bing</name>
 <layers>
 
 <layer>

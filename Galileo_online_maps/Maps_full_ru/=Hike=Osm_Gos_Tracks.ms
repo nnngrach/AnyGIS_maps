@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = OSM GPS Треки</name>
+<name>⛺ = OSM GPS Треки</name>
 <layers>
 
 <layer>

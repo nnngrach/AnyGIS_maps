@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Урал - Таганай</name>
+<name>⛺ = 🇷🇺Урал - Таганай</name>
 <layers>
 
 <layer>

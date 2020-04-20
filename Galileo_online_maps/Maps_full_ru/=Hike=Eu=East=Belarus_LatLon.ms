@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇧🇾 - LatLon.org</name>
+<name>⛺ = 🇧🇾 - LatLon.org</name>
 <layers>
 
 <layer>

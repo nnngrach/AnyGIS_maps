@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇬🇧 - GB Topo</name>
+<name>⛺ = 🇬🇧 - GB Topo</name>
 <layers>
 
 <layer>

@@ -29,7 +29,7 @@
 
 <provider id="1030003" type="0" visible="true" background="39999020">
 <name>Road</name>
-<mode>🚗 = 🌍 - Here Traffic</mode>
+<mode>🚗 = Here Traffic</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

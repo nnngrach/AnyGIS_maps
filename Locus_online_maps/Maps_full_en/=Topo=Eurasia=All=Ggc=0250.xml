@@ -8,7 +8,7 @@
 
 <provider id="1058105" type="1" visible="true" background="-1">
 <name>Topo</name>
-<mode>🧭 = 🇷🇺 - GGC 250m</mode>
+<mode>🌐 = 🇷🇺 - GGC 250m</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

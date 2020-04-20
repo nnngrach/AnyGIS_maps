@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = 🌍 - ESRI</name>
+<name>🛰 = ESRI</name>
 <layers>
 
 <layer>

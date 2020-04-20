@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Карелия - Хибины (СССР)</name>
+<name>⛺ = 🇷🇺Карелия - Хибины (СССР)</name>
 <layers>
 
 <layer>

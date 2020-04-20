@@ -26,7 +26,7 @@
 
 <provider id="1050009" type="0" visible="true" background="99999000">
 <name>Туристические</name>
-<mode>🥾 = OSM GPS Треки</mode>
+<mode>⛺ = OSM GPS Треки</mode>
 <countries>World</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

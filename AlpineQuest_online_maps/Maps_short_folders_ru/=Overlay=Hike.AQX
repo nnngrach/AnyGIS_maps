@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2050016">
-        <name>⏹️ 🥾 = OSM WayMarkedTrails - Пешие</name>
+        <name>⏹️ ⛺ = OSM WayMarkedTrails - Пешие</name>
         <copyright>WayMarkeredTrails</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="2050011">
-        <name>⏹️ 🥾 = Strava - Бег</name>
+        <name>⏹️ ⛺ = Strava - Бег</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="2050005">
-        <name>⏹️ 🥾 = Strava - Все слои</name>
+        <name>⏹️ ⛺ = Strava - Все слои</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>

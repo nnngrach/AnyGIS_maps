@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = 🌍 - OSM Mapnik HD (from OsmAnd)</name>
+<name>🏠 = OSM Mapnik HD (from OsmAnd)</name>
 <layers>
 
 <layer>

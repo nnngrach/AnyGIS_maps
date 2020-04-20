@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇳🇴 - Topografisk Norgeskart</name>
+<name>⛺ = 🇳🇴 - Topografisk Norgeskart</name>
 <layers>
 
 <layer>

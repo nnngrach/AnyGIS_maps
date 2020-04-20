@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2070001" layer="true">
-        <name>⏹️ ⚓️ = 🌍 - Garmin Quickdraw - MarineImages</name>
+        <name>⏹️ ⚓️ = Garmin Quickdraw - MarineImages</name>
         <copyright>Garmin</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -30,7 +30,7 @@
 
 
     <source id="2070002" layer="true">
-        <name>⏹️ ⚓️ = 🌍 - Navionics Marine Charts</name>
+        <name>⏹️ ⚓️ = Navionics Marine Charts</name>
         <copyright>Navionics</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -53,7 +53,7 @@
 
 
     <source id="2070003" layer="true">
-        <name>⏹️ ⚓️ = 🌍 - Navionics Sonar Charts</name>
+        <name>⏹️ ⚓️ = Navionics Sonar Charts</name>
         <copyright>Navionics</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -76,7 +76,7 @@
 
 
     <source id="2070007" layer="true">
-        <name>⏹️ ⚓️ = 🌍 - Strava Heatmap - Water</name>
+        <name>⏹️ ⚓️ = Strava Heatmap - Water</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>

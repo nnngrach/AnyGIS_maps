@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺МосОбл - O-Sport Ориентирование</name>
+<name>⛺ = 🇷🇺МосОбл - O-Sport Ориентирование</name>
 <layers>
 
 <layer>

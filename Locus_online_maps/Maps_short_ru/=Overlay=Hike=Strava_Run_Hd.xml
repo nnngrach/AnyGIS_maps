@@ -8,7 +8,7 @@
 
 <provider id="2050009" type="0" visible="true" background="-1">
 <name>Слои - Туристические</name>
-<mode>⏹️ 🥾 = Strava - Бег HD</mode>
+<mode>⏹️ ⛺ = Strava - Бег HD</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

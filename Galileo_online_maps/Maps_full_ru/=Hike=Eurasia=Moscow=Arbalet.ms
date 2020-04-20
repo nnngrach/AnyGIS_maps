@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺МосОбл - Атлас Арбалет</name>
+<name>⛺ = 🇷🇺МосОбл - Атлас Арбалет</name>
 <layers>
 
 <layer>

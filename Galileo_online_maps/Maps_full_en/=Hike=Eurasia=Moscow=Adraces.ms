@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Moscow - Adraces</name>
+<name>⛺ = 🇷🇺Moscow - Adraces</name>
 <layers>
 
 <layer>

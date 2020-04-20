@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🧭 = 🇷🇺 - GGC Compilation</name>
+<name>🌐 = 🇷🇺 - GGC Compilation</name>
 <layers>
 
 <layer>

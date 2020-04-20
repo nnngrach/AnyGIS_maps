@@ -8,7 +8,7 @@
 
 <provider id="1070004" type="0" visible="true" background="-1">
 <name>Water</name>
-<mode>⚓️ = 🌍 - Navionics Marine Charts</mode>
+<mode>⚓️ = Navionics Marine Charts</mode>
 <countries>World</countries>
 <usage>nautical</usage>
 <cacheTimeout>720</cacheTimeout>

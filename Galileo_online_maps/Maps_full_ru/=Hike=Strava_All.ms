@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = Strava - Все слои</name>
+<name>⛺ = Strava - Все слои</name>
 <layers>
 
 <layer>

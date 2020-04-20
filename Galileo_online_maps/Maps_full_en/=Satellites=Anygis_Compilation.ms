@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = 🌍 - ESRI+Yandex+Google</name>
+<name>🛰 = ESRI+Yandex+Google</name>
 <layers>
 
 <layer>

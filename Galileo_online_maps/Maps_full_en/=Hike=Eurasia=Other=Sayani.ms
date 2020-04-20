@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Siberia - Ergaki - Ardan</name>
+<name>⛺ = 🇷🇺Siberia - Ergaki - Ardan</name>
 <layers>
 
 <layer>

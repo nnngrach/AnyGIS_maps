@@ -1,0 +1,14 @@
+[Name]
+Горные - Абишира-Ахуба (Ляпин В.Г.)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Kavkaz_09/{x}/{y}/{z}
+
+[URL direct]
+https://maps.melda.ru/pub/tourism/lcarta/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15

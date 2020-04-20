@@ -8,7 +8,7 @@
 
 <provider id="1148002" type="0" visible="true" background="-1">
 <name>Other</name>
-<mode>🧩 = 🌍 - Overpass Turbo - Waste Baskets</mode>
+<mode>📦 = Overpass Turbo - Waste Baskets</mode>
 <countries>World</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

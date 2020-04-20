@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = 🌍 - Strava Heatmap - Water</name>
+<name>⚓️ = Strava Heatmap - Water</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Khibiny - Khibiny Mountains</name>
+<name>⛺ = 🇷🇺Khibiny - Khibiny Mountains</name>
 <layers>
 
 <layer>

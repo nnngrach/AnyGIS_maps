@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇷🇺Moscow - Slazav MMB</name>
+<name>⛺ = 🇷🇺Moscow - Slazav MMB</name>
 <layers>
 
 <layer>

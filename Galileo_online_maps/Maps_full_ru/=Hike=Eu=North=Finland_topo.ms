@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇫🇮 - Retkikartta.fi Topo </name>
+<name>⛺ = 🇫🇮 - Retkikartta.fi Topo </name>
 <layers>
 
 <layer>

@@ -1,0 +1,14 @@
+[Name]
+Горные - Тянь-Шань и Джунгария (g-utka.ru)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Local_Terskey_Alatau/{x}/{y}/{z}
+
+[URL direct]
+https://nakartetiles.s3.eu-central-1.amazonaws.com/{z}/{x}/{y}.png
+
+[Min Zoom level]
+2
+
+[Max Zoom level]
+15

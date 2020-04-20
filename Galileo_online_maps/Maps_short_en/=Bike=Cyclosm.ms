@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🌍 - OSM Cyclosm</name>
+<name>🚲 = OSM Cyclosm</name>
 <layers>
 
 <layer>

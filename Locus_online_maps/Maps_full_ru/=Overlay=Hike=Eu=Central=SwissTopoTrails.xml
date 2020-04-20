@@ -8,7 +8,7 @@
 
 <provider id="2054301" type="0" visible="true" background="-1">
 <name>Слои - Туристические</name>
-<mode>⏹️ 🥾 = 🇨🇭 - SwissTopo Тропы</mode>
+<mode>⏹️ ⛺ = 🇨🇭 - SwissTopo Тропы</mode>
 <countries>Switzerland</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🌍 - Strava Heatmap - Ride</name>
+<name>🚲 = Strava Heatmap - Ride</name>
 <layers>
 
 <layer>

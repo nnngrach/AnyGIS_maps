@@ -277,15 +277,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Westra_Passes.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Hike=Westra_Passes.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=OpenTopoMap_Ru.xml]]>
 </source>
 <dest>
@@ -335,6 +326,24 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Горные.png]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/Горные.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Westra_Passes.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Mountain=Westra_Passes.xml]]>
 </dest>
 </download>
 

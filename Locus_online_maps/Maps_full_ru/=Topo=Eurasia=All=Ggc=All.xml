@@ -8,7 +8,7 @@
 
 <provider id="1058101" type="0" visible="true" background="-1">
 <name>Топокарты</name>
-<mode>🧭 = 🇷🇺 - ГГЦ (Все масштабы)</mode>
+<mode>🌐 = 🇷🇺 - ГГЦ (Все масштабы)</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

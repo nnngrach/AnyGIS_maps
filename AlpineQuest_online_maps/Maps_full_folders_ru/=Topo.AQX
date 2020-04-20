@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="1058101">
-        <name>🧭 = 🇷🇺 - ГГЦ (Все масштабы)</name>
+        <name>🌐 = 🇷🇺 - ГГЦ (Все масштабы)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -30,7 +30,7 @@
 
 
     <source id="1058105">
-        <name>🧭 = 🇷🇺 - ГосГисЦентр 0.25 км</name>
+        <name>🌐 = 🇷🇺 - ГосГисЦентр 0.25 км</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -53,7 +53,7 @@
 
 
     <source id="1058104">
-        <name>🧭 = 🇷🇺 - ГосГисЦентр 0.5 км</name>
+        <name>🌐 = 🇷🇺 - ГосГисЦентр 0.5 км</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -76,7 +76,7 @@
 
 
     <source id="1058103">
-        <name>🧭 = 🇷🇺 - ГосГисЦентр 1 км</name>
+        <name>🌐 = 🇷🇺 - ГосГисЦентр 1 км</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -99,7 +99,7 @@
 
 
     <source id="1058102">
-        <name>🧭 = 🇷🇺 - ГосГисЦентр 2 км</name>
+        <name>🌐 = 🇷🇺 - ГосГисЦентр 2 км</name>
         
         <data-source></data-source>
         <region>OTHE</region>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🥾 = 🇧🇾 - Vector map</name>
+<name>⛺ = 🇧🇾 - Vector map</name>
 <layers>
 
 <layer>

@@ -8,7 +8,7 @@
 
 <provider id="1054302" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>🥾 = 🇫🇮 - Retkikartta.fi Topo </mode>
+<mode>⛺ = 🇫🇮 - Retkikartta.fi Topo </mode>
 <countries>Finland</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

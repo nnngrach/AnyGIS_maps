@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = 🌍 - ESRI Ocean</name>
+<name>⚓️ = ESRI Ocean</name>
 <layers>
 
 <layer>

@@ -29,7 +29,7 @@
 
 <provider id="1030010" type="2" visible="true" background="109999021">
 <name>Road</name>
-<mode>🚗 = 🌍 - Yandex Traffic</mode>
+<mode>🚗 = Yandex Traffic</mode>
 <countries>World</countries>
 <usage>road</usage>
 <cacheTimeout>720</cacheTimeout>

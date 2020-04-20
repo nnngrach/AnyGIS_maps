@@ -8,7 +8,7 @@
 
 <provider id="1058104" type="1" visible="true" background="-1">
 <name>Топокарты</name>
-<mode>🧭 = 🇷🇺 - ГосГисЦентр 0.5 км</mode>
+<mode>🌐 = 🇷🇺 - ГосГисЦентр 0.5 км</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>
