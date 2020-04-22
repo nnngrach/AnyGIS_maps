@@ -1,0 +1,24 @@
+﻿
+[PARAMS]
+GUID={90FFF0B2-9E6A-418F-8940-C7B8CEF04646}
+
+ParentSubMenu_ru=Туристические
+ParentSubMenu_uk=Туристичний
+ParentSubMenu=Hike
+
+name_ru=Nakarte - Geocashing.su (долго загружается)
+name_uk=Nakarte - Geocashing.su (долго загружается)
+name=Geocashing.su (slow loading)
+
+NameInCache=Nakarte_Geocashing_Sas
+asLayer=0
+EPSG=3785
+
+DefURLBase=https://anygis.ru/api/v1/Nakarte_Geocashing_Sas/{x}/{y}/{z}
+
+RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+License= © Nakarte & Geocashing

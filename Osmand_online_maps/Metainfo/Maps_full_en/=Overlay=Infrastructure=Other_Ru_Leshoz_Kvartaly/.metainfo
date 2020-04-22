@@ -11,7 +11,7 @@ false
 [inverted_y]
 false
 [tile_size]
-512
+256
 [img_density]
 16
 [avg_img_size]
