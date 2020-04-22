@@ -7,7 +7,7 @@
 <description></description>
 
     <source id="2090101" layer="true">
-        <name>⏹️ 🚥 =🇷🇺 - OSM Electric Transmission Lines</name>
+        <name>⏹️ 🚥 = 🇷🇺  - OSM Electric Transmission Lines</name>
         <copyright>OpenStreetMap</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -23,8 +23,7 @@
 
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
-                <server><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}
-]]></server>
+                <server><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></server>
             </servers>
         </level>
     </source>

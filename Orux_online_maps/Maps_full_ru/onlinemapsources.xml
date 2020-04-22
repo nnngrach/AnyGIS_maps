@@ -4369,8 +4369,7 @@
 
 <onlinemapsource uid="2090101">
 <name>OSM Лэп для ЦФО и СЗО (OVERLAYINFOSTRUCT)</name>
-<url><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}
-]]></url>
+<url><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
 <minzoom>0</minzoom>
