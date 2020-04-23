@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Кавказ - Майкопский округ 1925</name>
+<name>🏛 = 🇷🇺 Кавказ - Майкопский округ 1925</name>
 <layers>
 
 <layer>

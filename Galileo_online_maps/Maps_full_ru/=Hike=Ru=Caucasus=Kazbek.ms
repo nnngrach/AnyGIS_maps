@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Кавказ - Казбек (Geoland)</name>
+<name>⛺ = 🇷🇺 Кавказ - Казбек (Geoland)</name>
 <layers>
 
 <layer>

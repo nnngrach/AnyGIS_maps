@@ -8,8 +8,8 @@
 
 <provider id="1111901" type="0" visible="true" background="-1">
 <name>Hystoric</name>
-<mode>🏛 = 🇷🇺South - Crimea 1880</mode>
-<countries>Ukraine, Russia</countries>
+<mode>🏛 = 🇷🇺 South - Crimea 1880</mode>
+<countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></url>

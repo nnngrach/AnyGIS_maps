@@ -135,7 +135,7 @@
 
 
     <source id="1053102">
-        <name>⛺ = 🇷🇺Центр - Adraces Ориентирование</name>
+        <name>⛺ = 🇷🇺 Центр - Adraces Ориентирование</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -158,7 +158,7 @@
 
 
     <source id="1053104">
-        <name>⛺ = 🇷🇺Центр - MoscowMap.ru</name>
+        <name>⛺ = 🇷🇺 Центр - MoscowMap.ru</name>
         <copyright>Moscowmap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -181,7 +181,7 @@
 
 
     <source id="1053103">
-        <name>⛺ = 🇷🇺Центр - O-Sport Ориентирование</name>
+        <name>⛺ = 🇷🇺 Центр - O-Sport Ориентирование</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -204,7 +204,7 @@
 
 
     <source id="1053101">
-        <name>⛺ = 🇷🇺Центр - Атлас Арбалет</name>
+        <name>⛺ = 🇷🇺 Центр - Атлас Арбалет</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -227,7 +227,7 @@
 
 
     <source id="1053100">
-        <name>⛺ = 🇷🇺Центр - Завьялов (ММБ)</name>
+        <name>⛺ = 🇷🇺 Центр - Завьялов (ММБ)</name>
         <copyright>Slazav</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -250,7 +250,7 @@
 
 
     <source id="1053202">
-        <name>⛺ = 🇷🇺Кавказ - Запад (КОТ ОРИЕНТ)</name>
+        <name>⛺ = 🇷🇺 Кавказ - Запад (КОТ ОРИЕНТ)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -273,7 +273,7 @@
 
 
     <source id="1053204">
-        <name>⛺ = 🇷🇺Кавказ - Западные перевалы 2014</name>
+        <name>⛺ = 🇷🇺 Кавказ - Западные перевалы 2014</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -296,7 +296,7 @@
 
 
     <source id="1053203">
-        <name>⛺ = 🇷🇺Кавказ - Казбек (Geoland)</name>
+        <name>⛺ = 🇷🇺 Кавказ - Казбек (Geoland)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -319,7 +319,7 @@
 
 
     <source id="1053209">
-        <name>⛺ = 🇷🇺Кавказ - Сводная 1000м</name>
+        <name>⛺ = 🇷🇺 Кавказ - Сводная 1000м</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -342,7 +342,7 @@
 
 
     <source id="1053210">
-        <name>⛺ = 🇷🇺Кавказ - Сводная 500м</name>
+        <name>⛺ = 🇷🇺 Кавказ - Сводная 500м</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -365,7 +365,7 @@
 
 
     <source id="1053208">
-        <name>⛺ = 🇷🇺Кавказ - Сводная ФГУ СК АГП</name>
+        <name>⛺ = 🇷🇺 Кавказ - Сводная ФГУ СК АГП</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -388,7 +388,7 @@
 
 
     <source id="1053205">
-        <name>⛺ = 🇷🇺Кавказ - Центральные перевалы 2014</name>
+        <name>⛺ = 🇷🇺 Кавказ - Центральные перевалы 2014</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -411,7 +411,7 @@
 
 
     <source id="1053206">
-        <name>⛺ = 🇷🇺Кавказ - Южные перевалы 2014</name>
+        <name>⛺ = 🇷🇺 Кавказ - Южные перевалы 2014</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -434,7 +434,7 @@
 
 
     <source id="1053401">
-        <name>⛺ = 🇷🇺С-Запад - Горы Хибинской тундры</name>
+        <name>⛺ = 🇷🇺 С-Запад - Горы Хибинской тундры</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -457,7 +457,7 @@
 
 
     <source id="1053402">
-        <name>⛺ = 🇷🇺С-Запад - Хибины (2008)</name>
+        <name>⛺ = 🇷🇺 С-Запад - Хибины (2008)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -480,7 +480,7 @@
 
 
     <source id="1053403">
-        <name>⛺ = 🇷🇺С-Запад - Хибины (СССР)</name>
+        <name>⛺ = 🇷🇺 С-Запад - Хибины (СССР)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -503,7 +503,7 @@
 
 
     <source id="1053503">
-        <name>⛺ = 🇷🇺Сибирь - Саяны Ергаки-Арадан</name>
+        <name>⛺ = 🇷🇺 Сибирь - Саяны Ергаки-Арадан</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -526,7 +526,7 @@
 
 
     <source id="1053502">
-        <name>⛺ = 🇷🇺Урал - Таганай</name>
+        <name>⛺ = 🇷🇺 Урал - Таганай</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -549,7 +549,7 @@
 
 
     <source id="1053902">
-        <name>⛺ = 🇷🇺Юг - Крым (Картография 2010)</name>
+        <name>⛺ = 🇷🇺 Юг - Крым (Картография 2010)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -572,7 +572,7 @@
 
 
     <source id="1053901">
-        <name>⛺ = 🇷🇺Юг - Крым (Союзкарта 2011)</name>
+        <name>⛺ = 🇷🇺 Юг - Крым (Союзкарта 2011)</name>
         
         <data-source></data-source>
         <region>OTHE</region>

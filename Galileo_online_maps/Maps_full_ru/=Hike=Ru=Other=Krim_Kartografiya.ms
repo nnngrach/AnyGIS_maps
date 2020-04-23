@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Юг - Крым (Картография 2010)</name>
+<name>⛺ = 🇷🇺 Юг - Крым (Картография 2010)</name>
 <layers>
 
 <layer>

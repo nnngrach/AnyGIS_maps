@@ -133,6 +133,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eurasia=Visicom.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Visicom.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eurasia=Yandex_Map_en.xml]]>
 </source>
 <dest>
@@ -160,6 +169,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=Fonecta.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=City=Eu=Fonecta.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=Ukraine=MetaUa.xml]]>
 </source>
 <dest>
@@ -178,28 +196,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eurasia=Visicom.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=City=Eurasia=Visicom.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=Eniro.xml]]>
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=City=Eu=Eniro.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Eu=Fonecta.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=Fonecta.xml]]>
 </dest>
 </download>
 

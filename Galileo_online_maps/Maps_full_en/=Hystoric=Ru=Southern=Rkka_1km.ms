@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - RKKA 1940 1km</name>
+<name>🏛 = 🇷🇺 South - RKKA 1940 1km</name>
 <layers>
 
 <layer>

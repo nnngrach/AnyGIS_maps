@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺С-Запад - Горы Хибинской тундры</name>
+<name>⛺ = 🇷🇺 С-Запад - Горы Хибинской тундры</name>
 <layers>
 
 <layer>

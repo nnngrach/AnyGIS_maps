@@ -812,6 +812,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1021009">
+<name>Visicom (CITYEUEAST)</name>
+<url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
+<servers>0,1,2,3</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1021003">
 <name>Яндекс (CITYRU)</name>
 <url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&scale=1&lang=ru-RU]]></url>
@@ -857,7 +872,22 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1022001">
+<onlinemapsource uid="1022000">
+<name>Fonecta.fi (CITYEUNORTH)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>17</maxzoom>
+<minzoom>5</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1022101">
 <name>Meta.ua (CITYEUEAST)</name>
 <url><![CDATA[http://i1.map.meta.ua/cell.php?x={$x}&y={$y}&scale={$z}]]></url>
 <servers></servers>
@@ -872,7 +902,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1022002">
+<onlinemapsource uid="1022102">
 <name>Navlux (CITYEUEAST)</name>
 <url><![CDATA[http://tiles.mq.ua/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
@@ -883,21 +913,6 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1022003">
-<name>Visicom (CITYEUEAST)</name>
-<url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
-<servers>0,1,2,3</servers>
-<maxzoom>19</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -913,21 +928,6 @@
 <cacheable>1</cacheable>
 <xop></xop>
 <yop>0</yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1022202">
-<name>Fonecta.fi (CITYEUNORTH)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Eu_Fonecta_map/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>17</maxzoom>
-<minzoom>5</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -1037,6 +1037,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1040005">
+<name>Google Велодорожки (BIKEEUROPE)</name>
+<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=ru&scale=1]]></url>
+<servers>0,1,2,3</servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1040001">
 <name>OSM Cyclosm (BIKE)</name>
 <url><![CDATA[https://dev.{$s}.tile.openstreetmap.fr/cyclosm/{$z}/{$x}/{$y}.png]]></url>
@@ -1088,21 +1103,6 @@
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>2</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="1042001">
-<name>Google Велодорожки (BIKEEUROPE)</name>
-<url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=ru&scale=1]]></url>
-<servers>0,1,2,3</servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

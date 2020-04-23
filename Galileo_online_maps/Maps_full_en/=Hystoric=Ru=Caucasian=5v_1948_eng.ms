@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Caucasus - Caucasus 1941</name>
+<name>🏛 = 🇷🇺 Caucasus - Caucasus 1941</name>
 <layers>
 
 <layer>

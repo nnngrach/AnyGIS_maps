@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺South - Crimea Kartagrafiya 2010</name>
+<name>⛺ = 🇷🇺 South - Crimea Kartagrafiya 2010</name>
 <layers>
 
 <layer>

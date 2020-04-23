@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Northwest - Khibiny Mountains</name>
+<name>⛺ = 🇷🇺 Northwest - Khibiny Mountains</name>
 <layers>
 
 <layer>

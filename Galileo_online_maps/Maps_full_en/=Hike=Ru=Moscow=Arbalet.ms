@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Central - Arbalet</name>
+<name>⛺ = 🇷🇺 Central - Arbalet</name>
 <layers>
 
 <layer>

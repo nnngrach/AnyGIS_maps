@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Northwest - Petrograd 1917</name>
+<name>🏛 = 🇷🇺 Northwest - Petrograd 1917</name>
 <layers>
 
 <layer>

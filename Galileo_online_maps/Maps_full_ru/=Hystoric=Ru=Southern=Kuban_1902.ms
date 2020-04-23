@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Юг - Кубанская область 1902</name>
+<name>🏛 = 🇷🇺 Юг - Кубанская область 1902</name>
 <layers>
 
 <layer>

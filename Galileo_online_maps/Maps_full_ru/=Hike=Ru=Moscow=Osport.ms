@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Центр - O-Sport Ориентирование</name>
+<name>⛺ = 🇷🇺 Центр - O-Sport Ориентирование</name>
 <layers>
 
 <layer>

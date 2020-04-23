@@ -16,6 +16,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike_En.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Google_Bike_En.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Cyclosm.xml]]>
 </source>
 <dest>
@@ -56,15 +65,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Bike=Ru=Chepetsk.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike_En.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Bike=Google_Bike_En.xml]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Кавказ - Кавказ 1926 5-верстовая</name>
+<name>🏛 = 🇷🇺 Кавказ - Кавказ 1926 5-верстовая</name>
 <layers>
 
 <layer>

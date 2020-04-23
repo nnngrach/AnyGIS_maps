@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Юг - Кубанский округ 1930</name>
+<name>🏛 = 🇷🇺 Юг - Кубанский округ 1930</name>
 <layers>
 
 <layer>

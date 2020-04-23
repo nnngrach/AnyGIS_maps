@@ -6,7 +6,7 @@
 
 <providers>
 
-<provider id="1042002" type="0" visible="true" background="-1">
+<provider id="1040006" type="0" visible="true" background="-1">
 <name>Bike</name>
 <mode>🚲 = Google Bike</mode>
 <countries>World</countries>

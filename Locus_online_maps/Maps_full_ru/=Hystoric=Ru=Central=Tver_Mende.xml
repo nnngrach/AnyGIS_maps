@@ -8,7 +8,7 @@
 
 <provider id="1111102" type="0" visible="true" background="-1">
 <name>Исторические</name>
-<mode>🏛 = 🇷🇺Центр - Тверская губения Менде</mode>
+<mode>🏛 = 🇷🇺 Центр - Тверская губения Менде</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

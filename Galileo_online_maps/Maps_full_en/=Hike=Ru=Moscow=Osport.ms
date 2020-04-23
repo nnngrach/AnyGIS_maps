@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Central - O-Sport</name>
+<name>⛺ = 🇷🇺 Central - O-Sport</name>
 <layers>
 
 <layer>

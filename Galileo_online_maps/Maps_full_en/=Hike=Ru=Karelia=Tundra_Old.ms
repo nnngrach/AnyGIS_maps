@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Northwest - Khibiny Tundra (Old)</name>
+<name>⛺ = 🇷🇺 Northwest - Khibiny Tundra (Old)</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Siberia - Irkutsk 1km 1986</name>
+<name>🏛 = 🇷🇺 Siberia - Irkutsk 1km 1986</name>
 <layers>
 
 <layer>

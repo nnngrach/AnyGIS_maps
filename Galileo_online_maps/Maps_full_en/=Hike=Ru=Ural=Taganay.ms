@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Ural - Taganay Park</name>
+<name>⛺ = 🇷🇺 Ural - Taganay Park</name>
 <layers>
 
 <layer>

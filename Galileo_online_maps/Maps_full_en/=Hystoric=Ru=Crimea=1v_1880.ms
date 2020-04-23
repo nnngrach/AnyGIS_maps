@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - Crimea 1880</name>
+<name>🏛 = 🇷🇺 South - Crimea 1880</name>
 <layers>
 
 <layer>

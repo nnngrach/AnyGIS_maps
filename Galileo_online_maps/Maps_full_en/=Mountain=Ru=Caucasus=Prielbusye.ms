@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏔️ = 🇷🇺Caucasus - Elbrus Region</name>
+<name>🏔️ = 🇷🇺 Caucasus - Elbrus Region</name>
 <layers>
 
 <layer>

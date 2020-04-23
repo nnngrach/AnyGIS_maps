@@ -8,7 +8,7 @@
 
 <provider id="1053102" type="1" visible="true" background="-1">
 <name>Туристические</name>
-<mode>⛺ = 🇷🇺Центр - Adraces Ориентирование</mode>
+<mode>⛺ = 🇷🇺 Центр - Adraces Ориентирование</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>8760</cacheTimeout>

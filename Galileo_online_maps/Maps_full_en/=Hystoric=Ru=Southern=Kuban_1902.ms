@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - Kuban 1902</name>
+<name>🏛 = 🇷🇺 South - Kuban 1902</name>
 <layers>
 
 <layer>

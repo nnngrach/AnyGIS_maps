@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Центр - Атлас Арбалет</name>
+<name>⛺ = 🇷🇺 Центр - Атлас Арбалет</name>
 <layers>
 
 <layer>

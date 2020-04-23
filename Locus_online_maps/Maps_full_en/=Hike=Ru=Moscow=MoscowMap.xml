@@ -8,7 +8,7 @@
 
 <provider id="1053104" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>⛺ = 🇷🇺Central - MoscowMap.ru</mode>
+<mode>⛺ = 🇷🇺 Central - MoscowMap.ru</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>8760</cacheTimeout>

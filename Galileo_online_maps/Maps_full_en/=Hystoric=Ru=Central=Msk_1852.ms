@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Central - Moscow 1852</name>
+<name>🏛 = 🇷🇺 Central - Moscow 1852</name>
 <layers>
 
 <layer>

@@ -8,7 +8,7 @@
 
 <provider id="1111204" type="0" visible="true" background="-1">
 <name>Исторические</name>
-<mode>🏛 = 🇷🇺С-Запад - Санкт-Петербург 1894</mode>
+<mode>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1894</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

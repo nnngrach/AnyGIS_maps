@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Central - MoscowMap.ru</name>
+<name>⛺ = 🇷🇺 Central - MoscowMap.ru</name>
 <layers>
 
 <layer>

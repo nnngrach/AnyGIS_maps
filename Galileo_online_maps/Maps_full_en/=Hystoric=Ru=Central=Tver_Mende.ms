@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Central - Tver Mende</name>
+<name>🏛 = 🇷🇺 Central - Tver Mende</name>
 <layers>
 
 <layer>

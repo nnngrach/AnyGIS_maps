@@ -76,7 +76,7 @@
 
 
     <source id="1111101">
-        <name>🏛 = 🇷🇺Central - Moscow 1852</name>
+        <name>🏛 = 🇷🇺 Central - Moscow 1852</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -99,7 +99,7 @@
 
 
     <source id="1111102">
-        <name>🏛 = 🇷🇺Central - Tver Mende</name>
+        <name>🏛 = 🇷🇺 Central - Tver Mende</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -122,7 +122,7 @@
 
 
     <source id="1111205">
-        <name>🏛 = 🇷🇺Northwest - Petrograd 1917</name>
+        <name>🏛 = 🇷🇺 Northwest - Petrograd 1917</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -145,7 +145,7 @@
 
 
     <source id="1111201">
-        <name>🏛 = 🇷🇺Northwest - Saint Petersburg 1705</name>
+        <name>🏛 = 🇷🇺 Northwest - Saint Petersburg 1705</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -168,7 +168,7 @@
 
 
     <source id="1111202">
-        <name>🏛 = 🇷🇺Northwest - Saint Petersburg 1725</name>
+        <name>🏛 = 🇷🇺 Northwest - Saint Petersburg 1725</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -191,7 +191,7 @@
 
 
     <source id="1111203">
-        <name>🏛 = 🇷🇺Northwest - Saint Petersburg 1883</name>
+        <name>🏛 = 🇷🇺 Northwest - Saint Petersburg 1883</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -214,7 +214,7 @@
 
 
     <source id="1111204">
-        <name>🏛 = 🇷🇺Northwest - Saint Petersburg 1894</name>
+        <name>🏛 = 🇷🇺 Northwest - Saint Petersburg 1894</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -237,7 +237,7 @@
 
 
     <source id="1111302">
-        <name>🏛 = 🇷🇺South - Kuban 1902</name>
+        <name>🏛 = 🇷🇺 South - Kuban 1902</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -260,7 +260,7 @@
 
 
     <source id="1111305">
-        <name>🏛 = 🇷🇺South - Kuban Stralbitsky 1918</name>
+        <name>🏛 = 🇷🇺 South - Kuban Stralbitsky 1918</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -283,7 +283,7 @@
 
 
     <source id="1111303">
-        <name>🏛 = 🇷🇺South - Kuban district 1930</name>
+        <name>🏛 = 🇷🇺 South - Kuban district 1930</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -306,7 +306,7 @@
 
 
     <source id="1111304">
-        <name>🏛 = 🇷🇺South - Kuban district geologic1908-16</name>
+        <name>🏛 = 🇷🇺 South - Kuban district geologic1908-16</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -329,7 +329,7 @@
 
 
     <source id="1111309">
-        <name>🏛 = 🇷🇺South - RKKA 1932-42 2km</name>
+        <name>🏛 = 🇷🇺 South - RKKA 1932-42 2km</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -352,7 +352,7 @@
 
 
     <source id="1111310">
-        <name>🏛 = 🇷🇺South - RKKA 1940 1km</name>
+        <name>🏛 = 🇷🇺 South - RKKA 1940 1km</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -375,7 +375,7 @@
 
 
     <source id="1111401">
-        <name>🏛 = 🇷🇺Caucasus - Caucasus 1877</name>
+        <name>🏛 = 🇷🇺 Caucasus - Caucasus 1877</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -398,7 +398,7 @@
 
 
     <source id="1111402">
-        <name>🏛 = 🇷🇺Caucasus - Caucasus 1926</name>
+        <name>🏛 = 🇷🇺 Caucasus - Caucasus 1926</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -421,7 +421,7 @@
 
 
     <source id="1111403">
-        <name>🏛 = 🇷🇺Caucasus - Caucasus 1941</name>
+        <name>🏛 = 🇷🇺 Caucasus - Caucasus 1941</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -444,7 +444,7 @@
 
 
     <source id="1111404">
-        <name>🏛 = 🇷🇺Caucasus - Maykop 1925</name>
+        <name>🏛 = 🇷🇺 Caucasus - Maykop 1925</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -467,7 +467,7 @@
 
 
     <source id="1111702">
-        <name>🏛 = 🇷🇺Siberia - Irkutsk 1km 1986</name>
+        <name>🏛 = 🇷🇺 Siberia - Irkutsk 1km 1986</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -490,7 +490,7 @@
 
 
     <source id="1111703">
-        <name>🏛 = 🇷🇺Siberia - Irkutsk 2km 1988</name>
+        <name>🏛 = 🇷🇺 Siberia - Irkutsk 2km 1988</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -513,7 +513,7 @@
 
 
     <source id="1111701">
-        <name>🏛 = 🇷🇺Siberia - Irkutsk 5km 1980</name>
+        <name>🏛 = 🇷🇺 Siberia - Irkutsk 5km 1980</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -536,7 +536,7 @@
 
 
     <source id="1111901">
-        <name>🏛 = 🇷🇺South - Crimea 1880</name>
+        <name>🏛 = 🇷🇺 South - Crimea 1880</name>
         
         <data-source></data-source>
         <region>OTHE</region>

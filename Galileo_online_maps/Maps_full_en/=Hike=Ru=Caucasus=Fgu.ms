@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Caucasus - Caucasus FGU SK AGP</name>
+<name>⛺ = 🇷🇺 Caucasus - Caucasus FGU SK AGP</name>
 <layers>
 
 <layer>

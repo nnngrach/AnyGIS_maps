@@ -9,7 +9,7 @@
 <provider id="1112101" type="0" visible="true" background="-1">
 <name>Исторические</name>
 <mode>🏛 = 🇺🇦 - Крым 1880 1-верстовая</mode>
-<countries>Ukraine, Russia</countries>
+<countries>Ukraine</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>
 <url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></url>

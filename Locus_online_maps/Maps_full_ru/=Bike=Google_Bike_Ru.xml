@@ -6,7 +6,7 @@
 
 <providers>
 
-<provider id="1042001" type="0" visible="true" background="-1">
+<provider id="1040005" type="0" visible="true" background="-1">
 <name>Велосипедные</name>
 <mode>🚲 = Google Велодорожки</mode>
 <countries>World</countries>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏔️ = 🇷🇺Siberia - Altai Katun Ridge</name>
+<name>🏔️ = 🇷🇺 Siberia - Altai Katun Ridge</name>
 <layers>
 
 <layer>

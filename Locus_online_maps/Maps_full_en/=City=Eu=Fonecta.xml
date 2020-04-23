@@ -11,7 +11,7 @@
 
 <providers>
 
-<provider id="1022202" type="0" visible="true" background="-1">
+<provider id="1022000" type="0" visible="true" background="-1">
 <name>City</name>
 <mode>🏠 = 🇪🇺 - Fonecta.fi</mode>
 <countries>Europe</countries>

@@ -8,7 +8,7 @@
 
 <provider id="1111310" type="0" visible="true" background="-1">
 <name>Исторические</name>
-<mode>🏛 = 🇷🇺Юг - РККА 1940 1км</mode>
+<mode>🏛 = 🇷🇺 Юг - РККА 1940 1км</mode>
 <countries>Russia</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

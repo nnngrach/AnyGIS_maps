@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = 🇺🇦 - Visicom</name>
+<name>🏠 = 🇷🇺 - Visicom</name>
 <layers>
 
 <layer>

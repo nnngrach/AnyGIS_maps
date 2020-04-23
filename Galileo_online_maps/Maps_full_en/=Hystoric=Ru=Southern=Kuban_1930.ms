@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - Kuban district 1930</name>
+<name>🏛 = 🇷🇺 South - Kuban district 1930</name>
 <layers>
 
 <layer>

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Northwest - Saint Petersburg 1725</name>
+<name>🏛 = 🇷🇺 Northwest - Saint Petersburg 1725</name>
 <layers>
 
 <layer>

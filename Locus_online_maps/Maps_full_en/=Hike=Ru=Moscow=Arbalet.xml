@@ -8,7 +8,7 @@
 
 <provider id="1053101" type="1" visible="true" background="-1">
 <name>Hike</name>
-<mode>⛺ = 🇷🇺Central - Arbalet</mode>
+<mode>⛺ = 🇷🇺 Central - Arbalet</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

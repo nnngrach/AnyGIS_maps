@@ -8,7 +8,7 @@
 
 <provider id="1053401" type="0" visible="true" background="-1">
 <name>Туристические</name>
-<mode>⛺ = 🇷🇺С-Запад - Горы Хибинской тундры</mode>
+<mode>⛺ = 🇷🇺 С-Запад - Горы Хибинской тундры</mode>
 <countries>Russia</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>

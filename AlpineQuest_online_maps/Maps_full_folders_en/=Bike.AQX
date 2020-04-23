@@ -6,6 +6,34 @@
 <name>Bike</name>
 <description></description>
 
+    <source id="1040006">
+        <name>🚲 = Google Bike</name>
+        <copyright>Google & others</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>TOPO</type>
+
+        <preview-location>8.71374,50.1107,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.google.com/maps/]]></referer>
+                
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
     <source id="1040001">
         <name>🚲 = OSM Cyclosm</name>
         <copyright>OpenStreetMap, Cyclosm.org</copyright>
@@ -51,34 +79,6 @@
             <servers>
                 <referer><![CDATA[https://anygis.ru/]]></referer>
                 <server><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png]]></server>
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="1042002">
-        <name>🚲 = Google Bike</name>
-        <copyright>Google & others</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>TOPO</type>
-
-        <preview-location>8.71374,50.1107,12</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.google.com/maps/]]></referer>
-                
-                <server><![CDATA[http://mt0.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
-                <server><![CDATA[http://mt1.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
-                <server><![CDATA[http://mt2.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
-                <server><![CDATA[http://mt3.google.com/vt/lyrs=m@486000000,bike&src=app&x={x}&y={y}&z={z}&s=Gali&hl=en&scale=1]]></server>
-
             </servers>
         </level>
     </source>

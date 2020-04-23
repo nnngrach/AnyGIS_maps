@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - Kuban Stralbitsky 1918</name>
+<name>🏛 = 🇷🇺 South - Kuban Stralbitsky 1918</name>
 <layers>
 
 <layer>

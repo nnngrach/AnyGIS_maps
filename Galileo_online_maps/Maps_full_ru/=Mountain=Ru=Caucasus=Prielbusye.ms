@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏔️ = 🇷🇺Кавказ - Приэльбрусье (Ляпин)</name>
+<name>🏔️ = 🇷🇺 Кавказ - Приэльбрусье (Ляпин)</name>
 <layers>
 
 <layer>

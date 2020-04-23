@@ -6,9 +6,9 @@
 
 <providers>
 
-<provider id="1022003" type="1" visible="true" background="-1">
+<provider id="1021009" type="1" visible="true" background="-1">
 <name>City</name>
-<mode>🏠 = 🇺🇦 - Visicom</mode>
+<mode>🏠 = 🇷🇺 - Visicom</mode>
 <countries>Ukraine, Russia, Belarus, Estonia, Georgia, Armenia, Azerbaijan, Uzbekistan, Kazakhstan, Kyrgyzstan, Tajikistan</countries>
 <usage>city</usage>
 <cacheTimeout>720</cacheTimeout>

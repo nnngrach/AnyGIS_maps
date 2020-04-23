@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Central - Slazav MMB</name>
+<name>⛺ = 🇷🇺 Central - Slazav MMB</name>
 <layers>
 
 <layer>

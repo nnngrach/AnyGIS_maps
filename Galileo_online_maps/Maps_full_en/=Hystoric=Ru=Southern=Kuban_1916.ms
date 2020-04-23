@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺South - Kuban district geologic1908-16</name>
+<name>🏛 = 🇷🇺 South - Kuban district geologic1908-16</name>
 <layers>
 
 <layer>

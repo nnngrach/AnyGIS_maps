@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Caucasus - Maykop 1925</name>
+<name>🏛 = 🇷🇺 Caucasus - Maykop 1925</name>
 <layers>
 
 <layer>

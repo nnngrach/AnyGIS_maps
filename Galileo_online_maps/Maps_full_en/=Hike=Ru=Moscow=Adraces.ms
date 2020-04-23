@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Central - Adraces</name>
+<name>⛺ = 🇷🇺 Central - Adraces</name>
 <layers>
 
 <layer>

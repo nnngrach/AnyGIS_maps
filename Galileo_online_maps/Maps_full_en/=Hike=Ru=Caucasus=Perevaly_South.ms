@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Caucasus - Caucasus Southern 2014</name>
+<name>⛺ = 🇷🇺 Caucasus - Caucasus Southern 2014</name>
 <layers>
 
 <layer>

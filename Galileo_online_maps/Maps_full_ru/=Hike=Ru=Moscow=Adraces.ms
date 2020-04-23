@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺Центр - Adraces Ориентирование</name>
+<name>⛺ = 🇷🇺 Центр - Adraces Ориентирование</name>
 <layers>
 
 <layer>

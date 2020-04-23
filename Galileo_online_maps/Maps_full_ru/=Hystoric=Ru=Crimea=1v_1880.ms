@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏛 = 🇷🇺Юг - Крым 1880 1-верстовая</name>
+<name>🏛 = 🇷🇺 Юг - Крым 1880 1-верстовая</name>
 <layers>
 
 <layer>
