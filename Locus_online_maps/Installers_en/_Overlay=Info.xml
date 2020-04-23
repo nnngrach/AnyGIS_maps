@@ -88,10 +88,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Eu=East=CadastrUa_overlay.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Eu=Ukraine=Cadastr_overlay.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Eu=East=CadastrUa_overlay.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Eu=Ukraine=Cadastr_overlay.xml]]>
 </dest>
 </download>
 

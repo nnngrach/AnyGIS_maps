@@ -8,7 +8,7 @@
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>19</maxZoom>
+    <maxZoom>20</maxZoom>
     <url>http://{$serverpart}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png</url>
     <serverParts>a b c</serverParts>
 </layer>

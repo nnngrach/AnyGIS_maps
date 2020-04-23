@@ -76,7 +76,7 @@
 
 
     <source id="1111101">
-        <name>🏛 = 🇷🇺 Центр - Москва - Хотевский план 1852</name>
+        <name>🏛 = 🇷🇺Центр - Москва - Хотевский план 1852</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -99,7 +99,7 @@
 
 
     <source id="1111102">
-        <name>🏛 = 🇷🇺 Центр - Тверская губения Менде</name>
+        <name>🏛 = 🇷🇺Центр - Тверская губения Менде</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -122,7 +122,7 @@
 
 
     <source id="1111205">
-        <name>🏛 = 🇷🇺 С-Запад - Петроград 1917</name>
+        <name>🏛 = 🇷🇺С-Запад - Петроград 1917</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -145,7 +145,7 @@
 
 
     <source id="1111201">
-        <name>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1705</name>
+        <name>🏛 = 🇷🇺С-Запад - Санкт-Петербург 1705</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -168,7 +168,7 @@
 
 
     <source id="1111202">
-        <name>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1725</name>
+        <name>🏛 = 🇷🇺С-Запад - Санкт-Петербург 1725</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -191,7 +191,7 @@
 
 
     <source id="1111203">
-        <name>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1883 (план Вортникова)</name>
+        <name>🏛 = 🇷🇺С-Запад - Санкт-Петербург 1883 (план Вортникова)</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -214,7 +214,7 @@
 
 
     <source id="1111204">
-        <name>🏛 = 🇷🇺 С-Запад - Санкт-Петербург 1894</name>
+        <name>🏛 = 🇷🇺С-Запад - Санкт-Петербург 1894</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -237,7 +237,7 @@
 
 
     <source id="1111302">
-        <name>🏛 = 🇷🇺 Кубань - Кубанская область 1902</name>
+        <name>🏛 = 🇷🇺Юг - Кубанская область 1902</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -260,7 +260,7 @@
 
 
     <source id="1111303">
-        <name>🏛 = 🇷🇺 Кубань - Кубанский округ 1930</name>
+        <name>🏛 = 🇷🇺Юг - Кубанский округ 1930</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -283,7 +283,7 @@
 
 
     <source id="1111304">
-        <name>🏛 = 🇷🇺 Кубань - Кубанский р-н Геологическая 1908-16 1 верста</name>
+        <name>🏛 = 🇷🇺Юг - Кубанский р-н Геологическая 1908-16 1 верста</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -306,7 +306,7 @@
 
 
     <source id="1111305">
-        <name>🏛 = 🇷🇺 Кубань - Кубань Стрельбицкого 1918 10 верст</name>
+        <name>🏛 = 🇷🇺Юг - Кубань Стрельбицкого 1918 10 верст</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -329,7 +329,7 @@
 
 
     <source id="1111309">
-        <name>🏛 = 🇷🇺 Кубань - РККА 1932-1942 2км</name>
+        <name>🏛 = 🇷🇺Юг - РККА 1932-1942 2км</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -352,7 +352,7 @@
 
 
     <source id="1111310">
-        <name>🏛 = 🇷🇺 Кубань - РККА 1940 1км</name>
+        <name>🏛 = 🇷🇺Юг - РККА 1940 1км</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -375,7 +375,7 @@
 
 
     <source id="1111401">
-        <name>🏛 = 🇷🇺 Кавказ - Кавказ 1877 5-верстовая</name>
+        <name>🏛 = 🇷🇺Кавказ - Кавказ 1877 5-верстовая</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -398,7 +398,7 @@
 
 
     <source id="1111402">
-        <name>🏛 = 🇷🇺 Кавказ - Кавказ 1926 5-верстовая</name>
+        <name>🏛 = 🇷🇺Кавказ - Кавказ 1926 5-верстовая</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -421,7 +421,7 @@
 
 
     <source id="1111403">
-        <name>🏛 = 🇷🇺 Кавказ - Кавказ 1941-48 5-верстовая (ENG)</name>
+        <name>🏛 = 🇷🇺Кавказ - Кавказ 1941-48 5-верстовая (ENG)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -444,7 +444,7 @@
 
 
     <source id="1111404">
-        <name>🏛 = 🇷🇺 Кавказ - Майкопский округ 1925</name>
+        <name>🏛 = 🇷🇺Кавказ - Майкопский округ 1925</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -467,7 +467,7 @@
 
 
     <source id="1111702">
-        <name>🏛 = 🇷🇺 Сибирь - Иркутск и окрестноски 1км 1986</name>
+        <name>🏛 = 🇷🇺Сибирь - Иркутск и окрестноски 1км 1986</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -490,7 +490,7 @@
 
 
     <source id="1111703">
-        <name>🏛 = 🇷🇺 Сибирь - Иркутск и окрестноски 2км 1988</name>
+        <name>🏛 = 🇷🇺Сибирь - Иркутск и окрестноски 2км 1988</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -513,7 +513,7 @@
 
 
     <source id="1111701">
-        <name>🏛 = 🇷🇺 Сибирь - Иркутск и окрестноски 5км 1980</name>
+        <name>🏛 = 🇷🇺Сибирь - Иркутск и окрестноски 5км 1980</name>
         <copyright>Retromap.ru</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -536,7 +536,30 @@
 
 
     <source id="1111901">
-        <name>🏛 = Крым - Крым 1880 1-верстовая</name>
+        <name>🏛 = 🇷🇺Юг - Крым 1880 1-верстовая</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>ROAD</type>
+
+        <preview-location>33.5,44.6,14</preview-location>
+        <outline>33.3,45.3 36.15,45.3 36.15,44.3 33.3,44.3</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_Krim_1v/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1112101">
+        <name>🏛 = 🇺🇦 - Крым 1880 1-верстовая</name>
         
         <data-source></data-source>
         <region>OTHE</region>

@@ -26,7 +26,7 @@
 
 <provider id="1011006" type="2" visible="true" background="69999018">
 <name>Спутниковые</name>
-<mode>🛰 = Яндекс - Гибрид</mode>
+<mode>🛰 = 🇷🇺 - Яндекс - Гибрид</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

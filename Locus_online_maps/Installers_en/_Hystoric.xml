@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Eur_Russia_Shubert.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Shubert_3v.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Eur_Russia_Shubert.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Shubert_3v.xml]]>
 </dest>
 </download>
 
@@ -43,226 +43,235 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Central=Msk_1852.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Central=Msk_1852.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Msk_1852.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Central=Msk_1852.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Central=Tver_Mende.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Central=Tver_Mende.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Central=Tver_Mende.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=Spb_1917.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Northwestern=Spb_1917.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1917.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Northwestern=Spb_1917.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=Spb_1705.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Northwestern=Spb_1705.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1705.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Northwestern=Spb_1705.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=Spb_1725.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Northwestern=Spb_1725.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1725.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Northwestern=Spb_1725.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Northwestern=Spb_1883.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1883.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Northwestern=Spb_1883.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Northwestern=Spb_1894.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Northwestern=Spb_1894.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Northwestern=Spb_1894.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Northwestern=Spb_1894.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1902.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Kuban_1902.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1902.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Kuban_1902.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1918.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Kuban_1918.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1918.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Kuban_1918.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1930.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Kuban_1930.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1930.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Kuban_1930.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Kuban_1916.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Kuban_1916.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Kuban_1916.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Kuban_1916.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Rkka_2km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Rkka_2km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_2km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Rkka_2km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Southern=Rkka_1km.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Southern=Rkka_1km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Southern=Rkka_1km.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Southern=Rkka_1km.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Caucasian=5v_1877.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1877.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Caucasian=5v_1877.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Caucasian=5v_1926.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1926.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Caucasian=5v_1926.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Caucasian=5v_1948_eng.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Kavkaz_1948_eng.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Caucasian=5v_1948_eng.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Caucasian=Maykop_1925.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Caucasian=Maykop_1925.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Caucasian=Maykop_1925.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Caucasian=Maykop_1925.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=IIrkutsk_1km_1986.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Siberian=IIrkutsk_1km_1986.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=IIrkutsk_1km_1986.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Siberian=IIrkutsk_1km_1986.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=IIrkutsk_2km_1988.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Siberian=IIrkutsk_2km_1988.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=IIrkutsk_2km_1988.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Siberian=IIrkutsk_2km_1988.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Siberian=Irkutsk_5km_1980.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Siberian=Irkutsk_5km_1980.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Siberian=Irkutsk_5km_1980.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eurasia=Crimea=Krim_1v.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Ru=Crimea=1v_1880.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Eurasia=Crimea=Krim_1v.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Ru=Crimea=1v_1880.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eu=Ukraine=1v_1880.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eu=Ukraine=1v_1880.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_3v_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eu=Belarus=3v.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_3v_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eu=Belarus=3v.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eu=Belarus=3v_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_RKKA_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eu=Belarus=3v_plus.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Europe=Eastern=Belarus_WIG_plus.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eu=Belarus=RKKA_plus.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hystoric=Europe=Eastern=Belarus_WIG_plus.xml]]>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eu=Belarus=RKKA_plus.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hystoric=Eu=Belarus=WIG_plus.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hystoric=Eu=Belarus=WIG_plus.xml]]>
 </dest>
 </download>
 

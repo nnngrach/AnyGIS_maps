@@ -47,21 +47,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1010001">
-<name>ESRI+Yandex+Google (SATELLITES)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Combo_All_Satellites/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1010005">
 <name>Google (SATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=s@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&hl=en]]></url>
@@ -92,9 +77,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1010008">
+<onlinemapsource uid="1010017">
 <name>Here (SATELLITES)</name>
-<url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
+<url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -677,9 +662,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1020007">
+<onlinemapsource uid="1020016">
 <name>Here (CITY)</name>
-<url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=rus&ppi=72&pview=RUS]]></url>
+<url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -692,11 +677,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1020008">
+<onlinemapsource uid="1020017">
 <name>Here - Terrain (CITY)</name>
-<url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
+<url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=eng&ppi=72&tprof=PrtlHere]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1020018">
+<name>OSM Humanitarian (CITY)</name>
+<url><![CDATA[https://tile-{$s}.openstreetmap.fr/hot/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -741,7 +741,7 @@
 <name>OSM Mapnik (OpenStreetMap.org) (CITY)</name>
 <url><![CDATA[http://{$s}.tile.openstreetmap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
-<maxzoom>19</maxzoom>
+<maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -812,9 +812,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1021003">
+<onlinemapsource uid="1021008">
 <name>Yandex (CITYRU)</name>
-<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&scale=1&lang=ru-RU]]></url>
+<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&scale=1&lang=en-EN]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
@@ -873,7 +873,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1022002">
-<name>Ukraine - Navlux (CITYEUEAST)</name>
+<name>Navlux (CITYEUEAST)</name>
 <url><![CDATA[http://tiles.mq.ua/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -888,7 +888,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1022003">
-<name>Ukraine - Visicom (CITYEUEAST)</name>
+<name>Visicom (CITYEUEAST)</name>
 <url><![CDATA[https://tms{$s}.visicom.ua/2.0.0/planet3/base/{$z}/{$x}/{$y}.png]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -1113,7 +1113,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1042002">
-<name>Google Bike EN (BIKEEUROPE)</name>
+<name>Google Bike (BIKEEUROPE)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@486000000,bike&src=app&x={$x}&y={$y}&z={$z}&s=Gali&hl=en&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -1595,6 +1595,36 @@
 <onlinemapsource uid="1054003">
 <name>Carpathians (HIKEEUEAST)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Karpaty/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054005">
+<name>Crimea Kartagrafiya 2010 (HIKERUCRIMEA)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1054004">
+<name>Crimea Souskarta 2011 (HIKERUCRIMEA)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
@@ -2223,7 +2253,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1071003">
-<name>Volga and Kama rivers location (WATERRU)</name>
+<name>Volga and Kama rivers  (WATERRU)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_River_Volga/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -2343,7 +2373,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1100002">
-<name>Google Transit EN (INFRASTRUCTURE)</name>
+<name>Google Transit (INFRASTRUCTURE)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={$x}&y={$y}&z={$z}&hl=en&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -2732,6 +2762,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1112101">
+<name>Crimea 1880 (HYSTORYCRUKRIM)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Historic_Krim_1v/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1112201">
 <name>Belarus 3 verstovaya (HYSTORYCEUEAST)</name>
 <url><![CDATA[https://globus.tut.by/.tiles/3v_jan20/Z{$z}/{$y}/{$x}.jpg]]></url>
@@ -2987,9 +3032,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2020002">
+<onlinemapsource uid="2020008">
 <name>Google - Hybrid (OVERLAYHYBRID)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Google_labels/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Google_labels_en/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>
@@ -3092,9 +3137,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2021001">
+<onlinemapsource uid="2021003">
 <name>Yandex - Hybrid (OVERLAYHYBRIDRU)</name>
-<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=ru_RU]]></url>
+<url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=skl&x={$x}&y={$y}&z={$z}&scale=1&lang=en-EN]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
 <minzoom>0</minzoom>

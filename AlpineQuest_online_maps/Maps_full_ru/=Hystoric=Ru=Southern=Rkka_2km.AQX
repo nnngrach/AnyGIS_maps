@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Исторические</name>
+<description></description>
+
+    <source id="1111309">
+        <name>🏛 = 🇷🇺Юг - РККА 1932-1942 2км</name>
+        
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>ROAD</type>
+
+        <preview-location>43.7,43.52,10</preview-location>
+        <outline>35.9,56.05 52.05,56.05 52.05,40.6 35.9,40.6</outline>
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://anygis.ru/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Historic_RKKA_2km/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

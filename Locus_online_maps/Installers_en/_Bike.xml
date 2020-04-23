@@ -52,28 +52,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Chepetsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Ru=Chepetsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Chepetsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Ru=Chepetsk.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Google_Bike_En.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Google_Bike.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Google_Bike_En.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </dest>
 </download>
 

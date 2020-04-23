@@ -16,7 +16,7 @@
 <serverPart>a;b;c</serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>27</zoomMax>   <!-- 19 -->
+<zoomMax>28</zoomMax>   <!-- 20 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://www.openstreetmap.org/]]></extraHeader>

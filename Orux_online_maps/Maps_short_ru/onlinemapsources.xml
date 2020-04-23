@@ -409,7 +409,7 @@
 
 <onlinemapsource uid="2020002">
 <name>Google - Гибрид (OVERLAYHYBRID)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Google_labels/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Google_labels_ru/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
 <minzoom>0</minzoom>

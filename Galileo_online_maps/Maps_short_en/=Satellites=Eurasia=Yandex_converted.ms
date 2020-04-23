@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Yandex (converted)</name>
+<name>🛰 = 🇷🇺 - Yandex (converted)</name>
 <layers>
 
 <layer>

@@ -16,64 +16,64 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Belarus=DzzBy_need_a_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=Belarus_DzzBy_need_a_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Belarus=DzzBy_need_a_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=East=CadastrUa_sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Ukraine=Cadastr_sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=East=CadastrUa_sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Ukraine=Cadastr_sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=North=Eniro_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Eniro_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Eniro_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Eniro_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=North=Hitta_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Sweden=Hitta_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Hitta_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Sweden=Hitta_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=North=Norgeskart_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Norway=Norgeskart_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Norgeskart_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Norway=Norgeskart_Sat.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=North=Norgeskart_Hybrid.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Norway=Norgeskart_Hybrid.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=North=Norgeskart_Hybrid.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Norway=Norgeskart_Hybrid.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Eu=Switzerland=SwissTopo_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Eu=Central=SwissTopo_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Eu=Switzerland=SwissTopo_Sat.xml]]>
 </dest>
 </download>
 

@@ -16,10 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Kazakhstan=Asia=Kazakhstan=Atyrau_Sat.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Kazakhstan=Local_Atyrau_Sat.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Kazakhstan=Asia=Kazakhstan=Atyrau_Sat.xml]]>
 </dest>
 </download>
 

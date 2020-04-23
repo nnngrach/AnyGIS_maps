@@ -79,19 +79,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Eu=North=Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Eu=Sweden=Hitta_Frilufts_Skoterleder.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=North=Hitta_Frilufts_Skoterleder.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=Sweden=Hitta_Frilufts_Skoterleder.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Eu=Central=SwissTopoTrails.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hike=Eu=Switzerland=TopoTrails.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=Central=SwissTopoTrails.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Eu=Switzerland=TopoTrails.xml]]>
 </dest>
 </download>
 

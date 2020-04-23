@@ -52,10 +52,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Chepetsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Ru=Chepetsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Chepetsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Ru=Chepetsk.xml]]>
 </dest>
 </download>
 
@@ -70,10 +70,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </dest>
 </download>
 

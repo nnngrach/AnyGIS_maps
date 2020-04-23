@@ -8,7 +8,7 @@ ParentSubMenu=City\Ukraine
 
 name_ru=Navlux
 name_uk=Navlux
-name=Ukraine - Navlux
+name=Navlux
 
 NameInCache=Other_Ukr_Luxena
 asLayer=0

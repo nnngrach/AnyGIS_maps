@@ -6,7 +6,7 @@
 <name>Overlay - Labels</name>
 <description></description>
 
-    <source id="2020002" layer="true">
+    <source id="2020008" layer="true">
         <name>⏹️ 🏷 = Google - Hybrid</name>
         <copyright>Google & others</copyright>
         <data-source></data-source>
@@ -24,10 +24,10 @@
             <servers>
                 <referer><![CDATA[https://www.google.com/maps/]]></referer>
                 
-                <server><![CDATA[http://mt0.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt1.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt2.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
-                <server><![CDATA[http://mt3.google.com/vt/lyrs=h&hl=ru&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt0.google.com/vt/lyrs=h&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt1.google.com/vt/lyrs=h&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt2.google.com/vt/lyrs=h&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
+                <server><![CDATA[http://mt3.google.com/vt/lyrs=h&hl=en&x={x}&y={y}&z={z}&scale=1]]></server>
 
             </servers>
         </level>

@@ -1,5 +1,5 @@
 [Name]
-Water - Volga and Kama rivers location
+Water - Volga and Kama rivers 
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_River_Volga/{x}/{y}/{z}

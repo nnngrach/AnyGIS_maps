@@ -16,19 +16,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Geology=Geology_Ussr.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Geology=Eurasia=Geology_Ussr.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Geology=Geology_Ussr.xml]]>
+<![CDATA[/mapsOnline/custom/=Geology=Eurasia=Geology_Ussr.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Geology=VsegeiRu_Geology.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Geology=Eurasia=VsegeiRu.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Geology=VsegeiRu_Geology.xml]]>
+<![CDATA[/mapsOnline/custom/=Geology=Eurasia=VsegeiRu.xml]]>
 </dest>
 </download>
 

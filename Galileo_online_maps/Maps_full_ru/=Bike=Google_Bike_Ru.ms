@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🚲 = 🇪🇺- Google Велодорожки</name>
+<name>🚲 = Google Велодорожки</name>
 <layers>
 
 <layer>

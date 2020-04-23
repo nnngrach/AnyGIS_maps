@@ -43,19 +43,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Map_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Here_Map.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Map_ru.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Terrain.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Here_Terrain_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Here_Terrain.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Here_Terrain_ru.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Hot.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=City=Hot.xml]]>
 </dest>
 </download>
 
@@ -106,100 +115,100 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=2gis.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=2gis.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=2gis.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Sputnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Sputnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Sputnik.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Yandex_Map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Yandex_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Yandex_Map.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Yandex_Map_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Yandex_Map_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Yandex_Map_proxy.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Yandex_Narod.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Yandex_Narod.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Narod.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Yandex_Narod.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=MetaUa.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=Ukraine=MetaUa.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=East=MetaUa.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=Ukraine=MetaUa.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=Navlux.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=Ukraine=Navlux.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=East=Navlux.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=Ukraine=Navlux.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=East=Visicom.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Visicom.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=East=Visicom.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Visicom.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Eniro.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=Eniro.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=North=Eniro.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=Eniro.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Fonecta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=Fonecta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=North=Fonecta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=Fonecta.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=North=Hitta.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eu=Sweden=Hitta.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Eu=North=Hitta.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eu=Sweden=Hitta.xml]]>
 </dest>
 </download>
 

@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Яндекс (converted)</name>
+<name>🛰 = 🇷🇺 - Яндекс (converted)</name>
 <layers>
 
 <layer>

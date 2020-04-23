@@ -43,73 +43,73 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Ru=Caucasus=Abshira_Ahuba.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Eurasia=Caucasus=Abshira_Ahuba.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Ru=Caucasus=Abshira_Ahuba.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eurasia=Caucasus=Gosgeodesiya.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Ru=Caucasus=Gosgeodesiya.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Eurasia=Caucasus=Gosgeodesiya.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Ru=Caucasus=Gosgeodesiya.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eurasia=Caucasus=Prielbusye.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Ru=Caucasus=Prielbusye.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Eurasia=Caucasus=Prielbusye.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Ru=Caucasus=Prielbusye.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eurasia=Other=Altay.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Ru=Altay=Katunsky_Chuysky.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Eurasia=Other=Altay.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Ru=Altay=Katunsky_Chuysky.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Asia=Central=Kyrgizskiy_hrebet.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Asia=Kyrgyzstan=Kyrgizskiy_hrebet.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Asia=Central=Kyrgizskiy_hrebet.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Asia=Kyrgyzstan=Kyrgizskiy_hrebet.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eurasia=Other=Eurasia=Other=Terskey_Alatau.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Asia=Kyrgyzstan=Terskey_Alatau.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Eurasia=Other=Eurasia=Other=Terskey_Alatau.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Asia=Kyrgyzstan=Terskey_Alatau.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=TianShan_and_Pamir.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Asia=Kyrgyzstan=TianShan_and_Pamir.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=TianShan_and_Pamir.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Asia=Kyrgyzstan=TianShan_and_Pamir.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Asia=West=Alagadar.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Mountain=Eu=Turkey=Alagadar.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Mountain=Asia=West=Alagadar.xml]]>
+<![CDATA[/mapsOnline/custom/=Mountain=Eu=Turkey=Alagadar.xml]]>
 </dest>
 </download>
 

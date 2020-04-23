@@ -16,19 +16,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Google_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Google_Traffic_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Google_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Google_Traffic_ru.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Here_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Here_Traffic_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Here_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Here_Traffic_ru.xml]]>
 </dest>
 </download>
 
@@ -88,10 +88,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Yandex_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Eurasia=Yandex_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Yandex_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Eurasia=Yandex_Traffic.xml]]>
 </dest>
 </download>
 

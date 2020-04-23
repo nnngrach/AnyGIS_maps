@@ -97,28 +97,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=2gis.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=2gis.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=2gis.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=2gis.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Sputnik.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Sputnik.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Sputnik.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Sputnik.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Ru=Yandex_Map.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Eurasia=Yandex_Map.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=City=Ru=Yandex_Map.xml]]>
+<![CDATA[/mapsOnline/custom/=City=Eurasia=Yandex_Map.xml]]>
 </dest>
 </download>
 
@@ -133,10 +133,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Google_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Google_Traffic_ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Google_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Google_Traffic_ru.xml]]>
 </dest>
 </download>
 
@@ -160,10 +160,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Yandex_Traffic.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Road=Eurasia=Yandex_Traffic.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Road=Yandex_Traffic.xml]]>
+<![CDATA[/mapsOnline/custom/=Road=Eurasia=Yandex_Traffic.xml]]>
 </dest>
 </download>
 
@@ -205,19 +205,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Chepetsk.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Ru=Chepetsk.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Chepetsk.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Ru=Chepetsk.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Bike=Mtb_Map_Cz.xml]]>
+<![CDATA[/mapsOnline/custom/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </dest>
 </download>
 
@@ -277,10 +277,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=All=OpenTopoMap_Ru.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=OpenTopoMap_Ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Eurasia=All=OpenTopoMap_Ru.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Eurasia=OpenTopoMap_Ru.xml]]>
 </dest>
 </download>
 
@@ -295,10 +295,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Topo=Eurasia=All=Ggc=All.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Topo=Ru=Ggc=All.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Topo=Eurasia=All=Ggc=All.xml]]>
+<![CDATA[/mapsOnline/custom/=Topo=Ru=Ggc=All.xml]]>
 </dest>
 </download>
 
@@ -457,10 +457,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Google.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Google_Ru.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Google.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Google_Ru.xml]]>
 </dest>
 </download>
 
@@ -484,10 +484,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Ru=Yandex.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Eurasia=Yandex.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Ru=Yandex.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Eurasia=Yandex.xml]]>
 </dest>
 </download>
 
@@ -538,10 +538,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Yandex_Traffic_proxy.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Road=Eurasia=Yandex_Traffic_proxy.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Road=Yandex_Traffic_proxy.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Road=Eurasia=Yandex_Traffic_proxy.xml]]>
 </dest>
 </download>
 

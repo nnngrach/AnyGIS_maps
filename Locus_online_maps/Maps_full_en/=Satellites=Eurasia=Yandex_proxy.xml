@@ -8,7 +8,7 @@
 
 <provider id="1011004" type="2" visible="true" background="-1">
 <name>Satellites</name>
-<mode>🛰 = Yandex (proxy)</mode>
+<mode>🛰 = 🇷🇺 - Yandex (proxy)</mode>
 <countries>World</countries>
 <usage>photo</usage>
 <cacheTimeout>2160</cacheTimeout>

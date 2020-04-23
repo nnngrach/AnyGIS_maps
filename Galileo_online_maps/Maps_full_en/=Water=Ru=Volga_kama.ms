@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⚓️ = 🇷🇺 - Volga and Kama rivers location</name>
+<name>⚓️ = 🇷🇺 - Volga and Kama rivers </name>
 <layers>
 
 <layer>
