@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Mapbox Satellite</name>
+<name>🛰 = Mapbox</name>
 <layers>
 
 <layer>

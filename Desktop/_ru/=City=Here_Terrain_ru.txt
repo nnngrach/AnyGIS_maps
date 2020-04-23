@@ -1,5 +1,5 @@
 [Name]
-Городские - Here - Ландшафт
+Городские - Here Ландшафт
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Here_ter_ru/{x}/{y}/{z}

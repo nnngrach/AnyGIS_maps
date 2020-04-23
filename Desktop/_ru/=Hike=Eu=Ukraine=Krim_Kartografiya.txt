@@ -1,5 +1,5 @@
 [Name]
-Туристические - Крым Картография 2010
+Туристические - Крым (Картография 2010)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Local_Krim2/{x}/{y}/{z}

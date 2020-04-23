@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇺🇦 - Крым Картография 2010</name>
+<name>⛺ = 🇺🇦 - Крым (Картография 2010)</name>
 <layers>
 
 <layer>

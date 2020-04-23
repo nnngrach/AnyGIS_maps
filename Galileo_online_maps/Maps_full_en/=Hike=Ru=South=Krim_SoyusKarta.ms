@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇷🇺 South - Crimea Souskarta 2011</name>
+<name>⛺ = 🇷🇺 South - Crimea (Souskarta 2011)</name>
 <layers>
 
 <layer>

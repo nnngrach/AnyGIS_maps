@@ -1,5 +1,5 @@
 [Name]
-Слои - Рельеф - UT.no - Лавиноопасность
+Слои - Рельеф - Ut.no - Лавиноопасность
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_SkredSnoAktR/{x}/{y}/{z}

@@ -93,7 +93,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010009">
-<name>Mapbox Satellite (SATELLITES)</name>
+<name>Mapbox (SATELLITES)</name>
 <url><![CDATA[https://api.tiles.mapbox.com/v4/mapbox.satellite/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1IjoibWFwYm94IiwiYSI6ImNpejY4NXVycTA2emYycXBndHRqcmZ3N3gifQ.rJcFIG214AriISLbB6B5aw]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
@@ -1563,7 +1563,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053902">
-<name>Crimea Kartagrafiya 2010 (HIKERUCRIMEA)</name>
+<name>Crimea (Kartagrafiya 2010) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1578,7 +1578,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1053901">
-<name>Crimea Souskarta 2011 (HIKERUCRIMEA)</name>
+<name>Crimea (Souskarta 2011) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1608,7 +1608,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054005">
-<name>Crimea Kartagrafiya 2010 (HIKERUCRIMEA)</name>
+<name>Crimea (Kartagrafiya 2010) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1623,7 +1623,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054004">
-<name>Crimea Souskarta 2011 (HIKERUCRIMEA)</name>
+<name>Crimea (Souskarta 2011) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1668,7 +1668,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054301">
-<name>FINN Kart Norge (HIKEEUNORTH)</name>
+<name>Finn Kart Norge (HIKEEUNORTH)</name>
 <url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/normap/{$z}/{$x}/{$y}.png]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>21</maxzoom>
@@ -1758,7 +1758,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054309">
-<name>UT.no - Papirkart (HIKEEUNORTH)</name>
+<name>Ut.no - Papirkart (HIKEEUNORTH)</name>
 <url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=toporaster3&zoom={$z}&x={$x}&y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -1773,7 +1773,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054310">
-<name>UT.no - Papirkart (HIKEEUNORTH)</name>
+<name>Ut.no - Papirkart (HIKEEUNORTH)</name>
 <url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -1833,7 +1833,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054503">
-<name>IGN.fr Topo (HIKEEUWEST)</name>
+<name>Ign.fr Topo (HIKEEUWEST)</name>
 <url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2988,7 +2988,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012302">
-<name>UT.no - Aktsomhetskart for snøskred (OVERLAYRELIEFEUNORTH)</name>
+<name>Ut.no - Aktsomhetskart for snøskred (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/map/rest/services/SkredSnoAktR/MapServer/export?dpi=96&transparent=true&format=png8&layers=show:0,1,2&bbox={bbox}&bboxSR=3857&imageSR=3857&size=512,512&f=image ]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -3003,7 +3003,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012301">
-<name>UT.no - Bratthetskart (OVERLAYRELIEFEUNORTH)</name>
+<name>Ut.no - Bratthetskart (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>

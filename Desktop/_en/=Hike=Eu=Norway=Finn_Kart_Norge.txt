@@ -1,5 +1,5 @@
 [Name]
-Hike - FINN Kart Norge
+Hike - Finn Kart Norge
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norge_finnkart/{x}/{y}/{z}

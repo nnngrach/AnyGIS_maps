@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛏ = USSR Geology map</name>
+<name>⛏ = 🇷🇺 - USSR Geology map</name>
 <layers>
 
 <layer>

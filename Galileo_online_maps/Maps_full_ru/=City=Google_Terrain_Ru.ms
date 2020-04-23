@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = Google - Ландшафт</name>
+<name>🏠 = Google Ландшафт</name>
 <layers>
 
 <layer>

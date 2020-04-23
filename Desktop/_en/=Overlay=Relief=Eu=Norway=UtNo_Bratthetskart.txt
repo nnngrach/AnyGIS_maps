@@ -1,5 +1,5 @@
 [Name]
-Overlay - Relief - UT.no - Bratthetskart
+Overlay - Relief - Ut.no - Bratthetskart
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_Bratthetskart/{x}/{y}/{z}

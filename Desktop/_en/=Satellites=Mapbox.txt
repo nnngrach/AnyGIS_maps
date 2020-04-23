@@ -1,5 +1,5 @@
 [Name]
-Satellites - Mapbox Satellite
+Satellites - Mapbox
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Mapbox_Sat/{x}/{y}/{z}

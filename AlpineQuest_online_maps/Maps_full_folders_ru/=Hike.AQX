@@ -13,7 +13,7 @@
         <region>WRLD</region>
         <type>TOPO</type>
 
-        <preview-location>38.06,55.7,15</preview-location>
+        <preview-location>37.55615,55.63247,16</preview-location>
         
 
         <level>
@@ -40,7 +40,7 @@
         <region>WRLD</region>
         <type>TOPO</type>
 
-        <preview-location>38.06,55.7,15</preview-location>
+        <preview-location>37.5562,55.6325,16</preview-location>
         
 
         <level>
@@ -118,7 +118,7 @@
         <region>OTHE</region>
         <type>TOPO</type>
 
-        <preview-location>37.7,56.1,13</preview-location>
+        <preview-location>37.55615,55.63247,16</preview-location>
         
 
         <level>
@@ -618,7 +618,7 @@
 
 
     <source id="1054005">
-        <name>⛺ = 🇺🇦 - Крым Картография 2010</name>
+        <name>⛺ = 🇺🇦 - Крым (Картография 2010)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -641,7 +641,7 @@
 
 
     <source id="1054004">
-        <name>⛺ = 🇺🇦 - Крым Союзкарта 2011</name>
+        <name>⛺ = 🇺🇦 - Крым (Союзкарта 2011)</name>
         
         <data-source></data-source>
         <region>OTHE</region>
@@ -828,7 +828,7 @@
 
 
     <source id="1054309">
-        <name>⛺ = 🇳🇴 - UT.no - Papirkart</name>
+        <name>⛺ = 🇳🇴 - Ut.no - Papirkart</name>
         <copyright>UT.no</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -851,7 +851,7 @@
 
 
     <source id="1054310">
-        <name>⛺ = 🇳🇴 - UT.no - Topolart</name>
+        <name>⛺ = 🇳🇴 - Ut.no - Topolart</name>
         <copyright>UT.no</copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -943,7 +943,7 @@
 
 
     <source id="1054503">
-        <name>⛺ = 🇫🇷 - IGN.fr Topo</name>
+        <name>⛺ = 🇫🇷 - Ign.fr Topo</name>
         <copyright>IGN.fr</copyright>
         <data-source></data-source>
         <region>OTHE</region>

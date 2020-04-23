@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛏ = Vsegei.ru</name>
+<name>⛏ = 🇷🇺 - Vsegei.ru</name>
 <layers>
 
 <layer>

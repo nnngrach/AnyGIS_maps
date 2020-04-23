@@ -1,5 +1,5 @@
 [Name]
-Слои - Рельеф - UT.no - Крутизна склонов
+Слои - Рельеф - Ut.no - Крутизна склонов
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_Bratthetskart/{x}/{y}/{z}

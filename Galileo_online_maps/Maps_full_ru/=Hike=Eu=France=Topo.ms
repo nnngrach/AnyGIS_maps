@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇫🇷 - IGN.fr Topo</name>
+<name>⛺ = 🇫🇷 - Ign.fr Topo</name>
 <layers>
 
 <layer>

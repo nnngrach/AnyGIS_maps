@@ -1,5 +1,5 @@
 [Name]
-Туристические - FINN Kart Norge
+Туристические - Finn Kart Norge
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norge_finnkart/{x}/{y}/{z}

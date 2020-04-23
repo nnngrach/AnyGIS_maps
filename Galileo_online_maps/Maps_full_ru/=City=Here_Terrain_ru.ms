@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🏠 = Here - Ландшафт</name>
+<name>🏠 = Here Ландшафт</name>
 <layers>
 
 <layer>

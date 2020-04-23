@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇺🇦 - Crimea Kartagrafiya 2010</name>
+<name>⛺ = 🇺🇦 - Crimea (Kartagrafiya 2010)</name>
 <layers>
 
 <layer>

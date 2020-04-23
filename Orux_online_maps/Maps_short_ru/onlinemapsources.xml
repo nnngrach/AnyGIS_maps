@@ -78,7 +78,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020005">
-<name>Google - Ландшафт (CITY)</name>
+<name>Google Ландшафт (CITY)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>

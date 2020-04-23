@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛺ = 🇳🇴 - UT.no - Topolart</name>
+<name>⛺ = 🇳🇴 - Ut.no - Topolart</name>
 <layers>
 
 <layer>

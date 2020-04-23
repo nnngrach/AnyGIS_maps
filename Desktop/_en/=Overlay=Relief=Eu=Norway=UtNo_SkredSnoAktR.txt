@@ -1,5 +1,5 @@
 [Name]
-Overlay - Relief - UT.no - Aktsomhetskart for snøskred
+Overlay - Relief - Ut.no - Aktsomhetskart for snøskred
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_SkredSnoAktR/{x}/{y}/{z}

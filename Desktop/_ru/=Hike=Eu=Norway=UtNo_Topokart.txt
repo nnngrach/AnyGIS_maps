@@ -1,5 +1,5 @@
 [Name]
-Туристические - UT.no - Topolart
+Туристические - Ut.no - Topolart
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Eu_Norway_UT_Topokart/{x}/{y}/{z}

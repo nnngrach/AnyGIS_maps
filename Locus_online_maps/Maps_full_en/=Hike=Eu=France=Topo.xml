@@ -8,7 +8,7 @@
 
 <provider id="1054503" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>⛺ = 🇫🇷 - IGN.fr Topo</mode>
+<mode>⛺ = 🇫🇷 - Ign.fr Topo</mode>
 <countries>France</countries>
 <usage>hiking</usage>
 <cacheTimeout>720</cacheTimeout>

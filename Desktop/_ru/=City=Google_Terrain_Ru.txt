@@ -1,5 +1,5 @@
 [Name]
-Городские - Google - Ландшафт
+Городские - Google Ландшафт
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Google_Ter_RU_SD/{x}/{y}/{z}

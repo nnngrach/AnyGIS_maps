@@ -648,7 +648,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020005">
-<name>Google - Ландшафт (CITY)</name>
+<name>Google Ландшафт (CITY)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=ru]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -678,7 +678,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020008">
-<name>Here - Ландшафт (CITY)</name>
+<name>Here Ландшафт (CITY)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/terrain.day/{$z}/{$x}/{$y}/256/png8?app_id=bC4fb9WQfCCZfkxspD4z&app_code=K2Cpd_EKDzrZb1tz0zdpeQ&lg=rus&ppi=72&pview=RUS&tprof=PrtlHere]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -1593,7 +1593,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054005">
-<name>Крым Картография 2010 (HIKERUCRIMEA)</name>
+<name>Крым (Картография 2010) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim2/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1608,7 +1608,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054004">
-<name>Крым Союзкарта 2011 (HIKERUCRIMEA)</name>
+<name>Крым (Союзкарта 2011) (HIKERUCRIMEA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Krim1/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -1653,7 +1653,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054301">
-<name>FINN Kart Norge (HIKEEUNORTH)</name>
+<name>Finn Kart Norge (HIKEEUNORTH)</name>
 <url><![CDATA[http://maptiles{$s}.finncdn.no/tileService/1.0.3/normap/{$z}/{$x}/{$y}.png]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>21</maxzoom>
@@ -1743,7 +1743,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054309">
-<name>UT.no - Papirkart (HIKEEUNORTH)</name>
+<name>Ut.no - Papirkart (HIKEEUNORTH)</name>
 <url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=toporaster3&zoom={$z}&x={$x}&y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -1758,7 +1758,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054310">
-<name>UT.no - Topolart (HIKEEUNORTH)</name>
+<name>Ut.no - Topolart (HIKEEUNORTH)</name>
 <url><![CDATA[https://opencache.statkart.no/gatekeeper/gk/gk.open_gmaps?layers=topo4&zoom={$z}&x={$x}&y={$y}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -1818,7 +1818,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1054503">
-<name>IGN.fr Topo (HIKEEUWEST)</name>
+<name>Ign.fr Topo (HIKEEUWEST)</name>
 <url><![CDATA[https://wxs.ign.fr/an7nvfzojv5wa96dsga5nk8w/geoportail/wmts?layer=GEOGRAPHICALGRIDSYSTEMS.MAPS.SCAN25TOUR.CV&style=normal&tilematrixset=PM&Service=WMTS&Request=GetTile&Version=1.0.0&Format=image%2Fjpeg&TileMatrix={$z}&TileCol={$x}&TileRow={$y}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -2973,7 +2973,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012301">
-<name>UT.no - Крутизна склонов (OVERLAYRELIEFEUNORTH)</name>
+<name>Ut.no - Крутизна склонов (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/arcgis/rest/services/wmts/Bratthet/MapServer/tile/{$z}/{$y}/{$x}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -2988,7 +2988,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2012302">
-<name>UT.no - Лавиноопасность (OVERLAYRELIEFEUNORTH)</name>
+<name>Ut.no - Лавиноопасность (OVERLAYRELIEFEUNORTH)</name>
 <url><![CDATA[https://gis3.nve.no/map/rest/services/SkredSnoAktR/MapServer/export?dpi=96&transparent=true&format=png8&layers=show:0,1,2&bbox={bbox}&bboxSR=3857&imageSR=3857&size=512,512&f=image ]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
