@@ -18,7 +18,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010007">
-<name>Google - Hybrid (SATELLITES)</name>
+<name>Google - Hybrid HD (SATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -33,7 +33,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010017">
-<name>Here (SATELLITES)</name>
+<name>Here HD (SATELLITES)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Спутниковые</name>
+<description></description>
+
+    <source id="1010019">
+        <name>🛰 = Apple HD</name>
+        <copyright>Apple</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            <expression set="invY" type="int">0-y</expression>
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://satellites.pro/USA_map]]></referer>
+                
+                <server><![CDATA[http://sat-cdn1.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn2.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn3.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn4.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

@@ -6,9 +6,9 @@ ParentSubMenu_ru=Спутниковые
 ParentSubMenu_uk=Супутниковий
 ParentSubMenu=Satellite
 
-name_ru=Google - Гибрид
-name_uk=Google - Гибрид
-name=Google - Hybrid RU
+name_ru=Google - Гибрид HD
+name_uk=Google - Гибрид HD
+name=Google - Hybrid RU HD
 
 NameInCache=Google_Sat_RU_SD
 asLayer=0

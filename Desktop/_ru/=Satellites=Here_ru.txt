@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Here
+Спутниковые - Here HD
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Here_sat_ru/{x}/{y}/{z}

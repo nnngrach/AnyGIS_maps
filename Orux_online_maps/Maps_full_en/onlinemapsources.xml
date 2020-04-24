@@ -2,6 +2,21 @@
 <onlinemapsources>
 
 
+<onlinemapsource uid="1010019">
+<name>Apple HD (SATELLITES)</name>
+<url><![CDATA[https://sat-cdn{$s}.apple-mapkit.com/tile?style=7&size=2&scale=2&z={$z}&x={$x}&y={$y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop>0</yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1010002">
 <name>Bing Birds Eye (SATELLITES)</name>
 <url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
@@ -63,7 +78,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010007">
-<name>Google - Hybrid (SATELLITES)</name>
+<name>Google - Hybrid HD (SATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -78,7 +93,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010017">
-<name>Here (SATELLITES)</name>
+<name>Here HD (SATELLITES)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -607,6 +622,21 @@
 <url><![CDATA[https://anygis.ru/api/v1/Sentinel_Urban/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1020019">
+<name>Apple (CITY)</name>
+<url><![CDATA[https://cdn{$s}.apple-mapkit.com/ti/tile?style=0&size=1&x={$x}&y={$y}&z={$z}&scale=1&lang=en&v=2004234&poi=1&accessKey=1587762019_7578668431055824674_%2F_MdbVhK2Tc5320ZCBbblKhH7neXtH78aGBY0HqjTLNMI%3D&emphasis=standard&tint=light]]></url>
+<servers>1,2,3,4</servers>
+<maxzoom>19</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

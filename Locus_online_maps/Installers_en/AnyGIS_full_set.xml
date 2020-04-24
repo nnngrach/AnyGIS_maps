@@ -16,6 +16,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Apple_sat.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Apple_sat.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Bing_birds_eye.xml]]>
 </source>
 <dest>
@@ -52,10 +61,19 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Google_Hybrid_En.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Google_Hybrid_En_Hd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_En.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_En_Hd.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Satellites=Google_Hd.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hd.xml]]>
 </dest>
 </download>
 
@@ -407,6 +425,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/City.png]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=City=Apple_map.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=City=Apple_map.xml]]>
 </dest>
 </download>
 

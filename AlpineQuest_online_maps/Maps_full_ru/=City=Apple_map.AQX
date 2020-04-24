@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Городские</name>
+<description></description>
+
+    <source id="1020019">
+        <name>🏠 = Apple</name>
+        <copyright>Apple</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>ROAD</type>
+
+        <preview-location>37.594,55.7346,15</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://satellites.pro/USA_map]]></referer>
+                
+                <server><![CDATA[http://cdn1.apple-mapkit.com/ti/tile?style=0&size=1&x={x}&y={y}&z={z}&scale=1&lang=en&v=2004234&poi=1&accessKey=1587762019_7578668431055824674_%2F_MdbVhK2Tc5320ZCBbblKhH7neXtH78aGBY0HqjTLNMI%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://cdn2.apple-mapkit.com/ti/tile?style=0&size=1&x={x}&y={y}&z={z}&scale=1&lang=en&v=2004234&poi=1&accessKey=1587762019_7578668431055824674_%2F_MdbVhK2Tc5320ZCBbblKhH7neXtH78aGBY0HqjTLNMI%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://cdn3.apple-mapkit.com/ti/tile?style=0&size=1&x={x}&y={y}&z={z}&scale=1&lang=en&v=2004234&poi=1&accessKey=1587762019_7578668431055824674_%2F_MdbVhK2Tc5320ZCBbblKhH7neXtH78aGBY0HqjTLNMI%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://cdn4.apple-mapkit.com/ti/tile?style=0&size=1&x={x}&y={y}&z={z}&scale=1&lang=en&v=2004234&poi=1&accessKey=1587762019_7578668431055824674_%2F_MdbVhK2Tc5320ZCBbblKhH7neXtH78aGBY0HqjTLNMI%3D&emphasis=standard&tint=light]]></server>
+
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

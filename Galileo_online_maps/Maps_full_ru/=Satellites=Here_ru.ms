@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Here</name>
+<name>🛰 = Here HD</name>
 <layers>
 
 <layer>
