@@ -9,7 +9,7 @@ https://sat-cdn{rnd}.apple-mapkit.com/tile?style=7&size=2&scale=1&z={0}&x={1}&y=
 [ellipsoid]
 false
 [inverted_y]
-true
+false
 [tile_size]
 512
 [img_density]

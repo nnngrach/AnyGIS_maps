@@ -18,7 +18,7 @@
 
         <level>
             <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
-            <expression set="invY" type="int">0-y</expression>
+            
             <update-delay>90D</update-delay>
 
             <servers>

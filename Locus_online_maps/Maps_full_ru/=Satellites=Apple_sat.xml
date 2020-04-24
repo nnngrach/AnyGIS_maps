@@ -6,7 +6,7 @@
 
 <providers>
 
-<provider id="1010019" type="1" visible="true" background="-1">
+<provider id="1010019" type="0" visible="true" background="-1">
 <name>Спутниковые</name>
 <mode>🛰 = Apple HD</mode>
 <countries>World</countries>
