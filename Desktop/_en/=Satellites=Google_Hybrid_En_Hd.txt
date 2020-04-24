@@ -1,5 +1,5 @@
 [Name]
-Satellites - Google - Hybrid HD
+Satellites - Google Hybrid HD
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Google_Sat_EN_SD/{x}/{y}/{z}

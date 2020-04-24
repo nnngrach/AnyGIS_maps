@@ -1,5 +1,5 @@
 [Name]
-Спутниковые - Google - Гибрид HD
+Спутниковые - Google Гибрид HD
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Google_Sat_RU_SD/{x}/{y}/{z}

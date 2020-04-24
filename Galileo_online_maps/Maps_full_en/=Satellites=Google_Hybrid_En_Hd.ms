@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Google - Hybrid HD</name>
+<name>🛰 = Google Hybrid HD</name>
 <layers>
 
 <layer>

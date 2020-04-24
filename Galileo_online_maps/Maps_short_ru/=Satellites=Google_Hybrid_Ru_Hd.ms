@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>🛰 = Google - Гибрид HD</name>
+<name>🛰 = Google Гибрид HD</name>
 <layers>
 
 <layer>

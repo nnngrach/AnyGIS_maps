@@ -5,7 +5,7 @@ Satellites - Apple HD
 https://anygis.ru/api/v1/Apple_sat/{x}/{y}/{z}
 
 [URL direct]
-https://sat-cdn{s}.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light
+https://sat-cdn{s}.apple-mapkit.com/tile?style=7&size=2&scale=1&z={z}&x={x}&y={y}&v=6073&accessKey=1587763228_3954575528466902579_%2F_vx7mNuUkmN%2BYqRCTjvuPlyFmRw3F6HZm8cq335irPqo%3D&emphasis=standard&tint=light
 
 [Server parts]
 1;2;3;4

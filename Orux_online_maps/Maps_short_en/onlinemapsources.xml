@@ -18,7 +18,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010007">
-<name>Google - Hybrid HD (SATELLITES)</name>
+<name>Google Hybrid HD (SATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>

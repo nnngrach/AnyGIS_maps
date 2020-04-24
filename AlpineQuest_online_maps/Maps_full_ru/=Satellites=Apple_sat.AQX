@@ -24,10 +24,10 @@
             <servers>
                 <referer><![CDATA[https://satellites.pro/USA_map]]></referer>
                 
-                <server><![CDATA[http://sat-cdn1.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
-                <server><![CDATA[http://sat-cdn2.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
-                <server><![CDATA[http://sat-cdn3.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
-                <server><![CDATA[http://sat-cdn4.apple-mapkit.com/tile?style=7&size=2&scale=2&z={z}&x={x}&y={y}&v=6073&accessKey=1587759078_2814019817104908559_%2F_B%2F2IGKQRROZBPDbhrf46VVBzdbnh2znasUkkQuaEQDg%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn1.apple-mapkit.com/tile?style=7&size=2&scale=1&z={z}&x={x}&y={y}&v=6073&accessKey=1587763228_3954575528466902579_%2F_vx7mNuUkmN%2BYqRCTjvuPlyFmRw3F6HZm8cq335irPqo%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn2.apple-mapkit.com/tile?style=7&size=2&scale=1&z={z}&x={x}&y={y}&v=6073&accessKey=1587763228_3954575528466902579_%2F_vx7mNuUkmN%2BYqRCTjvuPlyFmRw3F6HZm8cq335irPqo%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn3.apple-mapkit.com/tile?style=7&size=2&scale=1&z={z}&x={x}&y={y}&v=6073&accessKey=1587763228_3954575528466902579_%2F_vx7mNuUkmN%2BYqRCTjvuPlyFmRw3F6HZm8cq335irPqo%3D&emphasis=standard&tint=light]]></server>
+                <server><![CDATA[http://sat-cdn4.apple-mapkit.com/tile?style=7&size=2&scale=1&z={z}&x={x}&y={y}&v=6073&accessKey=1587763228_3954575528466902579_%2F_vx7mNuUkmN%2BYqRCTjvuPlyFmRw3F6HZm8cq335irPqo%3D&emphasis=standard&tint=light]]></server>
 
             </servers>
         </level>

@@ -64,7 +64,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_En_Hd.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hd.xml]]>
 </dest>
 </download>
 
@@ -73,7 +73,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Satellites=Google_Hd.xml]]>
+<![CDATA[/mapsOnline/custom/=Satellites=Google_Hybrid_En_Hd.xml]]>
 </dest>
 </download>
 
