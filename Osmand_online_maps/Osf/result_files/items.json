@@ -263,6 +263,35 @@
 
                 {
                   "name" : {
+                    "" : "SAT -  Here",
+                    "ru" : "SAT -  Here EN"
+                  },
+                  "filename" : "SAT -  Here.sqlitedb",
+                  "type" : "sqlite",
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
+                  "containerSize" : 2292857,
+                  "contentSize" : 3696925,
+                  "description" : {
+                    "text": {
+                      "": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Here<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Here<br />Last config update: 29.02.2020"
+                    },
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Here_sat_en_sd"]
+                  },
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DSatellites%3DHere_en_sd.sqlitedb",
+                  "firstsubname" : {
+                      "" : "Global",
+                      "ru" : "Глобальное покрытие"
+                  },
+                  "secondsubname" : {
+                      "" : "",
+                      "ru" : ""
+                  }
+                },
+
+                {
+                  "name" : {
                     "" : "SAT -  Here HD",
                     "ru" : "SAT -  Here EN HD"
                   },
@@ -280,6 +309,35 @@
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Here_sat_en"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DSatellites%3DHere_en.sqlitedb",
+                  "firstsubname" : {
+                      "" : "Global",
+                      "ru" : "Глобальное покрытие"
+                  },
+                  "secondsubname" : {
+                      "" : "",
+                      "ru" : ""
+                  }
+                },
+
+                {
+                  "name" : {
+                    "" : "SAT -  Here RU",
+                    "ru" : "SAT -  Here"
+                  },
+                  "filename" : "SAT -  Here RU.sqlitedb",
+                  "type" : "sqlite",
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
+                  "containerSize" : 2292857,
+                  "contentSize" : 3696925,
+                  "description" : {
+                    "text": {
+                      "": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Here<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Here<br />Last config update: 29.02.2020"
+                    },
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Here_sat_ru_sd"]
+                  },
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DSatellites%3DHere_ru_sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
