@@ -2,7 +2,7 @@
 Overlay - Bike - Strava Heatmap - Ride (Red)
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Tracks_Strava_Ride_Red/{x}/{y}/{z}
+https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{x}/{y}/{z}
 
 [Min Zoom level]
 0

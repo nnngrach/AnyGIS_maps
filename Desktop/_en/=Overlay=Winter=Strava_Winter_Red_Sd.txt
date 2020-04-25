@@ -2,7 +2,7 @@
 Overlay - Winter - Strava Heatmap - Winter (Red)
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Tracks_Strava_Winter_Red/{x}/{y}/{z}
+https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{x}/{y}/{z}
 
 [Min Zoom level]
 0

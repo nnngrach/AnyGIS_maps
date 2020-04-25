@@ -3422,9 +3422,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040005">
-<name>Strava Heatmap - Ride (Bluered) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2040009">
+<name>Strava Heatmap - Ride (Gray) (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3437,9 +3437,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040009">
+<onlinemapsource uid="2040005">
 <name>Strava Heatmap - Ride (Red) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3512,9 +3512,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050004">
-<name>Strava Heatmap - All (Bluered) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1050019">
+<name>Strava Heatmap - All (Gray) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3527,9 +3527,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050019">
+<onlinemapsource uid="2050004">
 <name>Strava Heatmap - All (Red) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3572,9 +3572,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050010">
-<name>Strava Heatmap - Run (Bluered) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1050021">
+<name>Strava Heatmap - Run (Gray) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3587,9 +3587,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050021">
+<onlinemapsource uid="2050010">
 <name>Strava Heatmap - Run (Red) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3692,9 +3692,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060003">
-<name>Strava Heatmap - Winter (Bluered) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2060009">
+<name>Strava Heatmap - Winter (Gray) (OVERLAYWINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3707,9 +3707,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060009">
+<onlinemapsource uid="2060003">
 <name>Strava Heatmap - Winter (Red) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3872,9 +3872,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070009">
-<name>Strava Heatmap - Water (Bluered) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2070013">
+<name>Strava Heatmap - Water (Gray) (OVERLAYWATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3887,9 +3887,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070013">
+<onlinemapsource uid="2070009">
 <name>Strava Heatmap - Water (Red) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>

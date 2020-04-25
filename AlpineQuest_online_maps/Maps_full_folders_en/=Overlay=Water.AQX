@@ -122,7 +122,7 @@
 
 
     <source id="2070013" layer="true">
-        <name>⏹️ ⚓️ = Strava Heatmap - Water (Red)</name>
+        <name>⏹️ ⚓️ = Strava Heatmap - Water (Gray)</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -138,7 +138,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_Red/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

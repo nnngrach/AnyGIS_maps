@@ -76,7 +76,7 @@
 
 
     <source id="2040009">
-        <name>⏹️ 🚲 = Strava - Вело (красный)</name>
+        <name>⏹️ 🚲 = Strava - Вело (серый)</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -92,7 +92,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Ride_Red/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Ride_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

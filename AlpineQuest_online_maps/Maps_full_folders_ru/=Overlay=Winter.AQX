@@ -53,7 +53,7 @@
 
 
     <source id="2060009">
-        <name>⏹️ ❄️ = Strava - Зимние (красный)</name>
+        <name>⏹️ ❄️ = Strava - Зимние (серый)</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -69,7 +69,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_Red/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

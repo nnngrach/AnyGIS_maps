@@ -6,13 +6,13 @@
 
 <providers>
 
-<provider id="1050021" type="0" visible="true" background="-1">
+<provider id="2050010" type="0" visible="true" background="-1">
 <name>Слои - Туристические</name>
 <mode>⏹️ ⛺ = Strava - Бег (красный)</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Red/{x}/{y}/{z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{x}/{y}/{z}]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

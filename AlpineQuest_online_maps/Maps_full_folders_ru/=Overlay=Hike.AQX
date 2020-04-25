@@ -53,7 +53,7 @@
 
 
     <source id="1050021">
-        <name>⏹️ ⛺ = Strava - Бег (красный)</name>
+        <name>⏹️ ⛺ = Strava - Бег (серый)</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -69,7 +69,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_Red/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
@@ -122,7 +122,7 @@
 
 
     <source id="1050019">
-        <name>⏹️ ⛺ = Strava - Все слои (красный)</name>
+        <name>⏹️ ⛺ = Strava - Все слои (серый)</name>
         <copyright>Strava</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -138,7 +138,7 @@
 
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_Red/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

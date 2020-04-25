@@ -3362,9 +3362,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040009">
+<onlinemapsource uid="2040005">
 <name>Strava - Вело (красный) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3377,9 +3377,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040005">
-<name>Strava - Вело (сине-красный) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2040009">
+<name>Strava - Вело (серый) (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3452,9 +3452,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050021">
+<onlinemapsource uid="2050010">
 <name>Strava - Бег (красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3467,9 +3467,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050010">
-<name>Strava - Бег (сине-красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1050021">
+<name>Strava - Бег (серый) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3527,9 +3527,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050019">
+<onlinemapsource uid="2050004">
 <name>Strava - Все слои (красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3542,9 +3542,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050004">
-<name>Strava - Все слои (сине-красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1050019">
+<name>Strava - Все слои (серый) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3632,9 +3632,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060009">
+<onlinemapsource uid="2060003">
 <name>Strava - Зимние (красный) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3647,9 +3647,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060003">
-<name>Strava - Зимние (сине-красный) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2060009">
+<name>Strava - Зимние (серый) (OVERLAYWINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3812,9 +3812,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070013">
+<onlinemapsource uid="2070009">
 <name>Strava - Водные (красный) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Red/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -3827,9 +3827,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070009">
-<name>Strava - Водные (сине-красный) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2070013">
+<name>Strava - Водные (серый) (OVERLAYWATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>

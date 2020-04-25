@@ -2,7 +2,7 @@
 Слои - Туристические - Strava - Все слои (красный)
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Tracks_Strava_All_Red/{x}/{y}/{z}
+https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{x}/{y}/{z}
 
 [Min Zoom level]
 0

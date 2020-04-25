@@ -2383,10 +2383,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Bike=Strava_Ride_Bluered_Sd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Bike=Strava_Ride_Gray_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Bluered_Sd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Bike=Strava_Ride_Gray_Sd.xml]]>
 </dest>
 </download>
 
@@ -2446,10 +2446,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hike=Strava_All_Bluered_Sd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hike=Strava_All_Gray_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Bluered_Sd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_All_Gray_Sd.xml]]>
 </dest>
 </download>
 
@@ -2482,10 +2482,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hike=Strava_Run_Bluered_Sd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hike=Strava_Run_Gray_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Bluered_Sd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Hike=Strava_Run_Gray_Sd.xml]]>
 </dest>
 </download>
 
@@ -2572,10 +2572,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Strava_Winter_Bluered_Sd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Winter=Strava_Winter_Gray_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_Sd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Gray_Sd.xml]]>
 </dest>
 </download>
 
@@ -2689,10 +2689,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Water=Strava_Water_Bluered_Sd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Water=Strava_Water_Gray_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Bluered_Sd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Water=Strava_Water_Gray_Sd.xml]]>
 </dest>
 </download>
 

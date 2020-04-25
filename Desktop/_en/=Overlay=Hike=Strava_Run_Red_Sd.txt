@@ -2,7 +2,7 @@
 Overlay - Hike - Strava Heatmap - Run (Red)
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Tracks_Strava_Run_Red/{x}/{y}/{z}
+https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{x}/{y}/{z}
 
 [Min Zoom level]
 0

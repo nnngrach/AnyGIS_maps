@@ -7132,23 +7132,23 @@
 
                 {
                   "name" : {
-                    "" : "L-BIKE -  Strava Heatmap - Ride (Bluered)",
-                    "ru" : "L-BIKE -  Strava - Вело (сине-красный)"
+                    "" : "L-BIKE -  Strava Heatmap - Ride (Gray)",
+                    "ru" : "L-BIKE -  Strava - Вело (серый)"
                   },
-                  "filename" : "L-BIKE -  Strava Heatmap - Ride (Bluered).sqlitedb",
+                  "filename" : "L-BIKE -  Strava Heatmap - Ride (Gray).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "25.04.2020",
+                  "timestamp" : 1587798701,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Ride_Bluered"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Ride_Gray"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DBike%3DStrava_Ride_Bluered_Sd.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DBike%3DStrava_Ride_Gray_Sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
@@ -7166,16 +7166,16 @@
                   },
                   "filename" : "L-BIKE -  Strava Heatmap - Ride (Red).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "25.04.2020",
-                  "timestamp" : 1587798701,
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Ride_Red"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Ride_Bluered"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DBike%3DStrava_Ride_Red_Sd.sqlitedb",
                   "firstsubname" : {
@@ -7321,23 +7321,23 @@
 
                 {
                   "name" : {
-                    "" : "L-HIKE -  Strava Heatmap - All (Bluered)",
-                    "ru" : "L-HIKE -  Strava - Все слои (сине-красный)"
+                    "" : "L-HIKE -  Strava Heatmap - All (Gray)",
+                    "ru" : "L-HIKE -  Strava - Все слои (серый)"
                   },
-                  "filename" : "L-HIKE -  Strava Heatmap - All (Bluered).sqlitedb",
+                  "filename" : "L-HIKE -  Strava Heatmap - All (Gray).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "25.04.2020",
+                  "timestamp" : 1587798701,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_All_Bluered"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_All_Gray"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_All_Bluered_Sd.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_All_Gray_Sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
@@ -7355,16 +7355,16 @@
                   },
                   "filename" : "L-HIKE -  Strava Heatmap - All (Red).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "25.04.2020",
-                  "timestamp" : 1587798701,
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_All_Red"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_All_Bluered"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_All_Red_Sd.sqlitedb",
                   "firstsubname" : {
@@ -7437,23 +7437,23 @@
 
                 {
                   "name" : {
-                    "" : "L-HIKE -  Strava Heatmap - Run (Bluered)",
-                    "ru" : "L-HIKE -  Strava - Бег (сине-красный)"
+                    "" : "L-HIKE -  Strava Heatmap - Run (Gray)",
+                    "ru" : "L-HIKE -  Strava - Бег (серый)"
                   },
-                  "filename" : "L-HIKE -  Strava Heatmap - Run (Bluered).sqlitedb",
+                  "filename" : "L-HIKE -  Strava Heatmap - Run (Gray).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "25.04.2020",
+                  "timestamp" : 1587798701,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Run_Bluered"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Run_Gray"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_Run_Bluered_Sd.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_Run_Gray_Sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
@@ -7471,16 +7471,16 @@
                   },
                   "filename" : "L-HIKE -  Strava Heatmap - Run (Red).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "25.04.2020",
-                  "timestamp" : 1587798701,
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Run_Red"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Run_Bluered"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHike%3DStrava_Run_Red_Sd.sqlitedb",
                   "firstsubname" : {
@@ -7684,23 +7684,23 @@
 
                 {
                   "name" : {
-                    "" : "L-SKI -  Strava Heatmap - Winter (Bluered)",
-                    "ru" : "L-SKI -  Strava - Зимние (сине-красный)"
+                    "" : "L-SKI -  Strava Heatmap - Winter (Gray)",
+                    "ru" : "L-SKI -  Strava - Зимние (серый)"
                   },
-                  "filename" : "L-SKI -  Strava Heatmap - Winter (Bluered).sqlitedb",
+                  "filename" : "L-SKI -  Strava Heatmap - Winter (Gray).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "25.04.2020",
+                  "timestamp" : 1587798701,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Winter_Bluered"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Winter_Gray"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWinter%3DStrava_Winter_Bluered_Sd.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWinter%3DStrava_Winter_Gray_Sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
@@ -7718,16 +7718,16 @@
                   },
                   "filename" : "L-SKI -  Strava Heatmap - Winter (Red).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "25.04.2020",
-                  "timestamp" : 1587798701,
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Winter_Red"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Winter_Bluered"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWinter%3DStrava_Winter_Red_Sd.sqlitedb",
                   "firstsubname" : {
@@ -8047,23 +8047,23 @@
 
                 {
                   "name" : {
-                    "" : "L-WATER -  Strava Heatmap - Water (Bluered)",
-                    "ru" : "L-WATER -  Strava - Водные (сине-красный)"
+                    "" : "L-WATER -  Strava Heatmap - Water (Gray)",
+                    "ru" : "L-WATER -  Strava - Водные (серый)"
                   },
-                  "filename" : "L-WATER -  Strava Heatmap - Water (Bluered).sqlitedb",
+                  "filename" : "L-WATER -  Strava Heatmap - Water (Gray).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "25.04.2020",
+                  "timestamp" : 1587798701,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Water_Bluered"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Water_Gray"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWater%3DStrava_Water_Bluered_Sd.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWater%3DStrava_Water_Gray_Sd.sqlitedb",
                   "firstsubname" : {
                       "" : "Global",
                       "ru" : "Глобальное покрытие"
@@ -8081,16 +8081,16 @@
                   },
                   "filename" : "L-WATER -  Strava Heatmap - Water (Red).sqlitedb",
                   "type" : "sqlite",
-                  "date" : "25.04.2020",
-                  "timestamp" : 1587798701,
+                  "date" : "29.02.2020",
+                  "timestamp" : 1582994500,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 25.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 16<br />Countries: World<br />Copyright: © Strava<br />Last config update: 29.02.2020"
                     },
-                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Water_Red"]
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Tracks_Strava_Water_Bluered"]
                   },
                   "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DWater%3DStrava_Water_Red_Sd.sqlitedb",
                   "firstsubname" : {
