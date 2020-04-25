@@ -6,9 +6,9 @@ ParentSubMenu_ru=Городские и универсальные
 ParentSubMenu_uk=Міські та універсальні
 ParentSubMenu=City
 
-name_ru=Strava Heatmap - Все слои
-name_uk=Strava Heatmap - Все слои
-name=Strava Heatmap - All layers
+name_ru=Strava Heatmap - Все слои (красный)
+name_uk=Strava Heatmap - Все слои (красный)
+name=Strava Heatmap - All layers (red)
 
 NameInCache=Tracks_Strava_All_Bluered
 asLayer=1

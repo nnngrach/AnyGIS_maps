@@ -6,9 +6,9 @@ ParentSubMenu_ru=Велосипедные
 ParentSubMenu_uk=Велосипедний
 ParentSubMenu=Cycle
 
-name_ru=Strava Heatmap - Велоспорт
-name_uk=Strava Heatmap - Велоспорт
-name=Strava Heatmap - Ride
+name_ru=Strava Heatmap - Велоспорт (синий)
+name_uk=Strava Heatmap - Велоспорт (синий)
+name=Strava Heatmap - Ride (blue)
 
 NameInCache=Tracks_Strava_Ride_Blue
 asLayer=1

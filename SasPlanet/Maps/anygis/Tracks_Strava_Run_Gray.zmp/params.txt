@@ -6,9 +6,9 @@ ParentSubMenu_ru=Туристические
 ParentSubMenu_uk=Туристичний
 ParentSubMenu=Hike
 
-name_ru=Strava Heatmap - Бег
-name_uk=Strava Heatmap - Бег
-name=Strava Heatmap - Run
+name_ru=Strava Heatmap - Бег (серый)
+name_uk=Strava Heatmap - Бег (серый)
+name=Strava Heatmap - Run (gray)
 
 NameInCache=Tracks_Strava_Run_Gray
 asLayer=1

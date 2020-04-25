@@ -6,9 +6,9 @@ ParentSubMenu_ru=Зимние
 ParentSubMenu_uk=Зимовий
 ParentSubMenu=Winter
 
-name_ru=Strava Heatmap - Зимний спорт
-name_uk=Strava Heatmap - Зимний спорт
-name=Strava Heatmap - Winter
+name_ru=Strava Heatmap - Зимний спорт (серый)
+name_uk=Strava Heatmap - Зимний спорт (серый)
+name=Strava Heatmap - Winter (gray)
 
 NameInCache=Tracks_Strava_Winter_Gray
 asLayer=1

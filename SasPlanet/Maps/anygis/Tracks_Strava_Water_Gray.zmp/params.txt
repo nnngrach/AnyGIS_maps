@@ -6,9 +6,9 @@ ParentSubMenu_ru=Водные карты
 ParentSubMenu_uk=Водні карти
 ParentSubMenu=Water maps
 
-name_ru=Strava Heatmap - Водный спорт
-name_uk=Strava Heatmap - Водный спорт
-name=Strava Heatmap - Water
+name_ru=Strava Heatmap - Водный спорт (серый)
+name_uk=Strava Heatmap - Водный спорт (серый)
+name=Strava Heatmap - Water (gray)
 
 NameInCache=Tracks_Strava_Water_Gray
 asLayer=1

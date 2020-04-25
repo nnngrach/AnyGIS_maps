@@ -52,52 +52,6 @@
     </source>
 
 
-    <source id="1050018" layer="true">
-        <name>⏹️ ⛺ = Strava Heatmap - All (Blue)</name>
-        <copyright>Strava</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
-
-        <preview-location>47.91353,56.60137,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_Blue/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="1050019" layer="true">
-        <name>⏹️ ⛺ = Strava Heatmap - All (Gray)</name>
-        <copyright>Strava</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
-
-        <preview-location>47.9135,56.6014,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_All_Gray/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
     <source id="2050011" layer="true">
         <name>⏹️ ⛺ = Strava Heatmap - Run</name>
         <copyright>Strava</copyright>
@@ -116,52 +70,6 @@
             <servers>
                 <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_proxy/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="1050020" layer="true">
-        <name>⏹️ ⛺ = Strava Heatmap - Run (Blue)</name>
-        <copyright>Strava</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
-
-        <preview-location>47.91353,56.60137,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_Blue/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
-    <source id="1050021" layer="true">
-        <name>⏹️ ⛺ = Strava Heatmap - Run (Gray)</name>
-        <copyright>Strava</copyright>
-        <data-source></data-source>
-        <region>WRLD</region>
-        <type>OTHE</type>
-
-        <preview-location>47.9135,56.6014,11</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
-            
-            <update-delay>30D</update-delay>
-
-            <servers>
-                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>
