@@ -98,4 +98,50 @@
     </source>
 
 
+    <source id="2070012" layer="true">
+        <name>⏹️ ⚓️ = Strava Heatmap - Water (Blue)</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>30.29302,59.96036,12</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_Blue/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2070013" layer="true">
+        <name>⏹️ ⚓️ = Strava Heatmap - Water (Red)</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Water_Red/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
 </aqx>

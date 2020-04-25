@@ -52,6 +52,52 @@
     </source>
 
 
+    <source id="2060009">
+        <name>⏹️ ❄️ = Strava - Зимние (красный)</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9135,56.6014,11</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_Red/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2060008">
+        <name>⏹️ ❄️ = Strava - Зимние (синий)</name>
+        <copyright>Strava</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>47.9565,56.6095,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://www.strava.com/heatmap]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Tracks_Strava_Winter_Blue/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="2062301">
         <name>⏹️ ❄️ = 🇨🇭 - Лыжные трассы</name>
         <copyright>Geo.admin.ch</copyright>

@@ -1,0 +1,24 @@
+﻿
+[PARAMS]
+GUID={3D86E96A-0EC4-4168-AD40-14B8D09CD3F4}
+
+ParentSubMenu_ru=Велосипедные\Россия
+ParentSubMenu_uk=Велосипедний\Росія
+ParentSubMenu=Cycle\Russia
+
+name_ru=OSM Чепецк.net
+name_uk=OSM Чепецк.net
+name=OSM Chepetsk
+
+NameInCache=chepetsk
+asLayer=0
+EPSG=3785
+
+DefURLBase=http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{z}/{x}/{y}.png
+
+RequestHead=Referer:http://www.sasgis.org/
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+License= © OpenStreetMap

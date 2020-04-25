@@ -16,15 +16,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Apple_map.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=City=Apple_map.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=City=Bing_Map.xml]]>
 </source>
 <dest>

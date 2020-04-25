@@ -1,0 +1,14 @@
+[Name]
+Слои - Велосипедные - Strava - Вело (красный)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_Ride_Red/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+16
+
+[HTTP Referer]
+https://www.strava.com/heatmap

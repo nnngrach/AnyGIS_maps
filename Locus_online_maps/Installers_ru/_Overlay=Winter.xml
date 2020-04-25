@@ -34,19 +34,37 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Hd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Red_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Hd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Red_Sd.xml]]>
 </dest>
 </download>
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Bluered_Hd.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Bluered_Sd.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_Hd.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Bluered_Sd.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Blue_Sd.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Blue_Sd.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Winter=Strava_Winter_Hd.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Winter=Strava_Winter_Hd.xml]]>
 </dest>
 </download>
 
