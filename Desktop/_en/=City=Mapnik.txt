@@ -14,7 +14,7 @@ a;b;c
 0
 
 [Max Zoom level]
-20
+19
 
 [HTTP Referer]
 https://www.openstreetmap.org/

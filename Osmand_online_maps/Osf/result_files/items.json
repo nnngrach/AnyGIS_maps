@@ -1739,8 +1739,8 @@
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 20<br />Countries: World<br />Copyright: © OpenStreetMap<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 20<br />Countries: World<br />Copyright: © OpenStreetMap<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © OpenStreetMap<br />Last config update: 29.02.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © OpenStreetMap<br />Last config update: 29.02.2020"
                     },
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Osm_Mapnik"]
                   },
@@ -1936,14 +1936,14 @@
                   },
                   "filename" : "CITY - EURASIA - Yandex MapEditor.sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "03.05.2020",
+                  "timestamp" : 1588457493,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 22<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 22<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 22<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 03.05.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 22<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 03.05.2020"
                     },
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Yandex_narod_WGS84"]
                   },
@@ -6613,14 +6613,14 @@
                   },
                   "filename" : "L-LABEL - EURASIA - Yandex - Hybrid Map Editor.sqlitedb",
                   "type" : "sqlite",
-                  "date" : "29.02.2020",
-                  "timestamp" : 1582994500,
+                  "date" : "03.05.2020",
+                  "timestamp" : 1588457493,
                   "containerSize" : 2292857,
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 29.02.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 29.02.2020"
+                      "": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 03.05.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Яндекс<br />Last config update: 03.05.2020"
                     },
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Yandex_narod_layer_WGS84"]
                   },

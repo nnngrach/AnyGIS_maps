@@ -8,7 +8,7 @@
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>20</maxZoom>
+    <maxZoom>19</maxZoom>
     <url>https://anygis.ru/api/v1/Osm_Mapnik_proxy/{$x}/{$y}/{$z}</url>
 </layer>
 
