@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<locusActions>
+    <download>
+        <source size="2032890">
+            <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Zip/Maps_full_ru.zip]]>
+        </source>
+        <dest>
+            <![CDATA[/mapsOnline/custom/Anygis.zip]]>
+        </dest>
+        <after>extract|deleteSource|refreshMap</after>
+    </download>
+</locusActions>

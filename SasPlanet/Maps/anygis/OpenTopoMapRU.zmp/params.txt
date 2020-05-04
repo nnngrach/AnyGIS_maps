@@ -2,9 +2,9 @@
 [PARAMS]
 GUID={8D5C7041-474A-468E-A37E-63BE5194E759}
 
-ParentSubMenu_ru=Туристические\Россия и сосединие страны
-ParentSubMenu_uk=Топокарти\Росія і сусідні країни
-ParentSubMenu=Hike\Russia and neighboring countries
+ParentSubMenu_ru=Туристические\Россия и соседние страны
+ParentSubMenu_uk=Топокарти\Україна та сусідні країни
+ParentSubMenu=Hike\ex-USSR
 
 name_ru=OSM OpenTopoMap.RU
 name_uk=OSM OpenTopoMap.RU
