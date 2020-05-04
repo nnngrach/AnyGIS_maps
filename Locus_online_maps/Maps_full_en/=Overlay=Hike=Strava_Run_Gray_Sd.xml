@@ -6,7 +6,7 @@
 
 <providers>
 
-<provider id="1050021" type="0" visible="true" background="-1">
+<provider id="2050021" type="0" visible="true" background="-1">
 <name>Overlay - Hike</name>
 <mode>⏹️ ⛺ = Strava Heatmap - Run (Gray)</mode>
 <countries>World</countries>
