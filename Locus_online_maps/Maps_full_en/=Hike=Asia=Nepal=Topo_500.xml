@@ -8,7 +8,7 @@
 
 <provider id="1056501" type="0" visible="true" background="-1">
 <name>Hike</name>
-<mode>⛺ = 🇳🇵 - Nepal</mode>
+<mode>⛺ = 🇳🇵 - Nepal 500m</mode>
 <countries>Nepal</countries>
 <usage>hiking</usage>
 <cacheTimeout>99999</cacheTimeout>
@@ -16,7 +16,7 @@
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->
-<zoomMax>26</zoomMax>   <!-- 18 -->
+<zoomMax>23</zoomMax>   <!-- 15 -->
 <tileSize>256</tileSize>
 
 <extraHeader><![CDATA[Referer#https://anygis.ru/]]></extraHeader>

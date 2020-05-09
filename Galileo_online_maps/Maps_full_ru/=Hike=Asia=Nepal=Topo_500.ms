@@ -3,12 +3,12 @@
 
 
 <customMapSource>
-<name>⛺ = 🇳🇵 - Nepal</name>
+<name>⛺ = 🇳🇵 - Непал 500м</name>
 <layers>
 
 <layer>
     <minZoom>0</minZoom>
-    <maxZoom>18</maxZoom>
+    <maxZoom>15</maxZoom>
     <url>https://anygis.ru/api/v1/Local_Nepal/{$x}/{$y}/{$z}</url>
 </layer>
 

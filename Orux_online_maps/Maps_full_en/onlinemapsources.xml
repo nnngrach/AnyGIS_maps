@@ -1877,11 +1877,26 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1056502">
+<name>Nepal  1000m (HIKEASIASOUTH)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_Nepal_1km/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1056501">
-<name>Nepal (HIKEASIASOUTH)</name>
+<name>Nepal 500m (HIKEASIASOUTH)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Nepal/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>18</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3512,7 +3527,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050018">
+<onlinemapsource uid="2050018">
 <name>Strava Heatmap - All (Blue) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Blue/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3527,7 +3542,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050019">
+<onlinemapsource uid="2050019">
 <name>Strava Heatmap - All (Gray) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3572,7 +3587,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050020">
+<onlinemapsource uid="2050020">
 <name>Strava Heatmap - Run (Blue) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Blue/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
@@ -3587,7 +3602,7 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1050021">
+<onlinemapsource uid="2050021">
 <name>Strava Heatmap - Run (Gray) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{$x}/{$y}/{$z}]]></url>
 <servers></servers>

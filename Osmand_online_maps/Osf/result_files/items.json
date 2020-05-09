@@ -3919,10 +3919,39 @@
 
                 {
                   "name" : {
-                    "" : "HIKE - NPL - Nepal",
-                    "ru" : "HIKE - NPL - Непал"
+                    "" : "HIKE - NPL - Nepal  1000m",
+                    "ru" : "HIKE - NPL - Непал 1000м"
                   },
-                  "filename" : "HIKE - NPL - Nepal.sqlitedb",
+                  "filename" : "HIKE - NPL - Nepal  1000m.sqlitedb",
+                  "type" : "sqlite",
+                  "date" : "10.05.2020",
+                  "timestamp" : 1589062884,
+                  "containerSize" : 2292857,
+                  "contentSize" : 3696925,
+                  "description" : {
+                    "text": {
+                      "": "Zoom min: 0<br />Zoom max: 14<br />Countries: Nepal<br />Copyright:  <br />Last config update: 10.05.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 14<br />Countries: Nepal<br />Copyright:  <br />Last config update: 10.05.2020"
+                    },
+                    "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Local_Nepal_1km"]
+                  },
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DHike%3DAsia%3DNepal%3DTopo_1000.sqlitedb",
+                  "firstsubname" : {
+                      "" : "Asia",
+                      "ru" : "Азия"
+                  },
+                  "secondsubname" : {
+                      "" : "Nepal",
+                      "ru" : "Непал"
+                  }
+                },
+
+                {
+                  "name" : {
+                    "" : "HIKE - NPL - Nepal 500m",
+                    "ru" : "HIKE - NPL - Непал 500м"
+                  },
+                  "filename" : "HIKE - NPL - Nepal 500m.sqlitedb",
                   "type" : "sqlite",
                   "date" : "16.04.2020",
                   "timestamp" : 1587036926,
@@ -3930,12 +3959,12 @@
                   "contentSize" : 3696925,
                   "description" : {
                     "text": {
-                      "": "Zoom min: 0<br />Zoom max: 18<br />Countries: Nepal<br />Copyright:  <br />Last config update: 16.04.2020",
-                      "ru": "Zoom min: 0<br />Zoom max: 18<br />Countries: Nepal<br />Copyright:  <br />Last config update: 16.04.2020"
+                      "": "Zoom min: 0<br />Zoom max: 15<br />Countries: Nepal<br />Copyright:  <br />Last config update: 16.04.2020",
+                      "ru": "Zoom min: 0<br />Zoom max: 15<br />Countries: Nepal<br />Copyright:  <br />Last config update: 16.04.2020"
                     },
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Local_Nepal"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DHike%3DAsia%3DNepal%3DTopo.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DHike%3DAsia%3DNepal%3DTopo_500.sqlitedb",
                   "firstsubname" : {
                       "" : "Asia",
                       "ru" : "Азия"

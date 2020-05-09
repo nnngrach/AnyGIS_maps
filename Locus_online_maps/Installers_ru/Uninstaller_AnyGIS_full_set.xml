@@ -1261,7 +1261,16 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Hike=Asia=Nepal=Topo.xml]]>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Nepal=Topo_1000.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Asia=Nepal=Topo_500.xml]]>
 </dest>
 </download>
 

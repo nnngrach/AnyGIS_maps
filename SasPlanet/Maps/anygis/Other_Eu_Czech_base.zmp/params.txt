@@ -10,7 +10,7 @@ name_ru=OSM Mapy.cz - Base
 name_uk=OSM Mapy.cz - Base
 name=OSM Mapy.cz - Base
 
-NameInCache=osm
+NameInCache=Other_Eu_Czech_base
 asLayer=0
 EPSG=3785
 
