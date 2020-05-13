@@ -3437,11 +3437,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040008">
-<name>Strava Heatmap - Ride (Blue) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Blue/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2040005">
+<name>Strava Heatmap - Ride (Red) (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2040008">
+<name>Strava Heatmap - Ride HD (Blue) (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Blue_HD/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3453,25 +3468,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040009">
-<name>Strava Heatmap - Ride (Gray) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - Ride HD (Gray) (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040005">
-<name>Strava Heatmap - Ride (Red) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3527,11 +3527,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050018">
-<name>Strava Heatmap - All (Blue) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Blue/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2050004">
+<name>Strava Heatmap - All (Red) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2050018">
+<name>Strava Heatmap - All HD (Blue) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Blue_HD/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3543,25 +3558,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050019">
-<name>Strava Heatmap - All (Gray) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - All HD (Gray) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050004">
-<name>Strava Heatmap - All (Red) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3587,11 +3587,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050020">
-<name>Strava Heatmap - Run (Blue) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Blue/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2050010">
+<name>Strava Heatmap - Run (Red) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2050020">
+<name>Strava Heatmap - Run HD (Blue) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Blue_HD/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3603,25 +3618,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050021">
-<name>Strava Heatmap - Run (Gray) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - Run HD (Gray) (OVERLAYHIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050010">
-<name>Strava Heatmap - Run (Red) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3707,11 +3707,26 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060008">
-<name>Strava Heatmap - Winter (Blue) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Blue/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="2060003">
+<name>Strava Heatmap - Winter (Red) (OVERLAYWINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2060008">
+<name>Strava Heatmap - Winter HD (Blue) (OVERLAYWINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Blue_HD/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3723,25 +3738,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060009">
-<name>Strava Heatmap - Winter (Gray) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Gray/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - Winter HD (Gray) (OVERLAYWINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Gray_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2060003">
-<name>Strava Heatmap - Winter (Red) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3888,10 +3888,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070012">
-<name>Strava Heatmap - Water (Blue) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Blue/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - Water (HD Blue) (OVERLAYWATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Blue_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3903,10 +3903,10 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070013">
-<name>Strava Heatmap - Water (Gray) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Gray/{$x}/{$y}/{$z}]]></url>
+<name>Strava Heatmap - Water (HD Gray) (OVERLAYWATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Gray_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>16</maxzoom>
+<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

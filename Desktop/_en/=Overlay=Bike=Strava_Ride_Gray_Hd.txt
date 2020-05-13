@@ -1,0 +1,14 @@
+[Name]
+Overlay - Bike - Strava Heatmap - Ride HD (Gray)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray_HD/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://www.strava.com/heatmap

@@ -1,0 +1,14 @@
+[Name]
+Overlay - Winter - Strava Heatmap - Winter HD (Blue)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_Winter_Blue_HD/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://www.strava.com/heatmap

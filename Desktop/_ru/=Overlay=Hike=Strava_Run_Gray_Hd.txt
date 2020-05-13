@@ -1,0 +1,14 @@
+[Name]
+Слои - Туристические - Strava - Бег HD (серый)
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Tracks_Strava_Run_Gray_HD/{x}/{y}/{z}
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+15
+
+[HTTP Referer]
+https://www.strava.com/heatmap

@@ -1,5 +1,5 @@
 [Name]
-Overlay - Water - Strava Heatmap - Water (HD Bluered)
+Overlay - Water - Strava Heatmap - Water (HD Red)
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered_HD/{x}/{y}/{z}
