@@ -632,6 +632,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2040003">
+<name>Strava - Вело (OVERLAYBIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2050017">
 <name>OSM OpenStreetMap - GPS Треки (OVERLAYHIKE)</name>
 <url><![CDATA[https://gps.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
@@ -662,10 +677,10 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050012">
+<onlinemapsource uid="2050011">
 <name>Strava - Бег (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
+<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/run/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
+<servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -692,9 +707,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050006">
+<onlinemapsource uid="2050005">
 <name>Strava - Все слои (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
@@ -722,10 +737,10 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2060000">
+<onlinemapsource uid="2060001">
 <name>Strava - Зимние (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
+<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/winter/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
+<servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
@@ -767,10 +782,10 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070008">
+<onlinemapsource uid="2070007">
 <name>Strava - Водные (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
+<url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/water/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
+<servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
