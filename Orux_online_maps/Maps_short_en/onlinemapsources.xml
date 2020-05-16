@@ -3,7 +3,7 @@
 
 
 <onlinemapsource uid="1010002">
-<name>Bing Birds Eye (SATELLITES)</name>
+<name>🛰 = Bing Birds Eye (SATELLITES)</name>
 <url><![CDATA[http://ak.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=A,G,L&shading=hill&og=8&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -18,7 +18,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010007">
-<name>Google Hybrid HD (SATELLITES)</name>
+<name>🛰 = Google Hybrid HD (SATELLITES)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=y@176103410&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -33,7 +33,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010017">
-<name>Here HD (SATELLITES)</name>
+<name>🛰 = Here HD (SATELLITES)</name>
 <url><![CDATA[https://{$s}.aerial.maps.api.here.com/maptile/2.1/maptile/newest/hybrid.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -48,7 +48,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1010011">
-<name>Maxar Premium (SATELLITES)</name>
+<name>🛰 = Maxar Premium (SATELLITES)</name>
 <url><![CDATA[https://services.digitalglobe.com/earthservice/tmsaccess/tms/1.0.0/DigitalGlobe:ImageryTileService@EPSG:3857@jpg/{$z}/{$x}/{$y}.jpg?connectId=71a837e4-2609-4496-b5ea-5f0e4fdb020d]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -63,7 +63,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1011003">
-<name>Yandex (SATELLITESEURASIA)</name>
+<name>🛰 = 🇷🇺 - Yandex (SATELLITES)</name>
 <url><![CDATA[http://sat0{$s}.maps.yandex.net/tiles?l=sat&x={$x}&y={$y}&z={$z}&lang=ru]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -78,7 +78,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020001">
-<name>Bing (CITY)</name>
+<name>🏠 = Bing (CITY)</name>
 <url><![CDATA[http://ecn.dynamic.t{$s}.tiles.virtualearth.net/comp/ch/{q}?mkt=en-us&it=G,VE,BX,L,LA&shading=hill&og=2&n=z]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -93,7 +93,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020004">
-<name>Google (CITY)</name>
+<name>🏠 = Google (CITY)</name>
 <url><![CDATA[https://mt{$s}.google.com/vt/lyrs=m&hl=en&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -108,7 +108,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020006">
-<name>Google - Terrain (CITY)</name>
+<name>🏠 = Google - Terrain (CITY)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=t@130,r@206000000&hl=ru&x={$x}&y={$y}&z={$z}&s=Galileo&scale=1&hl=en]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -123,7 +123,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020016">
-<name>Here (CITY)</name>
+<name>🏠 = Here (CITY)</name>
 <url><![CDATA[https://{$s}.base.maps.api.here.com/maptile/2.1/maptile/newest/normal.day/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g&lg=eng&ppi=72]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -138,7 +138,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1020014">
-<name>OSM Mapnik HD (from OsmAnd) (CITY)</name>
+<name>🏠 = OSM Mapnik HD (from OsmAnd) (CITY)</name>
 <url><![CDATA[http://tile.osmand.net/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -153,7 +153,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1021001">
-<name>2Gis (CITYRU)</name>
+<name>🏠 = 🇷🇺 - 2Gis (CITY)</name>
 <url><![CDATA[https://tile{$s}.maps.2gis.com/tiles?x={$x}&y={$y}&z={$z}&r=g&ts=online_sd]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>18</maxzoom>
@@ -168,7 +168,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1021002">
-<name>OSM Sputnik.ru (CITYRU)</name>
+<name>🏠 = 🇷🇺 - OSM Sputnik.ru (CITY)</name>
 <url><![CDATA[http://tiles.maps.sputnik.ru/tiles/kmt2/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -183,7 +183,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1021008">
-<name>Yandex (CITYRU)</name>
+<name>🏠 = 🇷🇺 - Yandex (CITY)</name>
 <url><![CDATA[https://vec0{$s}.maps.yandex.net/tiles?l=map&x={$x}&y={$y}&z={$z}&scale=1&lang=en-EN]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
@@ -198,7 +198,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030005">
-<name>OSM Thunderforest Transport (day) (ROAD)</name>
+<name>🚗 = OSM Thunderforest Transport (day) (ROAD)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/transport/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -213,7 +213,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1030007">
-<name>TomTom (day) (ROAD)</name>
+<name>🚗 = TomTom (day) (ROAD)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/basic/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -228,7 +228,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1040001">
-<name>OSM Cyclosm (BIKE)</name>
+<name>🚲 = OSM Cyclosm (BIKE)</name>
 <url><![CDATA[https://dev.{$s}.tile.openstreetmap.fr/cyclosm/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>20</maxzoom>
@@ -243,7 +243,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1040003">
-<name>OSM Thunderforest Cycle (BIKE)</name>
+<name>🚲 = OSM Thunderforest Cycle (BIKE)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/cycle/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -258,7 +258,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1040007">
-<name>Strava Heatmap - Ride (BIKE)</name>
+<name>🚲 = Strava Heatmap - Ride (BIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_SD_Flat/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -273,7 +273,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1042003">
-<name>OSM MTBmap.cz (BIKEEUROPE)</name>
+<name>🚲 = 🇪🇺- OSM MTBmap.cz (BIKE)</name>
 <url><![CDATA[http://tile.mtbmap.cz/mtbmap_tiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -288,7 +288,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1050003">
-<name>OSM 4U maps (HIKE)</name>
+<name>⛺ = OSM 4U maps (HIKE)</name>
 <url><![CDATA[https://tileserver.4umaps.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -303,7 +303,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1050007">
-<name>OSM Mapsurfer (HIKE)</name>
+<name>⛺ = OSM Mapsurfer (HIKE)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/roads/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -318,7 +318,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1050011">
-<name>OSM OpenTopoMap.ORG (HIKE)</name>
+<name>⛺ = OSM OpenTopoMap.ORG (HIKE)</name>
 <url><![CDATA[https://{$s}.tile.opentopomap.org/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>17</maxzoom>
@@ -333,7 +333,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1050014">
-<name>OSM Thunderforest Outdoor (HIKE)</name>
+<name>⛺ = OSM Thunderforest Outdoor (HIKE)</name>
 <url><![CDATA[http://{$s}.tile.thunderforest.com/outdoors/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
@@ -348,7 +348,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1050019">
-<name>Strava Heatmap - Run (HIKE)</name>
+<name>⛺ = Strava Heatmap - Run (HIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_SD_Flat/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -363,7 +363,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1060004">
-<name>Strava Heatmap - Winter (WINTER)</name>
+<name>❄️ = Strava Heatmap - Winter (WINTER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_SD_Flat/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -378,7 +378,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1070004">
-<name>Navionics Marine Charts (WATER)</name>
+<name>⚓️ = Navionics Marine Charts (WATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -393,7 +393,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1070010">
-<name>Strava Heatmap - Water (WATER)</name>
+<name>⚓️ = Strava Heatmap - Water (WATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_SD_Flat/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -408,7 +408,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1100002">
-<name>Google Transit (INFRASTRUCTURE)</name>
+<name>🚥 = Google Transit (INFRASTRUCTURE)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt/lyrs=m@121,transit|vm:1&opts=r&x={$x}&y={$y}&z={$z}&hl=en&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -423,7 +423,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1100003">
-<name>OSM OpenBusMap (Opnvkarte.de) (INFRASTRUCTURE)</name>
+<name>🚥 = OSM OpenBusMap (Opnvkarte.de) (INFRASTRUCTURE)</name>
 <url><![CDATA[http://tile.memomaps.de/tilegen/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -438,7 +438,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2010001">
-<name>Openmapsurfer (OVERLAYRELIEF)</name>
+<name>⏹️ 🏔️ = Openmapsurfer (OVERLAYRELIEF)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/asterh/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>
@@ -453,7 +453,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2020008">
-<name>Google - Hybrid (OVERLAYHYBRID)</name>
+<name>⏹️ 🏷 = Google - Hybrid (OVERLAYLABELS)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Google_labels_en/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>
@@ -468,7 +468,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2020003">
-<name>OSM Mapbox - Hybrid (OVERLAYHYBRID)</name>
+<name>⏹️ 🏷 = OSM Mapbox - Hybrid (OVERLAYLABELS)</name>
 <url><![CDATA[http://{$s}.tiles.mapbox.com/v4/openstreetmap.map-inh76ba2/{$z}/{$x}/{$y}.png?access_token=pk.eyJ1Ijoib3BlbnN0cmVldG1hcCIsImEiOiJjaml5MjVyb3MwMWV0M3hxYmUzdGdwbzE4In0.q548FjhsSJzvXsGlPsFxAQ]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>22</maxzoom>
@@ -483,7 +483,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2020005">
-<name>OSM Mapsurfer - Hybrid (OVERLAYHYBRID)</name>
+<name>⏹️ 🏷 = OSM Mapsurfer - Hybrid (OVERLAYLABELS)</name>
 <url><![CDATA[https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>13</maxzoom>
@@ -498,7 +498,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2030001">
-<name>Bing - Traffic (OVERLAYROAD)</name>
+<name>⏹️ 🚗 = Bing - Traffic (OVERLAYROAD)</name>
 <url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>
 <servers>1,2,3</servers>
 <maxzoom>19</maxzoom>
@@ -513,7 +513,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2030003">
-<name>Google - Traffic (OVERLAYROAD)</name>
+<name>⏹️ 🚗 = Google - Traffic (OVERLAYROAD)</name>
 <url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&lyrs=m@159000000,traffic|seconds_into_week:-1&style=15&x={$x}&y={$y}&z={$z}&scale=1]]></url>
 <servers>0,1,2,3</servers>
 <maxzoom>20</maxzoom>
@@ -528,7 +528,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2030005">
-<name>Here - Traffic (OVERLAYROAD)</name>
+<name>⏹️ 🚗 = Here - Traffic (OVERLAYROAD)</name>
 <url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -543,7 +543,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2030009">
-<name>TomTom - Traffic (OVERLAYROAD)</name>
+<name>⏹️ 🚗 = TomTom - Traffic (OVERLAYROAD)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/traffic/map/4/tile/flow/relative/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
 <servers>a,b,c,d</servers>
 <maxzoom>18</maxzoom>
@@ -558,7 +558,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2030012">
-<name>Yandex (proxy) (OVERLAYROAD)</name>
+<name>⏹️ 🚗 = 🇷🇺 - Yandex (proxy) (OVERLAYROAD)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_traffic_layer_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -573,7 +573,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040002">
-<name>OSM WayMarkedTrails - Cycling (OVERLAYBIKE)</name>
+<name>⏹️ 🚲 = OSM WayMarkedTrails - Cycling (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/cycling/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -588,7 +588,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040001">
-<name>OSM WayMarkedTrails - MTB (OVERLAYBIKE)</name>
+<name>⏹️ 🚲 = OSM WayMarkedTrails - MTB (OVERLAYBIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/mtb/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -603,7 +603,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2040003">
-<name>Strava Heatmap - Ride (OVERLAYBIKE)</name>
+<name>⏹️ 🚲 = Strava Heatmap - Ride (OVERLAYBIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -618,7 +618,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050017">
-<name>OSM OpenStreetMap - GPS Tracks (OVERLAYHIKE)</name>
+<name>⏹️ ⛺ = OSM OpenStreetMap - GPS Tracks (OVERLAYHIKE)</name>
 <url><![CDATA[https://gps.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>19</maxzoom>
@@ -633,7 +633,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050016">
-<name>OSM WayMarkedTrails - Hiking (OVERLAYHIKE)</name>
+<name>⏹️ ⛺ = OSM WayMarkedTrails - Hiking (OVERLAYHIKE)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/hiking/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -648,7 +648,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050005">
-<name>Strava Heatmap - All (OVERLAYHIKE)</name>
+<name>⏹️ ⛺ = Strava Heatmap - All (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -663,7 +663,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050011">
-<name>Strava Heatmap - Run (OVERLAYHIKE)</name>
+<name>⏹️ ⛺ = Strava Heatmap - Run (OVERLAYHIKE)</name>
 <url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/run/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
 <servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
@@ -678,7 +678,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2050007">
-<name>Strava Heatmap - Run and Ride (beta) (OVERLAYHIKE)</name>
+<name>⏹️ ⛺ = Strava Heatmap - Run and Ride (beta) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
@@ -693,7 +693,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060006">
-<name>OSM OpenSnowMap - Pistes (OVERLAYWINTER)</name>
+<name>⏹️ ❄️ = OSM OpenSnowMap - Pistes (OVERLAYWINTER)</name>
 <url><![CDATA[http://www.opensnowmap.org/pistes/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -708,7 +708,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2060001">
-<name>Strava Heatmap - Winter (OVERLAYWINTER)</name>
+<name>⏹️ ❄️ = Strava Heatmap - Winter (OVERLAYWINTER)</name>
 <url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/winter/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
 <servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
@@ -723,7 +723,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070002">
-<name>Navionics Marine Charts (OVERLAYWATER)</name>
+<name>⏹️ ⚓️ = Navionics Marine Charts (OVERLAYWATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -738,7 +738,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070004">
-<name>OSM OpenSeaMap (OVERLAYWATER)</name>
+<name>⏹️ ⚓️ = OSM OpenSeaMap (OVERLAYWATER)</name>
 <url><![CDATA[http://tiles.openseamap.org/seamark/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -753,7 +753,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2070007">
-<name>Strava Heatmap - Water (OVERLAYWATER)</name>
+<name>⏹️ ⚓️ = Strava Heatmap - Water (OVERLAYWATER)</name>
 <url><![CDATA[https://heatmap-external-a.strava.com/tiles-auth/water/hot/{$z}/{$x}/{$y}.png?px=256]]></url>
 <servers>a,b,c</servers>
 <maxzoom>16</maxzoom>
@@ -768,7 +768,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2080008">
-<name>Wikimapia.org (OVERLAYINFO)</name>
+<name>⏹️ 📖 = Wikimapia.org (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Wikimapia_layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -783,7 +783,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090002">
-<name>OSM OpenPTMap  - Public Transport (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenPTMap  - Public Transport (OVERLAYINFOSTRUCT)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -798,7 +798,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090003">
-<name>OSM OpenRailWay - Infrastructure (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenRailWay - Infrastructure (OVERLAYINFOSTRUCT)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/standard/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
