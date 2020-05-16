@@ -1112,6 +1112,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1040007">
+<name>Strava - Вело (BIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1041001">
 <name>OSM Чепецк.net (BIKEEURASIA)</name>
 <url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
@@ -1237,6 +1252,36 @@
 <url><![CDATA[http://{$s}.tile.thunderforest.com/outdoors/{$z}/{$x}/{$y}.png?apikey=6170aad10dfd42a38d4d8c709a536f38]]></url>
 <servers>a,b,c</servers>
 <maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1050019">
+<name>Strava  - Бег (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1050018">
+<name>Strava - Все слои (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -1908,7 +1953,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1057501">
-<name>New Zealand Topo (HIKE)</name>
+<name>New Zealand Topo (HIKEOTHER)</name>
 <url><![CDATA[http://nz1.nztopomaps.com/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
@@ -2002,6 +2047,21 @@
 <url><![CDATA[https://m{$s}.mapserver.mapy.cz/winter-m/{$z}-{$x}-{$y}]]></url>
 <servers>1,2,3,4</servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1060004">
+<name>Strava - Зимние (WINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -2227,6 +2287,21 @@
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Sonar_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1070010">
+<name>Strava - Водные (WATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3377,66 +3452,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2040004">
-<name>Strava - Вело (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040005">
-<name>Strava - Вело (красный) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040009">
-<name>Strava - Вело HD (серый) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Gray_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040008">
-<name>Strava - Вело HD (синий) (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_Blue_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2050017">
 <name>OSM OpenStreetMap - GPS Треки (OVERLAYHIKE)</name>
 <url><![CDATA[https://gps.tile.openstreetmap.org/lines/{$z}/{$x}/{$y}.png]]></url>
@@ -3482,51 +3497,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2050010">
-<name>Strava - Бег (красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050021">
-<name>Strava - Бег HD (серый) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Gray_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050020">
-<name>Strava - Бег HD (синий) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_Blue_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2050007">
 <name>Strava - Вело и Бег (beta) (OVERLAYHIKE)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_RunAndRide/{$x}/{$y}/{$z}]]></url>
@@ -3547,51 +3517,6 @@
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050004">
-<name>Strava - Все слои (красный) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050019">
-<name>Strava - Все слои HD (серый) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Gray_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2050018">
-<name>Strava - Все слои HD (синий) (OVERLAYHIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_All_Blue_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3652,51 +3577,6 @@
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2060003">
-<name>Strava - Зимние (красный) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2060009">
-<name>Strava - Зимние HD (серый) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Gray_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2060008">
-<name>Strava - Зимние HD (синий) (OVERLAYWINTER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_Blue_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -3842,39 +3722,9 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2070009">
-<name>Strava - Водные (красный) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Bluered/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2070013">
 <name>Strava - Водные HD (серый) (OVERLAYWATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Gray_HD/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>15</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2070012">
-<name>Strava - Водные HD (синий) (OVERLAYWATER)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_Blue_HD/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>15</maxzoom>
 <minzoom>0</minzoom>

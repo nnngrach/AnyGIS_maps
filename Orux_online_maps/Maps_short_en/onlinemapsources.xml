@@ -257,6 +257,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1040007">
+<name>Strava Heatmap - Ride (BIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1042003">
 <name>OSM MTBmap.cz (BIKEEUROPE)</name>
 <url><![CDATA[http://tile.mtbmap.cz/mtbmap_tiles/{$z}/{$x}/{$y}.png]]></url>
@@ -332,11 +347,56 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1050019">
+<name>Strava Heatmap - Run (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1060004">
+<name>Strava Heatmap - Winter (WINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1070004">
 <name>Navionics Marine Charts (WATER)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1070010">
+<name>Strava Heatmap - Water (WATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -533,21 +593,6 @@
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>3</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040004">
-<name>Strava Heatmap - Ride (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

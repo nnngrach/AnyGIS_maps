@@ -212,6 +212,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1040007">
+<name>Strava - Вело (BIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1041001">
 <name>OSM Чепецк.net (BIKEEURASIA)</name>
 <url><![CDATA[http://ingreelab.net/A52CEA6D090B666F0A2C6A85A53832F128B6CAED/{$z}/{$x}/{$y}.png]]></url>
@@ -302,6 +317,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1050019">
+<name>Strava  - Бег (HIKE)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Run_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1052001">
 <name>OSM OpenTopoMap.RU (HIKERUALL)</name>
 <url><![CDATA[https://tile-{$s}.opentopomap.ru/{$z}/{$x}/{$y}.png]]></url>
@@ -332,6 +362,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="1060004">
+<name>Strava - Зимние (WINTER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Winter_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="1051020">
 <name>Перевалы Вестра (nakarte) (MOUNTAIN)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Nakarte_Westra/{$x}/{$y}/{$z}]]></url>
@@ -352,6 +397,21 @@
 <url><![CDATA[https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="1070010">
+<name>Strava - Водные (WATER)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Water_SD_Flat/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
@@ -563,21 +623,6 @@
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>3</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2040004">
-<name>Strava - Вело (OVERLAYBIKE)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Tracks_Strava_Ride/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>16</maxzoom>
-<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
