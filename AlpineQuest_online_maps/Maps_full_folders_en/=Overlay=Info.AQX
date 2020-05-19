@@ -158,7 +158,7 @@
 
             <servers>
                 <referer><![CDATA[https://yandex.ru/pogoda/moscow/maps/nowcast?via=mmapwb&le_Lightning=1&ll=37.693915_55.675690&z=8]]></referer>
-                <server><![CDATA[http://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{x}/{y}/{z}]]></server>
+                <server><![CDATA[http://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

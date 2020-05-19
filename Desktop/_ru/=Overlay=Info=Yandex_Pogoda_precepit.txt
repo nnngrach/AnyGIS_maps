@@ -2,7 +2,7 @@
 Слои - Справочные - Yandex Погода - Осадки сейчас
 
 [URL via AnyGIS proxy]
-https://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{x}/{y}/{z}
+https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{x}/{y}/{z}
 
 [Min Zoom level]
 3

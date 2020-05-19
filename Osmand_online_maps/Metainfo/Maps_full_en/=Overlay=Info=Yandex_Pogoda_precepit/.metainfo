@@ -1,5 +1,5 @@
 [url_template]
-https://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{1}/{2}/{0}
+https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{1}/{2}/{0}
 [randoms]
 https://yandex.ru/pogoda/front/maps/timeline?lat={lat}&lon={lon}&type=tiled-nowcast&request_id=1589910108050621-645383803335216877&from_client=front&_={timeStamp}
 [min_zoom]

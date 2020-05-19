@@ -3874,7 +3874,7 @@
 
 <onlinemapsource uid="2080011">
 <name>⏹️ 📖 = Yandex Pogoda - Precipitation (OVERLAYINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{$x}/{$y}/{$z}]]></url>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>3</minzoom>

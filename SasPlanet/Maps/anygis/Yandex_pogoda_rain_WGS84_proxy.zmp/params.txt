@@ -10,11 +10,11 @@ name_ru=Yandex Погода - Осадки сейчас
 name_uk=Yandex Погода - Осадки сейчас
 name=Yandex Pogoda - Precipitation
 
-NameInCache=Yandex_pogoda_rain_proxy
+NameInCache=Yandex_pogoda_rain_WGS84_proxy
 asLayer=1
 EPSG=3395
 
-DefURLBase=https://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{x}/{y}/{z}
+DefURLBase=https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{x}/{y}/{z}
 
 RequestHead=Referer:https://yandex.ru/pogoda/moscow/maps/nowcast?via=mmapwb&le_Lightning=1&ll=37.693915_55.675690&z=8\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
 
