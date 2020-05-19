@@ -813,7 +813,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090002">
-<name>⏹️ 🚥 = OSM OpenPTMap - Общ.транспорт (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenPTMap - Общ.транспорт (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -828,7 +828,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090003">
-<name>⏹️ 🚥 = OSM OpenRailWay (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenRailWay (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/standard/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>

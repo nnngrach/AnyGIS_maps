@@ -3543,7 +3543,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2054301">
-<name>⏹️ ⛺ = 🇨🇭 - SwissTopo Тропы (OVERLAYHIKECHE)</name>
+<name>⏹️ ⛺ = 🇨🇭 - SwissTopo Тропы (OVERLAYHIKE)</name>
 <url><![CDATA[https://wmts100.geo.admin.ch/1.0.0/ch.swisstopo.swisstlm3d-wanderwege/default/current/3857/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -3806,6 +3806,21 @@
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080011">
+<name>⏹️ 📖 = Yandex Погода - Осадки сейчас (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
 <xop></xop>
 <yop></yop>
 <zop></zop>
@@ -4368,7 +4383,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090001">
-<name>⏹️ 🚥 = OSM OpenFireMap (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenFireMap (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[http://openfiremap.org/hytiles/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
 <maxzoom>17</maxzoom>
@@ -4383,7 +4398,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090002">
-<name>⏹️ 🚥 = OSM OpenPTMap - Общ.транспорт (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenPTMap - Общ.транспорт (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Osm_Public_Transport_Layer/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
@@ -4398,7 +4413,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090003">
-<name>⏹️ 🚥 = OSM OpenRailWay (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenRailWay (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/standard/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -4413,7 +4428,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090004">
-<name>⏹️ 🚥 = OSM OpenRailWay - Сигналы (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenRailWay - Сигналы (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/signals/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -4428,7 +4443,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090005">
-<name>⏹️ 🚥 = OSM OpenRailWay - Скорость (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = OSM OpenRailWay - Скорость (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[https://{$s}.tiles.openrailwaymap.org/maxspeed/{$z}/{$x}/{$y}.png]]></url>
 <servers>a,b,c</servers>
 <maxzoom>18</maxzoom>
@@ -4443,7 +4458,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090101">
-<name>⏹️ 🚥 = 🇷🇺 - OSM Лэп для ЦФО и СЗО (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = 🇷🇺 - OSM Лэп для ЦФО и СЗО (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[http://omen98.nextgis.com/api/resource/9/wms?request=GetMap&layers=MSK_lines&styles=&format=image/png&transparent=true&version=1.1.1&dpimode=7&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></url>
 <servers></servers>
 <maxzoom>18</maxzoom>
@@ -4458,7 +4473,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2090102">
-<name>⏹️ 🚥 = 🇷🇺 - ЛесФонд - Границы кварталов (OVERLAYINFOSTRUCT)</name>
+<name>⏹️ 🚥 = 🇷🇺 - ЛесФонд - Границы кварталов (OVERLAYINFROSTRUCT)</name>
 <url><![CDATA[http://geoportal.roslesinforg.ru:8080/proxy/service?&service=WMS&request=GetMap&layers=shape_kv&styles=&format=image/png&transparent=true&version=1.1.1&width=256&height=256&srs=EPSG:3857&bbox={bbox}]]></url>
 <servers></servers>
 <maxzoom>20</maxzoom>

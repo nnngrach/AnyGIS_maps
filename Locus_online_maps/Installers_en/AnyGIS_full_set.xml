@@ -781,6 +781,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Strava_Ride.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Ru=Chepetsk.xml]]>
 </source>
 <dest>
@@ -884,6 +893,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Strava_RideAndRun.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Strava_Run.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
 </dest>
 </download>
 
@@ -1393,6 +1411,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=Strava_Winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=Eu=Sweden=Skoterleder.xml]]>
 </source>
 <dest>
@@ -1577,6 +1604,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Strava_Water.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 
@@ -2810,6 +2846,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Info=Wikimapia.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Yandex_Pogoda_precepit.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_precepit.xml]]>
 </dest>
 </download>
 

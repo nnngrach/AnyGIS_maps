@@ -775,6 +775,15 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Bike=Ru=Chepetsk.xml]]>
 </dest>
 </download>
@@ -866,6 +875,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Hike=Thunderforest_Outdoor.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
 </dest>
 </download>
 
@@ -1387,6 +1405,15 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Winter=Eu=Sweden=Skoterleder.xml]]>
 </dest>
 </download>
@@ -1568,6 +1595,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Water=OpenSeaMap_traffic.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 
@@ -2774,6 +2810,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Info=Wikimapia.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_precepit.xml]]>
 </dest>
 </download>
 

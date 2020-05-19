@@ -5,7 +5,7 @@
 https://anygis.ru/api/v1/Local_Avia_Rnk2019/{x}/{y}/{z}
 
 [URL direct]
-http://91.237.82.95:8088/pub/other/rnk2019/z{z+1}/{x/1024}/x{x}/{y/1024}/y{y}.jpg
+http://91.237.82.95:8088/pub/other/rnk2019/{sas_path}.jpg
 
 [Min Zoom level]
 0

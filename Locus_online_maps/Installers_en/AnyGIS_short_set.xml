@@ -223,6 +223,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Strava_Ride.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Bike=Eu=Mtb_Map_Cz.xml]]>
 </source>
 <dest>
@@ -286,6 +295,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Hike=Strava_Run.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Winter.png]]>
 </source>
 <dest>
@@ -299,6 +317,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Winter=OpenSnowMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Winter=Strava_Winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
 </dest>
 </download>
 
@@ -335,6 +362,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Water=OpenSeaMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Strava_Water.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 

@@ -88,6 +88,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Strava_Water.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Water=Ru=Chusovaya_Novoutkinsk.xml]]>
 </source>
 <dest>

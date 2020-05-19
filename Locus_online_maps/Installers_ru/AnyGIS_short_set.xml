@@ -205,6 +205,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Strava_Ride.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Bike=Strava_Ride.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Bike=Ru=Chepetsk.xml]]>
 </source>
 <dest>
@@ -277,6 +286,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Strava_Run.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Hike=Strava_Run.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Hike=Eurasia=OpenTopoMap_Ru.xml]]>
 </source>
 <dest>
@@ -331,6 +349,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Winter=Strava_Winter.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Winter=Strava_Winter.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_ru/Горные.png]]>
 </source>
 <dest>
@@ -371,6 +398,15 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Water=OpenSeaMap.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Water=Strava_Water.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Water=Strava_Water.xml]]>
 </dest>
 </download>
 
