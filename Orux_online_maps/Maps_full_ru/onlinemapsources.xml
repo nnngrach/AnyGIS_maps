@@ -2913,7 +2913,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1120001">
-<name>⛏ = 🇷🇺 - Vsegei.ru (GEOLOGY)</name>
+<name>⛏ = 🇷🇺 - Геология 1mln (GEOLOGY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>10</maxzoom>
@@ -2928,7 +2928,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="1120002">
-<name>⛏ = 🇷🇺 - Геологическая карта СССР (GEOLOGY)</name>
+<name>⛏ = 🇷🇺 - Геология 200k (GEOLOGY)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>14</maxzoom>

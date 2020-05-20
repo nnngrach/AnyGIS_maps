@@ -3,7 +3,7 @@
 
 
 <customMapSource>
-<name>⛏ = 🇷🇺 - Vsegei.ru</name>
+<name>⛏ = 🇷🇺 - Geology 1mln</name>
 <layers>
 
 <layer>

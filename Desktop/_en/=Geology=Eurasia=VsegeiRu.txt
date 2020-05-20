@@ -1,5 +1,5 @@
 [Name]
-Geology - Vsegei.ru
+Geology - Geology 1mln
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{x}/{y}/{z}

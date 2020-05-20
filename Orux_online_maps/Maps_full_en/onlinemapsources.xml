@@ -2927,12 +2927,12 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1120002">
-<name>⛏ = 🇷🇺 - USSR Geology map (GEOLOGY)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1120001">
+<name>⛏ = 🇷🇺 - Geology 1mln (GEOLOGY)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>14</maxzoom>
-<minzoom>0</minzoom>
+<maxzoom>10</maxzoom>
+<minzoom>1</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -2942,12 +2942,12 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1120001">
-<name>⛏ = 🇷🇺 - Vsegei.ru (GEOLOGY)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{$x}/{$y}/{$z}]]></url>
+<onlinemapsource uid="1120002">
+<name>⛏ = 🇷🇺 - Geology 200k (GEOLOGY)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
-<maxzoom>10</maxzoom>
-<minzoom>1</minzoom>
+<maxzoom>14</maxzoom>
+<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>

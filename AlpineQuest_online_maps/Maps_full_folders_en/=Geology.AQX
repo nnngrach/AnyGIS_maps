@@ -6,31 +6,8 @@
 <name>Geology</name>
 <description></description>
 
-    <source id="1120002">
-        <name>⛏ = 🇷🇺 - USSR Geology map</name>
-        <copyright>Vsegei.ru </copyright>
-        <data-source></data-source>
-        <region>OTHE</region>
-        <type>ROAD</type>
-
-        <preview-location>38.06,55.7,5</preview-location>
-        
-
-        <level>
-            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
-            
-            <update-delay>4166D</update-delay>
-
-            <servers>
-                
-                <server><![CDATA[http://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{x}/{y}/{z}]]></server>
-            </servers>
-        </level>
-    </source>
-
-
     <source id="1120001">
-        <name>⛏ = 🇷🇺 - Vsegei.ru</name>
+        <name>⛏ = 🇷🇺 - Geology 1mln</name>
         <copyright>Vsegei.ru </copyright>
         <data-source></data-source>
         <region>OTHE</region>
@@ -47,6 +24,29 @@
             <servers>
                 <referer><![CDATA[http://wms.vsegei.ru/]]></referer>
                 <server><![CDATA[http://anygis.ru/api/v1/Other_Ru_Vsegei_Geology/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1120002">
+        <name>⛏ = 🇷🇺 - Geology 200k</name>
+        <copyright>Vsegei.ru </copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>ROAD</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

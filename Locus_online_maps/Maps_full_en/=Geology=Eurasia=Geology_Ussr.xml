@@ -8,7 +8,7 @@
 
 <provider id="1120002" type="0" visible="true" background="-1">
 <name>Geology</name>
-<mode>⛏ = 🇷🇺 - USSR Geology map</mode>
+<mode>⛏ = 🇷🇺 - Geology 200k</mode>
 <countries>Russia, Ukraine</countries>
 <usage>city</usage>
 <cacheTimeout>99999</cacheTimeout>

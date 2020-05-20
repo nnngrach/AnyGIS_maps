@@ -1,5 +1,5 @@
 [Name]
-Geology - USSR Geology map
+Geology - Geology 200k
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{x}/{y}/{z}

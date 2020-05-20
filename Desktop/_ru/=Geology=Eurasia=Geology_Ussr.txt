@@ -1,5 +1,5 @@
 [Name]
-Геологические - Геологическая карта СССР
+Геологические - Геология 200k
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Other_Ru_Geology_Ussr/{x}/{y}/{z}
