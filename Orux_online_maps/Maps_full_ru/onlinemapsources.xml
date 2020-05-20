@@ -3842,6 +3842,21 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2080012">
+<name>⏹️ 📖 = Тайловая сетка Серая (эллипсоид) (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID_ELLIPSOID/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2081001">
 <name>⏹️ 📖 = 🇷🇺 - RosReestr.ru - Кадастровые границы (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
