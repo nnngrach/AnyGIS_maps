@@ -1,0 +1,30 @@
+﻿
+[PARAMS]
+GUID={043E009B-03D7-4A54-9CCB-455BD8D14886}
+
+ParentSubMenu_ru=Справочные
+ParentSubMenu_uk=Інформаційний
+ParentSubMenu=Info
+
+name_ru=Yandex Погода - Осадки через 1 час
+name_uk=Yandex Погода - Осадки через 1 час
+name=Yandex Pogoda - Precipitation after 1 hour
+
+NameInCache=Yandex_pogoda_rain_next_60m_WGS84_proxy
+asLayer=1
+EPSG=3395
+
+DefURLBase=https://anygis.ru/api/v1/Yandex_pogoda_rain_next_60m_WGS84_proxy/{x}/{y}/{z}
+
+RequestHead=Referer:https://yandex.ru/pogoda/moscow/maps/nowcast?via=mmapwb&le_Lightning=1&ll=37.693915_55.675690&z=8\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+CacheType=9
+UseMemCache=1
+MemCacheCapacity=100
+MemCacheTTL=60000
+MemCacheClearStrategy=1
+RestartDownloadOnMemCacheTTL=1
+License= © Yandex

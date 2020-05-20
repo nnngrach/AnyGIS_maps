@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Info</name>
+<description></description>
+
+    <source id="2080013" layer="true">
+        <name>⏹️ 📖 = Yandex Pogoda - Precipitation after 0.5 hours</name>
+        <copyright>Yandex</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>0D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://yandex.ru/pogoda/moscow/maps/nowcast?via=mmapwb&le_Lightning=1&ll=37.693915_55.675690&z=8]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Yandex_pogoda_rain_next_30m_WGS84_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

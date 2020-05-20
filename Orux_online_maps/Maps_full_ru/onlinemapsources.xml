@@ -3827,6 +3827,51 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2080013">
+<name>⏹️ 📖 = Yandex Погода - Осадки через 0.5 часа (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_next_30m_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080014">
+<name>⏹️ 📖 = Yandex Погода - Осадки через 1 час (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_next_60m_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080015">
+<name>⏹️ 📖 = Yandex Погода - Осадки через 2 часа (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_next_120m_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2080002">
 <name>⏹️ 📖 = Тайловая сетка Серая (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>

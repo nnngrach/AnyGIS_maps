@@ -1,0 +1,17 @@
+[Name]
+Overlay - Info - Yandex Pogoda - Precipitation after 0.5 hours
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Yandex_pogoda_rain_next_30m_WGS84_proxy/{x}/{y}/{z}
+
+[Min Zoom level]
+3
+
+[Max Zoom level]
+19
+
+[HTTP Referer]
+https://yandex.ru/pogoda/moscow/maps/nowcast?via=mmapwb&le_Lightning=1&ll=37.693915_55.675690&z=8
+
+[Proection description]
+Ellipsoid
