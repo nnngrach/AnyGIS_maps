@@ -3887,21 +3887,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2080011">
-<name>⏹️ 📖 = Yandex Pogoda - Precipitation (OVERLAYINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>19</maxzoom>
-<minzoom>3</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>0</cacheable>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2080013">
 <name>⏹️ 📖 = Yandex Pogoda - Precipitation after 0.5 hours (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_next_30m_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
@@ -3935,6 +3920,21 @@
 <onlinemapsource uid="2080015">
 <name>⏹️ 📖 = Yandex Pogoda - Precipitation after 2 hours (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_next_120m_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>19</maxzoom>
+<minzoom>3</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>0</cacheable>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080011">
+<name>⏹️ 📖 = Yandex Pogoda - Precipitation now (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>19</maxzoom>
 <minzoom>3</minzoom>

@@ -1,5 +1,5 @@
 [Name]
-Overlay - Info - Yandex Pogoda - Precipitation
+Overlay - Info - Yandex Pogoda - Precipitation now
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/Yandex_pogoda_rain_WGS84_proxy/{x}/{y}/{z}

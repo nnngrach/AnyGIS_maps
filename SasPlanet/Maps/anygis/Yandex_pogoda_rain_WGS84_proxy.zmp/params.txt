@@ -8,7 +8,7 @@ ParentSubMenu=Info
 
 name_ru=Yandex Погода - Осадки сейчас
 name_uk=Yandex Погода - Осадки сейчас
-name=Yandex Pogoda - Precipitation
+name=Yandex Pogoda - Precipitation now
 
 NameInCache=Yandex_pogoda_rain_WGS84_proxy
 asLayer=1

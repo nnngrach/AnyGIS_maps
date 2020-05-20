@@ -2818,7 +2818,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_precepit.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_000_Now_precepit.xml]]>
 </dest>
 </download>
 
@@ -2827,7 +2827,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_30_precepit.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_030_precepit.xml]]>
 </dest>
 </download>
 
@@ -2836,7 +2836,7 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_60_precepit.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_060_precepit.xml]]>
 </dest>
 </download>
 

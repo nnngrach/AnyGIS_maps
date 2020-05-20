@@ -7,10 +7,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Yandex_Pogoda_60_precepit.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Info=Yandex_Pogoda_060_precepit.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_60_precepit.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_060_precepit.xml]]>
 </dest>
 </download>
 
