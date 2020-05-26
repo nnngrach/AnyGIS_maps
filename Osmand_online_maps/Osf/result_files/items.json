@@ -4778,7 +4778,7 @@
                     },
                     "image": ["https://anygis.ru/api/v1/previewRowOfTiles/Local_River_Volga"]
                   },
-                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DWater%3DRu%3DVolga_Kama.sqlitedb",
+                  "downloadurl": "https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DWater%3DRu%3DVolga-Kama.sqlitedb",
                   "firstsubname" : {
                       "" : "Russia",
                       "ru" : "Россия"
