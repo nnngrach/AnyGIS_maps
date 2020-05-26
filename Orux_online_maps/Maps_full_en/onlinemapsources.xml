@@ -3490,6 +3490,22 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2021100">
+<name>⏹️ 🏷 = 🇺🇦 - Kremen.org.ua (OVERLAYLABELS)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Local_KremenOrgUa/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>7</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2081001">
 <name>⏹️ 📖 = 🇷🇺 - RosReest.ru - Cadaster (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>

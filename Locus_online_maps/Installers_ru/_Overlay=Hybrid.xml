@@ -97,6 +97,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Local_KremenOrgUa.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Local_KremenOrgUa.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Hybrid=Eu=Eniro.xml]]>
 </source>
 <dest>

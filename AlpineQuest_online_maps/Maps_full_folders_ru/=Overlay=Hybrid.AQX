@@ -143,6 +143,29 @@
     </source>
 
 
+    <source id="2021100">
+        <name>⏹️ 🏷 = 🇺🇦 - Kremen.org.ua</name>
+        <copyright>Kremen.org.ua</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>38.06,55.7,5</preview-location>
+        
+
+        <level>
+            <zoom-values>7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[referer;https://kremen.org.ua/site/map;host;wms.kremen.org.ua:6473]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Local_KremenOrgUa/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="2022201">
         <name>⏹️ 🏷 = 🇸🇪 - Eniro - Гибрид</name>
         <copyright>Eniro</copyright>
