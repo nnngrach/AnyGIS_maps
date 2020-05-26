@@ -578,22 +578,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="2030003">
-<name>⏹️ 🚗 = Google - Пробки (OVERLAYROAD)</name>
-<url><![CDATA[http://mt{$s}.google.com/vt?hl=ru&lyrs=m@159000000,traffic|seconds_into_week:-1&style=15&x={$x}&y={$y}&z={$z}&scale=1]]></url>
-<servers>0,1,2,3</servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>0</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="2030005">
 <name>⏹️ 🚗 = Here - Пробки (OVERLAYROAD)</name>
 <url><![CDATA[http://tiles.traffic.cit.api.here.com/traffic/6.0/tiles/{$z}/{$x}/{$y}/256/png8?app_id=xWVIueSv6JL0aJ5xqTxb&app_code=djPZyynKsbTjIUDOBcHZ2g]]></url>

@@ -1,16 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-
-
 <customMapSource>
-<name>🏔️ = 🇰🇬 - Tien Shan and Dzungaria (g-utka.ru)</name>
-<layers>
-
-<layer>
+    <name>🏔️ = 🇰🇬 - Tien Shan and Dzungaria (g-utka.ru)</name>
     <minZoom>2</minZoom>
     <maxZoom>15</maxZoom>
     <url>https://nakartetiles.s3.eu-central-1.amazonaws.com/{$z}/{$x}/{$y}.png</url>
-</layer>
-
-</layers>
 </customMapSource>

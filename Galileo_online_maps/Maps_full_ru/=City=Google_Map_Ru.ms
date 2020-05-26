@@ -1,17 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-
-
 <customMapSource>
-<name>🏠 = Google</name>
-<layers>
-
-<layer>
+    <name>🏠 = Google</name>
     <minZoom>0</minZoom>
     <maxZoom>20</maxZoom>
     <url>http://mt{$serverpart}.google.com/vt/lyrs=m&amp;hl=ru&amp;x={$x}&amp;y={$y}&amp;z={$z}&amp;scale=1</url>
     <serverParts>0 1 2 3</serverParts>
-</layer>
-
-</layers>
 </customMapSource>

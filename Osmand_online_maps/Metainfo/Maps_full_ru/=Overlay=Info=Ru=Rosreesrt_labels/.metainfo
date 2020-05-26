@@ -7,7 +7,7 @@ https://anygis.ru/api/v1/Rosreestr_labels/{1}/{2}/{0}
 [max_zoom]
 20
 [ellipsoid]
-true
+false
 [inverted_y]
 false
 [tile_size]

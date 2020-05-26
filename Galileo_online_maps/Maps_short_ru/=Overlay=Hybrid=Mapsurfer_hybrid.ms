@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<customMapSource overlay="true">
+    <name>⏹️ 🏷 = OSM Mapsurfer - Гибрид</name>
+    <minZoom>0</minZoom>
+    <maxZoom>13</maxZoom>
+    <url>https://maps.heigit.org/openmapsurfer/tiles/hybrid/webmercator/{$z}/{$x}/{$y}.png</url>
+</customMapSource>
