@@ -4,6 +4,5 @@
     <name>⏹️ 📖 = Grid 1km (zoom 14-16)</name>
     <minZoom>14</minZoom>
     <maxZoom>16</maxZoom>
-    <url>http://{$serverpart}.tile.stamen.com/utm/{$z}/{$x}/{$y}.png</url>
-    <serverParts>a b c</serverParts>
+    <url>https://anygis.ru/api/v1/GRID_1km_Stamein/{$x}/{$y}/{$z}</url>
 </customMapSource>

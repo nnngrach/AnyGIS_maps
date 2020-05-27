@@ -12,8 +12,8 @@
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>99999</cacheTimeout>
-<url><![CDATA[http://{s}.tile.stamen.com/utm/{z}/{x}/{y}.png]]></url>
-<serverPart>a;b;c</serverPart>
+<url><![CDATA[https://anygis.ru/api/v1/GRID_1km_Stamein/{x}/{y}/{z}]]></url>
+<serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>22</zoomMin>    <!-- 14 -->
 <zoomMax>24</zoomMax>   <!-- 16 -->

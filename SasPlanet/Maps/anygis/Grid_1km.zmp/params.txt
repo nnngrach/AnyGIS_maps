@@ -6,17 +6,16 @@ ParentSubMenu_ru=Справочные
 ParentSubMenu_uk=Інформаційний
 ParentSubMenu=Info
 
-name_ru=Сетка километровая (zoom 14-16)
-name_uk=Сетка километровая (zoom 14-16)
-name=Grid 1km (zoom 14-16)
+name_ru=Сетка километровая (z15-z17)
+name_uk=Сетка километровая (z15-z17)
+name=Grid 1km (z15-17)
 
 NameInCache=Grid_1km
 asLayer=1
 EPSG=3785
 
-DefURLBase=http://{s}.tile.stamen.com/utm/{z}/{x}/{y}.png
+DefURLBase=https://anygis.ru/api/v1/GRID_1km_Stamein/{x}/{y}/{z}
 
-ServerNames=a,b,c
 RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
 
 Ext=.png
