@@ -4050,6 +4050,54 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2080016">
+<name>⏹️ 📖 = Grid 1km (zoom 14-16) (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/GRID_1km_Stamein/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>14</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080002">
+<name>⏹️ 📖 = Grid TMS Tiles - Gray (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2080012">
+<name>⏹️ 📖 = Grid TMS Tiles- Gray (ellipsoid) (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID_ELLIPSOID/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>22</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORELIPSOIDAL</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2080010">
 <name>⏹️ 📖 = OpenWeatherMap - Clouds (OVERLAYINFO)</name>
 <url><![CDATA[http://{$s}.maps.owm.io:8099/58cfbaee73e9ac0001bbf915/{$z}/{$x}/{$y}?hash=08fc4c0a99d6ebbf97a91c9fbdc242c1]]></url>
@@ -4091,38 +4139,6 @@
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>0</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2080002">
-<name>⏹️ 📖 = TMS Tile Grid - Gray (OVERLAYINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2080012">
-<name>⏹️ 📖 = TMS Tile Grid - Gray (ellipsoid) (OVERLAYINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/TILE_GRID_ELLIPSOID/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>22</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORELIPSOIDAL</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
 <httpparam name="User-Agent">{om}</httpparam>
 <xop></xop>
 <yop></yop>

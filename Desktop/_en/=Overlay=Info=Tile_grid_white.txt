@@ -1,5 +1,5 @@
 [Name]
-Overlay - Info - TMS Tile Grid - White
+Overlay - Info - Grid TMS Tiles - White
 
 [URL via AnyGIS proxy]
 https://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}

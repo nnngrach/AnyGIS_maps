@@ -8,7 +8,7 @@
 
 <provider id="2080002" type="0" visible="true" background="-1">
 <name>Слои - Справочные</name>
-<mode>⏹️ 📖 = Тайловая сетка Серая</mode>
+<mode>⏹️ 📖 = Сетка тайловая Серая</mode>
 <countries>World</countries>
 <usage>overlay</usage>
 <cacheTimeout>99999</cacheTimeout>

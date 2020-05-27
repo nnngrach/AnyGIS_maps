@@ -216,8 +216,54 @@
     </source>
 
 
+    <source id="2080016">
+        <name>⏹️ 📖 = Сетка километровая (zoom 14-16)</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,14</preview-location>
+        
+
+        <level>
+            <zoom-values>14,15,16</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/GRID_1km_Stamein/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080003">
+        <name>⏹️ 📖 = Сетка тайловая  Черная</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_BLACK/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
     <source id="2080001">
-        <name>⏹️ 📖 = Тайловая сетка Белая</name>
+        <name>⏹️ 📖 = Сетка тайловая Белая</name>
         <copyright>AnyGIS</copyright>
         <data-source></data-source>
         <region>WRLD</region>
@@ -234,6 +280,54 @@
             <servers>
                 
                 <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_WHITE/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080002">
+        <name>⏹️ 📖 = Сетка тайловая Серая</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="2080012">
+        <name>⏹️ 📖 = Сетка тайловая Серая (эллипсоид)</name>
+        <copyright>AnyGIS</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>OTHE</type>
+
+        <preview-location>37.7,56.1,10</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22</zoom-values>
+            
+            <projection-name>mercator</projection-name>
+            <projection-geoid>wgs 84</projection-geoid>
+            <update-delay>4166D</update-delay>
+
+            <servers>
+                
+                <server><![CDATA[http://anygis.ru/api/v1/TILE_GRID_ELLIPSOID/{x}/{y}/{z}]]></server>
             </servers>
         </level>
     </source>

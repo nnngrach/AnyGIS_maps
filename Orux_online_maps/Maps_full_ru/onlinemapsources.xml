@@ -4146,8 +4146,24 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2080016">
+<name>⏹️ 📖 = Сетка километровая (zoom 14-16) (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/GRID_1km_Stamein/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>16</maxzoom>
+<minzoom>14</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2080002">
-<name>⏹️ 📖 = Тайловая сетка Серая (OVERLAYINFO)</name>
+<name>⏹️ 📖 = Сетка тайловая Серая (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>
@@ -4163,7 +4179,7 @@
 </onlinemapsource>
 
 <onlinemapsource uid="2080012">
-<name>⏹️ 📖 = Тайловая сетка Серая (эллипсоид) (OVERLAYINFO)</name>
+<name>⏹️ 📖 = Сетка тайловая Серая (эллипсоид) (OVERLAYINFO)</name>
 <url><![CDATA[https://anygis.ru/api/v1/TILE_GRID_ELLIPSOID/{$x}/{$y}/{$z}]]></url>
 <servers></servers>
 <maxzoom>22</maxzoom>

@@ -16,28 +16,10 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=OpenWeatherMap_Clouds.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Tile_grid_1km.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Clouds.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=RainWiewer_Precipit.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=RainWiewer_Precipit.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_1km.xml]]>
 </dest>
 </download>
 
@@ -61,6 +43,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Tile_grid_white.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_white.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Tile_grid_ellips_gray.xml]]>
 </source>
 <dest>
@@ -70,10 +61,28 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Tile_grid_white.xml]]>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=OpenWeatherMap_Clouds.xml]]>
 </source>
 <dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Tile_grid_white.xml]]>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Clouds.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=OpenWeatherMap_Precipit.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=RainWiewer_Precipit.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=RainWiewer_Precipit.xml]]>
 </dest>
 </download>
 
