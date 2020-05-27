@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Спутниковые - Специальные</name>
+<description></description>
+
+    <source id="1019012">
+        <name>🛰 =🔧- Sentinel - Индекс влажности (Moisture)</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Moisture_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

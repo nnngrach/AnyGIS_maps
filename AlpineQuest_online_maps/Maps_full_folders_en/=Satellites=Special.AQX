@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Satellites - Special</name>
+<description></description>
+
+    <source id="1019072">
+        <name>🛰 =🔧- Sentinel</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://s2maps.eu/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019015">
+        <name>🛰 =🔧- Sentinel Agriculture</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Agriculture_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019014">
+        <name>🛰 =🔧- Sentinel Bathimetric</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Bathimetric_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019013">
+        <name>🛰 =🔧- Sentinel Geology</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Geology_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019012">
+        <name>🛰 =🔧- Sentinel Moisture index</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Moisture_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019017">
+        <name>🛰 =🔧- Sentinel NDVI</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_NDVI_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019011">
+        <name>🛰 =🔧- Sentinel SWIR</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_SWIR_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+    <source id="1019016">
+        <name>🛰 =🔧- Sentinel Urban</name>
+        <copyright>Sentinel</copyright>
+        <data-source></data-source>
+        <region>WRLD</region>
+        <type>SATE</type>
+
+        <preview-location>37.7,56.1,13</preview-location>
+        
+
+        <level>
+            <zoom-values>0,1,2,3,4,5,6,7,8,9,10,11,12,13,14</zoom-values>
+            
+            <update-delay>90D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://apps.sentinel-hub.com/]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Sentinel_Urban_proxy/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>
