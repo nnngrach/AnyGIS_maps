@@ -7,7 +7,7 @@
         {
            "name":"SAT -  Bing Birds Eye",
            "nameRu":"SAT -  Bing Birds Eye",
-           "filename":"SAT -  Bing Birds Eye.sqlitedb.sqlitedb",
+           "filename":"SAT -  Bing Birds Eye.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -26,7 +26,7 @@
         {
            "name":"SAT -  ESRI",
            "nameRu":"SAT -  ESRI",
-           "filename":"SAT -  ESRI.sqlitedb.sqlitedb",
+           "filename":"SAT -  ESRI.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -45,7 +45,7 @@
         {
            "name":"SAT -  ESRI Clarity",
            "nameRu":"SAT -  ESRI Clarity",
-           "filename":"SAT -  ESRI Clarity.sqlitedb.sqlitedb",
+           "filename":"SAT -  ESRI Clarity.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -64,7 +64,7 @@
         {
            "name":"SAT -  Google",
            "nameRu":"SAT -  Google",
-           "filename":"SAT -  Google.sqlitedb.sqlitedb",
+           "filename":"SAT -  Google.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -83,7 +83,7 @@
         {
            "name":"SAT -  Google HD",
            "nameRu":"SAT -  Google HD",
-           "filename":"SAT -  Google HD.sqlitedb.sqlitedb",
+           "filename":"SAT -  Google HD.sqlitedb",
            "type":"sqlite",
            "date":"24.04.2020",
            "timestamp":1587756417,
@@ -102,7 +102,7 @@
         {
            "name":"SAT -  Google Hybrid HD",
            "nameRu":"SAT -  Google Гибрид EN HD",
-           "filename":"SAT -  Google Hybrid HD.sqlitedb.sqlitedb",
+           "filename":"SAT -  Google Hybrid HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -121,7 +121,7 @@
         {
            "name":"SAT -  Google Hybrid RU HD",
            "nameRu":"SAT -  Google Гибрид HD",
-           "filename":"SAT -  Google Hybrid RU HD.sqlitedb.sqlitedb",
+           "filename":"SAT -  Google Hybrid RU HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -140,7 +140,7 @@
         {
            "name":"SAT -  Here",
            "nameRu":"SAT -  Here EN",
-           "filename":"SAT -  Here.sqlitedb.sqlitedb",
+           "filename":"SAT -  Here.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -159,7 +159,7 @@
         {
            "name":"SAT -  Here HD",
            "nameRu":"SAT -  Here EN HD",
-           "filename":"SAT -  Here HD.sqlitedb.sqlitedb",
+           "filename":"SAT -  Here HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -178,7 +178,7 @@
         {
            "name":"SAT -  Here RU",
            "nameRu":"SAT -  Here",
-           "filename":"SAT -  Here RU.sqlitedb.sqlitedb",
+           "filename":"SAT -  Here RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -197,7 +197,7 @@
         {
            "name":"SAT -  Here RU HD",
            "nameRu":"SAT -  Here HD",
-           "filename":"SAT -  Here RU HD.sqlitedb.sqlitedb",
+           "filename":"SAT -  Here RU HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -216,7 +216,7 @@
         {
            "name":"SAT -  Mapbox",
            "nameRu":"SAT -  Mapbox",
-           "filename":"SAT -  Mapbox.sqlitedb.sqlitedb",
+           "filename":"SAT -  Mapbox.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -235,7 +235,7 @@
         {
            "name":"SAT -  Maxar Premium",
            "nameRu":"SAT -  Maxar Premium",
-           "filename":"SAT -  Maxar Premium.sqlitedb.sqlitedb",
+           "filename":"SAT -  Maxar Premium.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -254,7 +254,7 @@
         {
            "name":"SAT -  Maxar Standard",
            "nameRu":"SAT -  Maxar Standard",
-           "filename":"SAT -  Maxar Standard.sqlitedb.sqlitedb",
+           "filename":"SAT -  Maxar Standard.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -273,7 +273,7 @@
         {
            "name":"SAT -  Sentinel True Color ",
            "nameRu":"SAT -  Sentinel - Натуральные цвета",
-           "filename":"SAT -  Sentinel True Color .sqlitedb.sqlitedb",
+           "filename":"SAT -  Sentinel True Color .sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -292,7 +292,7 @@
         {
            "name":"SAT - EURASIA - Kosmosnimki.ru",
            "nameRu":"SAT - EURASIA - Космоснимки.ру",
-           "filename":"SAT - EURASIA - Kosmosnimki.ru.sqlitedb.sqlitedb",
+           "filename":"SAT - EURASIA - Kosmosnimki.ru.sqlitedb",
            "type":"sqlite",
            "date":"08.04.2020",
            "timestamp":1586299030,
@@ -311,7 +311,7 @@
         {
            "name":"SAT - EURASIA - Yandex",
            "nameRu":"SAT - EURASIA - Яндекс",
-           "filename":"SAT - EURASIA - Yandex.sqlitedb.sqlitedb",
+           "filename":"SAT - EURASIA - Yandex.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -330,7 +330,7 @@
         {
            "name":"SAT - EURASIA - Yandex (proxy)",
            "nameRu":"SAT - EURASIA - Яндекс (proxy)",
-           "filename":"SAT - EURASIA - Yandex (proxy).sqlitedb.sqlitedb",
+           "filename":"SAT - EURASIA - Yandex (proxy).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -349,7 +349,7 @@
         {
            "name":"SAT - KAZ - Atyrau 2019",
            "nameRu":"SAT - KAZ - Атырау 2019",
-           "filename":"SAT - KAZ - Atyrau 2019.sqlitedb.sqlitedb",
+           "filename":"SAT - KAZ - Atyrau 2019.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -368,7 +368,7 @@
         {
            "name":"SAT - UKR - Gov.ua - Orthophoto",
            "nameRu":"SAT - UKR - Gov.ua - ортофото",
-           "filename":"SAT - UKR - Gov.ua - Orthophoto.sqlitedb.sqlitedb",
+           "filename":"SAT - UKR - Gov.ua - Orthophoto.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -387,7 +387,7 @@
         {
            "name":"SAT - EUROPE - Eniro",
            "nameRu":"SAT - EUROPE - Eniro",
-           "filename":"SAT - EUROPE - Eniro.sqlitedb.sqlitedb",
+           "filename":"SAT - EUROPE - Eniro.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -406,7 +406,7 @@
         {
            "name":"SAT - SWE - Hitta",
            "nameRu":"SAT - SWE - Hitta",
-           "filename":"SAT - SWE - Hitta.sqlitedb.sqlitedb",
+           "filename":"SAT - SWE - Hitta.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -425,7 +425,7 @@
         {
            "name":"SAT - NOR - Topografisk Norgeskart",
            "nameRu":"SAT - NOR - Topografisk Norgeskart",
-           "filename":"SAT - NOR - Topografisk Norgeskart.sqlitedb.sqlitedb",
+           "filename":"SAT - NOR - Topografisk Norgeskart.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -444,7 +444,7 @@
         {
            "name":"SAT - NOR - Topografisk Norgeskart Hybrid",
            "nameRu":"SAT - NOR - Topografisk Norgeskart - Гибрид",
-           "filename":"SAT - NOR - Topografisk Norgeskart Hybrid.sqlitedb.sqlitedb",
+           "filename":"SAT - NOR - Topografisk Norgeskart Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -463,7 +463,7 @@
         {
            "name":"SAT - CHE - SwissTopo",
            "nameRu":"SAT - CHE - SwissTopo",
-           "filename":"SAT - CHE - SwissTopo.sqlitedb.sqlitedb",
+           "filename":"SAT - CHE - SwissTopo.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -482,7 +482,7 @@
         {
            "name":"SAT - USA - USGS National Map - Satellite",
            "nameRu":"SAT - USA - USGS National Map",
-           "filename":"SAT - USA - USGS National Map - Satellite.sqlitedb.sqlitedb",
+           "filename":"SAT - USA - USGS National Map - Satellite.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -501,7 +501,7 @@
         {
            "name":"SAT - USA - USGS National Map - Satellite Plus",
            "nameRu":"SAT - USA - USGS National Map - Plus",
-           "filename":"SAT - USA - USGS National Map - Satellite Plus.sqlitedb.sqlitedb",
+           "filename":"SAT - USA - USGS National Map - Satellite Plus.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -520,7 +520,7 @@
         {
            "name":"SAT_TOOL -  Sentinel Agriculture",
            "nameRu":"SAT_TOOL -  Sentinel - Сельское хозяйство (Agriculture)",
-           "filename":"SAT_TOOL -  Sentinel Agriculture.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel Agriculture.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -539,7 +539,7 @@
         {
            "name":"SAT_TOOL -  Sentinel Bathimetric",
            "nameRu":"SAT_TOOL -  Sentinel - Подводный (Bathimetric)",
-           "filename":"SAT_TOOL -  Sentinel Bathimetric.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel Bathimetric.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -558,7 +558,7 @@
         {
            "name":"SAT_TOOL -  Sentinel Geology",
            "nameRu":"SAT_TOOL -  Sentinel - Геологический (Geology)",
-           "filename":"SAT_TOOL -  Sentinel Geology.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel Geology.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -577,7 +577,7 @@
         {
            "name":"SAT_TOOL -  Sentinel Moisture index",
            "nameRu":"SAT_TOOL -  Sentinel - Индекс влажности (Moisture)",
-           "filename":"SAT_TOOL -  Sentinel Moisture index.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel Moisture index.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -596,7 +596,7 @@
         {
            "name":"SAT_TOOL -  Sentinel NDVI",
            "nameRu":"SAT_TOOL -  Sentinel - Плотность растений (NDVI)",
-           "filename":"SAT_TOOL -  Sentinel NDVI.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel NDVI.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -615,7 +615,7 @@
         {
            "name":"SAT_TOOL -  Sentinel SWIR",
            "nameRu":"SAT_TOOL -  Sentinel - ИК индекс (SWIR)",
-           "filename":"SAT_TOOL -  Sentinel SWIR.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel SWIR.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -634,7 +634,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 01 January",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 01 Январь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 01 January.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 01 January.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -653,7 +653,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 02 February",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 02 Февраль",
-           "filename":"SAT_TOOL -  Sentinel True Color - 02 February.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 02 February.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -672,7 +672,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 03 March",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 03 Март",
-           "filename":"SAT_TOOL -  Sentinel True Color - 03 March.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 03 March.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -691,7 +691,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 04 April",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 04 Апрель",
-           "filename":"SAT_TOOL -  Sentinel True Color - 04 April.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 04 April.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -710,7 +710,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 05 May",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 05 Май",
-           "filename":"SAT_TOOL -  Sentinel True Color - 05 May.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 05 May.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -729,7 +729,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 06 June",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 06 Июнь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 06 June.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 06 June.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -748,7 +748,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 07 July",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 07 Июль",
-           "filename":"SAT_TOOL -  Sentinel True Color - 07 July.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 07 July.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -767,7 +767,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 08 August",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 08 Август",
-           "filename":"SAT_TOOL -  Sentinel True Color - 08 August.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 08 August.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -786,7 +786,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 09 September",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 09 Сентябрь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 09 September.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 09 September.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -805,7 +805,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 10 October",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 10 Октябрь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 10 October.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 10 October.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -824,7 +824,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 11 November",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 11 Ноябрь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 11 November.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 11 November.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -843,7 +843,7 @@
         {
            "name":"SAT_TOOL -  Sentinel True Color - 12 December",
            "nameRu":"SAT_TOOL -  Sentinel - Чистый - 12 Декабрь",
-           "filename":"SAT_TOOL -  Sentinel True Color - 12 December.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel True Color - 12 December.sqlitedb",
            "type":"sqlite",
            "date":"04.04.2020",
            "timestamp":1586028006,
@@ -862,7 +862,7 @@
         {
            "name":"SAT_TOOL -  Sentinel Urban",
            "nameRu":"SAT_TOOL -  Sentinel - Городской (False color - Urban)",
-           "filename":"SAT_TOOL -  Sentinel Urban.sqlitedb.sqlitedb",
+           "filename":"SAT_TOOL -  Sentinel Urban.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -885,7 +885,7 @@
         {
            "name":"CITY -  Google",
            "nameRu":"CITY -  Google EN",
-           "filename":"CITY -  Google.sqlitedb.sqlitedb",
+           "filename":"CITY -  Google.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -904,7 +904,7 @@
         {
            "name":"CITY -  Google - Terrain",
            "nameRu":"CITY -  Google Ландшафт EN",
-           "filename":"CITY -  Google - Terrain.sqlitedb.sqlitedb",
+           "filename":"CITY -  Google - Terrain.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -923,7 +923,7 @@
         {
            "name":"CITY -  Google - Terrain RU",
            "nameRu":"CITY -  Google Ландшафт",
-           "filename":"CITY -  Google - Terrain RU.sqlitedb.sqlitedb",
+           "filename":"CITY -  Google - Terrain RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -942,7 +942,7 @@
         {
            "name":"CITY -  Google RU",
            "nameRu":"CITY -  Google",
-           "filename":"CITY -  Google RU.sqlitedb.sqlitedb",
+           "filename":"CITY -  Google RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -961,7 +961,7 @@
         {
            "name":"CITY -  Here",
            "nameRu":"CITY -  Here EN",
-           "filename":"CITY -  Here.sqlitedb.sqlitedb",
+           "filename":"CITY -  Here.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -980,7 +980,7 @@
         {
            "name":"CITY -  Here - Terrain",
            "nameRu":"CITY -  Here Ландшафт EN",
-           "filename":"CITY -  Here - Terrain.sqlitedb.sqlitedb",
+           "filename":"CITY -  Here - Terrain.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -999,7 +999,7 @@
         {
            "name":"CITY -  Here - Terrain RU",
            "nameRu":"CITY -  Here Ландшафт",
-           "filename":"CITY -  Here - Terrain RU.sqlitedb.sqlitedb",
+           "filename":"CITY -  Here - Terrain RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1018,7 +1018,7 @@
         {
            "name":"CITY -  Here RU",
            "nameRu":"CITY -  Here",
-           "filename":"CITY -  Here RU.sqlitedb.sqlitedb",
+           "filename":"CITY -  Here RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1037,7 +1037,7 @@
         {
            "name":"CITY -  OSM Humanitarian",
            "nameRu":"CITY -  OSM Humanitarian",
-           "filename":"CITY -  OSM Humanitarian.sqlitedb.sqlitedb",
+           "filename":"CITY -  OSM Humanitarian.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1056,7 +1056,7 @@
         {
            "name":"CITY -  OSM Kosmosnimki (day)",
            "nameRu":"CITY -  OSM Kosmosnimki (день)",
-           "filename":"CITY -  OSM Kosmosnimki (day).sqlitedb.sqlitedb",
+           "filename":"CITY -  OSM Kosmosnimki (day).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1075,7 +1075,7 @@
         {
            "name":"CITY -  OSM Kosmosnimki (night)",
            "nameRu":"CITY -  OSM Kosmosnimki (ночь)",
-           "filename":"CITY -  OSM Kosmosnimki (night).sqlitedb.sqlitedb",
+           "filename":"CITY -  OSM Kosmosnimki (night).sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -1094,7 +1094,7 @@
         {
            "name":"CITY -  OSM Mapnik (OpenStreetMap.org)",
            "nameRu":"CITY -  OSM Mapnik (OpenStreetMap)",
-           "filename":"CITY -  OSM Mapnik (OpenStreetMap.org).sqlitedb.sqlitedb",
+           "filename":"CITY -  OSM Mapnik (OpenStreetMap.org).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1113,7 +1113,7 @@
         {
            "name":"CITY -  OSM Mapy.cz - Base",
            "nameRu":"CITY -  OSM Mapy.cz - Base",
-           "filename":"CITY -  OSM Mapy.cz - Base.sqlitedb.sqlitedb",
+           "filename":"CITY -  OSM Mapy.cz - Base.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1132,7 +1132,7 @@
         {
            "name":"CITY - EURASIA - 2Gis",
            "nameRu":"CITY - EURASIA - 2Gis",
-           "filename":"CITY - EURASIA - 2Gis.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - 2Gis.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1151,7 +1151,7 @@
         {
            "name":"CITY - EURASIA - OSM Sputnik.ru",
            "nameRu":"CITY - EURASIA - OSM Sputnik.ru",
-           "filename":"CITY - EURASIA - OSM Sputnik.ru.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - OSM Sputnik.ru.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1170,7 +1170,7 @@
         {
            "name":"CITY - EURASIA - Visicom",
            "nameRu":"CITY - EURASIA - Visicom",
-           "filename":"CITY - EURASIA - Visicom.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - Visicom.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1189,7 +1189,7 @@
         {
            "name":"CITY - EURASIA - Yandex",
            "nameRu":"CITY - EURASIA - Яндекс EN",
-           "filename":"CITY - EURASIA - Yandex.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - Yandex.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1208,7 +1208,7 @@
         {
            "name":"CITY - EURASIA - Yandex (proxy)",
            "nameRu":"CITY - EURASIA - Яндекс (proxy)",
-           "filename":"CITY - EURASIA - Yandex (proxy).sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - Yandex (proxy).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1227,7 +1227,7 @@
         {
            "name":"CITY - EURASIA - Yandex MapEditor",
            "nameRu":"CITY - EURASIA - Яндекс Народная",
-           "filename":"CITY - EURASIA - Yandex MapEditor.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - Yandex MapEditor.sqlitedb",
            "type":"sqlite",
            "date":"03.05.2020",
            "timestamp":1588457493,
@@ -1246,7 +1246,7 @@
         {
            "name":"CITY - EURASIA - Yandex RU",
            "nameRu":"CITY - EURASIA - Яндекс",
-           "filename":"CITY - EURASIA - Yandex RU.sqlitedb.sqlitedb",
+           "filename":"CITY - EURASIA - Yandex RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1265,7 +1265,7 @@
         {
            "name":"CITY - EUROPE - Fonecta.fi",
            "nameRu":"CITY - EUROPE - Fonecta.fi",
-           "filename":"CITY - EUROPE - Fonecta.fi.sqlitedb.sqlitedb",
+           "filename":"CITY - EUROPE - Fonecta.fi.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1284,7 +1284,7 @@
         {
            "name":"CITY - UKR - Meta.ua",
            "nameRu":"CITY - UKR - Meta.ua",
-           "filename":"CITY - UKR - Meta.ua.sqlitedb.sqlitedb",
+           "filename":"CITY - UKR - Meta.ua.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1303,7 +1303,7 @@
         {
            "name":"CITY - UKR - Navlux",
            "nameRu":"CITY - UKR - Navlux",
-           "filename":"CITY - UKR - Navlux.sqlitedb.sqlitedb",
+           "filename":"CITY - UKR - Navlux.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1322,7 +1322,7 @@
         {
            "name":"CITY - EUROPE - Eniro",
            "nameRu":"CITY - EUROPE - Eniro",
-           "filename":"CITY - EUROPE - Eniro.sqlitedb.sqlitedb",
+           "filename":"CITY - EUROPE - Eniro.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1341,7 +1341,7 @@
         {
            "name":"CITY - SWE - Hitta",
            "nameRu":"CITY - SWE - Hitta",
-           "filename":"CITY - SWE - Hitta.sqlitedb.sqlitedb",
+           "filename":"CITY - SWE - Hitta.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1364,7 +1364,7 @@
         {
            "name":"AUTO -  Garmin.ru (navicom)",
            "nameRu":"AUTO -  Garmin.ru Navicom",
-           "filename":"AUTO -  Garmin.ru (navicom).sqlitedb.sqlitedb",
+           "filename":"AUTO -  Garmin.ru (navicom).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1383,7 +1383,7 @@
         {
            "name":"AUTO -  Navitel.su",
            "nameRu":"AUTO -  Navitel.su",
-           "filename":"AUTO -  Navitel.su.sqlitedb.sqlitedb",
+           "filename":"AUTO -  Navitel.su.sqlitedb",
            "type":"sqlite",
            "date":"03.04.2020",
            "timestamp":1585938651,
@@ -1402,7 +1402,7 @@
         {
            "name":"AUTO -  OSM Michelin transport",
            "nameRu":"AUTO -  OSM Michelin",
-           "filename":"AUTO -  OSM Michelin transport.sqlitedb.sqlitedb",
+           "filename":"AUTO -  OSM Michelin transport.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1421,7 +1421,7 @@
         {
            "name":"AUTO -  OSM Thunderforest Transport (day)",
            "nameRu":"AUTO -  OSM Thunderforest Transport (день)",
-           "filename":"AUTO -  OSM Thunderforest Transport (day).sqlitedb.sqlitedb",
+           "filename":"AUTO -  OSM Thunderforest Transport (day).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1440,7 +1440,7 @@
         {
            "name":"AUTO -  OSM Thunderforest Transport (night)",
            "nameRu":"AUTO -  OSM Thunderforest Transport (ночь)",
-           "filename":"AUTO -  OSM Thunderforest Transport (night).sqlitedb.sqlitedb",
+           "filename":"AUTO -  OSM Thunderforest Transport (night).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1459,7 +1459,7 @@
         {
            "name":"AUTO -  TomTom (day)",
            "nameRu":"AUTO -  TomTom (день)",
-           "filename":"AUTO -  TomTom (day).sqlitedb.sqlitedb",
+           "filename":"AUTO -  TomTom (day).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1478,7 +1478,7 @@
         {
            "name":"AUTO -  TomTom (night)",
            "nameRu":"AUTO -  TomTom (ночь)",
-           "filename":"AUTO -  TomTom (night).sqlitedb.sqlitedb",
+           "filename":"AUTO -  TomTom (night).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1501,7 +1501,7 @@
         {
            "name":"BIKE -  Google Bike",
            "nameRu":"BIKE -  Google Велодорожки EN",
-           "filename":"BIKE -  Google Bike.sqlitedb.sqlitedb",
+           "filename":"BIKE -  Google Bike.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1520,7 +1520,7 @@
         {
            "name":"BIKE -  Google Bike RU",
            "nameRu":"BIKE -  Google Велодорожки",
-           "filename":"BIKE -  Google Bike RU.sqlitedb.sqlitedb",
+           "filename":"BIKE -  Google Bike RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1539,7 +1539,7 @@
         {
            "name":"BIKE -  OSM Cyclosm",
            "nameRu":"BIKE -  OSM Cyclosm",
-           "filename":"BIKE -  OSM Cyclosm.sqlitedb.sqlitedb",
+           "filename":"BIKE -  OSM Cyclosm.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1558,7 +1558,7 @@
         {
            "name":"BIKE -  OSM Hike and bike",
            "nameRu":"BIKE -  OSM Hike and bike",
-           "filename":"BIKE -  OSM Hike and bike.sqlitedb.sqlitedb",
+           "filename":"BIKE -  OSM Hike and bike.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1577,7 +1577,7 @@
         {
            "name":"BIKE -  OSM Thunderforest Cycle",
            "nameRu":"BIKE -  OSM Thunderforest Cycle",
-           "filename":"BIKE -  OSM Thunderforest Cycle.sqlitedb.sqlitedb",
+           "filename":"BIKE -  OSM Thunderforest Cycle.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1596,7 +1596,7 @@
         {
            "name":"BIKE - RUS - OSM Chepetsk",
            "nameRu":"BIKE - RUS - OSM Чепецк.net",
-           "filename":"BIKE - RUS - OSM Chepetsk.sqlitedb.sqlitedb",
+           "filename":"BIKE - RUS - OSM Chepetsk.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1615,7 +1615,7 @@
         {
            "name":"BIKE - EUROPE - OSM MTBmap.cz",
            "nameRu":"BIKE - EUROPE - OSM MTBmap.cz",
-           "filename":"BIKE - EUROPE - OSM MTBmap.cz.sqlitedb.sqlitedb",
+           "filename":"BIKE - EUROPE - OSM MTBmap.cz.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1638,7 +1638,7 @@
         {
            "name":"HIKE -  OSM 4U maps",
            "nameRu":"HIKE -  OSM 4U maps",
-           "filename":"HIKE -  OSM 4U maps.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM 4U maps.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1657,7 +1657,7 @@
         {
            "name":"HIKE -  OSM Komoot",
            "nameRu":"HIKE -  OSM Komoot",
-           "filename":"HIKE -  OSM Komoot.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM Komoot.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1676,7 +1676,7 @@
         {
            "name":"HIKE -  OSM Mapbox Terrain",
            "nameRu":"HIKE -  OSM Mapbox Terrain",
-           "filename":"HIKE -  OSM Mapbox Terrain.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM Mapbox Terrain.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1695,7 +1695,7 @@
         {
            "name":"HIKE -  OSM Mapsurfer",
            "nameRu":"HIKE -  OSM Mapsurfer",
-           "filename":"HIKE -  OSM Mapsurfer.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM Mapsurfer.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1714,7 +1714,7 @@
         {
            "name":"HIKE -  OSM Mapy.cz Outdoor",
            "nameRu":"HIKE -  OSM Mapy.cz - Outdoor",
-           "filename":"HIKE -  OSM Mapy.cz Outdoor.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM Mapy.cz Outdoor.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1733,7 +1733,7 @@
         {
            "name":"HIKE -  OSM OpenTopoMap.ORG",
            "nameRu":"HIKE -  OSM OpenTopoMap.ORG",
-           "filename":"HIKE -  OSM OpenTopoMap.ORG.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM OpenTopoMap.ORG.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1752,7 +1752,7 @@
         {
            "name":"HIKE -  OSM Thunderforest Outdoor",
            "nameRu":"HIKE -  OSM Thunderforest Outdoor",
-           "filename":"HIKE -  OSM Thunderforest Outdoor.sqlitedb.sqlitedb",
+           "filename":"HIKE -  OSM Thunderforest Outdoor.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1771,7 +1771,7 @@
         {
            "name":"HIKE -  Nakarte - Geocashing",
            "nameRu":"HIKE -  Геокэшинг (nakarte)",
-           "filename":"HIKE -  Nakarte - Geocashing.sqlitedb.sqlitedb",
+           "filename":"HIKE -  Nakarte - Geocashing.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1790,7 +1790,7 @@
         {
            "name":"HIKE - RUS - OSM Kosmosnimki.ru - relief",
            "nameRu":"HIKE - RUS - OSM Kosmosnimki.ru - рельеф",
-           "filename":"HIKE - RUS - OSM Kosmosnimki.ru - relief.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS - OSM Kosmosnimki.ru - relief.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -1809,7 +1809,7 @@
         {
            "name":"HIKE - EURASIA - OSM OpenTopoMap.RU",
            "nameRu":"HIKE - EURASIA - OSM OpenTopoMap.RU",
-           "filename":"HIKE - EURASIA - OSM OpenTopoMap.RU.sqlitedb.sqlitedb",
+           "filename":"HIKE - EURASIA - OSM OpenTopoMap.RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1583001055,
@@ -1828,7 +1828,7 @@
         {
            "name":"HIKE - RUS Central - Adraces",
            "nameRu":"HIKE - RUS Central - Adraces Ориентирование",
-           "filename":"HIKE - RUS Central - Adraces.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Central - Adraces.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1847,7 +1847,7 @@
         {
            "name":"HIKE - RUS Central - Arbalet",
            "nameRu":"HIKE - RUS Central - Атлас Арбалет",
-           "filename":"HIKE - RUS Central - Arbalet.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Central - Arbalet.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1866,7 +1866,7 @@
         {
            "name":"HIKE - RUS Central - MoscowMap.ru",
            "nameRu":"HIKE - RUS Central - MoscowMap.ru",
-           "filename":"HIKE - RUS Central - MoscowMap.ru.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Central - MoscowMap.ru.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1885,7 +1885,7 @@
         {
            "name":"HIKE - RUS Central - O-Sport",
            "nameRu":"HIKE - RUS Central - O-Sport Ориентирование",
-           "filename":"HIKE - RUS Central - O-Sport.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Central - O-Sport.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1904,7 +1904,7 @@
         {
            "name":"HIKE - RUS Central - Slazav MMB",
            "nameRu":"HIKE - RUS Central - Завьялов (ММБ)",
-           "filename":"HIKE - RUS Central - Slazav MMB.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Central - Slazav MMB.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1923,7 +1923,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus 1000m",
            "nameRu":"HIKE - RUS Caucasus - Сводная 1000м",
-           "filename":"HIKE - RUS Caucasus - Caucasus 1000m.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus 1000m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1942,7 +1942,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus 500m",
            "nameRu":"HIKE - RUS Caucasus - Сводная 500м",
-           "filename":"HIKE - RUS Caucasus - Caucasus 500m.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus 500m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1961,7 +1961,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus Central Passes 2014",
            "nameRu":"HIKE - RUS Caucasus - Центральные перевалы 2014",
-           "filename":"HIKE - RUS Caucasus - Caucasus Central Passes 2014.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus Central Passes 2014.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1980,7 +1980,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus FGU SK AGP",
            "nameRu":"HIKE - RUS Caucasus - Сводная ФГУ СК АГП",
-           "filename":"HIKE - RUS Caucasus - Caucasus FGU SK AGP.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus FGU SK AGP.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -1999,7 +1999,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus Kazbek",
            "nameRu":"HIKE - RUS Caucasus - Казбек (Geoland)",
-           "filename":"HIKE - RUS Caucasus - Caucasus Kazbek.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus Kazbek.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2018,7 +2018,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus Southern 2014",
            "nameRu":"HIKE - RUS Caucasus - Южные перевалы 2014",
-           "filename":"HIKE - RUS Caucasus - Caucasus Southern 2014.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus Southern 2014.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2037,7 +2037,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus West",
            "nameRu":"HIKE - RUS Caucasus - Запад (КОТ ОРИЕНТ)",
-           "filename":"HIKE - RUS Caucasus - Caucasus West.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus West.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2056,7 +2056,7 @@
         {
            "name":"HIKE - RUS Caucasus - Caucasus West Passes 2014",
            "nameRu":"HIKE - RUS Caucasus - Западные перевалы 2014",
-           "filename":"HIKE - RUS Caucasus - Caucasus West Passes 2014.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Caucasus - Caucasus West Passes 2014.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2075,7 +2075,7 @@
         {
            "name":"HIKE - RUS Northwest - Khibiny Mountains",
            "nameRu":"HIKE - RUS Northwest - Горы Хибинской тундры",
-           "filename":"HIKE - RUS Northwest - Khibiny Mountains.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Northwest - Khibiny Mountains.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2094,7 +2094,7 @@
         {
            "name":"HIKE - RUS Northwest - Khibiny Tundra (2008)",
            "nameRu":"HIKE - RUS Northwest - Хибины (2008)",
-           "filename":"HIKE - RUS Northwest - Khibiny Tundra (2008).sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Northwest - Khibiny Tundra (2008).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2113,7 +2113,7 @@
         {
            "name":"HIKE - RUS Northwest - Khibiny Tundra (Old)",
            "nameRu":"HIKE - RUS Northwest - Хибины (СССР)",
-           "filename":"HIKE - RUS Northwest - Khibiny Tundra (Old).sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Northwest - Khibiny Tundra (Old).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2132,7 +2132,7 @@
         {
            "name":"HIKE - RUS Siberia - Ergaki - Ardan",
            "nameRu":"HIKE - RUS Siberia - Саяны Ергаки-Арадан",
-           "filename":"HIKE - RUS Siberia - Ergaki - Ardan.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Siberia - Ergaki - Ardan.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2151,7 +2151,7 @@
         {
            "name":"HIKE - RUS Ural - Taganay Park",
            "nameRu":"HIKE - RUS Ural - Таганай",
-           "filename":"HIKE - RUS Ural - Taganay Park.sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS Ural - Taganay Park.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2170,7 +2170,7 @@
         {
            "name":"HIKE - RUS South - Crimea (Kartagrafiya 2010)",
            "nameRu":"HIKE - RUS South - Крым (Картография 2010)",
-           "filename":"HIKE - RUS South - Crimea (Kartagrafiya 2010).sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS South - Crimea (Kartagrafiya 2010).sqlitedb",
            "type":"sqlite",
            "date":"05.03.2020",
            "timestamp":1583439749,
@@ -2189,7 +2189,7 @@
         {
            "name":"HIKE - RUS South - Crimea (Souskarta 2011)",
            "nameRu":"HIKE - RUS South - Крым (Союзкарта 2011)",
-           "filename":"HIKE - RUS South - Crimea (Souskarta 2011).sqlitedb.sqlitedb",
+           "filename":"HIKE - RUS South - Crimea (Souskarta 2011).sqlitedb",
            "type":"sqlite",
            "date":"05.03.2020",
            "timestamp":1583439749,
@@ -2208,7 +2208,7 @@
         {
            "name":"HIKE - UKR - Carpathians",
            "nameRu":"HIKE - UKR - Карпаты",
-           "filename":"HIKE - UKR - Carpathians.sqlitedb.sqlitedb",
+           "filename":"HIKE - UKR - Carpathians.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2227,7 +2227,7 @@
         {
            "name":"HIKE - UKR - Crimea (Kartagrafiya 2010)",
            "nameRu":"HIKE - UKR - Крым (Картография 2010)",
-           "filename":"HIKE - UKR - Crimea (Kartagrafiya 2010).sqlitedb.sqlitedb",
+           "filename":"HIKE - UKR - Crimea (Kartagrafiya 2010).sqlitedb",
            "type":"sqlite",
            "date":"05.03.2020",
            "timestamp":1583439749,
@@ -2246,7 +2246,7 @@
         {
            "name":"HIKE - UKR - Crimea (Souskarta 2011)",
            "nameRu":"HIKE - UKR - Крым (Союзкарта 2011)",
-           "filename":"HIKE - UKR - Crimea (Souskarta 2011).sqlitedb.sqlitedb",
+           "filename":"HIKE - UKR - Crimea (Souskarta 2011).sqlitedb",
            "type":"sqlite",
            "date":"05.03.2020",
            "timestamp":1583439749,
@@ -2265,7 +2265,7 @@
         {
            "name":"HIKE - BLR - LatLon.org",
            "nameRu":"HIKE - BLR - LatLon.org",
-           "filename":"HIKE - BLR - LatLon.org.sqlitedb.sqlitedb",
+           "filename":"HIKE - BLR - LatLon.org.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2284,7 +2284,7 @@
         {
            "name":"HIKE - BLR - Vector map",
            "nameRu":"HIKE - BLR - ГШ векторный",
-           "filename":"HIKE - BLR - Vector map.sqlitedb.sqlitedb",
+           "filename":"HIKE - BLR - Vector map.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2303,7 +2303,7 @@
         {
            "name":"HIKE - NOR - Finn Kart Norge",
            "nameRu":"HIKE - NOR - Finn Kart Norge",
-           "filename":"HIKE - NOR - Finn Kart Norge.sqlitedb.sqlitedb",
+           "filename":"HIKE - NOR - Finn Kart Norge.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2322,7 +2322,7 @@
         {
            "name":"HIKE - SWE - Hitta Frilufts",
            "nameRu":"HIKE - SWE - Hitta Frilufts",
-           "filename":"HIKE - SWE - Hitta Frilufts.sqlitedb.sqlitedb",
+           "filename":"HIKE - SWE - Hitta Frilufts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2341,7 +2341,7 @@
         {
            "name":"HIKE - SWE - Lantmäteriets Fjällkarta",
            "nameRu":"HIKE - SWE - Lantmäteriets Fjällkarta",
-           "filename":"HIKE - SWE - Lantmäteriets Fjällkarta.sqlitedb.sqlitedb",
+           "filename":"HIKE - SWE - Lantmäteriets Fjällkarta.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2360,7 +2360,7 @@
         {
            "name":"HIKE - SWE - Lantmäteriets Topografisk",
            "nameRu":"HIKE - SWE - Lantmäteriets Topografisk",
-           "filename":"HIKE - SWE - Lantmäteriets Topografisk.sqlitedb.sqlitedb",
+           "filename":"HIKE - SWE - Lantmäteriets Topografisk.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2379,7 +2379,7 @@
         {
            "name":"HIKE - NOR - Topografisk Norgeskart",
            "nameRu":"HIKE - NOR - Topografisk Norgeskart",
-           "filename":"HIKE - NOR - Topografisk Norgeskart.sqlitedb.sqlitedb",
+           "filename":"HIKE - NOR - Topografisk Norgeskart.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2398,7 +2398,7 @@
         {
            "name":"HIKE - NOR - Ut.no - Papirkart",
            "nameRu":"HIKE - NOR - Ut.no - Papirkart",
-           "filename":"HIKE - NOR - Ut.no - Papirkart.sqlitedb.sqlitedb",
+           "filename":"HIKE - NOR - Ut.no - Papirkart.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2417,7 +2417,7 @@
         {
            "name":"HIKE - NOR - Ut.no - Papirkart",
            "nameRu":"HIKE - NOR - Ut.no - Topolart",
-           "filename":"HIKE - NOR - Ut.no - Papirkart.sqlitedb.sqlitedb",
+           "filename":"HIKE - NOR - Ut.no - Papirkart.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2436,7 +2436,7 @@
         {
            "name":"HIKE - EUROPE - Kompass.de",
            "nameRu":"HIKE - EUROPE - Kompass.de",
-           "filename":"HIKE - EUROPE - Kompass.de.sqlitedb.sqlitedb",
+           "filename":"HIKE - EUROPE - Kompass.de.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2455,7 +2455,7 @@
         {
            "name":"HIKE - CHE - Swiss Topo",
            "nameRu":"HIKE - CHE - Swiss Topo",
-           "filename":"HIKE - CHE - Swiss Topo.sqlitedb.sqlitedb",
+           "filename":"HIKE - CHE - Swiss Topo.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2474,7 +2474,7 @@
         {
            "name":"HIKE - FRA - Ign.fr Topo",
            "nameRu":"HIKE - FRA - Ign.fr Topo",
-           "filename":"HIKE - FRA - Ign.fr Topo.sqlitedb.sqlitedb",
+           "filename":"HIKE - FRA - Ign.fr Topo.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2493,7 +2493,7 @@
         {
            "name":"HIKE - MNE - Montenecro 250m",
            "nameRu":"HIKE - MNE - Черногория 250м 1970",
-           "filename":"HIKE - MNE - Montenecro 250m.sqlitedb.sqlitedb",
+           "filename":"HIKE - MNE - Montenecro 250m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2512,7 +2512,7 @@
         {
            "name":"HIKE - NPL - Nepal  1000m",
            "nameRu":"HIKE - NPL - Непал 1000м",
-           "filename":"HIKE - NPL - Nepal  1000m.sqlitedb.sqlitedb",
+           "filename":"HIKE - NPL - Nepal  1000m.sqlitedb",
            "type":"sqlite",
            "date":"10.05.2020",
            "timestamp":1589062884,
@@ -2531,7 +2531,7 @@
         {
            "name":"HIKE - NPL - Nepal 500m",
            "nameRu":"HIKE - NPL - Непал 500м",
-           "filename":"HIKE - NPL - Nepal 500m.sqlitedb.sqlitedb",
+           "filename":"HIKE - NPL - Nepal 500m.sqlitedb",
            "type":"sqlite",
            "date":"16.04.2020",
            "timestamp":1587036926,
@@ -2550,7 +2550,7 @@
         {
            "name":"HIKE - USA - USGS National Map - Topo",
            "nameRu":"HIKE - USA - USGS National Map топо",
-           "filename":"HIKE - USA - USGS National Map - Topo.sqlitedb.sqlitedb",
+           "filename":"HIKE - USA - USGS National Map - Topo.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2569,7 +2569,7 @@
         {
            "name":"HIKE - NZL - New Zealand Topo",
            "nameRu":"HIKE - NZL - New Zealand Topo",
-           "filename":"HIKE - NZL - New Zealand Topo.sqlitedb.sqlitedb",
+           "filename":"HIKE - NZL - New Zealand Topo.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2592,7 +2592,7 @@
         {
            "name":"TOPO - RUS - GGC 1000m",
            "nameRu":"TOPO - RUS - ГосГисЦентр 1 км",
-           "filename":"TOPO - RUS - GGC 1000m.sqlitedb.sqlitedb",
+           "filename":"TOPO - RUS - GGC 1000m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2611,7 +2611,7 @@
         {
            "name":"TOPO - RUS - GGC 2000m",
            "nameRu":"TOPO - RUS - ГосГисЦентр 2 км",
-           "filename":"TOPO - RUS - GGC 2000m.sqlitedb.sqlitedb",
+           "filename":"TOPO - RUS - GGC 2000m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2630,7 +2630,7 @@
         {
            "name":"TOPO - RUS - GGC 250m",
            "nameRu":"TOPO - RUS - ГосГисЦентр 0.25 км",
-           "filename":"TOPO - RUS - GGC 250m.sqlitedb.sqlitedb",
+           "filename":"TOPO - RUS - GGC 250m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2649,7 +2649,7 @@
         {
            "name":"TOPO - RUS - GGC 500m",
            "nameRu":"TOPO - RUS - ГосГисЦентр 0.5 км",
-           "filename":"TOPO - RUS - GGC 500m.sqlitedb.sqlitedb",
+           "filename":"TOPO - RUS - GGC 500m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2668,7 +2668,7 @@
         {
            "name":"TOPO - RUS - GGC Compilation",
            "nameRu":"TOPO - RUS - ГГЦ (Все масштабы)",
-           "filename":"TOPO - RUS - GGC Compilation.sqlitedb.sqlitedb",
+           "filename":"TOPO - RUS - GGC Compilation.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2691,7 +2691,7 @@
         {
            "name":"SKI -  OSM Czech - Mapy.cz Winter",
            "nameRu":"SKI -  OSM Mapy.cz - Winter",
-           "filename":"SKI -  OSM Czech - Mapy.cz Winter.sqlitedb.sqlitedb",
+           "filename":"SKI -  OSM Czech - Mapy.cz Winter.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2710,7 +2710,7 @@
         {
            "name":"SKI - SWE - Skoterleder",
            "nameRu":"SKI - SWE - Skoterleder",
-           "filename":"SKI - SWE - Skoterleder.sqlitedb.sqlitedb",
+           "filename":"SKI - SWE - Skoterleder.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2733,7 +2733,7 @@
         {
            "name":"MOUNT -  OSM Refuges - Mountain Shelters",
            "nameRu":"MOUNT -  OSM Горные приюты Refuges",
-           "filename":"MOUNT -  OSM Refuges - Mountain Shelters.sqlitedb.sqlitedb",
+           "filename":"MOUNT -  OSM Refuges - Mountain Shelters.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2752,7 +2752,7 @@
         {
            "name":"MOUNT -  Nakarte - Westra mountain passes",
            "nameRu":"MOUNT -  Перевалы Вестра (nakarte)",
-           "filename":"MOUNT -  Nakarte - Westra mountain passes.sqlitedb.sqlitedb",
+           "filename":"MOUNT -  Nakarte - Westra mountain passes.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2771,7 +2771,7 @@
         {
            "name":"MOUNT -  Slazav Mountains",
            "nameRu":"MOUNT -  Завьялов (Хребтовки) ",
-           "filename":"MOUNT -  Slazav Mountains.sqlitedb.sqlitedb",
+           "filename":"MOUNT -  Slazav Mountains.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2790,7 +2790,7 @@
         {
            "name":"MOUNT - RUS Caucasus - Abishira Akhuba",
            "nameRu":"MOUNT - RUS Caucasus - Абишира-Ахуба (Ляпин В.Г.)",
-           "filename":"MOUNT - RUS Caucasus - Abishira Akhuba.sqlitedb.sqlitedb",
+           "filename":"MOUNT - RUS Caucasus - Abishira Akhuba.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2809,7 +2809,7 @@
         {
            "name":"MOUNT - RUS Caucasus - Elbrus Region",
            "nameRu":"MOUNT - RUS Caucasus - Приэльбрусье (Ляпин)",
-           "filename":"MOUNT - RUS Caucasus - Elbrus Region.sqlitedb.sqlitedb",
+           "filename":"MOUNT - RUS Caucasus - Elbrus Region.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2828,7 +2828,7 @@
         {
            "name":"MOUNT - RUS Caucasus - GosGeodesya 1991",
            "nameRu":"MOUNT - RUS Caucasus - Госгеодезия 1991г",
-           "filename":"MOUNT - RUS Caucasus - GosGeodesya 1991.sqlitedb.sqlitedb",
+           "filename":"MOUNT - RUS Caucasus - GosGeodesya 1991.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2847,7 +2847,7 @@
         {
            "name":"MOUNT - RUS Siberia - Altai Katun Ridge",
            "nameRu":"MOUNT - RUS Siberia - Катунский Чуйский хребты",
-           "filename":"MOUNT - RUS Siberia - Altai Katun Ridge.sqlitedb.sqlitedb",
+           "filename":"MOUNT - RUS Siberia - Altai Katun Ridge.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2866,7 +2866,7 @@
         {
            "name":"MOUNT - KGZ - Kyrgyz Ala-Too Range",
            "nameRu":"MOUNT - KGZ - Киргизский хребет",
-           "filename":"MOUNT - KGZ - Kyrgyz Ala-Too Range.sqlitedb.sqlitedb",
+           "filename":"MOUNT - KGZ - Kyrgyz Ala-Too Range.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2885,7 +2885,7 @@
         {
            "name":"MOUNT - KGZ - Tien Shan and Dzungaria (g-utka.ru)",
            "nameRu":"MOUNT - KGZ - Тянь-Шань и Джунгария (g-utka.ru)",
-           "filename":"MOUNT - KGZ - Tien Shan and Dzungaria (g-utka.ru).sqlitedb.sqlitedb",
+           "filename":"MOUNT - KGZ - Tien Shan and Dzungaria (g-utka.ru).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2904,7 +2904,7 @@
         {
            "name":"MOUNT - KGZ - Tien Shan and Pamirs",
            "nameRu":"MOUNT - KGZ - Тянь-Шань и Памир",
-           "filename":"MOUNT - KGZ - Tien Shan and Pamirs.sqlitedb.sqlitedb",
+           "filename":"MOUNT - KGZ - Tien Shan and Pamirs.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2923,7 +2923,7 @@
         {
            "name":"MOUNT - TUR - Aladaglar",
            "nameRu":"MOUNT - TUR - Аладаглар 2014",
-           "filename":"MOUNT - TUR - Aladaglar.sqlitedb.sqlitedb",
+           "filename":"MOUNT - TUR - Aladaglar.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2946,7 +2946,7 @@
         {
            "name":"WATER -  ESRI Ocean",
            "nameRu":"WATER -  ESRI Ocean",
-           "filename":"WATER -  ESRI Ocean.sqlitedb.sqlitedb",
+           "filename":"WATER -  ESRI Ocean.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2965,7 +2965,7 @@
         {
            "name":"WATER -  Navionics Marine Charts",
            "nameRu":"WATER -  Navionics Marine Charts",
-           "filename":"WATER -  Navionics Marine Charts.sqlitedb.sqlitedb",
+           "filename":"WATER -  Navionics Marine Charts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -2984,7 +2984,7 @@
         {
            "name":"WATER -  Navionics SonarCharts",
            "nameRu":"WATER -  Navionics Sonar Charts",
-           "filename":"WATER -  Navionics SonarCharts.sqlitedb.sqlitedb",
+           "filename":"WATER -  Navionics SonarCharts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3003,7 +3003,7 @@
         {
            "name":"WATER - RUS - Chusovaya river",
            "nameRu":"WATER - RUS - Река Чусовая-Новоуткинск",
-           "filename":"WATER - RUS - Chusovaya river.sqlitedb.sqlitedb",
+           "filename":"WATER - RUS - Chusovaya river.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3022,7 +3022,7 @@
         {
            "name":"WATER - RUS - Kuban river",
            "nameRu":"WATER - RUS - Река Кубань 1985",
-           "filename":"WATER - RUS - Kuban river.sqlitedb.sqlitedb",
+           "filename":"WATER - RUS - Kuban river.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3041,7 +3041,7 @@
         {
            "name":"WATER - RUS - Volga and Kama rivers ",
            "nameRu":"WATER - RUS - Волга и Кама 1996",
-           "filename":"WATER - RUS - Volga and Kama rivers .sqlitedb.sqlitedb",
+           "filename":"WATER - RUS - Volga and Kama rivers .sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3060,7 +3060,7 @@
         {
            "name":"WATER - SWE - Eniro Sjökort Nautical",
            "nameRu":"WATER - SWE - Eniro Sjökort",
-           "filename":"WATER - SWE - Eniro Sjökort Nautical.sqlitedb.sqlitedb",
+           "filename":"WATER - SWE - Eniro Sjökort Nautical.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3083,7 +3083,7 @@
         {
            "name":"AVIA -  ESRI World Navigation Charts",
            "nameRu":"AVIA -  ESRI Navigation Charts",
-           "filename":"AVIA -  ESRI World Navigation Charts.sqlitedb.sqlitedb",
+           "filename":"AVIA -  ESRI World Navigation Charts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3102,7 +3102,7 @@
         {
            "name":"AVIA -  Avia Baionline",
            "nameRu":"AVIA -  Лётные карты Baionline",
-           "filename":"AVIA -  Avia Baionline.sqlitedb.sqlitedb",
+           "filename":"AVIA -  Avia Baionline.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3121,7 +3121,7 @@
         {
            "name":"AVIA -  Avia MVL",
            "nameRu":"AVIA -  Лётные карты МВЛ",
-           "filename":"AVIA -  Avia MVL.sqlitedb.sqlitedb",
+           "filename":"AVIA -  Avia MVL.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3140,7 +3140,7 @@
         {
            "name":"AVIA -  Avia RNK 2016",
            "nameRu":"AVIA -  Лётные карты RNK 2016",
-           "filename":"AVIA -  Avia RNK 2016.sqlitedb.sqlitedb",
+           "filename":"AVIA -  Avia RNK 2016.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3159,7 +3159,7 @@
         {
            "name":"AVIA -  Avia RNK 2019",
            "nameRu":"AVIA -  Лётные карты RNK 2019",
-           "filename":"AVIA -  Avia RNK 2019.sqlitedb.sqlitedb",
+           "filename":"AVIA -  Avia RNK 2019.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3182,7 +3182,7 @@
         {
            "name":"INFO -  Wikimapia.org",
            "nameRu":"INFO -  Wikimapia.org",
-           "filename":"INFO -  Wikimapia.org.sqlitedb.sqlitedb",
+           "filename":"INFO -  Wikimapia.org.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3205,7 +3205,7 @@
         {
            "name":"ADMIN -  Google Transit",
            "nameRu":"ADMIN -  Google Транзит EN",
-           "filename":"ADMIN -  Google Transit.sqlitedb.sqlitedb",
+           "filename":"ADMIN -  Google Transit.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3224,7 +3224,7 @@
         {
            "name":"ADMIN -  Google Transit RU",
            "nameRu":"ADMIN -  Google Транзит",
-           "filename":"ADMIN -  Google Transit RU.sqlitedb.sqlitedb",
+           "filename":"ADMIN -  Google Transit RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3243,7 +3243,7 @@
         {
            "name":"ADMIN -  OSM OpenBusMap (Opnvkarte.de)",
            "nameRu":"ADMIN -  OSM OpenBusMap (Opnvkarte.de)",
-           "filename":"ADMIN -  OSM OpenBusMap (Opnvkarte.de).sqlitedb.sqlitedb",
+           "filename":"ADMIN -  OSM OpenBusMap (Opnvkarte.de).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3266,7 +3266,7 @@
         {
            "name":"HISTORY - EURASIA - European Russia - Shubert",
            "nameRu":"HISTORY - EURASIA - Европейская Россия Шуберт 3-х верстовая",
-           "filename":"HISTORY - EURASIA - European Russia - Shubert.sqlitedb.sqlitedb",
+           "filename":"HISTORY - EURASIA - European Russia - Shubert.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3285,7 +3285,7 @@
         {
            "name":"HISTORY - EURASIA - Strelbitsky 1882",
            "nameRu":"HISTORY - EURASIA - Стрельбицкого 1882 10-верстовая",
-           "filename":"HISTORY - EURASIA - Strelbitsky 1882.sqlitedb.sqlitedb",
+           "filename":"HISTORY - EURASIA - Strelbitsky 1882.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3304,7 +3304,7 @@
         {
            "name":"HISTORY - EURASIA - Strelbitsky 1919",
            "nameRu":"HISTORY - EURASIA - Стрельбицкого 1919 10 верст",
-           "filename":"HISTORY - EURASIA - Strelbitsky 1919.sqlitedb.sqlitedb",
+           "filename":"HISTORY - EURASIA - Strelbitsky 1919.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3323,7 +3323,7 @@
         {
            "name":"HISTORY - RUS Central - Moscow 1852",
            "nameRu":"HISTORY - RUS Central - Москва - Хотевский план 1852",
-           "filename":"HISTORY - RUS Central - Moscow 1852.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Central - Moscow 1852.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3342,7 +3342,7 @@
         {
            "name":"HISTORY - RUS Central - Tver Mende",
            "nameRu":"HISTORY - RUS Central - Тверская губения Менде",
-           "filename":"HISTORY - RUS Central - Tver Mende.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Central - Tver Mende.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3361,7 +3361,7 @@
         {
            "name":"HISTORY - RUS Northwest - Petrograd 1917",
            "nameRu":"HISTORY - RUS Northwest - Петроград 1917",
-           "filename":"HISTORY - RUS Northwest - Petrograd 1917.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Northwest - Petrograd 1917.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3380,7 +3380,7 @@
         {
            "name":"HISTORY - RUS Northwest - Saint Petersburg 1705",
            "nameRu":"HISTORY - RUS Northwest - Санкт-Петербург 1705",
-           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1705.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1705.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3399,7 +3399,7 @@
         {
            "name":"HISTORY - RUS Northwest - Saint Petersburg 1725",
            "nameRu":"HISTORY - RUS Northwest - Санкт-Петербург 1725",
-           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1725.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1725.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3418,7 +3418,7 @@
         {
            "name":"HISTORY - RUS Northwest - Saint Petersburg 1883",
            "nameRu":"HISTORY - RUS Northwest - Санкт-Петербург 1883 (план Вортникова)",
-           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1883.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1883.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3437,7 +3437,7 @@
         {
            "name":"HISTORY - RUS Northwest - Saint Petersburg 1894",
            "nameRu":"HISTORY - RUS Northwest - Санкт-Петербург 1894",
-           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1894.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Northwest - Saint Petersburg 1894.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3456,7 +3456,7 @@
         {
            "name":"HISTORY - RUS South - Kuban 1902",
            "nameRu":"HISTORY - RUS South - Кубанская область 1902",
-           "filename":"HISTORY - RUS South - Kuban 1902.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - Kuban 1902.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3475,7 +3475,7 @@
         {
            "name":"HISTORY - RUS South - Kuban Stralbitsky 1918",
            "nameRu":"HISTORY - RUS South - Кубань Стрельбицкого 1918 10 верст",
-           "filename":"HISTORY - RUS South - Kuban Stralbitsky 1918.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - Kuban Stralbitsky 1918.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3494,7 +3494,7 @@
         {
            "name":"HISTORY - RUS South - Kuban district 1930",
            "nameRu":"HISTORY - RUS South - Кубанский округ 1930",
-           "filename":"HISTORY - RUS South - Kuban district 1930.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - Kuban district 1930.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3513,7 +3513,7 @@
         {
            "name":"HISTORY - RUS South - Kuban district geologic1908-16",
            "nameRu":"HISTORY - RUS South - Кубанский р-н Геологическая 1908-16 1 верста",
-           "filename":"HISTORY - RUS South - Kuban district geologic1908-16.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - Kuban district geologic1908-16.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3532,7 +3532,7 @@
         {
            "name":"HISTORY - RUS South - RKKA 1932-42 2km",
            "nameRu":"HISTORY - RUS South - РККА 1932-1942 2км",
-           "filename":"HISTORY - RUS South - RKKA 1932-42 2km.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - RKKA 1932-42 2km.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3551,7 +3551,7 @@
         {
            "name":"HISTORY - RUS South - RKKA 1940 1km",
            "nameRu":"HISTORY - RUS South - РККА 1940 1км",
-           "filename":"HISTORY - RUS South - RKKA 1940 1km.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - RKKA 1940 1km.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3570,7 +3570,7 @@
         {
            "name":"HISTORY - RUS Caucasus - Caucasus 1877",
            "nameRu":"HISTORY - RUS Caucasus - Кавказ 1877 5-верстовая",
-           "filename":"HISTORY - RUS Caucasus - Caucasus 1877.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Caucasus - Caucasus 1877.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3589,7 +3589,7 @@
         {
            "name":"HISTORY - RUS Caucasus - Caucasus 1926",
            "nameRu":"HISTORY - RUS Caucasus - Кавказ 1926 5-верстовая",
-           "filename":"HISTORY - RUS Caucasus - Caucasus 1926.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Caucasus - Caucasus 1926.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3608,7 +3608,7 @@
         {
            "name":"HISTORY - RUS Caucasus - Caucasus 1941",
            "nameRu":"HISTORY - RUS Caucasus - Кавказ 1941-48 5-верстовая (ENG)",
-           "filename":"HISTORY - RUS Caucasus - Caucasus 1941.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Caucasus - Caucasus 1941.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3627,7 +3627,7 @@
         {
            "name":"HISTORY - RUS Caucasus - Maykop 1925",
            "nameRu":"HISTORY - RUS Caucasus - Майкопский округ 1925",
-           "filename":"HISTORY - RUS Caucasus - Maykop 1925.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Caucasus - Maykop 1925.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3646,7 +3646,7 @@
         {
            "name":"HISTORY - RUS Siberia - Irkutsk 1km 1986",
            "nameRu":"HISTORY - RUS Siberia - Иркутск и окрестноски 1км 1986",
-           "filename":"HISTORY - RUS Siberia - Irkutsk 1km 1986.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Siberia - Irkutsk 1km 1986.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3665,7 +3665,7 @@
         {
            "name":"HISTORY - RUS Siberia - Irkutsk 2km 1988",
            "nameRu":"HISTORY - RUS Siberia - Иркутск и окрестноски 2км 1988",
-           "filename":"HISTORY - RUS Siberia - Irkutsk 2km 1988.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Siberia - Irkutsk 2km 1988.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3684,7 +3684,7 @@
         {
            "name":"HISTORY - RUS Siberia - Irkutsk 5km 1980",
            "nameRu":"HISTORY - RUS Siberia - Иркутск и окрестноски 5км 1980",
-           "filename":"HISTORY - RUS Siberia - Irkutsk 5km 1980.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS Siberia - Irkutsk 5km 1980.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3703,7 +3703,7 @@
         {
            "name":"HISTORY - RUS South - Crimea 1880",
            "nameRu":"HISTORY - RUS South - Крым 1880 1-верстовая",
-           "filename":"HISTORY - RUS South - Crimea 1880.sqlitedb.sqlitedb",
+           "filename":"HISTORY - RUS South - Crimea 1880.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3722,7 +3722,7 @@
         {
            "name":"HISTORY - UKR - Crimea 1880",
            "nameRu":"HISTORY - UKR - Крым 1880 1-верстовая",
-           "filename":"HISTORY - UKR - Crimea 1880.sqlitedb.sqlitedb",
+           "filename":"HISTORY - UKR - Crimea 1880.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3741,7 +3741,7 @@
         {
            "name":"HISTORY - BLR - Belarus 3 verstovaya",
            "nameRu":"HISTORY - BLR - Беларусь 3-х верстовая",
-           "filename":"HISTORY - BLR - Belarus 3 verstovaya.sqlitedb.sqlitedb",
+           "filename":"HISTORY - BLR - Belarus 3 verstovaya.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3760,7 +3760,7 @@
         {
            "name":"HISTORY - BLR - Belarus 3 verstovaya+",
            "nameRu":"HISTORY - BLR - Беларусь 3-х верстовая+",
-           "filename":"HISTORY - BLR - Belarus 3 verstovaya+.sqlitedb.sqlitedb",
+           "filename":"HISTORY - BLR - Belarus 3 verstovaya+.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3779,7 +3779,7 @@
         {
            "name":"HISTORY - BLR - Belarus RKKA 500m",
            "nameRu":"HISTORY - BLR - Беларусь РККА 500м",
-           "filename":"HISTORY - BLR - Belarus RKKA 500m.sqlitedb.sqlitedb",
+           "filename":"HISTORY - BLR - Belarus RKKA 500m.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3798,7 +3798,7 @@
         {
            "name":"HISTORY - BLR - Belarus WIG 1km",
            "nameRu":"HISTORY - BLR - Беларусь WIG 1km",
-           "filename":"HISTORY - BLR - Belarus WIG 1km.sqlitedb.sqlitedb",
+           "filename":"HISTORY - BLR - Belarus WIG 1km.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3821,7 +3821,7 @@
         {
            "name":"GEOLOGY - EURASIA - Geology 1mln",
            "nameRu":"GEOLOGY - EURASIA - Геология 1mln",
-           "filename":"GEOLOGY - EURASIA - Geology 1mln.sqlitedb.sqlitedb",
+           "filename":"GEOLOGY - EURASIA - Geology 1mln.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3840,7 +3840,7 @@
         {
            "name":"GEOLOGY - EURASIA - Geology 200k",
            "nameRu":"GEOLOGY - EURASIA - Геология 200k",
-           "filename":"GEOLOGY - EURASIA - Geology 200k.sqlitedb.sqlitedb",
+           "filename":"GEOLOGY - EURASIA - Geology 200k.sqlitedb",
            "type":"sqlite",
            "date":"16.04.2020",
            "timestamp":1587036926,
@@ -3863,7 +3863,7 @@
         {
            "name":"L-RELIEF -  Heywhatsthat.com",
            "nameRu":"L-RELIEF -  Heywhatsthat.com - контурные линии",
-           "filename":"L-RELIEF -  Heywhatsthat.com.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  Heywhatsthat.com.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3882,7 +3882,7 @@
         {
            "name":"L-RELIEF -  Openmapsurfer",
            "nameRu":"L-RELIEF -  OpenMapSurfer",
-           "filename":"L-RELIEF -  Openmapsurfer.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  Openmapsurfer.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3901,7 +3901,7 @@
         {
            "name":"L-RELIEF -  Slope map",
            "nameRu":"L-RELIEF -  Карта уклонов",
-           "filename":"L-RELIEF -  Slope map.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  Slope map.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3920,7 +3920,7 @@
         {
            "name":"L-RELIEF -  Waymarkedtrails.org",
            "nameRu":"L-RELIEF -  Waymarkedtrails.org",
-           "filename":"L-RELIEF -  Waymarkedtrails.org.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  Waymarkedtrails.org.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3939,7 +3939,7 @@
         {
            "name":"L-RELIEF -  Windy.com",
            "nameRu":"L-RELIEF -  Windy.com",
-           "filename":"L-RELIEF -  Windy.com.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  Windy.com.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3958,7 +3958,7 @@
         {
            "name":"L-RELIEF -  WmfLabs.org",
            "nameRu":"L-RELIEF -  WmfLabs.org",
-           "filename":"L-RELIEF -  WmfLabs.org.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF -  WmfLabs.org.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3977,7 +3977,7 @@
         {
            "name":"L-RELIEF - NOR - Ut.no - Aktsomhetskart for snøskred",
            "nameRu":"L-RELIEF - NOR - Ut.no - Лавиноопасность",
-           "filename":"L-RELIEF - NOR - Ut.no - Aktsomhetskart for snøskred.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF - NOR - Ut.no - Aktsomhetskart for snøskred.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -3996,7 +3996,7 @@
         {
            "name":"L-RELIEF - NOR - Ut.no - Bratthetskart",
            "nameRu":"L-RELIEF - NOR - Ut.no - Крутизна склонов",
-           "filename":"L-RELIEF - NOR - Ut.no - Bratthetskart.sqlitedb.sqlitedb",
+           "filename":"L-RELIEF - NOR - Ut.no - Bratthetskart.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4019,7 +4019,7 @@
         {
            "name":"L-LABEL -  ESRI - Admin boundaries",
            "nameRu":"L-LABEL -  ESRI - Границы стран",
-           "filename":"L-LABEL -  ESRI - Admin boundaries.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  ESRI - Admin boundaries.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4038,7 +4038,7 @@
         {
            "name":"L-LABEL -  Google - Hybrid",
            "nameRu":"L-LABEL -  Google - Гибрид EN",
-           "filename":"L-LABEL -  Google - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  Google - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4057,7 +4057,7 @@
         {
            "name":"L-LABEL -  Google - Hybrid RU",
            "nameRu":"L-LABEL -  Google - Гибрид",
-           "filename":"L-LABEL -  Google - Hybrid RU.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  Google - Hybrid RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4076,7 +4076,7 @@
         {
            "name":"L-LABEL -  OSM Mapbox - Hybrid",
            "nameRu":"L-LABEL -  OSM Mapbox - Гибрид",
-           "filename":"L-LABEL -  OSM Mapbox - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  OSM Mapbox - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4095,7 +4095,7 @@
         {
            "name":"L-LABEL -  OSM Mapsurfer - Admin boundaries",
            "nameRu":"L-LABEL -  OSM Mapsurfer - Границы",
-           "filename":"L-LABEL -  OSM Mapsurfer - Admin boundaries.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  OSM Mapsurfer - Admin boundaries.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4114,7 +4114,7 @@
         {
            "name":"L-LABEL -  OSM Mapsurfer - Hybrid",
            "nameRu":"L-LABEL -  OSM Mapsurfer - Гибрид",
-           "filename":"L-LABEL -  OSM Mapsurfer - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  OSM Mapsurfer - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4133,7 +4133,7 @@
         {
            "name":"L-LABEL -  OSM Stamen - Hybrid",
            "nameRu":"L-LABEL -  OSM Stamen - Гибрид",
-           "filename":"L-LABEL -  OSM Stamen - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  OSM Stamen - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"30.05.2020",
            "timestamp":1590849959,
@@ -4152,7 +4152,7 @@
         {
            "name":"L-LABEL -  TomTom - Hybrid (day)",
            "nameRu":"L-LABEL -  TomTom - Гибрид (день)",
-           "filename":"L-LABEL -  TomTom - Hybrid (day).sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  TomTom - Hybrid (day).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4171,7 +4171,7 @@
         {
            "name":"L-LABEL -  TomTom - Hybrid (night)",
            "nameRu":"L-LABEL -  TomTom - Гибрид (ночь)",
-           "filename":"L-LABEL -  TomTom - Hybrid (night).sqlitedb.sqlitedb",
+           "filename":"L-LABEL -  TomTom - Hybrid (night).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4190,7 +4190,7 @@
         {
            "name":"L-LABEL - EURASIA - Yandex - Hybrid",
            "nameRu":"L-LABEL - EURASIA - Яндекс - Гибрид EN",
-           "filename":"L-LABEL - EURASIA - Yandex - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL - EURASIA - Yandex - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4209,7 +4209,7 @@
         {
            "name":"L-LABEL - EURASIA - Yandex - Hybrid Map Editor",
            "nameRu":"L-LABEL - EURASIA - Яндекс - Гибрид Народная",
-           "filename":"L-LABEL - EURASIA - Yandex - Hybrid Map Editor.sqlitedb.sqlitedb",
+           "filename":"L-LABEL - EURASIA - Yandex - Hybrid Map Editor.sqlitedb",
            "type":"sqlite",
            "date":"03.05.2020",
            "timestamp":1588457493,
@@ -4228,7 +4228,7 @@
         {
            "name":"L-LABEL - EURASIA - Yandex - Hybrid RU",
            "nameRu":"L-LABEL - EURASIA - Яндекс - Гибрид",
-           "filename":"L-LABEL - EURASIA - Yandex - Hybrid RU.sqlitedb.sqlitedb",
+           "filename":"L-LABEL - EURASIA - Yandex - Hybrid RU.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4247,7 +4247,7 @@
         {
            "name":"L-LABEL - UKRAINE - Kremen.org.ua",
            "nameRu":"L-LABEL - UKRAINE - Kremen.org.ua",
-           "filename":"L-LABEL - UKRAINE - Kremen.org.ua.sqlitedb.sqlitedb",
+           "filename":"L-LABEL - UKRAINE - Kremen.org.ua.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4266,7 +4266,7 @@
         {
            "name":"L-LABEL - SWE - Eniro - Hybrid",
            "nameRu":"L-LABEL - SWE - Eniro - Гибрид",
-           "filename":"L-LABEL - SWE - Eniro - Hybrid.sqlitedb.sqlitedb",
+           "filename":"L-LABEL - SWE - Eniro - Hybrid.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4289,7 +4289,7 @@
         {
            "name":"L-AUTO -  Bing - Traffic",
            "nameRu":"L-AUTO -  Bing - Пробки",
-           "filename":"L-AUTO -  Bing - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Bing - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4308,7 +4308,7 @@
         {
            "name":"L-AUTO -  Google - Traffic",
            "nameRu":"L-AUTO -  Google - Пробки",
-           "filename":"L-AUTO -  Google - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Google - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4327,7 +4327,7 @@
         {
            "name":"L-AUTO -  Here - Flow",
            "nameRu":"L-AUTO -  Here - Поток",
-           "filename":"L-AUTO -  Here - Flow.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Here - Flow.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4346,7 +4346,7 @@
         {
            "name":"L-AUTO -  Here - Traffic",
            "nameRu":"L-AUTO -  Here - Пробки",
-           "filename":"L-AUTO -  Here - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Here - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4365,7 +4365,7 @@
         {
            "name":"L-AUTO -  Navitel.su - Traffic",
            "nameRu":"L-AUTO -  Navitel.su - Пробки",
-           "filename":"L-AUTO -  Navitel.su - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Navitel.su - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4384,7 +4384,7 @@
         {
            "name":"L-AUTO -  Navizor - Roads quality",
            "nameRu":"L-AUTO -  Navizor - Оценка качества дорог",
-           "filename":"L-AUTO -  Navizor - Roads quality.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  Navizor - Roads quality.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4403,7 +4403,7 @@
         {
            "name":"L-AUTO -  TomTom - Incidents",
            "nameRu":"L-AUTO -  TomTom - Дорожная обстановка",
-           "filename":"L-AUTO -  TomTom - Incidents.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  TomTom - Incidents.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4422,7 +4422,7 @@
         {
            "name":"L-AUTO -  TomTom - Traffic",
            "nameRu":"L-AUTO -  TomTom - Пробки",
-           "filename":"L-AUTO -  TomTom - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-AUTO -  TomTom - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4441,7 +4441,7 @@
         {
            "name":"L-AUTO - EURASIA - Yandex (proxy)",
            "nameRu":"L-AUTO - EURASIA - Яндекс - Пробки (proxy)",
-           "filename":"L-AUTO - EURASIA - Yandex (proxy).sqlitedb.sqlitedb",
+           "filename":"L-AUTO - EURASIA - Yandex (proxy).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4460,7 +4460,7 @@
         {
            "name":"L-AUTO - EURASIA - Yandex - Directions",
            "nameRu":"L-AUTO - EURASIA - Яндекс - Направления",
-           "filename":"L-AUTO - EURASIA - Yandex - Directions.sqlitedb.sqlitedb",
+           "filename":"L-AUTO - EURASIA - Yandex - Directions.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4479,7 +4479,7 @@
         {
            "name":"L-AUTO - EURASIA - Yandex - Intensity",
            "nameRu":"L-AUTO - EURASIA - Яндекс - Интенсивность",
-           "filename":"L-AUTO - EURASIA - Yandex - Intensity.sqlitedb.sqlitedb",
+           "filename":"L-AUTO - EURASIA - Yandex - Intensity.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4502,7 +4502,7 @@
         {
            "name":"L-BIKE -  OSM WayMarkedTrails - Cycling",
            "nameRu":"L-BIKE -  OSM WayMarkedTrails - Вело",
-           "filename":"L-BIKE -  OSM WayMarkedTrails - Cycling.sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  OSM WayMarkedTrails - Cycling.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4521,7 +4521,7 @@
         {
            "name":"L-BIKE -  OSM WayMarkedTrails - MTB",
            "nameRu":"L-BIKE -  OSM WayMarkedTrails - MTB",
-           "filename":"L-BIKE -  OSM WayMarkedTrails - MTB.sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  OSM WayMarkedTrails - MTB.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4540,7 +4540,7 @@
         {
            "name":"L-BIKE -  Strava Heatmap - Ride HD",
            "nameRu":"L-BIKE -  Strava - Вело HD",
-           "filename":"L-BIKE -  Strava Heatmap - Ride HD.sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  Strava Heatmap - Ride HD.sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4559,7 +4559,7 @@
         {
            "name":"L-BIKE -  Strava Heatmap - Ride HD (Blue)",
            "nameRu":"L-BIKE -  Strava - Вело HD (синий)",
-           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Blue).sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Blue).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4578,7 +4578,7 @@
         {
            "name":"L-BIKE -  Strava Heatmap - Ride HD (Gray)",
            "nameRu":"L-BIKE -  Strava - Вело HD (серый)",
-           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Gray).sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Gray).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4597,7 +4597,7 @@
         {
            "name":"L-BIKE -  Strava Heatmap - Ride HD (Red)",
            "nameRu":"L-BIKE -  Strava - Вело HD (красный)",
-           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Red).sqlitedb.sqlitedb",
+           "filename":"L-BIKE -  Strava Heatmap - Ride HD (Red).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4620,7 +4620,7 @@
         {
            "name":"L-HIKE -  OSM OpenStreetMap - GPS Tracks",
            "nameRu":"L-HIKE -  OSM OpenStreetMap - GPS Треки",
-           "filename":"L-HIKE -  OSM OpenStreetMap - GPS Tracks.sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  OSM OpenStreetMap - GPS Tracks.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4639,7 +4639,7 @@
         {
            "name":"L-HIKE -  OSM WayMarkedTrails - Hiking",
            "nameRu":"L-HIKE -  OSM WayMarkedTrails - Пешие",
-           "filename":"L-HIKE -  OSM WayMarkedTrails - Hiking.sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  OSM WayMarkedTrails - Hiking.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4658,7 +4658,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - All (Red)",
            "nameRu":"L-HIKE -  Strava - Все слои (красный)",
-           "filename":"L-HIKE -  Strava Heatmap - All (Red).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - All (Red).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4677,7 +4677,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - All HD",
            "nameRu":"L-HIKE -  Strava - Все слои HD",
-           "filename":"L-HIKE -  Strava Heatmap - All HD.sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - All HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4696,7 +4696,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - All HD (Blue)",
            "nameRu":"L-HIKE -  Strava - Все слои HD (синий)",
-           "filename":"L-HIKE -  Strava Heatmap - All HD (Blue).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - All HD (Blue).sqlitedb",
            "type":"sqlite",
            "date":"25.04.2020",
            "timestamp":1587798701,
@@ -4715,7 +4715,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - All HD (Gray)",
            "nameRu":"L-HIKE -  Strava - Все слои HD (серый)",
-           "filename":"L-HIKE -  Strava Heatmap - All HD (Gray).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - All HD (Gray).sqlitedb",
            "type":"sqlite",
            "date":"25.04.2020",
            "timestamp":1587798701,
@@ -4734,7 +4734,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - Run HD",
            "nameRu":"L-HIKE -  Strava - Бег HD",
-           "filename":"L-HIKE -  Strava Heatmap - Run HD.sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - Run HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4753,7 +4753,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - Run HD (Blue)",
            "nameRu":"L-HIKE -  Strava - Бег HD (синий)",
-           "filename":"L-HIKE -  Strava Heatmap - Run HD (Blue).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - Run HD (Blue).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4772,7 +4772,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - Run HD (Gray)",
            "nameRu":"L-HIKE -  Strava - Бег HD (серый)",
-           "filename":"L-HIKE -  Strava Heatmap - Run HD (Gray).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - Run HD (Gray).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4791,7 +4791,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - Run HD (Red)",
            "nameRu":"L-HIKE -  Strava - Бег HD (красный)",
-           "filename":"L-HIKE -  Strava Heatmap - Run HD (Red).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - Run HD (Red).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4810,7 +4810,7 @@
         {
            "name":"L-HIKE -  Strava Heatmap - Run and Ride HD (beta)",
            "nameRu":"L-HIKE -  Strava - Вело и Бег (beta)",
-           "filename":"L-HIKE -  Strava Heatmap - Run and Ride HD (beta).sqlitedb.sqlitedb",
+           "filename":"L-HIKE -  Strava Heatmap - Run and Ride HD (beta).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4829,7 +4829,7 @@
         {
            "name":"L-HIKE - CHE - SwissTopo - Tails",
            "nameRu":"L-HIKE - CHE - SwissTopo Тропы",
-           "filename":"L-HIKE - CHE - SwissTopo - Tails.sqlitedb.sqlitedb",
+           "filename":"L-HIKE - CHE - SwissTopo - Tails.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4852,7 +4852,7 @@
         {
            "name":"L-SKI -  OSM OpenSnowMap - Pistes",
            "nameRu":"L-SKI -  OSM OpenSnowMap - Лыжные трассы",
-           "filename":"L-SKI -  OSM OpenSnowMap - Pistes.sqlitedb.sqlitedb",
+           "filename":"L-SKI -  OSM OpenSnowMap - Pistes.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4871,7 +4871,7 @@
         {
            "name":"L-SKI -  OSM WayMarkedTrails - Slopes",
            "nameRu":"L-SKI -  OSM WayMarkedTrails- Зимние",
-           "filename":"L-SKI -  OSM WayMarkedTrails - Slopes.sqlitedb.sqlitedb",
+           "filename":"L-SKI -  OSM WayMarkedTrails - Slopes.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4890,7 +4890,7 @@
         {
            "name":"L-SKI -  Strava Heatmap - Winter HD",
            "nameRu":"L-SKI -  Strava - Зимние HD",
-           "filename":"L-SKI -  Strava Heatmap - Winter HD.sqlitedb.sqlitedb",
+           "filename":"L-SKI -  Strava Heatmap - Winter HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4909,7 +4909,7 @@
         {
            "name":"L-SKI -  Strava Heatmap - Winter HD (Blue)",
            "nameRu":"L-SKI -  Strava - Зимние HD (синий)",
-           "filename":"L-SKI -  Strava Heatmap - Winter HD (Blue).sqlitedb.sqlitedb",
+           "filename":"L-SKI -  Strava Heatmap - Winter HD (Blue).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4928,7 +4928,7 @@
         {
            "name":"L-SKI -  Strava Heatmap - Winter HD (Gray)",
            "nameRu":"L-SKI -  Strava - Зимние HD (серый)",
-           "filename":"L-SKI -  Strava Heatmap - Winter HD (Gray).sqlitedb.sqlitedb",
+           "filename":"L-SKI -  Strava Heatmap - Winter HD (Gray).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4947,7 +4947,7 @@
         {
            "name":"L-SKI -  Strava Heatmap - Winter HD (Red)",
            "nameRu":"L-SKI -  Strava - Зимние HD (красный)",
-           "filename":"L-SKI -  Strava Heatmap - Winter HD (Red).sqlitedb.sqlitedb",
+           "filename":"L-SKI -  Strava Heatmap - Winter HD (Red).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -4966,7 +4966,7 @@
         {
            "name":"L-SKI - CHE - Swiss Ski Routes",
            "nameRu":"L-SKI - CHE - Лыжные трассы",
-           "filename":"L-SKI - CHE - Swiss Ski Routes.sqlitedb.sqlitedb",
+           "filename":"L-SKI - CHE - Swiss Ski Routes.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -4985,7 +4985,7 @@
         {
            "name":"L-SKI - CHE - Swiss Slope 30°",
            "nameRu":"L-SKI - CHE - Склоны 30°",
-           "filename":"L-SKI - CHE - Swiss Slope 30°.sqlitedb.sqlitedb",
+           "filename":"L-SKI - CHE - Swiss Slope 30°.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5008,7 +5008,7 @@
         {
            "name":"L-WATER -  Garmin Quickdraw - MarineImages",
            "nameRu":"L-WATER -  Garmin MarineImages - Сонар",
-           "filename":"L-WATER -  Garmin Quickdraw - MarineImages.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Garmin Quickdraw - MarineImages.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5027,7 +5027,7 @@
         {
            "name":"L-WATER -  Navionics Marine Charts",
            "nameRu":"L-WATER -  Navionics Marine Charts",
-           "filename":"L-WATER -  Navionics Marine Charts.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Navionics Marine Charts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5046,7 +5046,7 @@
         {
            "name":"L-WATER -  Navionics Sonar Charts",
            "nameRu":"L-WATER -  Navionics Sonar Charts",
-           "filename":"L-WATER -  Navionics Sonar Charts.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Navionics Sonar Charts.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5065,7 +5065,7 @@
         {
            "name":"L-WATER -  OSM OpenSeaMap",
            "nameRu":"L-WATER -  OSM OpenSeaMap",
-           "filename":"L-WATER -  OSM OpenSeaMap.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  OSM OpenSeaMap.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5084,7 +5084,7 @@
         {
            "name":"L-WATER -  OSM OpenSeaMap - Deep Map",
            "nameRu":"L-WATER -  OSM OpenSeaMap - Рельеф",
-           "filename":"L-WATER -  OSM OpenSeaMap - Deep Map.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  OSM OpenSeaMap - Deep Map.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5103,7 +5103,7 @@
         {
            "name":"L-WATER -  OSM OpenSeaMap - Traffic",
            "nameRu":"L-WATER -  OSM OpenSeaMap - Траффик",
-           "filename":"L-WATER -  OSM OpenSeaMap - Traffic.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  OSM OpenSeaMap - Traffic.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5122,7 +5122,7 @@
         {
            "name":"L-WATER -  Strava Heatmap - Water (HD Blue)",
            "nameRu":"L-WATER -  Strava - Водные HD (синий)",
-           "filename":"L-WATER -  Strava Heatmap - Water (HD Blue).sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Strava Heatmap - Water (HD Blue).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -5141,7 +5141,7 @@
         {
            "name":"L-WATER -  Strava Heatmap - Water (HD Gray)",
            "nameRu":"L-WATER -  Strava - Водные HD (серый)",
-           "filename":"L-WATER -  Strava Heatmap - Water (HD Gray).sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Strava Heatmap - Water (HD Gray).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -5160,7 +5160,7 @@
         {
            "name":"L-WATER -  Strava Heatmap - Water (HD Red)",
            "nameRu":"L-WATER -  Strava - Водные HD (красный)",
-           "filename":"L-WATER -  Strava Heatmap - Water (HD Red).sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Strava Heatmap - Water (HD Red).sqlitedb",
            "type":"sqlite",
            "date":"13.05.2020",
            "timestamp":1589392443,
@@ -5179,7 +5179,7 @@
         {
            "name":"L-WATER -  Strava Heatmap - Water HD",
            "nameRu":"L-WATER -  Strava - Водные HD",
-           "filename":"L-WATER -  Strava Heatmap - Water HD.sqlitedb.sqlitedb",
+           "filename":"L-WATER -  Strava Heatmap - Water HD.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5202,7 +5202,7 @@
         {
            "name":"L-INFO -  Grid 1km (zoom 14-16)",
            "nameRu":"L-INFO -  Сетка километровая (zoom 14-16)",
-           "filename":"L-INFO -  Grid 1km (zoom 14-16).sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Grid 1km (zoom 14-16).sqlitedb",
            "type":"sqlite",
            "date":"27.05.2020",
            "timestamp":1590609720,
@@ -5221,7 +5221,7 @@
         {
            "name":"L-INFO -  Grid TMS Tiles - Gray",
            "nameRu":"L-INFO -  Сетка тайловая Серая",
-           "filename":"L-INFO -  Grid TMS Tiles - Gray.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Grid TMS Tiles - Gray.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5240,7 +5240,7 @@
         {
            "name":"L-INFO -  Grid TMS Tiles- Gray (ellipsoid)",
            "nameRu":"L-INFO -  Сетка тайловая Серая (эллипсоид)",
-           "filename":"L-INFO -  Grid TMS Tiles- Gray (ellipsoid).sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Grid TMS Tiles- Gray (ellipsoid).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5259,7 +5259,7 @@
         {
            "name":"L-INFO -  OpenWeatherMap - Clouds",
            "nameRu":"L-INFO -  OpenWeatherMap - Облака",
-           "filename":"L-INFO -  OpenWeatherMap - Clouds.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  OpenWeatherMap - Clouds.sqlitedb",
            "type":"sqlite",
            "date":"09.04.2020",
            "timestamp":1586380092,
@@ -5278,7 +5278,7 @@
         {
            "name":"L-INFO -  OpenWeatherMap - Precipitation",
            "nameRu":"L-INFO -  OpenWeatherMap - Осадки сейчас",
-           "filename":"L-INFO -  OpenWeatherMap - Precipitation.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  OpenWeatherMap - Precipitation.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5297,7 +5297,7 @@
         {
            "name":"L-INFO -  RainWiewer - Precipitation",
            "nameRu":"L-INFO -  RainWiewer - Осадки сейчас",
-           "filename":"L-INFO -  RainWiewer - Precipitation.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  RainWiewer - Precipitation.sqlitedb",
            "type":"sqlite",
            "date":"01.03.2020",
            "timestamp":1583053865,
@@ -5316,7 +5316,7 @@
         {
            "name":"L-INFO -  Wigle.net - Wi-fi location (proxy)",
            "nameRu":"L-INFO -  Wigle.net - Wi-fi (proxy)",
-           "filename":"L-INFO -  Wigle.net - Wi-fi location (proxy).sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Wigle.net - Wi-fi location (proxy).sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5335,7 +5335,7 @@
         {
            "name":"L-INFO -  Wikimapia.org",
            "nameRu":"L-INFO -  Wikimapia.org",
-           "filename":"L-INFO -  Wikimapia.org.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Wikimapia.org.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5354,7 +5354,7 @@
         {
            "name":"L-INFO -  Yandex Pogoda - Precipitation after 0.5 hours",
            "nameRu":"L-INFO -  Yandex Погода - Осадки через 0.5 часа",
-           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 0.5 hours.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 0.5 hours.sqlitedb",
            "type":"sqlite",
            "date":"19.05.2020",
            "timestamp":1589910623,
@@ -5373,7 +5373,7 @@
         {
            "name":"L-INFO -  Yandex Pogoda - Precipitation after 1 hour",
            "nameRu":"L-INFO -  Yandex Погода - Осадки через 1 час",
-           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 1 hour.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 1 hour.sqlitedb",
            "type":"sqlite",
            "date":"19.05.2020",
            "timestamp":1589910623,
@@ -5392,7 +5392,7 @@
         {
            "name":"L-INFO -  Yandex Pogoda - Precipitation after 2 hours",
            "nameRu":"L-INFO -  Yandex Погода - Осадки через 2 часа",
-           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 2 hours.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Yandex Pogoda - Precipitation after 2 hours.sqlitedb",
            "type":"sqlite",
            "date":"19.05.2020",
            "timestamp":1589910623,
@@ -5411,7 +5411,7 @@
         {
            "name":"L-INFO -  Yandex Pogoda - Precipitation now",
            "nameRu":"L-INFO -  Yandex Погода - Осадки сейчас",
-           "filename":"L-INFO -  Yandex Pogoda - Precipitation now.sqlitedb.sqlitedb",
+           "filename":"L-INFO -  Yandex Pogoda - Precipitation now.sqlitedb",
            "type":"sqlite",
            "date":"19.05.2020",
            "timestamp":1589910623,
@@ -5430,7 +5430,7 @@
         {
            "name":"L-INFO - RUS - RosReest.ru - Cadaster",
            "nameRu":"L-INFO - RUS - RosReestr.ru - Кадастровые границы",
-           "filename":"L-INFO - RUS - RosReest.ru - Cadaster.sqlitedb.sqlitedb",
+           "filename":"L-INFO - RUS - RosReest.ru - Cadaster.sqlitedb",
            "type":"sqlite",
            "date":"06.04.2020",
            "timestamp":1586177414,
@@ -5449,7 +5449,7 @@
         {
            "name":"L-INFO - RUS - Rosreestr.ru - Labels",
            "nameRu":"L-INFO - RUS - RosReestr.ru - Подписи",
-           "filename":"L-INFO - RUS - Rosreestr.ru - Labels.sqlitedb.sqlitedb",
+           "filename":"L-INFO - RUS - Rosreestr.ru - Labels.sqlitedb",
            "type":"sqlite",
            "date":"06.04.2020",
            "timestamp":1586177414,
@@ -5468,7 +5468,7 @@
         {
            "name":"L-INFO - UKR - Gov.ua - Cadaster map borders",
            "nameRu":"L-INFO - UKR - Gov.ua - Кадастровые границы",
-           "filename":"L-INFO - UKR - Gov.ua - Cadaster map borders.sqlitedb.sqlitedb",
+           "filename":"L-INFO - UKR - Gov.ua - Cadaster map borders.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5491,7 +5491,7 @@
         {
            "name":"L-NET - RUS - Beeline",
            "nameRu":"L-NET - RUS - Билайн - Все слои",
-           "filename":"L-NET - RUS - Beeline.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Beeline.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5510,7 +5510,7 @@
         {
            "name":"L-NET - RUS - Beeline 2G",
            "nameRu":"L-NET - RUS - Билайн - 2G",
-           "filename":"L-NET - RUS - Beeline 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Beeline 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5529,7 +5529,7 @@
         {
            "name":"L-NET - RUS - Beeline 3G",
            "nameRu":"L-NET - RUS - Билайн - 3G",
-           "filename":"L-NET - RUS - Beeline 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Beeline 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5548,7 +5548,7 @@
         {
            "name":"L-NET - RUS - Beeline 4G",
            "nameRu":"L-NET - RUS - Билайн - 4G",
-           "filename":"L-NET - RUS - Beeline 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Beeline 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5567,7 +5567,7 @@
         {
            "name":"L-NET - RUS - MTS",
            "nameRu":"L-NET - RUS - МТС - Все слои",
-           "filename":"L-NET - RUS - MTS.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5586,7 +5586,7 @@
         {
            "name":"L-NET - RUS - MTS 2G",
            "nameRu":"L-NET - RUS - МТС - 2G",
-           "filename":"L-NET - RUS - MTS 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5605,7 +5605,7 @@
         {
            "name":"L-NET - RUS - MTS 3G",
            "nameRu":"L-NET - RUS - МТС - 3G",
-           "filename":"L-NET - RUS - MTS 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5624,7 +5624,7 @@
         {
            "name":"L-NET - RUS - MTS 4G",
            "nameRu":"L-NET - RUS - МТС - 4G",
-           "filename":"L-NET - RUS - MTS 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5643,7 +5643,7 @@
         {
            "name":"L-NET - RUS - MTS 4G Planned",
            "nameRu":"L-NET - RUS - МТС - 4G Планируемое",
-           "filename":"L-NET - RUS - MTS 4G Planned.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS 4G Planned.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5662,7 +5662,7 @@
         {
            "name":"L-NET - RUS - MTS IoT",
            "nameRu":"L-NET - RUS - МТС - IoT Интернет вещей",
-           "filename":"L-NET - RUS - MTS IoT.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - MTS IoT.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5681,7 +5681,7 @@
         {
            "name":"L-NET - RUS - Megaphone",
            "nameRu":"L-NET - RUS - Мегафон - Все слои",
-           "filename":"L-NET - RUS - Megaphone.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Megaphone.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5700,7 +5700,7 @@
         {
            "name":"L-NET - RUS - Megaphone 2G",
            "nameRu":"L-NET - RUS - Мегафон - 2G",
-           "filename":"L-NET - RUS - Megaphone 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Megaphone 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5719,7 +5719,7 @@
         {
            "name":"L-NET - RUS - Megaphone 3G",
            "nameRu":"L-NET - RUS - Мегафон  - 3G",
-           "filename":"L-NET - RUS - Megaphone 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Megaphone 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5738,7 +5738,7 @@
         {
            "name":"L-NET - RUS - Megaphone 4G",
            "nameRu":"L-NET - RUS - Мегафон - 4G",
-           "filename":"L-NET - RUS - Megaphone 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Megaphone 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5757,7 +5757,7 @@
         {
            "name":"L-NET - RUS - Megaphone 4G+",
            "nameRu":"L-NET - RUS - Мегафон - 4G+",
-           "filename":"L-NET - RUS - Megaphone 4G+.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Megaphone 4G+.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5776,7 +5776,7 @@
         {
            "name":"L-NET - RUS - Rostelcom",
            "nameRu":"L-NET - RUS - Ростелком - Все слои",
-           "filename":"L-NET - RUS - Rostelcom.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Rostelcom.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5795,7 +5795,7 @@
         {
            "name":"L-NET - RUS - Rostelcom 2G",
            "nameRu":"L-NET - RUS - Ростелком - 2G",
-           "filename":"L-NET - RUS - Rostelcom 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Rostelcom 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5814,7 +5814,7 @@
         {
            "name":"L-NET - RUS - Rostelcom 3G",
            "nameRu":"L-NET - RUS - Ростелком - 3G",
-           "filename":"L-NET - RUS - Rostelcom 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Rostelcom 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5833,7 +5833,7 @@
         {
            "name":"L-NET - RUS - Rostelcom 4G",
            "nameRu":"L-NET - RUS - Ростелком - 4G",
-           "filename":"L-NET - RUS - Rostelcom 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Rostelcom 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5852,7 +5852,7 @@
         {
            "name":"L-NET - RUS - Skylink LTE 450",
            "nameRu":"L-NET - RUS - Skylink - LTE 450",
-           "filename":"L-NET - RUS - Skylink LTE 450.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Skylink LTE 450.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5871,7 +5871,7 @@
         {
            "name":"L-NET - RUS - Tele2",
            "nameRu":"L-NET - RUS - Tele2 - Все слои",
-           "filename":"L-NET - RUS - Tele2.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tele2.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5890,7 +5890,7 @@
         {
            "name":"L-NET - RUS - Tele2 2G",
            "nameRu":"L-NET - RUS - Tele2 - 2G",
-           "filename":"L-NET - RUS - Tele2 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tele2 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5909,7 +5909,7 @@
         {
            "name":"L-NET - RUS - Tele2 3G",
            "nameRu":"L-NET - RUS - Tele2 - 3G",
-           "filename":"L-NET - RUS - Tele2 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tele2 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5928,7 +5928,7 @@
         {
            "name":"L-NET - RUS - Tele2 4G",
            "nameRu":"L-NET - RUS - Tele2 - 4G",
-           "filename":"L-NET - RUS - Tele2 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tele2 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5947,7 +5947,7 @@
         {
            "name":"L-NET - RUS - Tele2 LTE 450",
            "nameRu":"L-NET - RUS - Tele2 - LTE 450",
-           "filename":"L-NET - RUS - Tele2 LTE 450.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tele2 LTE 450.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5966,7 +5966,7 @@
         {
            "name":"L-NET - RUS - Tinkoff",
            "nameRu":"L-NET - RUS - Тинькофф - Все слои",
-           "filename":"L-NET - RUS - Tinkoff.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tinkoff.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -5985,7 +5985,7 @@
         {
            "name":"L-NET - RUS - Tinkoff 2G",
            "nameRu":"L-NET - RUS - Тинькофф - 2G",
-           "filename":"L-NET - RUS - Tinkoff 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tinkoff 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6004,7 +6004,7 @@
         {
            "name":"L-NET - RUS - Tinkoff 3G",
            "nameRu":"L-NET - RUS - Тинькофф - 3G",
-           "filename":"L-NET - RUS - Tinkoff 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tinkoff 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6023,7 +6023,7 @@
         {
            "name":"L-NET - RUS - Tinkoff 4G",
            "nameRu":"L-NET - RUS - Тинькофф - 4G",
-           "filename":"L-NET - RUS - Tinkoff 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Tinkoff 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6042,7 +6042,7 @@
         {
            "name":"L-NET - RUS - Yota",
            "nameRu":"L-NET - RUS - Yota - Все слои",
-           "filename":"L-NET - RUS - Yota.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Yota.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6061,7 +6061,7 @@
         {
            "name":"L-NET - RUS - Yota 2G",
            "nameRu":"L-NET - RUS - Yota - 2G",
-           "filename":"L-NET - RUS - Yota 2G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Yota 2G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6080,7 +6080,7 @@
         {
            "name":"L-NET - RUS - Yota 3G",
            "nameRu":"L-NET - RUS - Yota - 3G",
-           "filename":"L-NET - RUS - Yota 3G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Yota 3G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6099,7 +6099,7 @@
         {
            "name":"L-NET - RUS - Yota 4G",
            "nameRu":"L-NET - RUS - Yota - 4G",
-           "filename":"L-NET - RUS - Yota 4G.sqlitedb.sqlitedb",
+           "filename":"L-NET - RUS - Yota 4G.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6122,7 +6122,7 @@
         {
            "name":"L-ADMIN - RUS - Forest districts",
            "nameRu":"L-ADMIN - RUS - ЛесФонд - Границы кварталов",
-           "filename":"L-ADMIN - RUS - Forest districts.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN - RUS - Forest districts.sqlitedb",
            "type":"sqlite",
            "date":"18.04.2020",
            "timestamp":1587211016,
@@ -6141,7 +6141,7 @@
         {
            "name":"L-ADMIN - RUS - OSM Electric Transmission Lines",
            "nameRu":"L-ADMIN - RUS - OSM Лэп для ЦФО и СЗО",
-           "filename":"L-ADMIN - RUS - OSM Electric Transmission Lines.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN - RUS - OSM Electric Transmission Lines.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6160,7 +6160,7 @@
         {
            "name":"L-ADMIN -  OSM OpenFireMap",
            "nameRu":"L-ADMIN -  OSM OpenFireMap",
-           "filename":"L-ADMIN -  OSM OpenFireMap.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN -  OSM OpenFireMap.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6179,7 +6179,7 @@
         {
            "name":"L-ADMIN -  OSM OpenPTMap  - Public Transport",
            "nameRu":"L-ADMIN -  OSM OpenPTMap - Общ.транспорт",
-           "filename":"L-ADMIN -  OSM OpenPTMap  - Public Transport.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN -  OSM OpenPTMap  - Public Transport.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6198,7 +6198,7 @@
         {
            "name":"L-ADMIN -  OSM OpenRailWay - IMaxspeeds",
            "nameRu":"L-ADMIN -  OSM OpenRailWay - Скорость",
-           "filename":"L-ADMIN -  OSM OpenRailWay - IMaxspeeds.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN -  OSM OpenRailWay - IMaxspeeds.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6217,7 +6217,7 @@
         {
            "name":"L-ADMIN -  OSM OpenRailWay - Infrastructure",
            "nameRu":"L-ADMIN -  OSM OpenRailWay",
-           "filename":"L-ADMIN -  OSM OpenRailWay - Infrastructure.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN -  OSM OpenRailWay - Infrastructure.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6236,7 +6236,7 @@
         {
            "name":"L-ADMIN -  OSM OpenRailWay - Signalling",
            "nameRu":"L-ADMIN -  OSM OpenRailWay - Сигналы",
-           "filename":"L-ADMIN -  OSM OpenRailWay - Signalling.sqlitedb.sqlitedb",
+           "filename":"L-ADMIN -  OSM OpenRailWay - Signalling.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6259,7 +6259,7 @@
         {
            "name":"L-MISC -  OSM Waymarkedtrails.org - Riding",
            "nameRu":"L-MISC -  OSM Waymarkedtrails - Верховая езда",
-           "filename":"L-MISC -  OSM Waymarkedtrails.org - Riding.sqlitedb.sqlitedb",
+           "filename":"L-MISC -  OSM Waymarkedtrails.org - Riding.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
@@ -6278,7 +6278,7 @@
         {
            "name":"L-MISC -  OSM Waymarkedtrails.org - Skating",
            "nameRu":"L-MISC -  OSM Waymarkedtrails - Коньки",
-           "filename":"L-MISC -  OSM Waymarkedtrails.org - Skating.sqlitedb.sqlitedb",
+           "filename":"L-MISC -  OSM Waymarkedtrails.org - Skating.sqlitedb",
            "type":"sqlite",
            "date":"29.02.2020",
            "timestamp":1582994500,
