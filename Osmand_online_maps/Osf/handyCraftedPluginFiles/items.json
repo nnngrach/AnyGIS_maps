@@ -61,7 +61,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"satellites",
                   "mapping":{
@@ -110,7 +110,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"city",
                   "mapping":{
@@ -159,7 +159,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"road",
                   "mapping":{
@@ -208,7 +208,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"bike",
                   "mapping":{
@@ -257,7 +257,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"hike",
                   "mapping":{
@@ -306,7 +306,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"topo",
                   "mapping":{
@@ -355,7 +355,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"winter",
                   "mapping":{
@@ -404,7 +404,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"mountain",
                   "mapping":{
@@ -453,7 +453,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"water",
                   "mapping":{
@@ -502,7 +502,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"avia",
                   "mapping":{
@@ -551,7 +551,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"info",
                   "mapping":{
@@ -600,7 +600,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"infrastructure",
                   "mapping":{
@@ -649,7 +649,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"hystoric",
                   "mapping":{
@@ -698,7 +698,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"geology",
                   "mapping":{
@@ -747,7 +747,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"geology",
                   "mapping":{
@@ -797,7 +797,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayrelief",
                   "mapping":{
@@ -846,7 +846,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlaylabels",
                   "mapping":{
@@ -895,7 +895,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayroad",
                   "mapping":{
@@ -944,7 +944,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlaybike",
                   "mapping":{
@@ -993,7 +993,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayhike",
                   "mapping":{
@@ -1042,7 +1042,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlaywinter",
                   "mapping":{
@@ -1091,7 +1091,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlaywater",
                   "mapping":{
@@ -1140,7 +1140,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayinfo",
                   "mapping":{
@@ -1190,7 +1190,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlaymobilecoverage",
                   "mapping":{
@@ -1240,7 +1240,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayinfrastructure",
                   "mapping":{
@@ -1289,7 +1289,7 @@
                   "":"ic_world_globe_dark"
                },
                "items-url":{
-                  "url":"https://drive.google.com/uc?export=download&id=17btcf6rk0utuxc1VZNBtKKvjDB3BviTE",
+                  "url":"https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Osmand_online_maps/Osf/changableList/mapListForRemoteFetching.json",
                   "format":"json",
                   "items-path":"overlayother",
                   "mapping":{
