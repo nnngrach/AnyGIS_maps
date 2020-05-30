@@ -4131,6 +4131,25 @@
         },
 
         {
+           "name":"L-LABEL -  OSM Stamen - Hybrid",
+           "nameRu":"L-LABEL -  OSM Stamen - Гибрид",
+           "filename":"L-LABEL -  OSM Stamen - Hybrid.sqlitedb.sqlitedb",
+           "type":"sqlite",
+           "date":"30.05.2020",
+           "timestamp":1590849959,
+           "containerSize":2292857,
+           "contentSize":3696925,
+           "text":"Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Stamen<br />Last config update: 30.05.2020",
+           "textru":"Zoom min: 0<br />Zoom max: 19<br />Countries: World<br />Copyright: © Stamen<br />Last config update: 30.05.2020",
+           "imageurl":"https://anygis.ru/api/v1/previewRowOfTiles/Print_Toner_overlay",
+           "downloadurl":"https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DHybrid%3DStamen.sqlitedb",
+           "firstsubname":"Global",
+           "firstsubnameru":"Глобальное покрытие",
+           "secondsubname":"",
+           "RuSecondsubname":""
+        },
+
+        {
            "name":"L-LABEL -  TomTom - Hybrid (day)",
            "nameRu":"L-LABEL -  TomTom - Гибрид (день)",
            "filename":"L-LABEL -  TomTom - Hybrid (day).sqlitedb.sqlitedb",

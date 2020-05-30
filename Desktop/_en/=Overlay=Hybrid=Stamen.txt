@@ -1,0 +1,17 @@
+[Name]
+Overlay - Labels - OSM Stamen - Hybrid
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Print_Toner_overlay/{x}/{y}/{z}
+
+[URL direct]
+http://{s}.tile.stamen.com/toner-hybrid/{z}/{x}/{y}.png
+
+[Server parts]
+a;b;c
+
+[Min Zoom level]
+0
+
+[Max Zoom level]
+19

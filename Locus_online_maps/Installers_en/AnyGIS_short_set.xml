@@ -484,6 +484,15 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Hybrid=Stamen.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Stamen.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://github.com/nnngrach/AnyGIS_maps/raw/master/Locus_online_maps/Icons_en/Overlay%20-%20Road.png]]>
 </source>
 <dest>

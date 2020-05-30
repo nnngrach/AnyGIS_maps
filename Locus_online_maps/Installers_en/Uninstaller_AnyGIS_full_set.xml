@@ -2242,6 +2242,15 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Stamen.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_day.xml]]>
 </dest>
 </download>
@@ -2252,33 +2261,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_night.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay - Info.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=Rosreesrt_labels.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay - Labels.png]]>
 </dest>
 </download>
 
@@ -2306,33 +2288,6 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Local_KremenOrgUa.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay - Info.png]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=RosReestr.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/Overlay - Labels.png]]>
 </dest>
 </download>
 
@@ -2954,6 +2909,24 @@
 </source>
 <dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Info=Yandex_Pogoda_000_Now_precepit.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=RosReestr.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=Rosreesrt_labels.xml]]>
 </dest>
 </download>
 

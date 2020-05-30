@@ -2233,6 +2233,15 @@
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
 </source>
 <dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Hybrid=Stamen.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/empty.xml]]>
+</source>
+<dest>
 <![CDATA[/mapsOnline/custom/=Overlay=Hybrid=TomTom_day.xml]]>
 </dest>
 </download>

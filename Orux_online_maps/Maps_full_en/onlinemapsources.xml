@@ -3410,6 +3410,22 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2020009">
+<name>⏹️ 🏷 = OSM Stamen - Hybrid (OVERLAYLABELS)</name>
+<url><![CDATA[http://{$s}.tile.stamen.com/toner-hybrid/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2020006">
 <name>⏹️ 🏷 = TomTom - Hybrid (day) (OVERLAYLABELS)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>
@@ -3438,22 +3454,6 @@
 <httpparam name="User-Agent">{om}</httpparam>
 <xop></xop>
 <yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2081002">
-<name>⏹️ 📖 = 🇷🇺 - Rosreestr.ru - Labels (OVERLAYINFO)</name>
-<url><![CDATA[https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}?blankTile=true]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>
@@ -3496,22 +3496,6 @@
 <servers></servers>
 <maxzoom>22</maxzoom>
 <minzoom>7</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
-<onlinemapsource uid="2081001">
-<name>⏹️ 📖 = 🇷🇺 - RosReest.ru - Cadaster (OVERLAYINFO)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>20</maxzoom>
-<minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>
 <cacheable>1</cacheable>
@@ -4238,6 +4222,38 @@
 <httpparam name="User-Agent">{om}</httpparam>
 <xop></xop>
 <yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2081001">
+<name>⏹️ 📖 = 🇷🇺 - RosReest.ru - Cadaster (OVERLAYINFO)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Rosreestr_kadaster/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2081002">
+<name>⏹️ 📖 = 🇷🇺 - Rosreestr.ru - Labels (OVERLAYINFO)</name>
+<url><![CDATA[https://pkk.rosreestr.ru/arcgis/rest/services/BaseMaps/Anno/MapServer/tile/{$z}/{$y}/{$x}?blankTile=true]]></url>
+<servers></servers>
+<maxzoom>20</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop>0</yop>
 <zop></zop>
 <qop></qop>
 </onlinemapsource>

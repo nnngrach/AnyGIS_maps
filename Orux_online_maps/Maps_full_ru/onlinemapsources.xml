@@ -3394,6 +3394,22 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2020009">
+<name>⏹️ 🏷 = OSM Stamen - Гибрид (OVERLAYLABELS)</name>
+<url><![CDATA[http://{$s}.tile.stamen.com/toner-hybrid/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2020006">
 <name>⏹️ 🏷 = TomTom - Гибрид (день) (OVERLAYLABELS)</name>
 <url><![CDATA[https://{$s}-mydrive.api-system.tomtom.com/map/1/tile/hybrid/main/{$z}/{$x}/{$y}.png?key=sATA9OwG11zrMKQcCxR3eSEjj2n8Jsrg]]></url>

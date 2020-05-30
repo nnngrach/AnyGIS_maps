@@ -530,6 +530,22 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2020009">
+<name>⏹️ 🏷 = OSM Stamen - Hybrid (OVERLAYLABELS)</name>
+<url><![CDATA[http://{$s}.tile.stamen.com/toner-hybrid/{$z}/{$x}/{$y}.png]]></url>
+<servers>a,b,c</servers>
+<maxzoom>19</maxzoom>
+<minzoom>0</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2030001">
 <name>⏹️ 🚗 = Bing - Traffic (OVERLAYROAD)</name>
 <url><![CDATA[http://t0-traffic.tiles.virtualearth.net/comp/ch/{q}?it=Z,TF&n=z&key=AsJ0iq1Xwy4D_2XMs--j7iYkFGQmPTBj0yClUYLncOmDeuyCc0FNhocTT4D2Guqe&tc=9875692]]></url>

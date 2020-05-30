@@ -1,0 +1,25 @@
+﻿
+[PARAMS]
+GUID={F92FA9B7-08D0-4E5F-833A-A0EF68C0ADB5}
+
+ParentSubMenu_ru=Подписи и границы
+ParentSubMenu_uk=Підписи та межі
+ParentSubMenu=Labels and borders
+
+name_ru=OSM Stamen - Гибрид
+name_uk=OSM Stamen - Гибрид
+name=OSM Stamen - Hybrid
+
+NameInCache=Toner_overlay
+asLayer=1
+EPSG=3785
+
+DefURLBase=http://{s}.tile.stamen.com/toner-hybrid/{z}/{x}/{y}.png
+
+ServerNames=a,b,c
+RequestHead=Connection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+License= © Stamen

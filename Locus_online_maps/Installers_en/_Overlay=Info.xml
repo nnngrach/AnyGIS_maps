@@ -142,6 +142,24 @@
 
 <download>
 <source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Ru=RosReestr.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=RosReestr.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Ru=Rosreesrt_labels.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Info=Ru=Rosreesrt_labels.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_en/=Overlay=Info=Eu=Ukraine=Cadastr_overlay.xml]]>
 </source>
 <dest>
