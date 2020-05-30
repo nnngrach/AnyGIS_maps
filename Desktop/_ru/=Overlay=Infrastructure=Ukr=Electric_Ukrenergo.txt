@@ -1,0 +1,14 @@
+[Name]
+Слои - Инфраструктура - Gov.ua - УкрЭнерго 
+
+[URL via AnyGIS proxy]
+https://anygis.ru/api/v1/Other_Ukr_Kadastr_Ukrenergo/{x}/{y}/{z}
+
+[Min Zoom level]
+9
+
+[Max Zoom level]
+18
+
+[HTTP Referer]
+https://map.land.gov.ua/kadastrova-karta

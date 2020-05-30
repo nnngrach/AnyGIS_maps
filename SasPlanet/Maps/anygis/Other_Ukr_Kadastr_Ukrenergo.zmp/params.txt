@@ -1,0 +1,24 @@
+﻿
+[PARAMS]
+GUID={F8D49A03-7FFF-4F05-9B0B-15550541EF7A}
+
+ParentSubMenu_ru=Инфраструктура\Украина
+ParentSubMenu_uk=Інфраструктура\Україна
+ParentSubMenu=Infrastucture\Ukraine
+
+name_ru=Gov.ua - УкрЭнерго
+name_uk=Gov.ua - Об'єкти Укренерго
+name=Gov.ua - UkrEnergo
+
+NameInCache=Other_Ukr_Kadastr_Ukrenergo
+asLayer=1
+EPSG=3785
+
+DefURLBase=https://m1.land.gov.ua/geowebcache/service/wms?SERVICE=WMS&VERSION=1.3.0&REQUEST=GetMap&FORMAT=image%2Fpng&TRANSPARENT=true&LAYERS=pcm_nsdi_lep&STYLES=&TILED=true&SRS=EPSG%3A900913&WIDTH=256&HEIGHT=256&CRS=EPSG%3A900913&BBOX={bbox}
+
+RequestHead=Referer:https://map.land.gov.ua/kadastrova-karta\r\nConnection: keep-alive\r\nUser-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/62.0.3202.94 Safari/537.36\r\nAccept: image/webp,image/apng,image/*,*/*;q=0.8\r\nAccept-Encoding: gzip, deflate\r\nAccept-Language: ru,en-US;q=0.9,en;q=0.8
+
+Ext=.png
+DetectContentType=1
+ContentType=image/jpeg,image/png
+License= © Gov.ua

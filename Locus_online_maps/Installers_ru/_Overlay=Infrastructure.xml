@@ -77,4 +77,22 @@
 </dest>
 </download>
 
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=Ukr=Electric_Oblenergo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Ukr=Electric_Oblenergo.xml]]>
+</dest>
+</download>
+
+<download>
+<source>
+<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Overlay=Infrastructure=Ukr=Electric_Ukrenergo.xml]]>
+</source>
+<dest>
+<![CDATA[/mapsOnline/custom/=Overlay=Infrastructure=Ukr=Electric_Ukrenergo.xml]]>
+</dest>
+</download>
+
 </locusActions>

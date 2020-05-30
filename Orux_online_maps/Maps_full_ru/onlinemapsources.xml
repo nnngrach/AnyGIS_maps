@@ -4898,6 +4898,38 @@
 <qop></qop>
 </onlinemapsource>
 
+<onlinemapsource uid="2090200">
+<name>⏹️ 🚥 = 🇺🇦 - Gov.ua - ОблЭнерго  (OVERLAYINFROSTRUCT)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Oblenergo/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>9</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
+<onlinemapsource uid="2090201">
+<name>⏹️ 🚥 = 🇺🇦 - Gov.ua - УкрЭнерго  (OVERLAYINFROSTRUCT)</name>
+<url><![CDATA[https://anygis.ru/api/v1/Other_Ukr_Kadastr_Ukrenergo/{$x}/{$y}/{$z}]]></url>
+<servers></servers>
+<maxzoom>18</maxzoom>
+<minzoom>9</minzoom>
+<projection>MERCATORESFERICA</projection>
+<downloadable>1</downloadable>
+<cacheable>1</cacheable>
+<httpparam name="User-Agent">{om}</httpparam>
+<xop></xop>
+<yop></yop>
+<zop></zop>
+<qop></qop>
+</onlinemapsource>
+
 <onlinemapsource uid="2100001">
 <name>⏹️ 📦 = OSM Waymarkedtrails - Верховая езда (OVERLAYOTHER)</name>
 <url><![CDATA[http://tile.waymarkedtrails.org/riding/{$z}/{$x}/{$y}.png]]></url>

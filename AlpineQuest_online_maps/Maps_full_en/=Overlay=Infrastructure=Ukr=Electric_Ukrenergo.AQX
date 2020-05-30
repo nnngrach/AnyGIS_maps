@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<aqx version="9">
+
+
+
+<name>Overlay - Infrastructure</name>
+<description></description>
+
+    <source id="2090201" layer="true">
+        <name>⏹️ 🚥 = 🇺🇦  - Gov.ua - UkrEnergo</name>
+        <copyright>Gov.ua</copyright>
+        <data-source></data-source>
+        <region>OTHE</region>
+        <type>OTHE</type>
+
+        <preview-location>31.985,51.0314,13</preview-location>
+        <outline>21.9,52.5 40.4,52.5 40.4,44.2 21.9,44.2</outline>
+
+        <level>
+            <zoom-values>9,10,11,12,13,14,15,16,17,18</zoom-values>
+            
+            <update-delay>30D</update-delay>
+
+            <servers>
+                <referer><![CDATA[https://map.land.gov.ua/kadastrova-karta]]></referer>
+                <server><![CDATA[http://anygis.ru/api/v1/Other_Ukr_Kadastr_Ukrenergo/{x}/{y}/{z}]]></server>
+            </servers>
+        </level>
+    </source>
+
+
+</aqx>

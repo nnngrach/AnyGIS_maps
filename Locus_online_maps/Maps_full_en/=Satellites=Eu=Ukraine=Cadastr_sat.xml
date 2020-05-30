@@ -12,7 +12,7 @@
 <countries>Ukraine</countries>
 <usage>photo</usage>
 <cacheTimeout>720</cacheTimeout>
-<url><![CDATA[https://m1.land.gov.ua/map/ortho10k_all/8/145/168.jpg/{z}/{x}/{y}.jpg]]></url>
+<url><![CDATA[https://m1.land.gov.ua/map/ortho10k_all/{z}/{x}/{y}.jpg]]></url>
 <serverPart></serverPart>
 <zoomPart>{z}-8</zoomPart>
 <zoomMin>8</zoomMin>    <!-- 0 -->

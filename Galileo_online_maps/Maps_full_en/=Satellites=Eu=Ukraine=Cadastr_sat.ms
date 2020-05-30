@@ -4,5 +4,5 @@
     <name>🛰 = 🇺🇦- Gov.ua - Orthophoto</name>
     <minZoom>0</minZoom>
     <maxZoom>16</maxZoom>
-    <url>https://m1.land.gov.ua/map/ortho10k_all/8/145/168.jpg/{$z}/{$x}/{$invY}.jpg</url>
+    <url>https://m1.land.gov.ua/map/ortho10k_all/{$z}/{$x}/{$invY}.jpg</url>
 </customMapSource>

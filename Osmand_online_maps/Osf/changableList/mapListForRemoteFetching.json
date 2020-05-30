@@ -6250,6 +6250,44 @@
            "firstsubnameru":"Глобальное покрытие",
            "secondsubname":"",
            "RuSecondsubname":""
+        },
+
+        {
+           "name":"L-ADMIN - UKR - Gov.ua - OblEnergo",
+           "nameRu":"L-ADMIN - UKR - Gov.ua - ОблЭнерго ",
+           "filename":"L-ADMIN - UKR - Gov.ua - OblEnergo.sqlitedb",
+           "type":"sqlite",
+           "date":"30.05.2020",
+           "timestamp":1590849959,
+           "containerSize":2292857,
+           "contentSize":3696925,
+           "text":"Zoom min: 9<br />Zoom max: 18<br />Countries: Ukraine<br />Copyright: © Gov.ua<br />Last config update: 30.05.2020",
+           "textru":"Zoom min: 9<br />Zoom max: 18<br />Countries: Ukraine<br />Copyright: © Gov.ua<br />Last config update: 30.05.2020",
+           "imageurl":"https://anygis.ru/api/v1/previewRowOfTiles/Other_Ukr_Kadastr_Oblenergo",
+           "downloadurl":"https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DInfrastructure%3DUkr%3DElectric_Oblenergo.sqlitedb",
+           "firstsubname":"Ukraine",
+           "firstsubnameru":"Украина",
+           "secondsubname":"",
+           "RuSecondsubname":""
+        },
+
+        {
+           "name":"L-ADMIN - UKR - Gov.ua - UkrEnergo",
+           "nameRu":"L-ADMIN - UKR - Gov.ua - УкрЭнерго ",
+           "filename":"L-ADMIN - UKR - Gov.ua - UkrEnergo.sqlitedb",
+           "type":"sqlite",
+           "date":"30.05.2020",
+           "timestamp":1590849959,
+           "containerSize":2292857,
+           "contentSize":3696925,
+           "text":"Zoom min: 9<br />Zoom max: 18<br />Countries: Ukraine<br />Copyright: © Gov.ua<br />Last config update: 30.05.2020",
+           "textru":"Zoom min: 9<br />Zoom max: 18<br />Countries: Ukraine<br />Copyright: © Gov.ua<br />Last config update: 30.05.2020",
+           "imageurl":"https://anygis.ru/api/v1/previewRowOfTiles/Other_Ukr_Kadastr_Ukrenergo",
+           "downloadurl":"https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DOverlay%3DInfrastructure%3DUkr%3DElectric_Ukrenergo.sqlitedb",
+           "firstsubname":"Ukraine",
+           "firstsubnameru":"Украина",
+           "secondsubname":"",
+           "RuSecondsubname":""
         }
     ],
 
