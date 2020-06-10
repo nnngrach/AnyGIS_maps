@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ ⚓️ = Garmin MarineImages - Сонар</name>
     <minZoom>2</minZoom>
     <maxZoom>20</maxZoom>

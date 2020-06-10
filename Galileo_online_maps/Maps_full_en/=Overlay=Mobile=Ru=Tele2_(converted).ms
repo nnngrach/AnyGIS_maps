@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 📞 = 🇷🇺 - Tele2 (with convertation)</name>
     <minZoom>0</minZoom>
     <maxZoom>12</maxZoom>

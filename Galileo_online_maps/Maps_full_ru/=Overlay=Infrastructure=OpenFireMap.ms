@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 🚥 = OSM OpenFireMap</name>
     <minZoom>11</minZoom>
     <maxZoom>17</maxZoom>

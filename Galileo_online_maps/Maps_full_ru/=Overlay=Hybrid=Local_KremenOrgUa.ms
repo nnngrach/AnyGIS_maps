@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 🏷 = 🇺🇦 - Kremen.org.ua</name>
     <minZoom>7</minZoom>
     <maxZoom>22</maxZoom>

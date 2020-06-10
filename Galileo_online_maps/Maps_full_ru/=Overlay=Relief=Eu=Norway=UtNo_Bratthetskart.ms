@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 🏔️ = 🇳🇴 - Ut.no - Крутизна склонов</name>
     <minZoom>0</minZoom>
     <maxZoom>19</maxZoom>

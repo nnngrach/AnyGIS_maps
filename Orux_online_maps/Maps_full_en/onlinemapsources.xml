@@ -3270,7 +3270,7 @@
 <name>⏹️ 🏔️ = WmfLabs.org (OVERLAYRELIEF)</name>
 <url><![CDATA[https://tiles.wmflabs.org/hillshading/{$z}/{$x}/{$y}.png]]></url>
 <servers></servers>
-<maxzoom>15</maxzoom>
+<maxzoom>14</maxzoom>
 <minzoom>0</minzoom>
 <projection>MERCATORESFERICA</projection>
 <downloadable>1</downloadable>

@@ -11,4 +11,4 @@ https://tiles.wmflabs.org/hillshading/{z}/{x}/{y}.png
 0
 
 [Max Zoom level]
-15
+14

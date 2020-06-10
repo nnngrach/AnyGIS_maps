@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 🚥 = 🇺🇦  - Gov.ua - OblEnergo</name>
     <minZoom>9</minZoom>
     <maxZoom>18</maxZoom>

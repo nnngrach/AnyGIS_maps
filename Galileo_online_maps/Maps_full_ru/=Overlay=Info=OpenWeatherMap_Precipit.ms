@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<customMapSource overlay="true">
+<customMapSource overlay="true"  overzoom="true">
     <name>⏹️ 📖 = OpenWeatherMap - Осадки сейчас</name>
     <minZoom>2</minZoom>
     <maxZoom>8</maxZoom>
