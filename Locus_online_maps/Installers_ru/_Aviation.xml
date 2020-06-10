@@ -25,15 +25,6 @@
 
 <download>
 <source>
-<![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=Baionline.xml]]>
-</source>
-<dest>
-<![CDATA[/mapsOnline/custom/=Aviation=Baionline.xml]]>
-</dest>
-</download>
-
-<download>
-<source>
 <![CDATA[https://raw.githubusercontent.com/nnngrach/AnyGIS_maps/master/Locus_online_maps/Maps_full_ru/=Aviation=Rnk_2016.xml]]>
 </source>
 <dest>

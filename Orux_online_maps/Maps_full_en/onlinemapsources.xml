@@ -2562,22 +2562,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1081001">
-<name>✈️ = Avia Baionline (AVIA)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Baionline/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>10</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1081002">
 <name>✈️ = Avia MVL (AVIA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Mvl/{$x}/{$y}/{$z}]]></url>

@@ -3100,25 +3100,6 @@
         },
 
         {
-           "name":"AVIA -  Avia Baionline",
-           "nameRu":"AVIA -  Лётные карты Baionline",
-           "filename":"AVIA -  Avia Baionline.sqlitedb",
-           "type":"sqlite",
-           "date":"29.02.2020",
-           "timestamp":1582994500,
-           "containerSize":2292857,
-           "contentSize":3696925,
-           "text":"Zoom min: 0<br />Zoom max: 10<br />Countries: World<br />Copyright:  <br />Last config update: 29.02.2020",
-           "textru":"Zoom min: 0<br />Zoom max: 10<br />Countries: World<br />Copyright:  <br />Last config update: 29.02.2020",
-           "imageurl":"https://anygis.ru/api/v1/previewRowOfTiles/Local_Avia_Baionline",
-           "downloadurl":"https:\/\/raw.githubusercontent.com\/nnngrach\/AnyGIS_maps\/master\/Osmand_online_maps\/Sqlitedb\/Maps_full_ru\/%3DAviation%3DBaionline.sqlitedb",
-           "firstsubname":"Global",
-           "firstsubnameru":"Глобальное покрытие",
-           "secondsubname":"",
-           "RuSecondsubname":""
-        },
-
-        {
            "name":"AVIA -  Avia MVL",
            "nameRu":"AVIA -  Лётные карты МВЛ",
            "filename":"AVIA -  Avia MVL.sqlitedb",

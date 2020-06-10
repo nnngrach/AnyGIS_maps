@@ -2546,22 +2546,6 @@
 <qop></qop>
 </onlinemapsource>
 
-<onlinemapsource uid="1081001">
-<name>✈️ = Лётные карты Baionline (AVIA)</name>
-<url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Baionline/{$x}/{$y}/{$z}]]></url>
-<servers></servers>
-<maxzoom>10</maxzoom>
-<minzoom>0</minzoom>
-<projection>MERCATORESFERICA</projection>
-<downloadable>1</downloadable>
-<cacheable>1</cacheable>
-<httpparam name="User-Agent">{om}</httpparam>
-<xop></xop>
-<yop></yop>
-<zop></zop>
-<qop></qop>
-</onlinemapsource>
-
 <onlinemapsource uid="1081003">
 <name>✈️ = Лётные карты RNK 2016 (AVIA)</name>
 <url><![CDATA[https://anygis.ru/api/v1/Local_Avia_Rnk/{$x}/{$y}/{$z}]]></url>
