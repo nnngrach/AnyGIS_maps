@@ -1,9 +1,9 @@
 [url_template]
-http://mt{rnd}.google.com/vt?hl=ru&lyrs=m@159000000,traffic|seconds_into_week:-1&style=15&x={1}&y={2}&z={0}&scale=2
+http://mt{rnd}.google.com/vt?lyrs=transit,traffic&style=15&x={1}&y={2}&z={0}&scale=2
 [randoms]
 0,1,2,3
 [min_zoom]
-0
+5
 [max_zoom]
 20
 [ellipsoid]
@@ -15,7 +15,7 @@ false
 [img_density]
 16
 [avg_img_size]
-32000
+8000
 [ext]
 .png
 [expiration_time_minutes]
