@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<customMapSource>
-    <name>⚓️ = Navionics Marine Charts</name>
-    <minZoom>0</minZoom>
-    <maxZoom>19</maxZoom>
-    <url>https://anygis.ru/api/v1/Navionics_Marine_Charts/{$x}/{$y}/{$z}</url>
-</customMapSource>
