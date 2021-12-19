@@ -25,7 +25,7 @@
 
             <servers>
                 <referer><![CDATA[https://moskva.beeline.ru/customers/beeline-map/?lat=55.75999999999371&lon=37.6317&zoom=12]]></referer>
-                <server><![CDATA[http://static.beeline.ru/upload/tiles/3G/current/{z}/{x}/{y}.png]]></server>
+                <server><![CDATA[http://static.beeline.ru/upload/tiles/4G/current/{z}/{x}/{y}.png]]></server>
             </servers>
         </level>
     </source>

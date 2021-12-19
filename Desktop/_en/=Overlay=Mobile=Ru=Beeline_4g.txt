@@ -5,7 +5,7 @@ Overlay - Mobile coverage - Beeline 4G
 https://anygis.ru/api/v1/Mobile_Coverage_Beeline_4G_WGS84/{x}/{y}/{z}
 
 [URL direct]
-https://static.beeline.ru/upload/tiles/3G/current/{z}/{x}/{y}.png
+https://static.beeline.ru/upload/tiles/4G/current/{z}/{x}/{y}.png
 
 [Min Zoom level]
 3

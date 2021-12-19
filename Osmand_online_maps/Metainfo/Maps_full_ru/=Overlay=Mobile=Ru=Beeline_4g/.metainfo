@@ -1,5 +1,5 @@
 [url_template]
-https://static.beeline.ru/upload/tiles/3G/current/{0}/{1}/{2}.png
+https://static.beeline.ru/upload/tiles/4G/current/{0}/{1}/{2}.png
 [randoms]
 
 [min_zoom]
